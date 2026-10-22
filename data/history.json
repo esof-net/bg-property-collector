@@ -451249,7 +451249,11 @@
       "title": "Development land, 4500 м 2 Bourgas, Slaveykov",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "lat": 42.6961753725,
+      "lng": 23.3255087045
     }
   },
   "6149213": {
@@ -675702,7 +675706,11 @@
       "title": "1 bedroom apartment, 77 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-19",
+      "lat": 42.6961639221,
+      "lng": 23.3255110151
     }
   },
   "6219557": {
@@ -725634,7 +725642,11 @@
       "title": "Development land, 738 м 2 Sofia, Voluyak",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-17",
+      "lat": 42.6960695405,
+      "lng": 23.3253977868
     }
   },
   "6193179": {
@@ -737073,7 +737085,11 @@
       "title": "1 bedroom apartment, 84 м 2 Sofia, Slatina",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "lat": 42.6779154691,
+      "lng": 23.3759443632
     }
   },
   "6242334": {
