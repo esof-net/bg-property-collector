@@ -1,0 +1,51 @@
+# Opens a GitHub issue for each new day's Missy findings file - see
+# open_findings_issue.py's own docstring for the full reasoning. This is
+# the notification path for Missy's scheduled daily audit, which runs as
+# a Routine with no GitHub API access of its own (docs/decisions.md,
+# 2026-09-21): the routine commits docs/missy-findings/<date>.md and
+# pushes it; this workflow reacts to that push and turns it into a real,
+# emailed GitHub issue.
+name: Open issue from Missy findings
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/missy-findings/**.md"
+
+permissions:
+  contents: read
+  issues: write
+
+# The duplicate-issue check in open_findings_issue.py uses GitHub's search
+# API, which is eventually consistent - two runs triggered close together
+# (e.g. two pushes to docs/missy-findings/ within a few seconds of each
+# other) could both see "no existing issue" and each open one. Queuing runs
+# instead of letting them race closes that gap (docs/decisions.md, 2026-09-21).
+concurrency:
+  group: missy-findings-issue
+  cancel-in-progress: false
+
+jobs:
+  open-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A push can contain more than one commit (see
+          # scripts/commit_and_push.sh's "residual commit" fallback) - a
+          # depth of 2 would only ever see the last one. 20 comfortably
+          # covers any realistic single push without cloning full history.
+          fetch-depth: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - run: python open_findings_issue.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          BEFORE_SHA: ${{ github.event.before }}

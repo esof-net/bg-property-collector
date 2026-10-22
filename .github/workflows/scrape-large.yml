@@ -1,0 +1,199 @@
+# scraper.py (imoti.net) and scraper_alo.py (alo.bg) each cover thousands
+# of listings across 300+ paginated requests, so they run here on their
+# own 24h schedule instead of in the main 6-hourly scrape.yml. Both used to
+# also visit every tracked listing's own page once per run inline (for a
+# real posted/updated date) - at nationwide scale that made scraper.py
+# alone exceed even this workflow's 300-minute step timeout for real,
+# discarding that whole run's freshly-scraped grid data too (nothing gets
+# saved until after the detail pass finishes). Both are now decoupled the
+# same way homes.bg's/imot.bg's/olx.bg's own detail work already was - see
+# backfill-detail-imoti-net.yml/backfill-detail-alo.yml - so a run here
+# should now be back down to however long the grid crawl alone takes, not
+# multi-hour; each scraper step below still carries a generous
+# timeout-minutes (see that step's own comment) as a backstop against a
+# genuinely hung request, not a tight bound on the expected runtime.
+name: Scrape large property listing sites
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+# Its own dedicated group, decoupled from both scrape.yml's "scrape-main"
+# and the ~10 hourly backfill/geocode crons' shared "scrape-property-
+# listings": this job kept getting bumped from that shared queue before it
+# ever started (0 successful runs from Sep 1 to Sep 5, confirmed via
+# workflow run history) - a newer hourly cron always displaced it while it
+# waited behind whichever job was currently running.
+#
+# Correction (2026-09-22, docs/backlog.md item 3): the claim that used to
+# be here - that scraper.py/scraper_alo.py's files are "disjoint from
+# every file scrape.yml or any hourly backfill writes" - was wrong.
+# backfill-detail-alo.yml runs hourly and writes to these exact same
+# data/leads_alo.json/data/history_alo.json files, so a real content
+# conflict here against that workflow's own concurrent commits isn't a
+# rare edge case, it's near-daily - confirmed live as the actual root
+# cause of alo.bg's grid crawl looking "dead" for 6 days: the conflict
+# fallback below used to be `git checkout --ours`, which during an active
+# `git rebase` keeps the *upstream* (main's) version, not this run's own -
+# so every one of those near-daily conflicts silently discarded this run's
+# freshly-scraped data/history_alo.json. See merge_history_conflict.py's
+# docstring and docs/decisions.md's 2026-09-22 entry for the full story
+# and the actual fix (a real merge for data/history*.json instead of
+# discarding a side) - this comment is being corrected rather than removed
+# so the wrong assumption doesn't get re-introduced without someone
+# reading why it's wrong.
+concurrency:
+  group: scrape-large
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4 Pillow
+
+      # These two scrapers are multi-hour by design (see the file header),
+      # so timeout-minutes here is deliberately generous - not a tight
+      # bound like scrape.yml's, just a backstop so a genuinely hung
+      # request (not just normal multi-hour pagination) doesn't consume
+      # the entire 6h job with nothing left for the other scraper or the
+      # commit step. continue-on-error means a timeout/crash on one still
+      # lets the other, and the commit/sync steps, run - same reasoning as
+      # scrape.yml, which hit this for real (a single scraper's crash
+      # skipped every step after it, discarding every other portal's
+      # already-scraped data for that run too).
+      - run: python scraper.py
+        timeout-minutes: 300
+        continue-on-error: true
+
+      - run: python scraper_alo.py
+        timeout-minutes: 300
+        continue-on-error: true
+
+      # Extends detect_relistings.py's relisting-chain mechanism (already
+      # wired into scrape.yml) to these two portals specifically, using
+      # real photo comparison instead of URL matching since imoti.net's
+      # and alo.bg's stored photo URLs can't be string-matched (see
+      # detect_relistings_by_photo.py's docstring). Downloads only a
+      # locally-narrowed candidate set's photos, not the full active pool.
+      - run: python detect_relistings_by_photo.py
+        timeout-minutes: 30
+        continue-on-error: true
+
+      # See scrape.yml for why this falls back instead of just failing on
+      # conflict: a run here can easily take 2+ hours, long enough for a
+      # real content conflict against main to be likely, not a rare edge
+      # case - and with no fallback, losing the rebase means losing this
+      # entire run's scraped data for both portals, not just whichever
+      # file happened to conflict.
+      #
+      # if: always() - belt-and-suspenders alongside each scraper step's
+      # own continue-on-error: true above; commits whatever's on disk
+      # regardless of which steps succeeded.
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Update listings (large sites)"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              # merge_history_conflict.py actually merges any conflicted
+              # data/history*.json (the append-only source of truth every
+              # scraper's own compute_leads() derives from) instead of
+              # discarding one side - see its own docstring for why
+              # checkout --ours here was silently eating this run's real
+              # scraped data every time it fired (confirmed root cause of
+              # alo.bg's grid crawl looking "dead" for 6 days - docs/
+              # backlog.md item 3, docs/decisions.md 2026-09-22). Anything
+              # it doesn't recognize (data/leads_alo.json/leads.json -
+              # fully derived, self-heals from history*.json on the very
+              # next run, see that script's docstring for why a merger for
+              # those isn't needed) still falls back to the old behavior,
+              # now logged loudly instead of silently.
+              echo "Rebase hit a content conflict - attempting a real merge for data/history*.json files"
+              python merge_history_conflict.py $(git diff --name-only --diff-filter=U)
+              remaining=$(git diff --name-only --diff-filter=U)
+              if [ -n "$remaining" ]; then
+                echo "::warning::Falling back to 'keep main's version' for files a real merge doesn't apply to: $remaining"
+                for f in $remaining; do
+                  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                    git checkout --ours -- "$f"
+                    git add "$f"
+                  else
+                    echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                    git rm -f "$f"
+                  fi
+                done
+              fi
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            if git push; then
+              pushed=true
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi
+
+      # Runs last, after the JSON commit/push above has already landed -
+      # JSON stays the source of truth and safety net regardless of
+      # whether this step succeeds. Reads all 8 leads_*.json files
+      # currently on disk (this run's freshly-scraped imoti.net/alo.bg
+      # data plus whatever was last committed for the portals scrape.yml
+      # owns), since the cross-portal merge needs the full picture, not
+      # just what this particular workflow scraped.
+      - if: always()
+        run: python sync_to_supabase.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+
+      # Deliberately NOT continue-on-error and NOT feeding into whether
+      # earlier steps' data reaches Supabase (this runs last, after
+      # sync_to_supabase.py, and doesn't gate it) - its only job is making
+      # sure a staleness event like alo.bg's (docs/backlog.md item 3) makes
+      # this workflow run itself report red instead of looking identical to
+      # a normal day, which continue-on-error on the scraper steps plus
+      # if: always() on the commit step otherwise guarantees it never does.
+      # See check_scrape_freshness.py's own docstring for what it checks
+      # and why.
+      - if: always()
+        run: python check_scrape_freshness.py alo ""

@@ -1,0 +1,49 @@
+# Started as a one-time diagnostic, now a daily watchdog for
+# audit_cross_city_merges.py: counts how many existing merged_listings
+# groups in Supabase span more than one city. The f63d126 fix (city is a
+# hard blocking condition in group_listings()) stops new cross-city groups
+# from being created and a local re-run of that same logic against current
+# data confirms 0/41,005 cross-portal-matched groups cross a city line -
+# but that only proves the *logic* is correct, not that the *live table*
+# has no stale group left over from before the fix (upserts don't
+# retroactively re-split an already-wrong merged_id unless its membership
+# changes again). Running daily catches that without blocking anything;
+# audit_cross_city_merges.py exits non-zero when it finds any, so a bad
+# result shows up the same way every other scheduled workflow's failure
+# does. Read-only (no data/ writes, no commit step).
+name: Audit cross-city merges
+
+on:
+  schedule:
+    # Was 03:30 UTC - live-found that sits inside scrape-large.yml's own
+    # ~03:00-09:15 UTC active window every day (a ~6-hour job scraping
+    # imoti.net + alo.bg, ending in a quarter-million-row Supabase sync),
+    # and this audit hit a Supabase 500 mid-pagination on both of its first
+    # two real runs. Not confirmed as the cause - GitHub Actions job
+    # timestamps alone can't prove concurrent Supabase load, only that
+    # scrape-large.yml happened to be active both times - but there's no
+    # reason to keep a self-inflicted overlap either way. 15:45 UTC sits in
+    # the middle of the one clear gap between scrape.yml's own four
+    # ~2.5-3h windows (00:00/06:00/12:00/18:00 UTC) and scrape-large.yml's.
+    - cron: "45 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - run: python audit_cross_city_merges.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}

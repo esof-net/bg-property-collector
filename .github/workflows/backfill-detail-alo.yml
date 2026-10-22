@@ -1,0 +1,114 @@
+# Fills in site_updated_at/lat,lng/category for alo.bg listings the
+# nationwide scraper left unenriched (see backfill_detail_alo.py and
+# scraper_alo.py's module docstring for why: visiting every listing's own
+# page no longer fits in the main scrape at nationwide scale, ~156,000
+# listings). Unlike the geocode backfills (workflow_dispatch only, re-run
+# by hand), this runs hourly - a fresh full backlog is roughly 1,000
+# listings/run x 24 runs/day, ~a week to fully clear, and after that each
+# run only needs to keep up with each day's newly-discovered listings, a
+# much smaller number. Own dedicated concurrency group, not shared with
+# scrape.yml or the other backfills - a shared group only ever keeps one
+# *queued* run, so with this many hourly-ish backfill/geocode workflows
+# funneling into one slot, a later schedule firing while an earlier one
+# was still queued canceled it outright rather than just delaying it
+# (confirmed live: runs were being canceled every few minutes). Any git
+# push race with a concurrent scrape/backfill is handled by the
+# rebase-retry fallback below - a real merge for data/history*.json (see
+# merge_history_conflict.py), the old keep-one-side-only behavior for
+# anything else (now logged loudly, not silently - see docs/backlog.md
+# item 3 for why that mattered here specifically).
+name: Backfill alo.bg listing details
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: backfill-detail-alo
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python backfill_detail_alo.py
+        timeout-minutes: 45
+
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Backfill alo.bg listing details"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              # See merge_history_conflict.py's own docstring: this used to
+              # be `git checkout --ours`, which during an active `git
+              # rebase` keeps the *upstream* (main's) version, silently
+              # discarding this run's own enrichment (site_updated_at/lat,
+              # lng/description/photos) on every conflict against
+              # scrape-large.yml's daily grid crawl - confirmed as (half
+              # of) the real root cause behind docs/backlog.md item 3.
+              echo "Rebase hit a content conflict - attempting a real merge for data/history*.json files"
+              python merge_history_conflict.py $(git diff --name-only --diff-filter=U)
+              remaining=$(git diff --name-only --diff-filter=U)
+              if [ -n "$remaining" ]; then
+                echo "::warning::Falling back to 'keep main's version' for files a real merge doesn't apply to: $remaining"
+                for f in $remaining; do
+                  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                    git checkout --ours -- "$f"
+                    git add "$f"
+                  else
+                    echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                    git rm -f "$f"
+                  fi
+                done
+              fi
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            if git push; then
+              pushed=true
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi

@@ -1,0 +1,125 @@
+# Fills in lat/lng for olx.bg listings the nationwide scraper left
+# uncoordinated (see backfill_geocode_olx.py and scraper_olx.py's
+# module docstring for why: live geocoding at nationwide scale doesn't fit
+# in the scrape itself). Each run processes a bounded chunk
+# (MAX_LOOKUPS_PER_RUN), not everything at once. Own dedicated
+# concurrency group, not shared with scrape.yml or the other backfills -
+# a shared group only ever keeps one *queued* run, so with this many
+# hourly-ish backfill/geocode workflows funneling into one slot, a later
+# schedule firing while an earlier one was still queued canceled it
+# outright rather than just delaying it (confirmed live: runs were being
+# canceled every few minutes). Any git push race with a concurrent
+# scrape/backfill is handled by the rebase-retry fallback below - a real
+# merge for data/history*.json(.gz), see merge_history_conflict.py - not
+# the old keep-one-side-only "ours" fallback that used to silently
+# discard this run's own geocoded lat/lng on every conflict against
+# scrape.yml's own 6-hourly runs (see docs/backlog.md item 3's addendum:
+# this was one of several backfill workflows never upgraded when
+# alo.bg/homes.bg/imoti.net's own versions of this bug were fixed).
+#
+# Was workflow_dispatch-only - never actually re-run by hand at any real
+# volume, so ~70% of olx.bg (13,570 listings) sat with no coordinates
+# indefinitely, contributing directly to the site's "Others" province
+# bucket (same root cause as backfill-geocode-homes.yml - see its own
+# comment for the full story). Scheduled hourly now, matching the other
+# backfills.
+on:
+  schedule:
+    - cron: "25 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: backfill-geocode-olx
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # scraper_olx.py imports playwright and bs4 at module load even
+      # though this backfill never launches a browser - omitting either
+      # crashes every run.
+      - run: pip install requests beautifulsoup4 playwright
+
+      - run: python backfill_geocode_olx.py
+        timeout-minutes: 45
+
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Backfill olx.bg listing coordinates"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              # merge_history_conflict.py actually merges any conflicted
+              # data/history_olx.json.gz (the append-only source of truth
+              # scraper_olx.py's own compute_leads() derives from) instead
+              # of discarding one side - see its own docstring for why
+              # checkout --ours here was silently eating this run's
+              # freshly-geocoded lat/lng every time it fired against
+              # scrape.yml's own 6-hourly runs. Anything it doesn't
+              # recognize (data/leads_olx.json.gz - fully derived,
+              # self-heals from history_olx.json.gz on this workflow's
+              # very next run) still falls back to the old behavior, now
+              # logged loudly instead of silently.
+              echo "Rebase hit a content conflict - attempting a real merge for data/history*.json(.gz) files"
+              python merge_history_conflict.py $(git diff --name-only --diff-filter=U)
+              remaining=$(git diff --name-only --diff-filter=U)
+              if [ -n "$remaining" ]; then
+                echo "::warning::Falling back to 'keep main's version' for files a real merge doesn't apply to: $remaining"
+                for f in $remaining; do
+                  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                    git checkout --ours -- "$f"
+                    git add "$f"
+                  else
+                    echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                    git rm -f "$f"
+                  fi
+                done
+              fi
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            if git push; then
+              pushed=true
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi

@@ -1,0 +1,44 @@
+# Standalone verification workflow for sync_to_supabase.py, run manually
+# before wiring the sync step into scrape.yml/scrape-large.yml - same
+# diagnostic-first pattern used throughout this project (probe-*.yml) for
+# verifying real behavior before depending on it in production. Reads the
+# already-committed data/leads_*.json files (no scraping happens here) and
+# upserts listing_sources + merged_listings into Supabase, so a run can be
+# used to confirm the tables populate correctly without waiting for the
+# next real scrape.
+#
+# Needs two repo secrets: SUPABASE_URL and SUPABASE_SECRET_KEY (the secret/
+# service-role key - never the publishable key). Neither is ever written to
+# a file in this repo.
+name: Sync to Supabase
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # sync_to_supabase.py now imports geo_utils.py (for listing_city_key,
+      # moved there so every scraper can share it too) - geo_utils.py
+      # imports bs4 at module load even though sync_to_supabase.py itself
+      # never parses HTML, the same "installs less than the import chain
+      # actually needs" bug already fixed for several other workflows this
+      # session (see backfill-geocode-*.yml's own comments for the fuller
+      # story - always install what the real import chain needs, not just
+      # what the entry-point script's own top-level imports suggest).
+      - run: pip install requests beautifulsoup4
+
+      - run: python sync_to_supabase.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}

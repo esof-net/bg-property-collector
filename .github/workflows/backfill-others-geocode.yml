@@ -1,0 +1,109 @@
+# One-time correction pass (see backfill_others_geocode.py's own
+# docstring for the full story): geocodes every olx.bg/sales.bcpea.org/
+# homes.bg/bazar.bg/imot.bg/imoti.bg listing currently in the site's
+# "Others" province bucket, using the already-safe, confidence-gated
+# Geocoder - a genuinely ambiguous settlement name (e.g. "Бяла", a real,
+# different municipality in both Varna and Ruse oblasts) is correctly
+# left unresolved rather than guessed at.
+#
+# workflow_dispatch only - a one-time catch-up job for the specific
+# backlog reported live ("all of them need allocation, not just half").
+# Importing all 6 scraper modules pulls in playwright at import time
+# (olx.bg/bcpea/imot.bg's own grid crawls use it) even though this
+# script never launches a browser - installed here but never invoked.
+#
+# Deliberately NOT in scrape.yml's shared "scrape-property-listings"
+# concurrency group: this script only ever touches
+# leads_{olx,bcpea,homes,bazar,imot,imoti_bg}.json/history_*.json - a
+# real, confirmed run got stuck waiting behind a 3+ hour scrape-large.yml
+# run (which only touches leads.json/leads_alo.json - completely
+# disjoint files) and kept getting bumped from the queue by the OTHER ~10
+# crons also sharing that one group before it ever got a turn, real
+# starvation, not bad luck, on a job the live report needs done now. Its
+# own commit step below still rebases against main and, on a genuine
+# conflict from some other backfill's run landing in the meantime, keeps
+# main's version of just the conflicted files rather than failing outright
+# and losing this run's own progress on everything else - same fallback
+# scrape.yml/scrape-large.yml already rely on for exactly this reason.
+name: Backfill province allocation for "Others" (text-geocodable portals)
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: backfill-others-geocode
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4 playwright
+
+      - run: python backfill_others_geocode.py
+        timeout-minutes: 180
+
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Backfill province allocation for Others (text-geocodable portals)"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              echo "Rebase hit a content conflict - keeping main's version of the conflicted files and continuing"
+              remaining=$(git diff --name-only --diff-filter=U)
+              for f in $remaining; do
+                if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                  git checkout --ours -- "$f"
+                  git add "$f"
+                else
+                  echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                  git rm -f "$f"
+                fi
+              done
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            if git push; then
+              pushed=true
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi

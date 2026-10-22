@@ -1,0 +1,103 @@
+# Fills in description for homes.bg listings - docs/backlog.md item 9d.
+# homes.bg is this site's single largest portal by active listings and had
+# a flat, confirmed 0% real-description rate: PR #217 correctly stopped
+# scraper_homes.py's grid crawl writing a construction-material tag line as
+# if it were a real description, but nothing was ever built to backfill a
+# real one in its place - every other large portal already has its own
+# backfill_detail_*.py doing exactly that (see backfill_detail_homes.py and
+# scraper_homes.py's fetch_listing_detail() for the full search order this
+# uses). Runs hourly like the other detail backfills - a fresh full backlog
+# (~67,000 listings) clears in roughly a day and a half at this run's cap,
+# after which each run only needs to keep up with that day's newly-
+# discovered listings. Own dedicated concurrency group, not shared with
+# scrape.yml or the other backfills - a shared group only ever keeps one
+# *queued* run, so with this many hourly-ish backfill/geocode workflows
+# funneling into one slot, a later schedule firing while an earlier one was
+# still queued canceled it outright rather than just delaying it (confirmed
+# live on the other backfills: runs were being canceled every few minutes).
+# Any git push race with a concurrent scrape/backfill is already handled by
+# the rebase-retry-with-ours fallback below, same as always.
+name: Backfill homes.bg listing details
+
+on:
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: backfill-detail-homes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python backfill_detail_homes.py
+        timeout-minutes: 45
+
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Backfill homes.bg listing details"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              echo "Rebase hit a content conflict - keeping main's version of the conflicted files and continuing"
+              remaining=$(git diff --name-only --diff-filter=U)
+              for f in $remaining; do
+                if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                  git checkout --ours -- "$f"
+                  git add "$f"
+                else
+                  echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                  git rm -f "$f"
+                fi
+              done
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            if git push; then
+              pushed=true
+              break
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi

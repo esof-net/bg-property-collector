@@ -1,0 +1,341 @@
+# scraper.py (imoti.net) and scraper_alo.py (alo.bg) run separately in
+# scrape-large.yml on a 24h schedule instead of here - both sites have
+# ~10,000 listings across 300+ pages, so a full scrape run of either takes
+# several minutes, too slow/heavy to bundle into this 6-hourly job.
+name: Scrape property listings
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+# A manual workflow_dispatch run overlapping the scheduled run raced to push
+# to the same data/*.json files - the loser's "git pull --rebase" hit real
+# content conflicts (both runs touch the same history files) and its entire
+# push was lost, discarding every scraper's update for that run, not just
+# whichever one happened to conflict. Queues instead of running two scrapes
+# in parallel; cancel-in-progress stays false so a scrape already underway
+# finishes rather than being killed mid-run and wasting the work done so far.
+#
+# Its own dedicated group, not the ~10 hourly backfill/geocode crons'
+# shared "scrape-property-listings" one: this job (~3+ hours, once every
+# 6h) kept getting bumped from that shared queue before it ever started -
+# a newer hourly cron always arrived to displace it while it waited behind
+# whichever job was currently running, so it went from Sep 3 to Sep 5
+# without a single successful run (confirmed via workflow run history).
+# The commit step's own conflict fallback below (keep main's version of
+# just the conflicted file) already covers the actual data-safety concern
+# a shared group was protecting against - the group only added scheduling
+# unfairness on top of that, with no correctness benefit left to lose.
+concurrency:
+  group: scrape-main
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests beautifulsoup4 playwright
+      # Retried up to 3 times - live-found: dl.google.com (the Chrome APT repo
+      # playwright's --with-deps pulls Chromium's system dependencies from)
+      # served a corrupted package index ("Hash Sum mismatch") for about 20
+      # minutes on 2026-09-09, failing every workflow that happened to
+      # install Chromium in that window even though nothing on our side was
+      # wrong - the very next scheduled run of each, unchanged, succeeded
+      # once Google's mirror caught up. A short retry rides out exactly
+      # that kind of brief upstream inconsistency instead of failing the
+      # whole run over it.
+      - run: |
+          for attempt in 1 2 3; do
+            if playwright install --with-deps chromium; then
+              exit 0
+            fi
+            echo "playwright install failed (attempt $attempt/3) - likely a transient apt mirror issue, retrying"
+            sleep $((attempt * 10))
+          done
+          echo "::error::playwright install --with-deps chromium failed after 3 attempts"
+          exit 1
+
+      # Each scraper step below gets its own timeout-minutes + continue-
+      # on-error - a real production run once stalled on a single portal
+      # for 2h40m+ with no way to tell whether it was still making
+      # progress, and separately a single uncaught exception in one
+      # scraper (scraper_homes.py crashing on a malformed price field)
+      # skipped every step after it, including the final commit -
+      # discarding every other portal's already-scraped data for that
+      # run too. timeout-minutes bounds the first problem; continue-on-
+      # error means a step that fails or times out still lets later
+      # scrapers (and the commit/sync steps) run instead of cascading.
+      # Limits are generous multiples of each portal's normal runtime.
+      - run: python scraper_homes.py
+        timeout-minutes: 60
+        continue-on-error: true
+
+      # Nationwide since 2026-08-25: 24 cities each individually paginated
+      # (city slicing - see scraper_imot.py's module docstring for why no
+      # single nationwide switch exists) instead of Sofia-only's ~1-3
+      # pages, so this needs real headroom over the old 20-minute cap.
+      - run: python scraper_imot.py
+        timeout-minutes: 60
+        continue-on-error: true
+
+      # Nationwide since 2026-08-25: 26 oblasts each individually paginated
+      # (oblast slicing - see scraper_olx.py's module docstring for why the
+      # bare nationwide URL alone isn't enough) instead of Sofia-only's
+      # single region, so this needs real headroom over the old 20-minute
+      # cap.
+      #
+      # docs/backlog.md item 30: all 6 most recent scheduled runs hit this
+      # 60-minute cap exactly and got hard-killed mid-page, always losing
+      # the same ~10 tail oblasts (OBLAST_SLUGS is a fixed order) - masked
+      # every time by continue-on-error below, same masked-failure shape as
+      # item 3's alo.bg incident. scraper_olx.py's own grid crawl is now
+      # checkpointed/deadline-aware (50-minute internal budget, well under
+      # this 60-minute cap) and rotates which oblast it starts from each
+      # run, so it should now exit cleanly on its own well before this
+      # timeout-minutes would ever fire - this stays as an external
+      # safety-net cap, not the primary limiter. `id:` so the "surface a
+      # real timeout" step near the end of this job (after the commit/push
+      # below) can check this exact step's own real outcome, since
+      # continue-on-error only forces the step's *conclusion*, not its
+      # *outcome*, to success.
+      - id: scraper_olx
+        run: python scraper_olx.py
+        timeout-minutes: 60
+        continue-on-error: true
+
+      # Nationwide since 2026-08-25: 29 cities each individually paginated
+      # (city slicing - see scraper_bazar.py's module docstring for why)
+      # instead of Sofia-only's single region, but detail-page coordinate
+      # fetching is now decoupled into backfill_detail_bazar.py, so the
+      # existing 90-minute cap still has real headroom despite the wider
+      # city coverage.
+      - run: python scraper_bazar.py
+        timeout-minutes: 90
+        continue-on-error: true
+
+      - run: python scraper_imoti_bg.py
+        timeout-minutes: 60
+        continue-on-error: true
+
+      # Detail-page fetching (district/photo/coordinates) is now decoupled
+      # into backfill_detail_bcpea.py, so this step is grid-crawl only and
+      # the 30-minute cap is now generous headroom rather than routinely
+      # getting hit.
+      - run: python scraper_bcpea.py
+        timeout-minutes: 30
+        continue-on-error: true
+
+      # Runs after every scrape so newly-detected relistings (a seller
+      # deleting and reposting a listing, often at a lower price, instead
+      # of editing it in place) get chained together as soon as they
+      # appear - purely local analysis of data already scraped above, no
+      # network access needed. Safe to run every time: already-recorded
+      # pairs are skipped, not re-injected.
+      - run: python detect_relistings.py
+        timeout-minutes: 10
+        continue-on-error: true
+
+      # The concurrency group above only serializes runs of this workflow
+      # against each other - it does nothing about a push landing on main
+      # through a completely different path (a PR merge) while a long
+      # scrape is in flight. That happened for real: a run that took ~75
+      # minutes (bazar.bg responding slowly) hit real content conflicts in
+      # data/leads_bazar.json and data/leads_imot.json against commits
+      # merged to main during that window, and with no fallback the whole
+      # run's freshly-scraped data for every portal was discarded when the
+      # rebase failed and the runner was torn down - not just the two
+      # conflicted files.
+      #
+      # 2026-09-25: the comment that used to be here ("keep whatever is
+      # already on main for just the conflicted files, this run's snapshot
+      # gets recaptured next cycle regardless") was live-disproven by run
+      # 36106917335 - this workflow's own ~3.5h runtime overlaps the
+      # hourly backfill-detail-*.yml workflows (which push to these same
+      # data/history_*.json(.gz)/leads_*.json(.gz) files independently)
+      # often enough that a conflict here is not a rare, self-healing
+      # event: it happened on all 6 of this workflow's own files in that
+      # run, and `checkout --ours` during a rebase keeps *main's* (the
+      # stale) side, not this run's own freshly-scraped one - discarding
+      # 3.5 hours of real scraped data every time it fires, not just
+      # "whichever file happened to conflict." See merge_history_
+      # conflict.py's own module docstring (the identical failure mode,
+      # first found on alo.bg/backfill-detail-alo.yml, docs/backlog.md
+      # item 3) and docs/backlog.md item 37's addendum, which flagged this
+      # exact gap for scrape.yml specifically as "not yet wired in." Now
+      # wired in the same way scrape-large.yml already does it for alo.bg:
+      # a real per-listing merge (union of snapshots, min first_seen,
+      # shallow-merged "latest") for any conflicted data/history*.json(.gz)
+      # file - covers all 6 portals this workflow writes (homes, imot,
+      # olx, bazar, imoti_bg, bcpea) generically by filename pattern, no
+      # per-portal listing needed (see is_history_file()). data/leads_*.json
+      # files are deliberately left on the old checkout --ours fallback,
+      # now logged loudly instead of silently - they're fully derived and
+      # self-heal from history*.json on this workflow's own very next run
+      # (see merge_history_conflict.py's docstring for why a leads*.json
+      # merger isn't needed).
+      #
+      # if: always() - belt-and-suspenders alongside each scraper step's
+      # own continue-on-error: true above; commits whatever's on disk
+      # regardless of which steps succeeded.
+      #
+      # docs/backlog.md's 2026-09-24 incident: a git push here was
+      # rejected with GH001 (data/leads_homes.json + data/history_homes.
+      # json at 182.01MB/179.26MB, past GitHub's 100MB hard limit - real
+      # numbers off job logs for runs 35883682311/35918395367/
+      # 35945698190, root cause fixed separately by detect_relistings.py's
+      # own chain-storm guard). The retry loop below only knows how to
+      # recover from an ORDINARY conflict (another workflow pushed first -
+      # re-pull and retry genuinely can succeed at that); a hard GH001
+      # file-size rejection is not resolvable that way at all - the exact
+      # same oversized commit gets resent unchanged on every retry, so it
+      # burned through all 5 attempts and 5 identical failures before
+      # finally giving up, discarding every portal's real data on every
+      # attempt (this step commits data/ as one atomic commit) with no
+      # specific diagnosis anywhere in the log. Detecting GH001 (or any
+      # push rejection that isn't a resolvable conflict) and failing
+      # immediately and loudly - instead of masking it behind retries that
+      # can never succeed - matches this project's existing "fail loud,
+      # never silent" pattern (docs/backlog.md item 30's olx.bg timeout
+      # fix).
+      - if: always()
+        run: |
+          git config user.name "property-bot"
+          git config user.email "bot@users.noreply.github.com"
+          pushed=false
+          for attempt in 1 2 3 4 5; do
+            git add data/
+            git diff --cached --quiet || git commit -m "Update listings"
+            # Defensive: git pull --rebase refuses to even START if the
+            # tree isn't perfectly clean - it should be, right after the
+            # commit above, but a real production run of scrape.yml hit
+            # "cannot pull with rebase: You have unstaged changes" here
+            # anyway (run 35435925692), which the conflict-recovery below
+            # can't fix (there's no rebase in progress yet to resolve),
+            # burning through all 5 attempts on repeated no-op retries and
+            # losing that whole run's freshly-scraped data. Committing
+            # whatever is still dirty - whatever it turns out to be - is
+            # always safe here: this step's only job is committing scraped
+            # data, so an extra "residual" commit can't lose anything, and
+            # it's what actually unblocks the rebase.
+            if [ -n "$(git status --porcelain)" ]; then
+              echo "Tree still dirty after the commit above - committing the remainder before rebase"
+              git add -A
+              git commit -m "Update listings (residual)"
+            fi
+            if ! git pull --rebase origin main; then
+              # merge_history_conflict.py actually merges any conflicted
+              # data/history*.json(.gz) (the append-only source of truth
+              # every scraper's own compute_leads() derives from) instead
+              # of discarding one side - see its own docstring for why
+              # checkout --ours here was silently eating this run's real
+              # scraped data every time it fired (live-confirmed root
+              # cause of run 36106917335's data loss across all 6 of this
+              # workflow's portals - docs/backlog.md item 37 addendum).
+              # Anything it doesn't recognize (data/leads_*.json(.gz) -
+              # fully derived, self-heals from history*.json on this
+              # workflow's very next run, see that script's docstring for
+              # why a merger for those isn't needed) still falls back to
+              # the old behavior, now logged loudly instead of silently.
+              echo "Rebase hit a content conflict - attempting a real merge for data/history*.json(.gz) files"
+              python merge_history_conflict.py $(git diff --name-only --diff-filter=U)
+              remaining=$(git diff --name-only --diff-filter=U)
+              if [ -n "$remaining" ]; then
+                echo "::warning::Falling back to 'keep main's version' for files a real merge doesn't apply to: $remaining"
+                for f in $remaining; do
+                  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+                    git checkout --ours -- "$f"
+                    git add "$f"
+                  else
+                    echo "::warning::$f no longer exists on main's side of this conflict (e.g. removed by a data-format migration) - removing it here too instead of trying to resurrect a stale copy"
+                    git rm -f "$f"
+                  fi
+                done
+              fi
+              if ! GIT_EDITOR=true git rebase --continue; then
+                echo "rebase --continue still failed after auto-resolving conflicts - aborting this attempt and retrying from a clean state"
+                git rebase --abort || true
+                sleep $((attempt * 5))
+                continue
+              fi
+            fi
+            push_output=$(git push 2>&1) && { pushed=true; echo "$push_output"; break; }
+            echo "$push_output"
+            if echo "$push_output" | grep -qE 'GH001|exceeds GitHub.s file size limit'; then
+              echo "::error::git push rejected by GitHub for exceeding its file size limit (GH001), not an ordinary conflict - retrying would just resend the same oversized commit 5 times and fail identically every time. Failing immediately instead of masking this behind retries meant for a resolvable rebase race (docs/backlog.md item 30's 'fail loud' pattern). This run's scraped data is NOT on main - see the push output above for exactly which file(s) are over the 100MB limit, and docs/backlog.md's 2026-09-24 incident writeup for the known root cause (detect_relistings.py's relisting-chain logic, already guarded against recurring) and prior file-size trend."
+              exit 1
+            fi
+            echo "Push rejected (attempt $attempt/5) - another workflow likely pushed to main first now that backfills/scrapes run in parallel; re-pulling and retrying"
+            sleep $((attempt * 5))
+          done
+          if [ "$pushed" != "true" ]; then
+            echo "::error::Failed to push after 5 attempts - giving up"
+            exit 1
+          fi
+
+      # Runs last, after the JSON commit/push above has already landed -
+      # JSON stays the source of truth and safety net regardless of
+      # whether this step succeeds. Reads all 8 leads_*.json files
+      # currently on disk (this run's freshly-scraped subset plus
+      # whatever was last committed for the portals scrape-large.yml
+      # owns), since the cross-portal merge needs the full picture, not
+      # just what this particular workflow scraped.
+      - if: always()
+        run: python sync_to_supabase.py
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+
+      # docs/backlog.md item 30: the scraper_olx.py step above keeps
+      # continue-on-error: true (deliberately - see its own comment, one
+      # portal crashing/timing out must not cascade and lose every other
+      # portal's already-scraped data), so a real timeout there would
+      # otherwise make this whole workflow run report green with zero
+      # visible signal, exactly like item 3's alo.bg incident did on a
+      # different mechanism (a git-conflict data discard, not a timeout).
+      # continue-on-error only overrides a step's *conclusion*, not its
+      # *outcome* - steps.scraper_olx.outcome still reports the step's real
+      # result (failure, including a timeout-minutes kill) even though the
+      # run as a whole reports success. Runs last (if: always(), after the
+      # commit/push and sync_to_supabase above have already landed this
+      # run's data regardless) purely to turn that real result into a
+      # visible, loud failure of the run itself - it changes no other
+      # step's behavior and loses no data either way.
+      - if: always()
+        run: |
+          if [ "${{ steps.scraper_olx.outcome }}" = "failure" ]; then
+            echo "::error::python scraper_olx.py failed or timed out this run (step outcome=failure) - see its own step's log above for the real cause. continue-on-error kept the overall run's conclusion green so other scrapers/the commit could still proceed, but a real scraper failure must not go unreported - see docs/backlog.md item 30."
+            exit 1
+          fi
+          echo "OK: scraper_olx.py step outcome was '${{ steps.scraper_olx.outcome }}' (not a failure/timeout)"
+
+      # docs/backlog.md's 2026-09-24 incident: 3 consecutive scheduled runs
+      # failed at the commit/push step above (GH001 file-size rejection)
+      # with no visible signal anywhere else in the job - continue-on-error
+      # on every scraper step plus if: always() on the commit and sync
+      # steps meant the run's OWN conclusion never had to reflect it, and
+      # nothing here was checking whether fresh data had actually landed
+      # on main for the 6 portals this workflow owns (homes.bg, imot.bg,
+      # olx.bg, bazar.bg, imoti.bg, bcpea) - only alo.bg/imoti.net had this
+      # coverage, wired into scrape-large.yml. Mirrors that wiring exactly:
+      # runs last (after the commit/push and sync_to_supabase.py above, so
+      # it checks the real state that landed on main, not this run's
+      # pre-push local state), if: always() so it still runs when an
+      # earlier step failed, and deliberately WITHOUT continue-on-error so
+      # a real staleness event makes this run itself report red instead of
+      # relying on a human noticing days or weeks later. See check_scrape_
+      # freshness.py's own docstring/PER_PORTAL_MIN_ACTIVE_RATIO comment
+      # for what it checks and how each portal's own threshold was
+      # calibrated - do not copy one shared threshold across portals with
+      # very different healthy-day active ratios without re-deriving it.
+      - if: always()
+        run: python check_scrape_freshness.py homes imot olx bazar imoti_bg bcpea
