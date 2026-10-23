@@ -1220,38 +1220,6 @@
     "score": 22
   },
   {
-    "id": "imotibg_513517",
-    "url": "https://imoti.bg/продажби/парцел/шумен/дивдядово-513517.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_68f713e01bccc_68f8a4547282e.jpeg",
-    "price_eur": 300000,
-    "sqm": 10000,
-    "area": "Дивдядово",
-    "city": "Шумен",
-    "title": "Парцел, Дивдядово",
-    "portal": "imoti.bg",
-    "lat": 43.2336254,
-    "lng": 26.9378968,
-    "description": "Парцел в непосредствена близост на Шуменското езеро, равна площ граничеща с Езерен път, подходяща за вилно селище или комплекс.",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 30,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 300000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 65,
-    "pct_vs_area_avg": -53.8,
-    "score": 22
-  },
-  {
     "id": "imotibg_264479",
     "url": "https://imoti.bg/продажби/парцел/варна/зпз-264479.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6527eddd149ee_6529310a3bbd8.jpg",
@@ -1477,6 +1445,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 284,
     "pct_vs_area_avg": -38.8,
+    "score": 21
+  },
+  {
+    "id": "imotibg_513517",
+    "url": "https://imoti.bg/продажби/парцел/шумен/дивдядово-513517.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_68f713e01bccc_68f8a4547282e.jpeg",
+    "price_eur": 300000,
+    "sqm": 10000,
+    "area": "Дивдядово",
+    "city": "Шумен",
+    "title": "Парцел, Дивдядово",
+    "portal": "imoti.bg",
+    "lat": 43.2336254,
+    "lng": 26.9378968,
+    "description": "Парцел в непосредствена близост на Шуменското езеро, равна площ граничеща с Езерен път, подходяща за вилно селище или комплекс.",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 30,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 300000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
+    "area_avg_price_per_sqm": 65,
+    "pct_vs_area_avg": -53.8,
     "score": 21
   },
   {
@@ -4600,9 +4600,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
     "area_avg_price_per_sqm": 1713,
     "pct_vs_area_avg": -14.6,
     "score": 12
@@ -4696,9 +4696,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
     "area_avg_price_per_sqm": 1598,
     "pct_vs_area_avg": -15.4,
     "score": 12
@@ -4996,9 +4996,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
     "area_avg_price_per_sqm": 1547,
     "pct_vs_area_avg": -11.7,
     "score": 11
@@ -6276,9 +6276,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -12412,38 +12412,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_515508",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/перник/изток-515508.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a634e9964fa2_6a634f7fea35d.jpg",
-    "price_eur": 147000,
-    "sqm": 95,
-    "area": "Изток",
-    "city": "Перник",
-    "title": "Четиристаен апартамент, Изток",
-    "portal": "imoti.bg",
-    "lat": 42.6083473,
-    "lng": 23.1051085,
-    "description": "Продава се многостаен апартамент с удобна локация, в тих и спокоен район.\r\nПерфектно разпределение, с изложение на изток и на запад.\r\nРазпределение: Коридор с портманто, самостоятелна кухня с усвоен и приобщен балкон тип 'лоджия', килер, всекидневна, самостоятелна тоалетна, баня със санитарен възел, две спални, втори балкон тип 'лоджия'\r\nСъстояние: за частичен ремонт, с въшна изолация и спрян ТЕЦ към момента.\r\nИма мазе/избено помещение\r\nНепреходен апартамент, с малък брой съседи и в добре поддържан жилищен вход, с работещ асансьор.\r\nЗеленина и многолистни дървета около жилищната сграда и входа.\r\nПерфектно местоположение - свободно паркиране и избор от няколко паркинга, а на пешеходно разтояние - сладкарница, спирка на градски транспорт, на около 10 мин. пешеходно разтояние - магазини Кауфланд, Фантастико, парк с гора. Най-близо и по-близо до всичко, с възможно най-малко трафик.\r\nПредложение, което рядко се вижда в реклама. \r\nНа разположение съм за консултиране и огледи с частни лица. Съдействие за оценка и добри условия на финансиране от банки.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1547,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 147000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1301,
-    "pct_vs_area_avg": 18.9,
-    "score": 7
-  },
-  {
     "id": "imotibg_513737",
     "url": "https://imoti.bg/продажби/къща/русе-област/грбяла-513737.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_691db6c86005b_691db852d5ff5.jpg",
@@ -15141,38 +15109,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 3311,
     "pct_vs_area_avg": 0.7,
-    "score": 7
-  },
-  {
-    "id": "imotibg_513523",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/шумен/булмарица-513523.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
-    "price_eur": 92500,
-    "sqm": 77,
-    "area": "бул.Марица",
-    "city": "Шумен",
-    "title": "Четиристаен апартамент, бул.Марица",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Апартамент в кв.Пети полк, срещу Арена, среден етаж, мазе 5 м2",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1201,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 92500
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1201,
-    "pct_vs_area_avg": 0.0,
     "score": 7
   },
   {
@@ -20540,38 +20476,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_513520",
-    "url": "https://imoti.bg/продажби/парцел/шумен/дивдядово-513520.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_68f8a6a344707_68f8aa6f2fc67.jpeg",
-    "price_eur": 320000,
-    "sqm": 3200,
-    "area": "Дивдядово",
-    "city": "Шумен",
-    "title": "Парцел, Дивдядово",
-    "portal": "imoti.bg",
-    "lat": 43.2336254,
-    "lng": 26.9378968,
-    "description": "Парцел намиращ се на брега на Шуменското езеро , на граница с комплекс Барбароса",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 100,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 320000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 65,
-    "pct_vs_area_avg": 53.8,
-    "score": 7
-  },
-  {
     "id": "imotibg_514840",
     "url": "https://imoti.bg/продажби/парцел/варна/мт-франга-дере-514840.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -21724,38 +21628,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_513521",
-    "url": "https://imoti.bg/продажби/къща/шумен-област/сдобривойниково-513521.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
-    "price_eur": 23100,
-    "sqm": 6000,
-    "area": "с.Добри-Войниково",
-    "city": "Шумен област",
-    "title": "Къща, с.Добри-Войниково",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": null,
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 4,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 23100
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 59,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 4,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
     "id": "imotibg_270161",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/възраждане-270161.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a858ffa9869a_6a858ffaa0bc4.jpg",
@@ -22428,6 +22300,38 @@
     "score": 6
   },
   {
+    "id": "imotibg_515508",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/перник/изток-515508.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a634e9964fa2_6a634f7fea35d.jpg",
+    "price_eur": 147000,
+    "sqm": 95,
+    "area": "Изток",
+    "city": "Перник",
+    "title": "Четиристаен апартамент, Изток",
+    "portal": "imoti.bg",
+    "lat": 42.6083473,
+    "lng": 23.1051085,
+    "description": "Продава се многостаен апартамент с удобна локация, в тих и спокоен район.\r\nПерфектно разпределение, с изложение на изток и на запад.\r\nРазпределение: Коридор с портманто, самостоятелна кухня с усвоен и приобщен балкон тип 'лоджия', килер, всекидневна, самостоятелна тоалетна, баня със санитарен възел, две спални, втори балкон тип 'лоджия'\r\nСъстояние: за частичен ремонт, с въшна изолация и спрян ТЕЦ към момента.\r\nИма мазе/избено помещение\r\nНепреходен апартамент, с малък брой съседи и в добре поддържан жилищен вход, с работещ асансьор.\r\nЗеленина и многолистни дървета около жилищната сграда и входа.\r\nПерфектно местоположение - свободно паркиране и избор от няколко паркинга, а на пешеходно разтояние - сладкарница, спирка на градски транспорт, на около 10 мин. пешеходно разтояние - магазини Кауфланд, Фантастико, парк с гора. Най-близо и по-близо до всичко, с възможно най-малко трафик.\r\nПредложение, което рядко се вижда в реклама. \r\nНа разположение съм за консултиране и огледи с частни лица. Съдействие за оценка и добри условия на финансиране от банки.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1547,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 147000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
+    "area_avg_price_per_sqm": 1301,
+    "pct_vs_area_avg": 18.9,
+    "score": 6
+  },
+  {
     "id": "imotibg_515781",
     "url": "https://imoti.bg/продажби/къща/велико-търново-област/сбеброво-515781.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a8e037f9a7ec_6a8e041145143.jpeg",
@@ -22584,6 +22488,38 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
     "area_avg_price_per_sqm": 2100,
+    "pct_vs_area_avg": 0.0,
+    "score": 6
+  },
+  {
+    "id": "imotibg_513523",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/шумен/булмарица-513523.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 92500,
+    "sqm": 77,
+    "area": "бул.Марица",
+    "city": "Шумен",
+    "title": "Четиристаен апартамент, бул.Марица",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Апартамент в кв.Пети полк, срещу Арена, среден етаж, мазе 5 м2",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1201,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 92500
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
+    "area_avg_price_per_sqm": 1201,
     "pct_vs_area_avg": 0.0,
     "score": 6
   },
@@ -23388,6 +23324,38 @@
     "score": 6
   },
   {
+    "id": "imotibg_513520",
+    "url": "https://imoti.bg/продажби/парцел/шумен/дивдядово-513520.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_68f8a6a344707_68f8aa6f2fc67.jpeg",
+    "price_eur": 320000,
+    "sqm": 3200,
+    "area": "Дивдядово",
+    "city": "Шумен",
+    "title": "Парцел, Дивдядово",
+    "portal": "imoti.bg",
+    "lat": 43.2336254,
+    "lng": 26.9378968,
+    "description": "Парцел намиращ се на брега на Шуменското езеро , на граница с комплекс Барбароса",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 100,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 320000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
+    "area_avg_price_per_sqm": 65,
+    "pct_vs_area_avg": 53.8,
+    "score": 6
+  },
+  {
     "id": "imotibg_515452",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/смирненски-515452.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a5a06c14ac94_6a5a075a7e179.jpg",
@@ -23480,6 +23448,38 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2244,
+    "pct_vs_area_avg": 0.0,
+    "score": 6
+  },
+  {
+    "id": "imotibg_513521",
+    "url": "https://imoti.bg/продажби/къща/шумен-област/сдобривойниково-513521.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 23100,
+    "sqm": 6000,
+    "area": "с.Добри-Войниково",
+    "city": "Шумен област",
+    "title": "Къща, с.Добри-Войниково",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 23100
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "removed",
+    "removed_at": "2026-10-22T20:52:03.967681+00:00",
+    "area_avg_price_per_sqm": 4,
     "pct_vs_area_avg": 0.0,
     "score": 6
   },
@@ -31712,7 +31712,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1473,
@@ -32064,7 +32064,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 758,
@@ -32096,7 +32096,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 284,
@@ -32160,7 +32160,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3052,
@@ -32192,7 +32192,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 19,
@@ -32224,7 +32224,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1816,
