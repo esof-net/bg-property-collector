@@ -101842,7 +101842,11 @@
       "title": "Development land, 3000 м 2 Sofia, Vrana - Lozen v.z.",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 42.6961754325,
+      "lng": 23.3255087564
     }
   },
   "6277984": {

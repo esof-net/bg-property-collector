@@ -4530,38 +4530,6 @@
     "score": 30
   },
   {
-    "id": "6225835",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/vrana-lozen-v-z/parcel/6225835/?sid=icNBCK&page=69",
-    "photo": "https://www.imoti.net/web/files/obiavi/6225835/main_image/thumb_280x210_1.jpg?ver=1790089413",
-    "price_eur": 185000,
-    "sqm": 3000,
-    "area": "Vrana - Lozen v.z.",
-    "city": "София",
-    "title": "Development land, 3000 м 2 Sofia, Vrana - Lozen v.z.",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 62,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 195000
-      },
-      {
-        "date": "2026-09-09T05:24:33.788593+00:00",
-        "price_eur": 185000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 5.1,
-    "days_on_market": 31,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 152,
-    "pct_vs_area_avg": -59.2,
-    "score": 30
-  },
-  {
     "id": "6264813",
     "url": "https://www.imoti.net/en/obiava/prodava/burgas/burgas-centyr/ednostaen/6264813/?sid=g9tjtT&page=20",
     "photo": "https://www.imoti.net/web/files/obiavi/6264813/main_image/thumb_280x210_file6a1ec68e2eaf3-viber-2025-03-13-17-44-55-665.jpg?ver=1792725003",
@@ -7553,6 +7521,42 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1311,
     "pct_vs_area_avg": 42.1,
+    "score": 27
+  },
+  {
+    "id": "6225835",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/vrana-lozen-v-z/parcel/6225835/?sid=icNBCK&page=69",
+    "photo": "https://www.imoti.net/web/files/obiavi/6225835/main_image/thumb_280x210_1.jpg?ver=1790089413",
+    "price_eur": 185000,
+    "sqm": 3000,
+    "area": "Vrana - Lozen v.z.",
+    "city": "София",
+    "title": "Development land, 3000 м 2 Sofia, Vrana - Lozen v.z.",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-23",
+    "lat": 42.6961754325,
+    "lng": 23.3255087564,
+    "price_per_sqm": 62,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 195000
+      },
+      {
+        "date": "2026-09-09T05:24:33.788593+00:00",
+        "price_eur": 185000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 5.1,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 152,
+    "pct_vs_area_avg": -59.2,
     "score": 27
   },
   {
