@@ -2171,7 +2171,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 615,
     "pct_vs_area_avg": -59.8,
     "score": 18
@@ -2763,7 +2763,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -32.9,
     "score": 17
@@ -4339,7 +4339,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -52.7,
     "score": 15
@@ -4374,7 +4374,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -53.1,
     "score": 15
@@ -4666,7 +4666,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -34.6,
     "score": 14
@@ -11923,7 +11923,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 56,
+    "days_on_market": 57,
     "area_avg_price_per_sqm": 2533,
     "pct_vs_area_avg": -83.5,
     "score": 7
@@ -18933,7 +18933,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20757,7 +20757,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21996,7 +21996,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -30977,7 +30977,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -32375,7 +32375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -34583,7 +34583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -35317,7 +35317,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -37462,7 +37462,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -37740,7 +37740,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -74.3,
     "score": 5
@@ -39477,7 +39477,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -39945,7 +39945,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -40069,7 +40069,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -45520,7 +45520,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -45645,7 +45645,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46141,7 +46141,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49356,7 +49356,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -49906,6 +49906,38 @@
     "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92473",
+    "url": "https://sales.bcpea.org/properties/92473",
+    "photo": null,
+    "price_eur": 262560,
+    "sqm": 91,
+    "area": "Враца",
+    "title": "Производствен имот, Враца",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-21T12:59:00+00:00",
+    "category": "apartment",
+    "_settlement": "Враца",
+    "lat": 43.400307,
+    "lng": 23.716675,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 12259.1021.337 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем/, находящ се в гр. Враца, община Враца, обл. Враца, по кадастралната карта и регистри, одобрени със Заповед № РД-18-43 от 16.9.2005 г. на изп. Директор на АК, последно изменение със заповед: няма издадена заповед за изменение в КККР, адрес на поземления имот: гр. Враца, п.к. 3000, кв. „Промишлена зона”, с площ от 9091 /девет хиляди и деветдесет и един/ кв. м.; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: За друг вид производствен, складов обект; с номер на предходен план: 4996, квартал: 13, парцел: 48, при съседни имоти с идентификатори: 12259.1021.360, 12259.1021.336, 12259.1021.171, 12259.1021.335, 12259.1021.339, 12259.1021.341, заедно с построената е имота сграда, а именно: СГРАДА с идентификатор 12259.1021.337.1 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем, „точка” едно/, гр. Враца, община Враца, област Враца по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-43/16.09.2005 г. на Изпълнителния директор на АК; Последно изменение: Няма издадена заповед за изменение в КККР. Адрес на сградата: гр. Враца, п.к. 3000, кв. „Промишлена зона”. Сградата е разположена в поземлен имот с идентификатор 12259.1021.337 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем/. Застроена площ: 6279 /шест хиляди двеста седемдесет и девет/ кв. м. Брой етажи: 1 /един/. Предназначение: ПРОМИШЛЕНА СГРАДА, заедно с отстъпеното право на строеж.Сградата не е използвана през последните 30 години. Достъпът до имота е през ул.\"Баба Илийца\".",
+    "detail_checked": true,
+    "price_per_sqm": 2885,
+    "price_history": [
+      {
+        "date": "2026-09-21T13:51:56.991398+00:00",
+        "price_eur": 262560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 32,
+    "area_avg_price_per_sqm": 2052,
+    "pct_vs_area_avg": 40.6,
     "score": 4
   },
   {
@@ -52779,7 +52811,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -56532,7 +56564,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -58761,7 +58793,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -84.5,
     "score": 4
@@ -59297,7 +59329,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -60468,7 +60500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -61498,7 +61530,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -61814,7 +61846,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 4
@@ -61970,7 +62002,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 4
@@ -62762,7 +62794,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64313,7 +64345,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64407,7 +64439,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 4
@@ -68760,7 +68792,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 4
@@ -69688,7 +69720,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -92.1,
     "score": 4
@@ -72619,38 +72651,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92473",
-    "url": "https://sales.bcpea.org/properties/92473",
-    "photo": null,
-    "price_eur": 262560,
-    "sqm": 91,
-    "area": "Враца",
-    "title": "Производствен имот, Враца",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-21T12:59:00+00:00",
-    "category": "apartment",
-    "_settlement": "Враца",
-    "lat": 43.400307,
-    "lng": 23.716675,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 12259.1021.337 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем/, находящ се в гр. Враца, община Враца, обл. Враца, по кадастралната карта и регистри, одобрени със Заповед № РД-18-43 от 16.9.2005 г. на изп. Директор на АК, последно изменение със заповед: няма издадена заповед за изменение в КККР, адрес на поземления имот: гр. Враца, п.к. 3000, кв. „Промишлена зона”, с площ от 9091 /девет хиляди и деветдесет и един/ кв. м.; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: За друг вид производствен, складов обект; с номер на предходен план: 4996, квартал: 13, парцел: 48, при съседни имоти с идентификатори: 12259.1021.360, 12259.1021.336, 12259.1021.171, 12259.1021.335, 12259.1021.339, 12259.1021.341, заедно с построената е имота сграда, а именно: СГРАДА с идентификатор 12259.1021.337.1 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем, „точка” едно/, гр. Враца, община Враца, област Враца по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-43/16.09.2005 г. на Изпълнителния директор на АК; Последно изменение: Няма издадена заповед за изменение в КККР. Адрес на сградата: гр. Враца, п.к. 3000, кв. „Промишлена зона”. Сградата е разположена в поземлен имот с идентификатор 12259.1021.337 /дванадесет хиляди двеста петдесет и девет, „точка”, хиляда двадесет и едно, „точка” триста тридесет и седем/. Застроена площ: 6279 /шест хиляди двеста седемдесет и девет/ кв. м. Брой етажи: 1 /един/. Предназначение: ПРОМИШЛЕНА СГРАДА, заедно с отстъпеното право на строеж.Сградата не е използвана през последните 30 години. Достъпът до имота е през ул.\"Баба Илийца\".",
-    "detail_checked": true,
-    "price_per_sqm": 2885,
-    "price_history": [
-      {
-        "date": "2026-09-21T13:51:56.991398+00:00",
-        "price_eur": 262560
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 31,
-    "area_avg_price_per_sqm": 2052,
-    "pct_vs_area_avg": 40.6,
-    "score": 3
-  },
-  {
     "id": "bcpea_92457",
     "url": "https://sales.bcpea.org/properties/92457",
     "photo": "https://sales.bcpea.org/upload/92457/461068/снимки1.jpg?w=270&h=270",
@@ -74527,7 +74527,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74559,7 +74559,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74619,7 +74619,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74656,7 +74656,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74693,7 +74693,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74729,7 +74729,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74761,7 +74761,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1293,
     "pct_vs_area_avg": -95.5,
     "score": 3
@@ -75872,7 +75872,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76852,6 +76852,48 @@
     "score": 3
   },
   {
+    "id": "bcpea_92689",
+    "url": "https://sales.bcpea.org/properties/92689",
+    "photo": "https://a.tile.openstreetmap.org/18/147059/96361.png",
+    "price_eur": 74160,
+    "sqm": 38,
+    "area": "Варна",
+    "title": "Едностаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-30T13:10:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2566785,
+    "lng": 27.9972332,
+    "description": "Самостоятелен обект в сграда с идентификатор 10135.2559.129.1.7(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет, точка, едно, точка, седем) по КККР, одобрени със Заповед № РД-18-92/14.10.2008 г. на ИД на АГКК, находящ се в гр. Варна, район Приморски, ул. „Д-р Басанович“ № 12(дванадесет), ет. 3(три), ап. 7(седем), с площ 38,00(тридесет и осем) кв.м., трайно предназначение на самостоятелния обект: жилище, апартамент - в жилищна или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1(едно), при съседи: на същия етаж: 10135.2559.129.1.9 и 10135.2559.129.1.8, под обекта: 10135.2559.129.1.4, над обекта: 10135.2559.129.1.11 и 10135.2559.129.1.10, ведно с прилежащите части - изба 7(седем), с площ 5.62(пет цяло шестдесет и две сторни) кв. м. и 4.4544(четири цяло четири хиляди петстотин четиридесет и четири десетохилядни)% ид. част от общите части на сградата с идентификатор 10135.2559.129.1(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет, точка, едно)  и от правото на строеж върху поземлен имот с идентификатор 10135.2559.129(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет), ведно с 8,00(осем) кв. м. ид. ч. от дворното място, в което е построена сградата, а именно поземлен имот с идентификатор 10135.2559.129(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет), целият с площ по скица 224,00(двеста двадесет и четири) кв.м.",
+    "detail_checked": true,
+    "photos": [
+      "https://a.tile.openstreetmap.org/18/147059/96361.png",
+      "https://b.tile.openstreetmap.org/18/147060/96361.png",
+      "https://b.tile.openstreetmap.org/18/147059/96362.png",
+      "https://c.tile.openstreetmap.org/18/147060/96362.png",
+      "https://c.tile.openstreetmap.org/18/147058/96361.png",
+      "https://c.tile.openstreetmap.org/18/147061/96361.png",
+      "https://a.tile.openstreetmap.org/18/147058/96362.png",
+      "https://a.tile.openstreetmap.org/18/147061/96362.png"
+    ],
+    "price_per_sqm": 1952,
+    "price_history": [
+      {
+        "date": "2026-09-30T14:17:34.870514+00:00",
+        "price_eur": 74160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 23,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 7.2,
+    "score": 3
+  },
+  {
     "id": "bcpea_92688",
     "url": "https://sales.bcpea.org/properties/92688",
     "photo": "https://sales.bcpea.org/upload/92688/462138/IMG_20250618_114353.jpg?w=270&h=270",
@@ -77801,7 +77843,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -77844,7 +77886,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 90.4,
     "score": 3
@@ -80167,48 +80209,6 @@
     "score": 2
   },
   {
-    "id": "bcpea_92689",
-    "url": "https://sales.bcpea.org/properties/92689",
-    "photo": "https://a.tile.openstreetmap.org/18/147059/96361.png",
-    "price_eur": 74160,
-    "sqm": 38,
-    "area": "Варна",
-    "title": "Едностаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-30T13:10:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2566785,
-    "lng": 27.9972332,
-    "description": "Самостоятелен обект в сграда с идентификатор 10135.2559.129.1.7(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет, точка, едно, точка, седем) по КККР, одобрени със Заповед № РД-18-92/14.10.2008 г. на ИД на АГКК, находящ се в гр. Варна, район Приморски, ул. „Д-р Басанович“ № 12(дванадесет), ет. 3(три), ап. 7(седем), с площ 38,00(тридесет и осем) кв.м., трайно предназначение на самостоятелния обект: жилище, апартамент - в жилищна или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1(едно), при съседи: на същия етаж: 10135.2559.129.1.9 и 10135.2559.129.1.8, под обекта: 10135.2559.129.1.4, над обекта: 10135.2559.129.1.11 и 10135.2559.129.1.10, ведно с прилежащите части - изба 7(седем), с площ 5.62(пет цяло шестдесет и две сторни) кв. м. и 4.4544(четири цяло четири хиляди петстотин четиридесет и четири десетохилядни)% ид. част от общите части на сградата с идентификатор 10135.2559.129.1(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет, точка, едно)  и от правото на строеж върху поземлен имот с идентификатор 10135.2559.129(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет), ведно с 8,00(осем) кв. м. ид. ч. от дворното място, в което е построена сградата, а именно поземлен имот с идентификатор 10135.2559.129(едно, нула, едно, три, пет, точка, две, пет, пет, девет, точка, едно, две, девет), целият с площ по скица 224,00(двеста двадесет и четири) кв.м.",
-    "detail_checked": true,
-    "photos": [
-      "https://a.tile.openstreetmap.org/18/147059/96361.png",
-      "https://b.tile.openstreetmap.org/18/147060/96361.png",
-      "https://b.tile.openstreetmap.org/18/147059/96362.png",
-      "https://c.tile.openstreetmap.org/18/147060/96362.png",
-      "https://c.tile.openstreetmap.org/18/147058/96361.png",
-      "https://c.tile.openstreetmap.org/18/147061/96361.png",
-      "https://a.tile.openstreetmap.org/18/147058/96362.png",
-      "https://a.tile.openstreetmap.org/18/147061/96362.png"
-    ],
-    "price_per_sqm": 1952,
-    "price_history": [
-      {
-        "date": "2026-09-30T14:17:34.870514+00:00",
-        "price_eur": 74160
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 22,
-    "area_avg_price_per_sqm": 1820,
-    "pct_vs_area_avg": 7.2,
-    "score": 2
-  },
-  {
     "id": "bcpea_92683",
     "url": "https://sales.bcpea.org/properties/92683",
     "photo": "https://sales.bcpea.org/upload/92683/462116/IMG_20260827_143136.jpg?w=270&h=270",
@@ -80354,7 +80354,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": 59.0,
     "score": 2
@@ -80408,7 +80408,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": 39.9,
     "score": 2
@@ -81403,7 +81403,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84518,7 +84518,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84550,7 +84550,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84582,7 +84582,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84614,7 +84614,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84651,7 +84651,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86568,7 +86568,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86600,7 +86600,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86632,7 +86632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86664,7 +86664,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86696,7 +86696,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86734,7 +86734,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88002,7 +88002,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88037,7 +88037,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92278,7 +92278,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -92330,7 +92330,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -92749,7 +92749,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -92781,7 +92781,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94154,7 +94154,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94186,7 +94186,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94218,7 +94218,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94250,7 +94250,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94282,7 +94282,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94314,7 +94314,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 15535,
     "pct_vs_area_avg": -99.7,
     "score": 1
@@ -95564,7 +95564,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95600,7 +95600,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95635,7 +95635,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95671,7 +95671,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95715,7 +95715,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -83.1,
     "score": 1
@@ -95747,7 +95747,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95782,7 +95782,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.8,
     "score": 1
@@ -95819,7 +95819,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95855,7 +95855,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -99.8,
     "score": 1
@@ -95891,7 +95891,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95932,7 +95932,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95969,7 +95969,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96009,7 +96009,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96757,9 +96757,265 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -2.9,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93330",
+    "url": "https://sales.bcpea.org/properties/93330",
+    "photo": null,
+    "price_eur": 4137,
+    "sqm": 250,
+    "area": "Васильово",
+    "title": "Парцел, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:49:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.202.8 /едно нула две седем две, тока, две нула две, точка, осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 30“, а по схема от АГКК местност „ ЛИВАДИЩЕ “, с площ от 10,250.00 кв.м ., трайно предназначение на територията: „Горска“ , начин на трайно ползване: друг вид дървопроизводителна гора , стар идентификатор : 034020 , при граници и съседи: поземлени имоти с идентификатори 10272.202.5, 10272.202.4, 10272.202.7, имотът е образуван от имот с идентификатор 10272.202.3; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 17,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 4137
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93328",
+    "url": "https://sales.bcpea.org/properties/93328",
+    "photo": null,
+    "price_eur": 1200,
+    "sqm": 450,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:47:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "6 . 1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 34.18 /едно нула две седем две, точка, три четири, точка, едно осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 36“, с площ от 4 ,450.00 кв.м ., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, стар идентификатор: 10272.34.8, номер на предходен план: 10272.34.8, при граници и съседи: поземлени имоти с идентификатори 10272.501.117, 10272.501.118, 10272.34.19, 10272.204.29, 10272.34.17. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 1200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93325",
+    "url": "https://sales.bcpea.org/properties/93325",
+    "photo": null,
+    "price_eur": 3390,
+    "sqm": 278,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:42:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.34.19 /едно нула две седем две, точка, три четири, точка, едно девет/, находящ се в с. Васильово, общ. Тетевен, обл . Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 36“, а по схема от АГКК местност „ОСЕНЕТЕ“, с площ от 12,278.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, при граници и съседи: поземлени имоти с идентификатори 10272.34.18, 10272.501.118, 10272.501.119, 10272.501.120, 10272.34.9, 10272.204.7, имотът е образуван от имот с идентификатор 10272.34.8. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 12,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 3390
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93322",
+    "url": "https://sales.bcpea.org/properties/93322",
+    "photo": null,
+    "price_eur": 1184,
+    "sqm": 638,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:41:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.30.8 /едно нула две седем две, точка, три нула, точка, осем/ ,  находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ЩИРЕВОТО“, с площ от 3 ,638.00 кв.м ., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, при граници и съседи: поземлени имоти с идентификатори 10272.30.2, 10272.30.9, 10272.0.10, 10272.203.5, 10272.203.4, имотът е образуван от имот с идентификатор 10272.30.4; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 1184
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93321",
+    "url": "https://sales.bcpea.org/properties/93321",
+    "photo": null,
+    "price_eur": 2776,
+    "sqm": 843,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:39:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.34.1 /едно нула две седем две, точка, три четири, точка, едно/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч , по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 7 ,843.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада , стар идентификатор: 034001, при граници и съседи: поземлени имоти с идентификатори 10272.33.8, 10272.501.100, 10272.501.99; 10272.501.109, 10272.501.110, 10272.34.2, 10272.34.4, 10272.204.13; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 2776
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93318",
+    "url": "https://sales.bcpea.org/properties/93318",
+    "photo": null,
+    "price_eur": 119,
+    "sqm": 950,
+    "area": "Капитан Димитриево",
+    "title": "Земеделска земя, Капитан Димитриево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:35:00+00:00",
+    "category": "land",
+    "_settlement": "Капитан Димитриево",
+    "lat": 42.1034882,
+    "lng": 24.3292867,
+    "description": "1/20 ид. част от Поземлен имот с идентификатор 61371.130.12/шестдесет и една хиляди триста седемдесет и едно, точка, сто и тридесет, точка, дванадесет/, находящ се в с. Радилово, общ. Пещера, обл. Пазарджик, по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-1633/20.09.2018 г. на Изпълнителния Директор на АГКК. Последно изменение на КККР със Заповед, засягащо поземления имот: няма данни за изменение. Адрес на имота: с. Радилово, местност САКАРНИЦА, с площ от 4950 кв.м ./четири хиляди деветстотин и петдесет квадратни метра/. Трайно предназначение на територията:Земеделска. Начин на трайно ползване: Нива. Категория на земята:8 /осма/. Номер по предходен план: 130012 . При граници и съседи на имота: 61371.130.29,  130.28, 61371.130.13, 61371.129.2, 61371.130.11, ведно с всички подобрения и приращения в имота. *За имота има сключен договор за наем на земеделска земя от 09.06.2025г., който не е вписан в СВ при РС-Пещера.",
+    "detail_checked": true,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 119
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93317",
+    "url": "https://sales.bcpea.org/properties/93317",
+    "photo": null,
+    "price_eur": 810,
+    "sqm": 750,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:35:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "2. 1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.36.54 /едно нула две седем две, точка, три шест, точка, пет, четири/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 2 ,750.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: друг вид трайно насаждение, стар идентификатор: 034013, при граници и съседи: поземлени имоти с идентификатори 1072.36.53, 10272.206.8, 10272.36.50; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 810
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93316",
+    "url": "https://sales.bcpea.org/properties/93316",
+    "photo": null,
+    "price_eur": 142,
+    "sqm": 466,
+    "area": "Васильово",
+    "title": "Земеделска земя, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:34:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.36.67 /едно нула две седем две, точка, три шест, точка, шест седем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 466.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, стар идентификатор: 034020, при граници и съседи: поземлени имоти с идентификатори 10272.36.55, 10272.501.257, 10272.501.316; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 142
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 1
   },
   {
@@ -99880,7 +100136,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -99912,7 +100168,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -102338,7 +102594,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -102375,7 +102631,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -103337,262 +103593,6 @@
       {
         "date": "2026-10-22T20:54:11.759656+00:00",
         "price_eur": 2945
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93330",
-    "url": "https://sales.bcpea.org/properties/93330",
-    "photo": null,
-    "price_eur": 4137,
-    "sqm": 250,
-    "area": "Васильово",
-    "title": "Парцел, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:49:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.202.8 /едно нула две седем две, тока, две нула две, точка, осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 30“, а по схема от АГКК местност „ ЛИВАДИЩЕ “, с площ от 10,250.00 кв.м ., трайно предназначение на територията: „Горска“ , начин на трайно ползване: друг вид дървопроизводителна гора , стар идентификатор : 034020 , при граници и съседи: поземлени имоти с идентификатори 10272.202.5, 10272.202.4, 10272.202.7, имотът е образуван от имот с идентификатор 10272.202.3; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 17,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 4137
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93328",
-    "url": "https://sales.bcpea.org/properties/93328",
-    "photo": null,
-    "price_eur": 1200,
-    "sqm": 450,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:47:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "6 . 1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 34.18 /едно нула две седем две, точка, три четири, точка, едно осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 36“, с площ от 4 ,450.00 кв.м ., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, стар идентификатор: 10272.34.8, номер на предходен план: 10272.34.8, при граници и съседи: поземлени имоти с идентификатори 10272.501.117, 10272.501.118, 10272.34.19, 10272.204.29, 10272.34.17. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 1200
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93325",
-    "url": "https://sales.bcpea.org/properties/93325",
-    "photo": null,
-    "price_eur": 3390,
-    "sqm": 278,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:42:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.34.19 /едно нула две седем две, точка, три четири, точка, едно девет/, находящ се в с. Васильово, общ. Тетевен, обл . Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 36“, а по схема от АГКК местност „ОСЕНЕТЕ“, с площ от 12,278.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, при граници и съседи: поземлени имоти с идентификатори 10272.34.18, 10272.501.118, 10272.501.119, 10272.501.120, 10272.34.9, 10272.204.7, имотът е образуван от имот с идентификатор 10272.34.8. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 12,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 3390
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93322",
-    "url": "https://sales.bcpea.org/properties/93322",
-    "photo": null,
-    "price_eur": 1184,
-    "sqm": 638,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:41:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.30.8 /едно нула две седем две, точка, три нула, точка, осем/ ,  находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ЩИРЕВОТО“, с площ от 3 ,638.00 кв.м ., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, при граници и съседи: поземлени имоти с идентификатори 10272.30.2, 10272.30.9, 10272.0.10, 10272.203.5, 10272.203.4, имотът е образуван от имот с идентификатор 10272.30.4; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 1184
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93321",
-    "url": "https://sales.bcpea.org/properties/93321",
-    "photo": null,
-    "price_eur": 2776,
-    "sqm": 843,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:39:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.34.1 /едно нула две седем две, точка, три четири, точка, едно/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч , по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 7 ,843.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада , стар идентификатор: 034001, при граници и съседи: поземлени имоти с идентификатори 10272.33.8, 10272.501.100, 10272.501.99; 10272.501.109, 10272.501.110, 10272.34.2, 10272.34.4, 10272.204.13; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 2776
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93318",
-    "url": "https://sales.bcpea.org/properties/93318",
-    "photo": null,
-    "price_eur": 119,
-    "sqm": 950,
-    "area": "Капитан Димитриево",
-    "title": "Земеделска земя, Капитан Димитриево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:35:00+00:00",
-    "category": "land",
-    "_settlement": "Капитан Димитриево",
-    "lat": 42.1034882,
-    "lng": 24.3292867,
-    "description": "1/20 ид. част от Поземлен имот с идентификатор 61371.130.12/шестдесет и една хиляди триста седемдесет и едно, точка, сто и тридесет, точка, дванадесет/, находящ се в с. Радилово, общ. Пещера, обл. Пазарджик, по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-1633/20.09.2018 г. на Изпълнителния Директор на АГКК. Последно изменение на КККР със Заповед, засягащо поземления имот: няма данни за изменение. Адрес на имота: с. Радилово, местност САКАРНИЦА, с площ от 4950 кв.м ./четири хиляди деветстотин и петдесет квадратни метра/. Трайно предназначение на територията:Земеделска. Начин на трайно ползване: Нива. Категория на земята:8 /осма/. Номер по предходен план: 130012 . При граници и съседи на имота: 61371.130.29,  130.28, 61371.130.13, 61371.129.2, 61371.130.11, ведно с всички подобрения и приращения в имота. *За имота има сключен договор за наем на земеделска земя от 09.06.2025г., който не е вписан в СВ при РС-Пещера.",
-    "detail_checked": true,
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 119
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93317",
-    "url": "https://sales.bcpea.org/properties/93317",
-    "photo": null,
-    "price_eur": 810,
-    "sqm": 750,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:35:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "2. 1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.36.54 /едно нула две седем две, точка, три шест, точка, пет, четири/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 2 ,750.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: друг вид трайно насаждение, стар идентификатор: 034013, при граници и съседи: поземлени имоти с идентификатори 1072.36.53, 10272.206.8, 10272.36.50; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 810
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93316",
-    "url": "https://sales.bcpea.org/properties/93316",
-    "photo": null,
-    "price_eur": 142,
-    "sqm": 466,
-    "area": "Васильово",
-    "title": "Земеделска земя, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:34:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч.  от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.36.67 /едно нула две седем две, точка, три шест, точка, шест седем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „ОСЕНЕТЕ“, с площ от 466.00 кв.м., трайно предназначение на територията: „Земеделска“, начин на трайно ползване: ливада, стар идентификатор: 034020, при граници и съседи: поземлени имоти с идентификатори 10272.36.55, 10272.501.257, 10272.501.316; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 142
       }
     ],
     "price_drop_count": 0,
