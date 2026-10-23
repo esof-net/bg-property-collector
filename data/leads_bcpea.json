@@ -274,8 +274,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-26T17:10:09.431696+00:00",
     "days_on_market": 43,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -43.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -43.9,
     "score": 20
   },
   {
@@ -399,8 +399,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 49,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -51.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -51.5,
     "score": 20
   },
   {
@@ -526,8 +526,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -53.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -53.6,
     "score": 19
   },
   {
@@ -588,8 +588,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 35,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -50.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -50.7,
     "score": 19
   },
   {
@@ -652,8 +652,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -49.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -49.6,
     "score": 19
   },
   {
@@ -746,8 +746,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -50.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -50.8,
     "score": 19
   },
   {
@@ -869,8 +869,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -48.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -48.4,
     "score": 19
   },
   {
@@ -930,8 +930,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -54.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -54.4,
     "score": 19
   },
   {
@@ -1114,8 +1114,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 38,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -57.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -57.7,
     "score": 19
   },
   {
@@ -1395,8 +1395,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 31,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -55.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -55.7,
     "score": 18
   },
   {
@@ -1465,7 +1465,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -40.5,
     "score": 18
@@ -1599,36 +1599,6 @@
     "score": 18
   },
   {
-    "id": "bcpea_90685",
-    "url": "https://sales.bcpea.org/properties/90685",
-    "photo": "https://sales.bcpea.org/upload/90685/453502/3eefd344-9008-4f6f-a5de-03aa0a2f68ab.jpg?w=270&h=270",
-    "price_eur": 39960,
-    "sqm": 55,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-07-29T16:30:00+00:00",
-    "category": "apartment",
-    "lat": null,
-    "lng": null,
-    "detail_checked": true,
-    "price_per_sqm": 727,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 39960
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-08-29T14:53:22.548248+00:00",
-    "days_on_market": 30,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -59.9,
-    "score": 18
-  },
-  {
     "id": "bcpea_92541",
     "url": "https://sales.bcpea.org/properties/92541",
     "photo": "https://sales.bcpea.org/upload/92541/461469/DSC02627.JPG?w=270&h=270",
@@ -1676,7 +1646,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -44.8,
     "score": 18
@@ -1835,8 +1805,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 53,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -33.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -33.5,
     "score": 18
   },
   {
@@ -2096,8 +2066,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 31,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -50.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -50.7,
     "score": 18
   },
   {
@@ -2233,8 +2203,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2264,8 +2234,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2295,8 +2265,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2326,8 +2296,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2421,8 +2391,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -36.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -36.7,
     "score": 17
   },
   {
@@ -2484,8 +2454,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2515,8 +2485,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2546,8 +2516,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2577,8 +2547,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -36.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -36.7,
     "score": 17
   },
   {
@@ -2608,8 +2578,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -36.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -36.7,
     "score": 17
   },
   {
@@ -2670,8 +2640,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2701,8 +2671,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -36.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -36.7,
     "score": 17
   },
   {
@@ -2762,8 +2732,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -35.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -35.5,
     "score": 17
   },
   {
@@ -2868,7 +2838,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": 1293,
     "pct_vs_area_avg": -55.1,
     "score": 17
@@ -2973,8 +2943,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -58.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -58.8,
     "score": 17
   },
   {
@@ -3005,8 +2975,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -57.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -57.3,
     "score": 17
   },
   {
@@ -3104,6 +3074,38 @@
     "score": 16
   },
   {
+    "id": "bcpea_91404",
+    "url": "https://sales.bcpea.org/properties/91404",
+    "photo": "https://sales.bcpea.org/upload/91404/455973/viber_image_2026-08-09_22-43-21-034.jpg?w=270&h=270",
+    "price_eur": 109160,
+    "sqm": 80,
+    "area": "Варна",
+    "title": "Тристаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T13:29:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2240158,
+    "lng": 27.8866856,
+    "description": "АПАРТАМЕНТ № 27 /двадесет и седем/ с идентификатор 10135.3511.264.19.27 /едно нула едно три пет точка три пет едно едно точка две шест четири точка едно девет точка две седем/ по кадастрална карта и кадастралните регистри на гр.Варна, общ.Варна, обл. Варна, одобрени със Заповед № РД-18-64/16.05.2008г. на Изпълнителен директор на АГКК, находящ се в гр. Варна, район Младост, ж.к. Възраждане, бл.63 /шестдесет и три/, вх.2 /две/, ет.1 /едно/, ап.27 / двадесет и седем / като самостоятелният обект се намира на етаж 1 /едно/ в сграда с идентификатор 10135.3511.264.19 /едно нула едно три пет точка три пет едно едно точка две шест четири точка едно девет/ с предназначение: Жилищна сграда – многофамилна, брой етажи – 8 /осем/, изградена в поземлен имот с идентификатор 10135.3511.264 /едно нула едно три пет точка три пет едно едно точка две шест четири/. Предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предсназначение. Брой нива на обекта: 1 /едно/. Площ на самостоятелния обект: 79.55 /седемдесет и девет цяло и петдесет и пет/ кв.м. , с ъстоящ се от: три стаи, кухня, баня, тоалет, дрешник и входно антре, ведно с принадлежащото избено помещение № 27 / двадесет и седем /, с площ 3.33 / три цяло тридесет и три / кв.м., както и 0.9893% / нула цяло девет хиляди осемстотин деветдесет и три десетохилядни процента / ид.ч. от общите части на сградата и от правото на строеж върху припадащите се части от имота, при съседни самостоятелни обекти в сградата: на същия етаж: 10135.3511.264.19.26, под обекта: няма, над обекта: 10135.3511.264.19.30.",
+    "detail_checked": true,
+    "price_per_sqm": 1364,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 109160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-10-14T19:14:24.143630+00:00",
+    "days_on_market": 55,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -25.1,
+    "score": 16
+  },
+  {
     "id": "bcpea_90431",
     "url": "https://sales.bcpea.org/properties/90431",
     "photo": "https://sales.bcpea.org/upload/90431/452405/IMG_8638.jpeg?w=270&h=270",
@@ -3130,8 +3132,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 56,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -25.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -26.2,
     "score": 16
   },
   {
@@ -3161,8 +3163,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -33.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -33.6,
     "score": 16
   },
   {
@@ -3314,8 +3316,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -33.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -33.6,
     "score": 16
   },
   {
@@ -3345,8 +3347,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -33.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -33.6,
     "score": 16
   },
   {
@@ -3422,7 +3424,7 @@
     "removed_at": null,
     "days_on_market": 15,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -38.7,
+    "pct_vs_area_avg": -38.6,
     "score": 16
   },
   {
@@ -3560,40 +3562,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
-    "score": 15
-  },
-  {
-    "id": "bcpea_91404",
-    "url": "https://sales.bcpea.org/properties/91404",
-    "photo": "https://sales.bcpea.org/upload/91404/455973/viber_image_2026-08-09_22-43-21-034.jpg?w=270&h=270",
-    "price_eur": 109160,
-    "sqm": 80,
-    "area": "Варна",
-    "title": "Тристаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T13:29:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2240158,
-    "lng": 27.8866856,
-    "description": "АПАРТАМЕНТ № 27 /двадесет и седем/ с идентификатор 10135.3511.264.19.27 /едно нула едно три пет точка три пет едно едно точка две шест четири точка едно девет точка две седем/ по кадастрална карта и кадастралните регистри на гр.Варна, общ.Варна, обл. Варна, одобрени със Заповед № РД-18-64/16.05.2008г. на Изпълнителен директор на АГКК, находящ се в гр. Варна, район Младост, ж.к. Възраждане, бл.63 /шестдесет и три/, вх.2 /две/, ет.1 /едно/, ап.27 / двадесет и седем / като самостоятелният обект се намира на етаж 1 /едно/ в сграда с идентификатор 10135.3511.264.19 /едно нула едно три пет точка три пет едно едно точка две шест четири точка едно девет/ с предназначение: Жилищна сграда – многофамилна, брой етажи – 8 /осем/, изградена в поземлен имот с идентификатор 10135.3511.264 /едно нула едно три пет точка три пет едно едно точка две шест четири/. Предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предсназначение. Брой нива на обекта: 1 /едно/. Площ на самостоятелния обект: 79.55 /седемдесет и девет цяло и петдесет и пет/ кв.м. , с ъстоящ се от: три стаи, кухня, баня, тоалет, дрешник и входно антре, ведно с принадлежащото избено помещение № 27 / двадесет и седем /, с площ 3.33 / три цяло тридесет и три / кв.м., както и 0.9893% / нула цяло девет хиляди осемстотин деветдесет и три десетохилядни процента / ид.ч. от общите части на сградата и от правото на строеж върху припадащите се части от имота, при съседни самостоятелни обекти в сградата: на същия етаж: 10135.3511.264.19.26, под обекта: няма, над обекта: 10135.3511.264.19.30.",
-    "detail_checked": true,
-    "price_per_sqm": 1364,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 109160
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-10-14T19:14:24.143630+00:00",
-    "days_on_market": 55,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -24.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3623,8 +3593,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3654,8 +3624,39 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
+    "score": 15
+  },
+  {
+    "id": "bcpea_91573",
+    "url": "https://sales.bcpea.org/properties/91573",
+    "photo": "https://sales.bcpea.org/upload/91573/457037/277404707_991279741505916_9221481895754815923_n.jpg?w=270&h=270",
+    "price_eur": 51886,
+    "sqm": 100,
+    "area": "Варна, Приморски",
+    "title": "Къща с парцел, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-24T09:22:00+00:00",
+    "category": "land",
+    "lat": 43.2566785,
+    "lng": 27.9972332,
+    "detail_checked": true,
+    "description": "½ идеална част от сграда с идентификатор № 10135.2554.363.1 находящ а се в гр. Варна, район Приморски, ул. „Евлоги Георгиев“ №15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363, застроена площ: 69 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: Жилищна сграда - еднофамилна, предишен идентификатор: няма. ½ идеална част от сграда с идентификатор № 10135.2554.363.2 находяща се в гр.Варна, район Приморски, ул. „Евлоги Георгиев“ № 15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363 ,застроена площ: 13 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: селскостопанска сграда, предишен идентификатор: няма. ½ идеална част от сграда с идентификатор № 10135.2554.363.4 находяща се в гр. Варна, район Приморски, ул. „Евлоги Георгиев“ №15-а , по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363, застроена площ: 17 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: сграда за търговия, предишен идентификатор: няма. 51 кв.м. идеални части от Поземлен имот с идентификатор 10135.2554.363, находящ се в гр.Варна, район Приморски, ул. „Евлоги Георгиев“ № 15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, целия с площ 219 кв.м., трайно предназначение на територията: Урбанизирана, начин на трайно ползване: ниско застрояване /до 10м/, предишен идентификатор: няма, номер от предходен план: 593, в квартал: 6, при съседи: 10135.2554.27, 10135.2554.365, 10135.2554.364, 10135.2554.362, 10135.2554.361, 10135.2554.359, а по документ за собственост представляващ ДВОРНО МЯСТО, а именно: имот пл. № 54 /петдесет и четвърти/, в квартал 6 /шести/ по плана на 24 /двадесет и четвърти/ подрайон на гр.Варна, с площ от 306.00 /триста и шест/ кв.метра, при съседи: 10135.2554.365, 10135.2554.364, 10135.2554.362, 10135.2554.27, 10135.2554.361 и 10135.2554.359.",
+    "price_per_sqm": 519,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 51886
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 30,
+    "area_avg_price_per_sqm": 747,
+    "pct_vs_area_avg": -30.5,
     "score": 15
   },
   {
@@ -3685,8 +3686,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3716,8 +3717,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3747,8 +3748,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3810,8 +3811,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3841,8 +3842,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -30.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -30.3,
     "score": 15
   },
   {
@@ -3873,8 +3874,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 45,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -26.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -26.8,
     "score": 15
   },
   {
@@ -3904,8 +3905,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3935,8 +3936,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -3998,8 +3999,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -4029,8 +4030,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -4061,8 +4062,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -30.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -30.9,
     "score": 15
   },
   {
@@ -4092,8 +4093,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -31.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -31.2,
     "score": 15
   },
   {
@@ -4188,8 +4189,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -36.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -36.7,
     "score": 15
   },
   {
@@ -4305,7 +4306,7 @@
     "removed_at": null,
     "days_on_market": 1,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -38.7,
+    "pct_vs_area_avg": -38.6,
     "score": 15
   },
   {
@@ -4416,39 +4417,9 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 2533,
     "pct_vs_area_avg": -53.1,
-    "score": 15
-  },
-  {
-    "id": "bcpea_93519",
-    "url": "https://sales.bcpea.org/properties/93519",
-    "photo": "https://sales.bcpea.org/upload/93519/465497/IMG_9036.jpeg?w=270&h=270",
-    "price_eur": 53616,
-    "sqm": 55,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T10:16:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": null,
-    "lng": null,
-    "price_per_sqm": 975,
-    "price_history": [
-      {
-        "date": "2026-10-23T09:20:02.178472+00:00",
-        "price_eur": 53616
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 0,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -46.3,
     "score": 15
   },
   {
@@ -4575,8 +4546,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -26.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -27.0,
     "score": 14
   },
   {
@@ -4832,8 +4803,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 45,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -21.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -21.9,
     "score": 13
   },
   {
@@ -4864,8 +4835,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -25.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -25.6,
     "score": 13
   },
   {
@@ -5020,8 +4991,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-16T20:19:29.649010+00:00",
     "days_on_market": 51,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -20.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -20.5,
     "score": 13
   },
   {
@@ -5059,7 +5030,7 @@
     "removed_at": null,
     "days_on_market": 14,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -30.7,
+    "pct_vs_area_avg": -30.6,
     "score": 13
   },
   {
@@ -5278,8 +5249,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 40,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -20.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -20.6,
     "score": 12
   },
   {
@@ -5371,8 +5342,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 45,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -17.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -18.0,
     "score": 12
   },
   {
@@ -5530,8 +5501,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 51,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -14.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -14.5,
     "score": 11
   },
   {
@@ -5731,8 +5702,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -16.0,
     "score": 10
   },
   {
@@ -5766,6 +5737,37 @@
     "score": 10
   },
   {
+    "id": "bcpea_91458",
+    "url": "https://sales.bcpea.org/properties/91458",
+    "photo": "https://sales.bcpea.org/upload/91458/456215/viber_изображение_2026-08-08_08-15-46-480.jpg?w=270&h=270",
+    "price_eur": 224080,
+    "sqm": 146,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T15:35:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 24, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.9.21 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА ГОЛФ КЛУБ, бл. 9, вх. В, ет. 4, в сграда с идентификатор № 10135.2526.2511.9, с предназначение: жилищна сграда - многофамилна, брой етажи: 4, сградата е разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 91.28 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.9.22, под обекта: № 10135.2526.2511.9.19, над обекта: няма, ведно с прилежащите тераса с площ от 54.97 кв.м., ведно с 2.9016 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 224 080 евро без ДДС /двеста двадесет и четири хиляди и осемдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1535,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 224080
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.7,
+    "score": 10
+  },
+  {
     "id": "bcpea_91450",
     "url": "https://sales.bcpea.org/properties/91450",
     "photo": "https://sales.bcpea.org/upload/91450/456164/viber_изображение_2026-08-08_08-01-17-076.jpg?w=270&h=270",
@@ -5792,8 +5794,70 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.9,
+    "score": 10
+  },
+  {
+    "id": "bcpea_91415",
+    "url": "https://sales.bcpea.org/properties/91415",
+    "photo": "https://sales.bcpea.org/upload/91415/456012/viber_изображение_2026-08-08_07-14-15-924.jpg?w=270&h=270",
+    "price_eur": 136720,
+    "sqm": 89,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T14:26:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 9, представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.2.9 , находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 2, вх. Б, ет. 1, в сграда с идентификатор № 10135.2526.2511.2 , с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 89.24 кв. м., при граници по схема: на същия етаж: № 10135.2526.2511.2.23, № 10135.2526.2511.2.22, № 10135.2526.2511.2.21, № 10135.2526.2511.2.10, № 10135.2526.2511.2.27; под обекта: няма; над обекта: № 10135.2526.2511.2.11, ведно с прилежащите изба № 9 с площ от 10.08 кв. м., разположена на етаж -1 (минус едно), вх. Б на сградата, при граници: сървър и табло, коридор, маза към ап. № 10, ведно с 3.3791 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 136 720 евро без ДДС /сто тридесет и шест хиляди седемстотин и двадесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1536,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 136720
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -15.6,
+    "score": 10
+  },
+  {
+    "id": "bcpea_91418",
+    "url": "https://sales.bcpea.org/properties/91418",
+    "photo": "https://sales.bcpea.org/upload/91418/456031/viber_изображение_2026-08-08_07-25-10-755.jpg?w=270&h=270",
+    "price_eur": 332720,
+    "sqm": 217,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T14:35:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.3.1, находящ се гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 3, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.3 , с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.40 кв. м., при граници по схема: на същия етаж: № 10135.2526.2511.3.2; под обекта: № 10135.2526.2511.3.24, № 10135.2526.2511.3.23, № 10135.2526.2511.3.22, № 10135.2526.2511.3.21, № 10135.2526.2511.3.20, № 10135.2526.2511.3.19; над обекта: № 10135.2526.2511.3.3, ведно с прилежащите изба № 9 с площ от 8.35 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: общи части, маза към ап. № 10, гараж 11, ведно с тераса с площ от 85.75 кв. м., ведно с 5.5813 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което е същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 332 720 евро без ДДС /триста тридесет и две хиляди седемстотин и двадесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1533,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 332720
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.8,
     "score": 10
   },
   {
@@ -5823,7 +5887,38 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -16.1,
+    "score": 10
+  },
+  {
+    "id": "bcpea_91441",
+    "url": "https://sales.bcpea.org/properties/91441",
+    "photo": "https://sales.bcpea.org/upload/91441/456126/viber_изображение_2026-08-08_07-45-08-133.jpg?w=270&h=270",
+    "price_eur": 329600,
+    "sqm": 215,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T15:02:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.6.9, находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 6, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.6, с предназначение: жилищна сграда – многофамилна, брой етажи: 4, в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.11 кв. м., при граници по схема: съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.6.10; под обекта: № 10135.2526.2511.6.35, № 10135.2526.2511.6.34; над обекта: № 10135.2526.2511.6.11, ведно с прилежащите изба № 9 с площ от 8.50 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: коридор, маза към ап. № 9, гараж № 19, ведно с тераса с площ от 84.00 кв. м., ведно с 6.8649 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена сградата, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 329 600 евро без ДДС /триста двадесет и девет хиляди и шестстотин евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1533,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 329600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -15.8,
     "score": 10
   },
@@ -5854,8 +5949,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -16.1,
     "score": 10
   },
   {
@@ -5949,6 +6044,37 @@
     "score": 10
   },
   {
+    "id": "bcpea_91425",
+    "url": "https://sales.bcpea.org/properties/91425",
+    "photo": "https://sales.bcpea.org/upload/91425/456075/viber_изображение_2026-08-08_07-29-04-046.jpg?w=270&h=270",
+    "price_eur": 329600,
+    "sqm": 215,
+    "area": "Варна",
+    "title": "Тристаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T14:48:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.4.1, находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 4, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.4, с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.11 кв. м., при граници по схема: съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.4.2; под обекта: № 10135.2526.2511.4.15, № 10135.2526.2511.4.16; над обекта: № 10135.2526.2511.4.3, ведно с прилежащите изба № 9 с площ от 8.39 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: общо помещение, коридор, маза към ап. № 10, ведно с тераса с площ от 84.00 кв. м., ведно с 8.1734 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което е същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 329 600 евро без ДДС /триста двадесет и девет хиляди и шестстотин евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1533,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 329600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.8,
+    "score": 10
+  },
+  {
     "id": "bcpea_89390",
     "url": "https://sales.bcpea.org/properties/89390",
     "photo": "https://sales.bcpea.org/upload/89390/446659/P1090019.JPG?w=270&h=270",
@@ -6035,8 +6161,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -16.1,
     "score": 10
   },
   {
@@ -6126,8 +6252,71 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.9,
+    "score": 10
+  },
+  {
+    "id": "bcpea_91446",
+    "url": "https://sales.bcpea.org/properties/91446",
+    "photo": "https://sales.bcpea.org/upload/91446/456142/viber_изображение_2026-08-08_07-48-19-799.jpg?w=270&h=270",
+    "price_eur": 236160,
+    "sqm": 154,
+    "area": "Варна",
+    "title": "Тристаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T15:08:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 13 , съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.6.13 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА ГОЛФ КЛУБ, бл. 6, вх. Б, ет. 4, в сграда с идентификатор № 10135.2526.2511.6, с предназначение: жилищна сграда многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 124.22 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.6.14, под обекта: № 10135.2526.2511.6.11, над обекта: няма, ведно с прилежащите изба № 13, разположена на етаж 1, вх. Б на сградата, с площ от 10.93 кв.м, при граници: двор, коридор, стълбищна клетка, тераси с обща площ от 29.34 кв.м, ведно с 4,3761 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 236 160 евро без ДДС /двеста тридесет и шест хиляди сто и шестдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1534,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 236160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.7,
+    "score": 10
+  },
+  {
+    "id": "bcpea_92264",
+    "url": "https://sales.bcpea.org/properties/92264",
+    "photo": null,
+    "price_eur": 96408,
+    "sqm": 61,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-11T16:59:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "Самостоятелен обект в сграда с идентификатор № 10135.3512.87.2.6 по кадастралната карта и кадастралните регистри на гр. Варна, общ. Варна, обл. Варна, одобрени със Заповед № РД-18-64/16.05.2008 година на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект от 26.04.2023 година, с адрес на имота: гр. Варна, район Младост, ж.к. Младост, бл. 115, вх. 10, ет. 2, ап. 6, разположен в жилищна сграда с идентификатор № 10135.3512.87.2, целият с площ от 60.90 кв.м., при граници на самостоятелния обект: на същия етаж – 10135.3512.87.2.5, под обекта – 10135.3512.87.2.3, над обекта – 10135.3512.87.2.9, ведно с принадлежащото му Избено помещение № 6, заедно с 0.7757 % идеални части от общите части на сградата и от правото на строеж върху поземления имот, в който е изградена сградата, представляващ имот с идентификатор № 10135.3512.87",
+    "detail_checked": true,
+    "price_per_sqm": 1580,
+    "price_history": [
+      {
+        "date": "2026-09-11T14:36:42.706133+00:00",
+        "price_eur": 96408
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 41,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -13.2,
     "score": 10
   },
   {
@@ -6256,6 +6445,37 @@
     "score": 10
   },
   {
+    "id": "bcpea_91468",
+    "url": "https://sales.bcpea.org/properties/91468",
+    "photo": "https://sales.bcpea.org/upload/91468/456264/viber_изображение_2026-08-08_10-45-36-381.jpg?w=270&h=270",
+    "price_eur": 179360,
+    "sqm": 117,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-08-20T16:02:00+00:00",
+    "category": "apartment",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 15, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.13.16 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА - ГОЛФ КЛУБ, бл. 11, вх. Б, ет. -3 (минус три), в сграда с идентификатор № 10135.2526.2511.13 , с предназначение: жилищна сграда - многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 117.05 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.13.17, № 10135.2526.2511.13.14, № 10135.2526.2511.13.2, № 10135.2526.2511.13.29, под обекта: няма, над обекта: № 10135.2526.2511.13.18, ведно с прилежащите изба № 15, разположена на етаж -3 (минус три) в сградата, с площ от 15.97  кв.м, при граници: машинно, коридор, маза към ап. № 16, както и ведно с 1.5598% идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 179 360 евро без ДДС /сто седемдесет и девет хиляди триста и шестдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
+    "price_per_sqm": 1533,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 179360
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-09-23T12:43:07.670313+00:00",
+    "days_on_market": 33,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.8,
+    "score": 10
+  },
+  {
     "id": "bcpea_92995",
     "url": "https://sales.bcpea.org/properties/92995",
     "photo": "https://sales.bcpea.org/upload/92995/463541/Гаражна врата.jpg?w=270&h=270",
@@ -6370,37 +6590,6 @@
     "score": 10
   },
   {
-    "id": "bcpea_91458",
-    "url": "https://sales.bcpea.org/properties/91458",
-    "photo": "https://sales.bcpea.org/upload/91458/456215/viber_изображение_2026-08-08_08-15-46-480.jpg?w=270&h=270",
-    "price_eur": 224080,
-    "sqm": 146,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T15:35:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 24, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.9.21 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА ГОЛФ КЛУБ, бл. 9, вх. В, ет. 4, в сграда с идентификатор № 10135.2526.2511.9, с предназначение: жилищна сграда - многофамилна, брой етажи: 4, сградата е разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 91.28 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.9.22, под обекта: № 10135.2526.2511.9.19, над обекта: няма, ведно с прилежащите тераса с площ от 54.97 кв.м., ведно с 2.9016 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 224 080 евро без ДДС /двеста двадесет и четири хиляди и осемдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1535,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 224080
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.4,
-    "score": 9
-  },
-  {
     "id": "bcpea_91455",
     "url": "https://sales.bcpea.org/properties/91455",
     "photo": "https://sales.bcpea.org/upload/91455/456197/viber_изображение_2026-08-08_08-09-49-628.jpg?w=270&h=270",
@@ -6427,8 +6616,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.2,
     "score": 9
   },
   {
@@ -6618,37 +6807,6 @@
     "score": 9
   },
   {
-    "id": "bcpea_91415",
-    "url": "https://sales.bcpea.org/properties/91415",
-    "photo": "https://sales.bcpea.org/upload/91415/456012/viber_изображение_2026-08-08_07-14-15-924.jpg?w=270&h=270",
-    "price_eur": 136720,
-    "sqm": 89,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T14:26:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 9, представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.2.9 , находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 2, вх. Б, ет. 1, в сграда с идентификатор № 10135.2526.2511.2 , с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 89.24 кв. м., при граници по схема: на същия етаж: № 10135.2526.2511.2.23, № 10135.2526.2511.2.22, № 10135.2526.2511.2.21, № 10135.2526.2511.2.10, № 10135.2526.2511.2.27; под обекта: няма; над обекта: № 10135.2526.2511.2.11, ведно с прилежащите изба № 9 с площ от 10.08 кв. м., разположена на етаж -1 (минус едно), вх. Б на сградата, при граници: сървър и табло, коридор, маза към ап. № 10, ведно с 3.3791 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 136 720 евро без ДДС /сто тридесет и шест хиляди седемстотин и двадесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1536,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 136720
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.4,
-    "score": 9
-  },
-  {
     "id": "bcpea_91494",
     "url": "https://sales.bcpea.org/properties/91494",
     "photo": "https://sales.bcpea.org/upload/91494/456365/viber_изображение_2026-08-08_10-38-41-743.jpg?w=270&h=270",
@@ -6675,39 +6833,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -13.4,
-    "score": 9
-  },
-  {
-    "id": "bcpea_91418",
-    "url": "https://sales.bcpea.org/properties/91418",
-    "photo": "https://sales.bcpea.org/upload/91418/456031/viber_изображение_2026-08-08_07-25-10-755.jpg?w=270&h=270",
-    "price_eur": 332720,
-    "sqm": 217,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T14:35:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.3.1, находящ се гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 3, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.3 , с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.40 кв. м., при граници по схема: на същия етаж: № 10135.2526.2511.3.2; под обекта: № 10135.2526.2511.3.24, № 10135.2526.2511.3.23, № 10135.2526.2511.3.22, № 10135.2526.2511.3.21, № 10135.2526.2511.3.20, № 10135.2526.2511.3.19; над обекта: № 10135.2526.2511.3.3, ведно с прилежащите изба № 9 с площ от 8.35 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: общи части, маза към ап. № 10, гараж 11, ведно с тераса с площ от 85.75 кв. м., ведно с 5.5813 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което е същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 332 720 евро без ДДС /триста тридесет и две хиляди седемстотин и двадесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1533,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 332720
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -13.7,
     "score": 9
   },
   {
@@ -6770,37 +6897,6 @@
     "days_on_market": 67,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
-    "score": 9
-  },
-  {
-    "id": "bcpea_91441",
-    "url": "https://sales.bcpea.org/properties/91441",
-    "photo": "https://sales.bcpea.org/upload/91441/456126/viber_изображение_2026-08-08_07-45-08-133.jpg?w=270&h=270",
-    "price_eur": 329600,
-    "sqm": 215,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T15:02:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.6.9, находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 6, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.6, с предназначение: жилищна сграда – многофамилна, брой етажи: 4, в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.11 кв. м., при граници по схема: съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.6.10; под обекта: № 10135.2526.2511.6.35, № 10135.2526.2511.6.34; над обекта: № 10135.2526.2511.6.11, ведно с прилежащите изба № 9 с площ от 8.50 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: коридор, маза към ап. № 9, гараж № 19, ведно с тераса с площ от 84.00 кв. м., ведно с 6.8649 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена сградата, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 329 600 евро без ДДС /триста двадесет и девет хиляди и шестстотин евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1533,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 329600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.5,
     "score": 9
   },
   {
@@ -6895,8 +6991,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 45,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -9.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -9.9,
     "score": 9
   },
   {
@@ -6928,37 +7024,6 @@
     "days_on_market": 67,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
-    "score": 9
-  },
-  {
-    "id": "bcpea_91425",
-    "url": "https://sales.bcpea.org/properties/91425",
-    "photo": "https://sales.bcpea.org/upload/91425/456075/viber_изображение_2026-08-08_07-29-04-046.jpg?w=270&h=270",
-    "price_eur": 329600,
-    "sqm": 215,
-    "area": "Варна",
-    "title": "Тристаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T14:48:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 9, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.4.1, находящ се в гр. Варна, ж.к. СВЕТИ НИКОЛА – ГОЛФ КЛУБ, бл. 4, вх. Б, ет. 2, в сграда с идентификатор № 10135.2526.2511.4, с предназначение: жилищна сграда – многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 131.11 кв. м., при граници по схема: съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.4.2; под обекта: № 10135.2526.2511.4.15, № 10135.2526.2511.4.16; над обекта: № 10135.2526.2511.4.3, ведно с прилежащите изба № 9 с площ от 8.39 кв. м., разположена на етаж 1, вх. Б на сградата, при граници: общо помещение, коридор, маза към ап. № 10, ведно с тераса с площ от 84.00 кв. м., ведно с 8.1734 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което е същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 329 600 евро без ДДС /триста двадесет и девет хиляди и шестстотин евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1533,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 329600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.5,
     "score": 9
   },
   {
@@ -7048,39 +7113,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -13.5,
-    "score": 9
-  },
-  {
-    "id": "bcpea_91446",
-    "url": "https://sales.bcpea.org/properties/91446",
-    "photo": "https://sales.bcpea.org/upload/91446/456142/viber_изображение_2026-08-08_07-48-19-799.jpg?w=270&h=270",
-    "price_eur": 236160,
-    "sqm": 154,
-    "area": "Варна",
-    "title": "Тристаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T15:08:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 13 , съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.6.13 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА ГОЛФ КЛУБ, бл. 6, вх. Б, ет. 4, в сграда с идентификатор № 10135.2526.2511.6, с предназначение: жилищна сграда многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 124.22 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.6.14, под обекта: № 10135.2526.2511.6.11, над обекта: няма, ведно с прилежащите изба № 13, разположена на етаж 1, вх. Б на сградата, с площ от 10.93 кв.м, при граници: двор, коридор, стълбищна клетка, тераси с обща площ от 29.34 кв.м, ведно с 4,3761 % идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 236 160 евро без ДДС /двеста тридесет и шест хиляди сто и шестдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1534,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 236160
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -13.8,
     "score": 9
   },
   {
@@ -7142,40 +7176,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -13.4,
-    "score": 9
-  },
-  {
-    "id": "bcpea_92264",
-    "url": "https://sales.bcpea.org/properties/92264",
-    "photo": null,
-    "price_eur": 96408,
-    "sqm": 61,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-11T16:59:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "Самостоятелен обект в сграда с идентификатор № 10135.3512.87.2.6 по кадастралната карта и кадастралните регистри на гр. Варна, общ. Варна, обл. Варна, одобрени със Заповед № РД-18-64/16.05.2008 година на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект от 26.04.2023 година, с адрес на имота: гр. Варна, район Младост, ж.к. Младост, бл. 115, вх. 10, ет. 2, ап. 6, разположен в жилищна сграда с идентификатор № 10135.3512.87.2, целият с площ от 60.90 кв.м., при граници на самостоятелния обект: на същия етаж – 10135.3512.87.2.5, под обекта – 10135.3512.87.2.3, над обекта – 10135.3512.87.2.9, ведно с принадлежащото му Избено помещение № 6, заедно с 0.7757 % идеални части от общите части на сградата и от правото на строеж върху поземления имот, в който е изградена сградата, представляващ имот с идентификатор № 10135.3512.87",
-    "detail_checked": true,
-    "price_per_sqm": 1580,
-    "price_history": [
-      {
-        "date": "2026-09-11T14:36:42.706133+00:00",
-        "price_eur": 96408
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 41,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -12.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -13.6,
     "score": 9
   },
   {
@@ -7243,37 +7245,6 @@
     "score": 9
   },
   {
-    "id": "bcpea_91468",
-    "url": "https://sales.bcpea.org/properties/91468",
-    "photo": "https://sales.bcpea.org/upload/91468/456264/viber_изображение_2026-08-08_10-45-36-381.jpg?w=270&h=270",
-    "price_eur": 179360,
-    "sqm": 117,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-20T16:02:00+00:00",
-    "category": "apartment",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "detail_checked": true,
-    "description": "АПАРТАМЕНТ № 15, съставляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА , с идентификатор № 10135.2526.2511.13.16 , находящ се в гр. Варна, п.к. 9000, ж.к. СВЕТИ НИКОЛА - ГОЛФ КЛУБ, бл. 11, вх. Б, ет. -3 (минус три), в сграда с идентификатор № 10135.2526.2511.13 , с предназначение: жилищна сграда - многофамилна, брой етажи: 4, разположена в поземлен имот с идентификатор № 10135.2526.2511, с предназначение на самостоятелния обект: жилище, апартамент в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1, с площ от 117.05 кв.м., при граници по схема съседни самостоятелни обекти в сградата: на същия етаж: № 10135.2526.2511.13.17, № 10135.2526.2511.13.14, № 10135.2526.2511.13.2, № 10135.2526.2511.13.29, под обекта: няма, над обекта: № 10135.2526.2511.13.18, ведно с прилежащите изба № 15, разположена на етаж -3 (минус три) в сградата, с площ от 15.97  кв.м, при граници: машинно, коридор, маза към ап. № 16, както и ведно с 1.5598% идеални части от общите части на сградата и съответните идеални части от правото на строеж, върху дворното място в което същата е построена, ведно със съответните проценти идеални части от изградения към сградата фотоволтаичен парк. НАЧАЛНА ТРЪЖНА ЦЕНА: 179 360 евро без ДДС /сто седемдесет и девет хиляди триста и шестдесет евро без ДДС/. Върху достигнатата крайна цена ще бъде начислен 20 % ДДС.",
-    "price_per_sqm": 1533,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 179360
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.5,
-    "score": 9
-  },
-  {
     "id": "bcpea_90148",
     "url": "https://sales.bcpea.org/properties/90148",
     "photo": "https://sales.bcpea.org/upload/90148/450191/20200925_122032.jpg?w=270&h=270",
@@ -7330,8 +7301,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.5,
     "score": 9
   },
   {
@@ -7361,8 +7332,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -14.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -14.6,
     "score": 9
   },
   {
@@ -7424,8 +7395,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -15.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -15.2,
     "score": 9
   },
   {
@@ -7456,8 +7427,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -20.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -20.9,
     "score": 9
   },
   {
@@ -8655,7 +8626,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 61,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -98.7,
     "score": 8
   },
@@ -9094,7 +9065,7 @@
     "removed_at": "2026-10-08T15:15:01.338238+00:00",
     "days_on_market": 50,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -7.7,
+    "pct_vs_area_avg": -7.6,
     "score": 8
   },
   {
@@ -9155,7 +9126,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 61,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.1,
     "score": 8
   },
@@ -9276,7 +9247,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 61,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -99.3,
     "score": 8
   },
@@ -11889,7 +11860,7 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 54,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -90.7,
     "score": 7
   },
@@ -14529,7 +14500,7 @@
     "removed_at": "2026-10-15T05:03:16.503879+00:00",
     "days_on_market": 26,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -11.5,
+    "pct_vs_area_avg": -11.4,
     "score": 7
   },
   {
@@ -16944,8 +16915,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 55,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -69.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -69.4,
     "score": 7
   },
   {
@@ -16975,8 +16946,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 55,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -68.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -68.7,
     "score": 7
   },
   {
@@ -17653,7 +17624,7 @@
     "removed_at": null,
     "days_on_market": 14,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -15.5,
+    "pct_vs_area_avg": -15.4,
     "score": 7
   },
   {
@@ -18993,8 +18964,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-16T20:19:29.649010+00:00",
     "days_on_market": 47,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -63.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -63.9,
     "score": 6
   },
   {
@@ -19055,8 +19026,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-16T20:19:29.649010+00:00",
     "days_on_market": 47,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -62.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -63.0,
     "score": 6
   },
   {
@@ -24422,8 +24393,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-29T14:53:22.548248+00:00",
     "days_on_market": 44,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -67.0,
     "score": 6
   },
   {
@@ -25136,7 +25107,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 43,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.9,
     "score": 6
   },
@@ -26205,8 +26176,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 46,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -61.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -61.8,
     "score": 6
   },
   {
@@ -26763,8 +26734,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-16T20:19:29.649010+00:00",
     "days_on_market": 47,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -63.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -63.2,
     "score": 6
   },
   {
@@ -27928,7 +27899,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 40,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -93.1,
     "score": 5
   },
@@ -30102,8 +30073,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 46,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 2.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 2.2,
     "score": 5
   },
   {
@@ -30134,7 +30105,7 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 41,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -81.4,
     "score": 5
   },
@@ -31315,7 +31286,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 40,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -92.7,
     "score": 5
   },
@@ -33023,8 +32994,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 38,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -67.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -67.3,
     "score": 5
   },
   {
@@ -35753,8 +35724,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -77.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -77.2,
     "score": 5
   },
   {
@@ -37674,8 +37645,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -74.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -74.3,
     "score": 5
   },
   {
@@ -38482,7 +38453,7 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -96.3,
     "score": 5
   },
@@ -39318,8 +39289,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -78.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -78.4,
     "score": 5
   },
   {
@@ -43257,8 +43228,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 35,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 204.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 204.0,
     "score": 5
   },
   {
@@ -44463,8 +44434,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -78.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -78.1,
     "score": 5
   },
   {
@@ -45300,7 +45271,7 @@
     "source_status": "removed",
     "removed_at": "2026-08-25T00:59:11.408124+00:00",
     "days_on_market": 41,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -85.2,
     "score": 5
   },
@@ -46201,8 +46172,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-01T14:53:21.331908+00:00",
     "days_on_market": 42,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 14.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 14.3,
     "score": 5
   },
   {
@@ -46792,7 +46763,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49774,7 +49745,7 @@
     "removed_at": null,
     "days_on_market": 27,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 96.4,
+    "pct_vs_area_avg": 96.5,
     "score": 4
   },
   {
@@ -50834,7 +50805,7 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -90.9,
     "score": 4
   },
@@ -51462,7 +51433,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -51614,8 +51585,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -61.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -62.0,
     "score": 4
   },
   {
@@ -51706,7 +51677,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-09T20:21:16.687572+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -99.8,
     "score": 4
   },
@@ -51957,7 +51928,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -52395,8 +52366,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -62.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -62.6,
     "score": 4
   },
   {
@@ -52487,7 +52458,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -52902,8 +52873,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 1.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 1.2,
     "score": 4
   },
   {
@@ -53062,7 +53033,7 @@
     "removed_at": "2026-10-15T18:43:20.171502+00:00",
     "days_on_market": 36,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 19.0,
+    "pct_vs_area_avg": 19.1,
     "score": 4
   },
   {
@@ -53197,7 +53168,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 190,
     "pct_vs_area_avg": 210.8,
     "score": 4
@@ -54476,8 +54447,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -62.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -62.8,
     "score": 4
   },
   {
@@ -55132,8 +55103,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -60.2,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -60.3,
     "score": 4
   },
   {
@@ -55656,7 +55627,7 @@
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 92.0,
+    "pct_vs_area_avg": 92.1,
     "score": 4
   },
   {
@@ -55748,8 +55719,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 55.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 55.0,
     "score": 4
   },
   {
@@ -55779,7 +55750,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -56096,7 +56067,37 @@
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 32,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 65.3,
+    "pct_vs_area_avg": 65.4,
+    "score": 4
+  },
+  {
+    "id": "bcpea_90685",
+    "url": "https://sales.bcpea.org/properties/90685",
+    "photo": "https://sales.bcpea.org/upload/90685/453502/3eefd344-9008-4f6f-a5de-03aa0a2f68ab.jpg?w=270&h=270",
+    "price_eur": 39960,
+    "sqm": 55,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-07-29T16:30:00+00:00",
+    "category": "apartment",
+    "lat": null,
+    "lng": null,
+    "detail_checked": true,
+    "price_per_sqm": 727,
+    "price_history": [
+      {
+        "date": "2026-08-24T16:41:46.755459+00:00",
+        "price_eur": 39960
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-08-29T14:53:22.548248+00:00",
+    "days_on_market": 30,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -60.1,
     "score": 4
   },
   {
@@ -56338,8 +56339,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-15T18:43:20.171502+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 12.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 12.2,
     "score": 4
   },
   {
@@ -57185,7 +57186,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-09T20:21:16.687572+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -81.2,
     "score": 4
   },
@@ -57563,7 +57564,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 31,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -76.5,
     "score": 4
   },
@@ -58216,7 +58217,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-09T20:21:16.687572+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.5,
     "score": 4
   },
@@ -58597,7 +58598,7 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -98.1,
     "score": 4
   },
@@ -58823,8 +58824,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 28,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 6220.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 6201.3,
     "score": 4
   },
   {
@@ -58954,7 +58955,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -59328,7 +59329,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -59454,8 +59455,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-05T15:57:34.019258+00:00",
     "days_on_market": 31,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -61.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -61.2,
     "score": 4
   },
   {
@@ -59491,7 +59492,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -86.4,
     "score": 4
@@ -59649,7 +59650,7 @@
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 65.0,
+    "pct_vs_area_avg": 65.1,
     "score": 4
   },
   {
@@ -60566,7 +60567,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -61718,7 +61719,7 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -94.0,
     "score": 4
   },
@@ -62029,7 +62030,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 560,
     "pct_vs_area_avg": 6.3,
     "score": 4
@@ -62061,7 +62062,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": 16.2,
     "score": 4
@@ -63235,7 +63236,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -63454,7 +63455,7 @@
     "source_status": "removed",
     "removed_at": "2026-09-09T20:21:16.687572+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -78.6,
     "score": 4
   },
@@ -66568,7 +66569,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -66725,8 +66726,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -62.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -62.6,
     "score": 4
   },
   {
@@ -66785,8 +66786,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 16.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 16.1,
     "score": 4
   },
   {
@@ -68697,8 +68698,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 7.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 7.6,
     "score": 4
   },
   {
@@ -68982,8 +68983,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 38,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 14.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 13.8,
     "score": 4
   },
   {
@@ -69275,7 +69276,7 @@
     "removed_at": null,
     "days_on_market": 29,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 87.8,
+    "pct_vs_area_avg": 87.9,
     "score": 4
   },
   {
@@ -69719,8 +69720,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-08T15:15:01.338238+00:00",
     "days_on_market": 36,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 5.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 5.0,
     "score": 4
   },
   {
@@ -70097,8 +70098,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -64.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -64.1,
     "score": 4
   },
   {
@@ -70191,8 +70192,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 18.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 17.8,
     "score": 4
   },
   {
@@ -70325,8 +70326,8 @@
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
     "days_on_market": 33,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -61.9,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -62.0,
     "score": 4
   },
   {
@@ -70542,8 +70543,8 @@
     "source_status": "removed",
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 18.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 17.6,
     "score": 4
   },
   {
@@ -71106,7 +71107,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72014,7 +72015,7 @@
     "removed_at": "2026-10-15T18:43:20.171502+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 181.0,
+    "pct_vs_area_avg": 181.1,
     "score": 4
   },
   {
@@ -72354,8 +72355,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 32,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -98.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -98.4,
     "score": 4
   },
   {
@@ -72917,8 +72918,8 @@
     "source_status": "removed",
     "removed_at": "2026-10-05T15:57:34.019258+00:00",
     "days_on_market": 31,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 0.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -0.0,
     "score": 3
   },
   {
@@ -73014,37 +73015,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_91573",
-    "url": "https://sales.bcpea.org/properties/91573",
-    "photo": "https://sales.bcpea.org/upload/91573/457037/277404707_991279741505916_9221481895754815923_n.jpg?w=270&h=270",
-    "price_eur": 51886,
-    "sqm": 100,
-    "area": "Варна, Приморски",
-    "title": "Къща с парцел, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-08-24T09:22:00+00:00",
-    "category": "land",
-    "lat": 43.2566785,
-    "lng": 27.9972332,
-    "detail_checked": true,
-    "description": "½ идеална част от сграда с идентификатор № 10135.2554.363.1 находящ а се в гр. Варна, район Приморски, ул. „Евлоги Георгиев“ №15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363, застроена площ: 69 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: Жилищна сграда - еднофамилна, предишен идентификатор: няма. ½ идеална част от сграда с идентификатор № 10135.2554.363.2 находяща се в гр.Варна, район Приморски, ул. „Евлоги Георгиев“ № 15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363 ,застроена площ: 13 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: селскостопанска сграда, предишен идентификатор: няма. ½ идеална част от сграда с идентификатор № 10135.2554.363.4 находяща се в гр. Варна, район Приморски, ул. „Евлоги Георгиев“ №15-а , по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, сградата е разположена в поземлен имот с идентификатор: 10135.2554.363, застроена площ: 17 кв.м., брой етажи: 1, брой самостоятелни обекти в сградата: 0, предназначение: сграда за търговия, предишен идентификатор: няма. 51 кв.м. идеални части от Поземлен имот с идентификатор 10135.2554.363, находящ се в гр.Варна, район Приморски, ул. „Евлоги Георгиев“ № 15-а, по кадастралната карта и кадастралните регистри одобрени със Заповед № РД-18-92/14.10.2008г. на Изпълнителен директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, целия с площ 219 кв.м., трайно предназначение на територията: Урбанизирана, начин на трайно ползване: ниско застрояване /до 10м/, предишен идентификатор: няма, номер от предходен план: 593, в квартал: 6, при съседи: 10135.2554.27, 10135.2554.365, 10135.2554.364, 10135.2554.362, 10135.2554.361, 10135.2554.359, а по документ за собственост представляващ ДВОРНО МЯСТО, а именно: имот пл. № 54 /петдесет и четвърти/, в квартал 6 /шести/ по плана на 24 /двадесет и четвърти/ подрайон на гр.Варна, с площ от 306.00 /триста и шест/ кв.метра, при съседи: 10135.2554.365, 10135.2554.364, 10135.2554.362, 10135.2554.27, 10135.2554.361 и 10135.2554.359.",
-    "price_per_sqm": 519,
-    "price_history": [
-      {
-        "date": "2026-08-24T16:41:46.755459+00:00",
-        "price_eur": 51886
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 30,
-    "area_avg_price_per_sqm": 519,
-    "pct_vs_area_avg": 0.0,
-    "score": 3
-  },
-  {
     "id": "bcpea_92576",
     "url": "https://sales.bcpea.org/properties/92576",
     "photo": null,
@@ -73137,7 +73107,7 @@
     "removed_at": "2026-10-06T06:28:50.390838+00:00",
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 564.4,
+    "pct_vs_area_avg": 564.5,
     "score": 3
   },
   {
@@ -75574,7 +75544,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 23,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -98.5,
     "score": 3
   },
@@ -76218,7 +76188,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -70.9,
     "score": 3
@@ -76259,7 +76229,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 855,
     "pct_vs_area_avg": 3.8,
     "score": 3
@@ -76290,7 +76260,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76803,7 +76773,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 22,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -79.1,
     "score": 3
   },
@@ -77185,7 +77155,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 444,
     "pct_vs_area_avg": -1.2,
     "score": 3
@@ -77493,8 +77463,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 21,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -67.7,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -67.8,
     "score": 3
   },
   {
@@ -78042,7 +78012,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79363,7 +79333,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79423,7 +79393,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79459,7 +79429,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79495,7 +79465,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79530,7 +79500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79562,7 +79532,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79598,7 +79568,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -79670,7 +79640,7 @@
     "removed_at": null,
     "days_on_market": 1,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -7.5,
+    "pct_vs_area_avg": -7.4,
     "score": 3
   },
   {
@@ -80177,8 +80147,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 22,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 7.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 7.2,
     "score": 2
   },
   {
@@ -81690,7 +81660,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81740,7 +81710,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81792,7 +81762,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81844,7 +81814,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81884,7 +81854,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81935,7 +81905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -83420,7 +83390,7 @@
     "removed_at": null,
     "days_on_market": 16,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 57.8,
+    "pct_vs_area_avg": 57.9,
     "score": 2
   },
   {
@@ -83959,7 +83929,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84820,7 +84790,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85065,7 +85035,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85117,7 +85087,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85153,7 +85123,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86320,7 +86290,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -98.8,
     "score": 2
   },
@@ -86747,7 +86717,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -94.2,
     "score": 2
   },
@@ -87153,7 +87123,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87185,7 +87155,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87228,7 +87198,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": 39.4,
     "score": 2
@@ -87263,7 +87233,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87299,7 +87269,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87341,7 +87311,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88837,7 +88807,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -72.8,
     "score": 2
@@ -88875,7 +88845,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91216,7 +91186,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -91248,7 +91218,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -91280,7 +91250,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -91700,7 +91670,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -91797,8 +91767,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 9,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 5.3,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 5.0,
     "score": 1
   },
   {
@@ -91829,8 +91799,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 9,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": 37.1,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": 36.7,
     "score": 1
   },
   {
@@ -92748,8 +92718,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 8,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -61.5,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -61.7,
     "score": 1
   },
   {
@@ -93637,7 +93607,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -93885,7 +93855,7 @@
     "removed_at": null,
     "days_on_market": 7,
     "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 562.7,
+    "pct_vs_area_avg": 562.8,
     "score": 1
   },
   {
@@ -95069,7 +95039,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95101,7 +95071,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95133,7 +95103,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95746,8 +95716,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 6,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -83.0,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -83.1,
     "score": 1
   },
   {
@@ -95813,7 +95783,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 6,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.8,
     "score": 1
   },
@@ -95886,7 +95856,7 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 6,
-    "area_avg_price_per_sqm": 1815,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -99.8,
     "score": 1
   },
@@ -96547,8 +96517,8 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
-    "area_avg_price_per_sqm": 1815,
+    "days_on_market": 7,
+    "area_avg_price_per_sqm": 1820,
     "pct_vs_area_avg": -97.1,
     "score": 1
   },
@@ -97780,7 +97750,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -97820,7 +97790,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -97859,7 +97829,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -97897,7 +97867,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -97937,7 +97907,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100462,7 +100432,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100494,7 +100464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100529,7 +100499,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100561,7 +100531,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100603,7 +100573,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -100996,8 +100966,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 2,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -67.4,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -67.5,
     "score": 0
   },
   {
@@ -101028,8 +100998,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 2,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -66.9,
     "score": 0
   },
   {
@@ -101060,8 +101030,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 2,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.6,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -66.7,
     "score": 0
   },
   {
@@ -101092,8 +101062,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 2,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.8,
+    "area_avg_price_per_sqm": 1820,
+    "pct_vs_area_avg": -66.9,
     "score": 0
   },
   {
@@ -103645,9 +103615,13 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T12:10:00+00:00",
     "category": "land",
-    "_settlement": "Смилян",
-    "lat": null,
-    "lng": null,
+    "lat": 41.5072718,
+    "lng": 24.7287093,
+    "detail_checked": true,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 67547.10.1 3 по кадастралната карта и кадастралните регистри на с. Смилян, общ. Смолян, обл. Смолян, одобрени със Заповед № РД-18-73/16.12.2010 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, находящ се в с. Смилян, м. АЛАМУГОВО, вид територия Земеделска, категория 8 , НТП Нива , площ 3664 (три хиляди шестстотин шестдесет и четири) кв.м., стар номер 01001 3 , със съседи- поземлени имоти с идентификатори 67547.10.10, 67547.10.11, 67547.10.12, 67547.10.14, 67547.10.83, 67547.10.84.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93532/465529/67547.10.13.png"
+    ],
     "price_per_sqm": 6,
     "price_history": [
       {
@@ -103675,9 +103649,13 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T12:05:00+00:00",
     "category": "land",
-    "_settlement": "Смилян",
-    "lat": null,
-    "lng": null,
+    "lat": 41.5072718,
+    "lng": 24.7287093,
+    "detail_checked": true,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 67547.10.12 по кадастралната карта и кадастралните регистри на с. Смилян, общ. Смолян, обл. Смолян, одобрени със Заповед № РД-18-73/16.12.2010 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, находящ се в с. Смилян, м. АЛАМУГОВО, вид територия Земеделска, категория 7, НТП Ливада, площ 700 (седемстотин) кв.м., стар номер 010012, със съседи- поземлени имоти с идентификатори 67547.10.6, 67547.10.11, 67547.10.13, 67547.10.83",
+    "photos": [
+      "https://sales.bcpea.org/upload/93531/465527/67547.10.12.png"
+    ],
     "price_per_sqm": 1,
     "price_history": [
       {
@@ -103705,9 +103683,32 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T11:41:00+00:00",
     "category": "commercial",
-    "_settlement": "Проглед",
-    "lat": null,
-    "lng": null,
+    "lat": 41.67769,
+    "lng": 24.71338,
+    "detail_checked": true,
+    "description": "Недвижими имоти - самостоятелни обекти, всички находящи се в изградената в груб строеж в сграда „База за отдих „Родопи Даймънд\" I цялостно за тела „А\", „В\" и „С\" , построена съгласно Разрешение за строеж № 18 от 27.03.200бг. и Разрешение за строеж № 22 от 27.03.2007г., находяща се в поземлен имот с идентификатор 58517.102.33, находящ се в с. Проглед, ЕКАТТЕ 58517, общ. Чепеларе, обл. Смолян по кадастралната карта, одобрена със заповед № РД - 18 - 1 / 20.01.2006г. на Изпълнителния директор на АК - Смолян, с административен адрес: с. Проглед, п.к. 4871 Пампорово с площ на поземления имот 11,997 дка кв. м. с трайно предназначение урбанизирана теротия, с начин на трайно ползване: за друг обществен обект, копмлекс, при съседи на имота: 102.29, 102.30, 102.31, 102.32, 102.34, 102.27, 102.65, 102.62, 102.65, който поземлен имот съгласно удостоверение № 606 / 05.02.2008г. на СГКК - гр. Смолян е стар идентификатор УПИ VII - 96 - База за отдих в кв. 1 по плана на к.к. Пампорово, з-ще с. Проглед, общ. Чепеларе с идентификатор на сградата, в която попадат самостоятелните обекти 58517.102.33.1 , а именно: САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.7 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 2, an. 1 А/едно буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,11 /шестдесет и четири цяло и единадесет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.8, под обекта:58517.102.33.1.6, над обекта: 58517.102.33.1.38 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № 1 А/едно буква „А\"/, разположен във вход „А\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 64,11 квадратни метра, състоящ се от коридор, дневна с кухненски бокс, спалня, баня и тоалетна и тераса при граници на апартамента: коридор, апартамент 1 Б с идентификационен номер 58517.102.33.1.8, от три страни - двор и склад - домакин, заедно с припадащите се за апартамента 1,203 % идеални части от общите части на сградата, представляващи 21,34 кв. м. и заедно с припадащите се 1,203 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.8 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 2, an. 1 Б /едно буква „Б'“, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 28,18 /двадесет и осем цяло и осемнадесет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.7, 58517.102.33.1.9, под обекта: 58517.102.33.1.6, над обекта: 58517.102.33.1.37 38 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № 1 Б /едно буква „Б\"/, разположен във вход „А\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 28,18 квадратни метра, състоящ се от коридор, дневна с кухненски бокс, спалня, баня и тоалетна и тераса при граници на апартамента: коридор, апартамент 1 А с идентификационен номер 58517.102.33.1.7, двор и апартамент А 2 с идентификационен номер 58517.102.33.1.9, заедно с припадащите се за апартамента 0,519 % идеални части от общите части на сградата, представляващи 9,20 кв. м. и заедно с припадащите се 0,519 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.9 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 2, ап. 2 /две/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,21 /шестдесет и четири цяло двадесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.8, 58517.102.33.1.10, под обекта: 58517.102.33.1.5, над обекта: 58517.102.33.1.36 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 2 /апартамент цифра „две\"/, разположен във вход „А\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 64,21 квадратни метра, състоящ се от коридор, дневна с кухненски бокс, спалня, баня и тоалетна тераса и мокро помещение при граници на апартамента: коридор, апартамент № А 3 с идентификационен номер 58517.102.33.1.10, двор и апартамент А 1 Б с идентификационен номер 58517.102.33.1.8, заедно с припадащите се за апартамента 1,182 % идеални части от общите части на сградата, представляващи 20,96 кв. м. и заедно с припадащите се 1,182 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.10 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 2, ап.З /три/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 40,91 /четиридесет цяло деветдесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.9, 58517.102.33.1.11, под обекта: 58517.102.33.1.5, над обекта: 58517.102.33.1.35 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 3 /апартамент цифра „три\"/, разположен във вход „А\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 40,S1 квадратни метра, състоящ се от коридор, дневна с кухненски бокс, баня и тоалетна тераса и мокро помещение при граници на апартамента: коридор, апартамент № А 2 идентификационен номер 58517.102.33.1.9, двор и апартамент № А4 с идентификационен номер 58517.102.33.1.11, заедно с припадащите се за апартамента 0,753 % идеални части от общите части на сградата, представляващи 13,36 кв. м. и заедно с припадащите се 0,753 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.11 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 2, ап. 4 /четири/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 42,76 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.10, под обекта: 58517.102.33.1.5, над обекта: 58517.102.33.1.34 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 4 /апартамент цифра „четири\"/, разположен във вход „А\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 42,76 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № А 3 с идентификационен номер 58517.102.33.1.10, двор и апартамент № В 1 с идентификационен номер 8517.102.33.1.12, заедно с припадащите се за апартамента 0,787 % идеални части от общите части на сградата, представляващи 13,36 кв. м. и заедно с припадащите се 0,787 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.15 с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. - 2, ап. А /три буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 31,82 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.14, 58517.102.33.1.16, под обекта: 58517.102.33.1.2, над обекта:58517.102.33.1.30 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В З А /апартамент цифра „три\" буква „А\"/, разположен във вход „В\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 31,82 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № В2в с идентификационен номер58517.102.33.1.14, двор и апартамент № В Зв с идентификационен номер 58517.102.33.1.16, заедно с припадащите се за апартамента 0,586 % идеални части от общите части на сградата, представляващи 10,39 кв. м. и заедно с припадащите се 0,586 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.16 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. - 2, ап.З Б /три буква „Б\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 37,43 /тридесет и седем цяло четиридесет и три стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.15, 58517.102.33.1.17, под обекта; 58517.102.33.1.2, над обекта: 58517.102.33.1.30, 58517.102.33.1.29 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 36 /апартамент цифра „три\" буква „Б\"7, разположен във вход „В\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 37,43 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № ВЗа с идентификационен номер 58517.102.33.1.15, двор и апартамент № В 4 с идентификационен номер 58517.102.33.1.17, заедно с припадащите се за апартамента 0,689 % идеални части от общите части на сградата, представляващи 12,22 кв. м. и заедно с припадащите се 0,689 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.17 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. - 2, ап. 4 /четири/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,31 /шестдесет и един цяло тридесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.16, под обекта: 58517.102.33.1.2, над обекта: 58517.102.33.1.28 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 4 /апартамент цифра „четири\"/, разположен във вход „В\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 61,31 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № ВЗ б с идентификационен номер 58517.102.33.1.16,двор и апартамент № С 1 с идентификационен номер 58517.102.33.1.18,заедно с припадащите се за апартамента 1,128 % идеални части от общите части на сградата, представляващи 20,02 кв. м. и заедно с припадащите се 1,128 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.18 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 2, aп. 1 /едно/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 42,76 /четиридесет и две цяло седемдесет и шест стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.19, под обекта: 58517.102.33.1, над обекта: 58517.102.33.1.27 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 1 /апартамент цифра „едно\"/, разположен във вход „С\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 42,76 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № В4 с идентификационен номер 58517.102.33.1.17,двор и апартамент № С 2 с идентификационен номер 58517.102.33.1.19, заедно с припадащите се за апартамента 0,878 % идеални части от общите части на сградата, представляващи 13,96 кв. м. и заедно с припадащите се 0,878 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.19 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 2, ап. 2 /две/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 40,91 /четиридесет цяло деветдесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.18, 58517.102.33.1.20, под обекта: 58517.102.33.1, над обекта: 58517.102.33.1.26 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 2 /апартамент цифра „две\"/; разположен във вход „С\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 40,91 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № С 1 с идентификационен номер 58517.102.33.1.18, двор и апартамент № С 3 с идентификационен номер 58517.102.33.1.20, заедно с припадащите се за апартамента 0,753 % идеални части от общите части на сградата, представляващи 13,36 кв. м. и заедно с припадащите се 0,753 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.20 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 2, ап. 3, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,14 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.19, 58517.102.33.1.21, под обекта: 58517.102.33.1, над обекта: 58517.102.33.1.25 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 3 /апартамент цифра „три\"/, разположен във вход „С\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 64,14 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № С 2 с идентификационен номер 58517.102.33.1.19, двор и апартамент № С4а с идентификационен номер 58517.102.33.1.21, заедно с припадащите се за апартамента 1,181 % идеални части от общите части на сградата, представляващи 20,94 кв. м. и заедно с припадащите се 1,181 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.21 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 2, ап. 4 А /четири буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 28,69 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.20, 58517.102.33.1.22, под обекта: 58517.102.33.1, над обекта: 58517.102.33.1.24 и 58517.102.33.1.23 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 4а /апартамент четири буква „А\"/, разположен във вход „С\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 28,69 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, апартамент № С 3 с идентификационен номер 58517.102.33.1.20, двор и апартамент № С4б с идентификационен номер 58517.102.33.1.22, заедно с припадащите се за апартамента 0,528 % идеални части от общите части на сградата, представляващи 9,37 кв. м. и заедно с припадащите се 0,528 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.22 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 2,'ап. 4 Б /четири буква „Б\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 84,72 /осемдесет и четири цяло седемдесет и две стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.21, под обекта: 58517.102.33.1, над обекта: 58517.102.33.1.23 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 46 /апартамент четири буква „Б'7, разположен във вход „С\" на партерен етаж на кота -5,70 м с идентична по схема застроена площ от 84,72 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор, перално помещение и тераса, при граници на апартамента: коридор, от две страни двор и апартамент № С 4а с идентификационен номер 58517.102.33.1.21, заедно с припадащите се за апартамента 1,559 % идеални части от общите части на сградата, представляващи 27,66 кв. м. и заедно с припадащите се 1,559 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.33, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. - 1, ап. 5 /пет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,31 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.32, под обекта: 58517.102.33.1.12, над обекта: 58517.102.33.1.44 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 5 /апартамент цифра пет/, разположен във вход „В\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 61,31 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, двор и апартамент А8 с идентификационен номер 58517.102.33.1.3, заедно с припадащите се за апартамента 1,262 % идеални части от общите части на сградата, представляващи 22,38 кв. м. и заедно с припадащите се 1,262 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.28 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. - 1, ап. 8 /осем/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,31 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.29, под обекта: 58517.102.33.1.17, над обекта: 58517.102.33.1.49 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 8 /апартамент цифра осем/, разположен във вход „В\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 61,31 /шестдесет и едно цяло тридесет и една стотни/ квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, двор и апартамент В7б с идентификационен номер 58517.102.33.1.29 и апартамент С 5 с идентификационен номер 58517.102.33.1.27, заедно с припадащите се за апартамента 1,262 % идеални части от общите части на сградата, представляващи 22,38 кв. м. и заедно с припадащите се 1,262 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.26 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 1, ап. 6 /шест/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 36,10 /тридесет и шест цяло и десет стотни/ квадратни метра, пк съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.27, 58517.102.33.1.25, под обекта: 58517.102.33.1.19, над обекта: 58517.102.33.1.51 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 6 /апартамент цифра шест/, разположен във вход „С\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 36,10 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, двор и апартамент С5 с идентификационен номер 58517.102.33.1.27 и апартамент С 7 с идентификационен номер 58517.102.33.1.25, заедно с припадащите се за апартамента 0,743 % идеални части от общите части на сградата, представляващи 13,18 кв. м. и заедно с припадащите се 0,743 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.25 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 1, ап. 7 /седем/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,12 /шестдесет и четири цяло и дванадесет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.26, 58517.102.33.1.24, под обекта: 58517.102.33.1.20, над обекта: 58517.102.33.1.52 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 7 /апартамент цифра седем/, разположен във вход „С\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 64,12 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса, при граници на апартамента: коридор, двор и апартамент С6 с идентификационен номер 58517.102.33.1.26 и апартамент С 8а с идентификационен номер 58517.102.33.1.24, заедно с припадащите се за апартамента 1,320 % идеални части от общите части на сградата, представляващи 23,41 кв. м. и заедно с припадащите се 1,320 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.23, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. - 1, ап. 8 Б /осем буква „Б\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 86,14 /осемдесет и шест цяло и четиринадесет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.24, под обекта: 58517.102.33.1.21, 58517.102.33.1.22, над обекта: 58517.102.33.1.54 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 8 б /апартамент цифра осем буква Б/е разположен във вход „С\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 86,14 квадратни метра, състоящ се от две спални, дневна с кухненски бокс, две бани и тоалетна, коридор и тераса, при граници на апартамента: коридор, двор и апартамент С8а с идентификационен номер 58517 102.33.1.24, заедно с припадащите се за апартамента 1,773 % идеални части от общите части на сградата, представляващи 31,44 кв. м. и заедно с припадащите се 1,773 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.54, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. 0, ап. 12 Б /дванадесет буква „Б\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 85,92 /осемдесет и пет цяло деветдесет и две стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.53, под обекта: 58517.102.33.1.23 и над обекта: 58517.102.33.1.55 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 12 б /апартамент цифра дванадесет буква Б/, разположен във вход „С\" на втори етаж на кота +0,00 т с идентична по схема застроена площ от 89,52 /осемдесет и девет цяло петдесет и две стотни/ квадратни метра, състоящ се от две спални, дневна с кухненски бокс, две бани и тоалетна, коридор и две тераси, при граници на апартамента: коридор, от три страни двор и апартамент С12а с идентификационен номер 58517.102.33.1.53, заедно с припадащите се за апартамента 1,824 идеални части от общите части на сградата, представляващи 32,36 кв. м. и заедно с припадащите се 1,824 % идеални части V,!- правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.70, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 1, ап. 13 А /тринадесет буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 71,03 /седемдесет и един цяло и три стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.69, под обекта: 58517.102.33.1.39 и над обекта: 58517.102.33.1.71 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 13 а /апартамент цифра тринадесет буква А/, разположен във вход „А\" на трети етаж на кота +2,85 м с идентична по схема застроена площ от 71,03 /седемдесет и един цяло и три стотни/ квадратни метра състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и две тераси, при граници на апартамента: коридор, от три страни двор и апартамент А136 с идентификационен номер 58517.102.33.1.69, заедно с припадащите се за апартамента 1,490 % идеални части от общите части на сградата, представляващи 26,44 кв. м. и заедно с припадащите се 1,824 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.69 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 1, ап. 13 Б /тринадесет буква „Б'7, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 23,06 /двадесет и три цяло и шест стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.70 и 58517.102.33.1.68, под обекта: 58517.102.33.1.40 и над обекта: 58517.102.33.1.72 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 13 б /апартамент цифра тринадесет буква Б/, разположен във вход „А\" на трети етаж на кота + 2,85 м с идентична по схема застроена площ от 23,06 /двадесет и три цяло и шест стотни/ квадратни метра състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор при граници на апартамента: коридор, двор и апартамент А13а с идентификационен номер 58517.102.33.1.70 и апартамент А14 с идентификационен номер 58517.102.33.1.68, заедно с припадащите се за апартамента 0,475 % идеални части от общите части на сградата, представляващи 8,42 кв. м. и заедно с припадащите се 0,475 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.68, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 1, ап. 14 /четиринадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,16 /шестдесет и четири цяло и шестнадесет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.69 и 58517.102.33.1.67, под обекта: 58517.102.33.1.41 и над обекта: 58517.102.33.1.73 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 14 /апартамент цифра четиринадесет /, разположен във вход „А\" на трети етаж на кота +2,85 м с идентична по схема застроена площ от 64,16 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор, перално помещение и тераса при граници на апартамента: коридор, двор и апартамент А136 с идентификационен номер 58517.102.33.1.67 и апартамент А15 с идентификационен номер 58517.102.33.1.69, заедно с припадащите се за апартамента 1,320 % идеални части от общите части на сградата, представляващи 23,42 кв. м. и заедно с припадащите се 1,320 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.65, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 1, ап. 13 /тринадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,31 /шестдесет и един цяло тридесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.64, под обекта: 58517.102.33.1.44 и над обекта: 58517.102.33.1.76 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 13 /апартамент цифра тринадесет/, разположен във вход „В\" на трети етаж на кота +2,85 м с идентична по схема застроена площ от 61,31 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор и апартамент А16 с идентификационен номер 58517.102.33.1.66 и апартамент В 14а с идентификационен номер 58517.102.33.1.64, заедно с припадащите се за апартамента 1,262 % идеални части от общите части на сградата, представляващи 22,38 кв. м. и заедно с припадащите се 1,262 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.64, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 1, ап. 14 А /четиринадесет буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 38,53 /тридесет и осем цяло петдесет и три стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.65 и 58517.102.33.1.63, под обекта: 58517.102.33.1.45 и над обекта: 58517.102.33.1.77 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 14а /апартамент цифра четиринадесет буква „А\"/, разположен във вход „В\" на трети етаж на кота +2,85 м с идентична по схема застроена площ от 38,53 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В13 с идентификационен номер 58517.102.33.1.65 и апартамент В 146 с идентификационен номер 58517.102.33.1.63, заедно с припадащите се за апартамента 0,793 % идеални части от общите части на сграда представляващи 14,07 кв. м. и заедно с припадащите се 0,793 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.60 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 1, ап. 16/шестнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,31 /шестдесет и едно цяло тридесет и една стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.61, под обекта: 58517.102.33.1.49 и над обекта: 58517.102.33.1.81 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 16 /апартамент цифра шестнадесет/, разположен във вход „В\" на трети етаж на кота +2,85 м с идентична по схема застроена площ от 61,31 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В156 с идентификационен номер 58517.102.33.1.61 и апартамент С 13 с идентификационен номер 58517.102.33.1.59, заедно с припадащите се за апартамента 1,262 % идеални части от общите части на сградата, представляващи 22,38 кв. м. и заедно с припадащите се 1,262 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.73 , с адрес: с. Проглед, п.к, 4871, к.к. Пампорово, вх. А, ет. 2, ап. 18 /осемнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102,1 предназначение на самостоятелния обект: жилище, апартамент, с площ от 58,06 /петдесет и осем цяло и шест стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.72 и 58517.102.33.1.74, под обекта: 58517.102.33.1.68 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 18 /апартамент цифра осемнадесет/, разположен във вход „А\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 58,06 /петдесет и осем цяло и шест стотни/ квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент А176 с идентификационен номер 58517.102.33.1.72 и апартамент А 19 с идентификационен номер 58517.102.33.1.74, заедно с припадащите се за апартамента 1,125 % идеални части от общите части на сградата, представляващи 19,96 кв. м. и заедно с припадащите се 1,125 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.74 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 2, ап. 19 /деветнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 33,77 /тридесет и три цяло седемдесет и седем стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.73 и 58517.102.33.1.75, под обекта: 58517.102.33.1.67 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ Ш А 19 /апартамент цифра деветнадесет/, разположен във вход „А\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 33,77 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент А18 с идентификационен номер 58517.102.33.1.73 и апартамент А 20 с идентификационен номер 58517.102.33.1.75, заедно с припадащите се за апартамента 0,654 % идеални части от общите части на сградата, представляващи 11,61 кв. м. и заедно с припадащите се 0,654 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.75 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 2, ап. 20 /двадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 39,76 /тридесет и девет цяло седемдесет и шест стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.74, под обекта: 58517.102.33.1.66 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 20 /апартамент цифра двадесет/, разположен във вход „А\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 39,76 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент А19 с идентификационен номер 58517.102.33.1.74 и апартамент В 17 с идентификационен номер 58517.102.33.1.76, заедно с припадащите се за апартамента 0,771 % идеални части от общите части на сградата, представляващи 13,67 кв. м. и заедно с припадащите се 0,771 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.76 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 2, ап. 17 /седемнадесет/, който обект се намира Б сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 61,33 /шестдесет и един цяло тридесет и три стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.77, под обекта: 58517.102.33.1.65 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 17а /апартамент цифра седемнадесет, буква „А\"/, разположен във вход „В\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 61,33 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент А 20 с идентификационен номер 58517.102.33.1.75 и апартамент В 18а с идентификационен номер 58517.102.33.1.77, заедно с припадащите се за апартамента 1,189 % идеални части от общите части на сградата, представляващи 21,08 кв. м. и заедно с припадащите се 1,189 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.77 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 2, ап. 18 А /осемнадесет буква „А\"/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 38,53 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.76 и 58517.102.33.1.78, под обекта: 58517.102.33.1.64 и над обекта: 58517.102.33.1.87 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 18а /апартамент цифра осемнадесет, буква „А\"/, разположен във вход „В\" на четвърти етаж на кота 5,70 м с идентична по схема застроена площ от 38,53 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В 186 с идентификационен номер 58517.102.33.1.78 и апартамент В 17 с идентификационен номер ЗР517.102.33.1.76, заедно с припадащите се за апартамента 0,793 % идеални части от общите части на сградата, представляващи 14,07 кв. м. и заедно с припадащите се 0,793 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.81 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 2, ап. 20 /двадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение ша самостоятелния обект: жилище, апартамент, с площ от 61,33 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.80, под обекта: 58517.102.33.1.60 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 20 /апартамент цифра двадесет/, разположен във вход „В\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 61,33 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В 196 с идентификационен номер 58517.102.33.1.80 и апартамент С 17 с идентификационен номер 58517.102.33.1.82, заедно с припадащите се за апартамента 1,189 % идеални части от общите части на сградата, представляващи 21,08 кв. м. и заедно с припадащите се 1,189 % идеални части от правото на строеж върху поземления имот; 32.САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.82 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. 2, ап. 17 /седемнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 39,76 /тридесет и девет цяло седемдесет и шест стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.83, под обекта: 58517.102.33.1.59 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 17 /апартамент цифра седемнадесет/, разположен във вход „С\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 39,76 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В20 с идентификационен номер 58517.102.33.1.8 и апартамент С 18 с идентификационен номер 58517.102.33.1.83, заедно с припадащите се за апартамента 0,771 % идеални части от общите части на сградата, представляващи 13,68 кв. м. и заедно с припадащите се 0,771 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.83, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. 2, ап. 18 /осемнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 33,77 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.82, 58517.102.33.1.84, под обекта: 58517.102.33.1.58 и с описание съгласно-архитектурни проекти: АПАРТАМЕНТ № С 18 /апартамент цифра осемнадесет/, разположен във вход „С\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 33,77 квадратни метра, състоящ се от дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент С17 с идентификационен номер 58517.102.33.1.82 и апартамент С 19 с идентификационен номер 58517.102.33.1.84, заедно с припадащите се за апартамента 0,654 % идеални части от общите части на сградата, представляващи 11,61 кв. м. и заедно с припадащите се 0,654 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.84 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. 2, ап. 19/деветнадесет/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 64,12 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.83, 58517.102.33.1.85, под обекта: 58517.102.33.1.57 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № С 19 /апартамент цифра деветнадесет/, разположен във вход „С\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 64,12 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня и тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент С18 с идентификационен номер 58517.102.33.1.83 и апартамент С 20а с идентификационен номер 58517.102.33.1.85, заедно с припадащите се за апартамента 1,243 % идеални части от общите части на сградата, представляващи 22,04 кв. м. и заедно с припадащите се 1,243 % идеал части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.86 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. С, ет. 2, ап. 20 Б /двадесет буква „Б'7, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 89,52 /осемдесет и девет цяло петдесет и две стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.85, под обекта: 58517.102.33.1.55 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № 9 С 206 /апартамент цифра двадесет буква „Б“7, разположен във вход „С\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 89,52 квадратни метра, състоящ се от две спални, дневна с кухня, две бани с тоалетни, коридор и две тераси при граници на апартамента: от три страни двор, апартамент С 20а с идентификационен номер 58517.102.33.1.85, заедно с припадащите се за апартамента 1,718 % идеални части от общите части на сградата, представляващи 30,47 кв. м. и заедно с припадащите се 1,718 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.90 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 3, ап. 20 Б /двадесет буква „Б'7, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.3° предназначение на самостоятелния обект: жилище, апартамент, с площ от 38,53 /тридесет и осем цяло петдесет и три стотн. квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.89, под обекта: 58517.102.33.1.80 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 206 /апартамент цифра двадесет буква „Б'7, разположен във вход „В\" на пети етаж на кота + 8,50 м с идентична по схема застроена площ от 38,53 квадратни метра, състоящ се от стая с кухненски бокс, баня с тоалетна и тераса при граници на апартамента: коридор, от две страни двор, апартамент В 23 с идентификационен номер 58517.102.33.1.89, заедно с припадащите се за апартамента 0,747 % идеални части от общите части на сградата, представляващи 13,25 кв. м. и заедно с припадащите се 0,747 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.78, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. Б, ет. 2, ап. 18 Б /осемнадесет буква „Б'7, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 53,05 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.77 и 58517.102.33.1.79, под обекта: 58517.102.33.1.63 и над обекта: 58517.102.33.1.88 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № В 186 /апартамент цифра осемнадесет буква „Б“7, разположен във вход „В\" на четвърти етаж на кота + 5,70 м с идентична по схема застроена площ от 53,05 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня с тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент В 18а с идентификационен номер 58517.102.33.1.79, заедно с припадащите се за апартамента 1,092 % идеални части от общите части на сградата, представляващи 19,37 кв. м. и заедно с припадащите се 1,092 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.35, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. — 1, ап. 7 /седем/, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33,  предназначение на самостоятелния обект: жилище, апартамент, с площ от 36,10 /тридесет и шест цяло и десет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.36, 58517.102.33.1.34, под обекта: 58517.102.33.1.10, над обекта: 58517.102.33.1.42 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 7 /апартамент цифра седем/, разположен във вход „А\" на първи етаж на кота - 2,85 м с идентична по схема застроена площ от 36,10 квадратни метра, състоящ се от дневна с кухненски бокс, баня с тоалетна, коридор и тераса при граници на апартамента: коридор, двор, апартамент А8 с идентификационен номер 58517.102.33.1.34 и апартамент А6 с идентификационен номер 58517.102.33.1.36, заедно с припадащите се за апартамента 0,743 % идеални части от общите части на сградата, представляващи 13,18 кв. м. и заедно с припадащите се 0,743 % идеални части от правото на строеж върху поземления имот; 39.САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.66 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. 1, ап. 16 /шестнадесет/, /, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: жилище, апартамент, с площ от 40,55 /четиридесет цяло петдесет и пет стотни/ квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.67, под обекта: 58517.102.33.1.43 и над обекта: 58517.102.33.1.75 и с описание съгласно архитектурни проекти: АПАРТАМЕНТ № А 16 /апартамент цифра шестнадесет/, разположен във вход „А\" на трети етаж на кота + 2,85 м с идентична по схема застроена площ от 40,55 квадратни метра, състоящ се от спалня, дневна с кухненски бокс, баня с тоалетна, коридор, перално помещение и тераса при граници на апартамента: коридор, двор, апартамент В 13 с идентификационен номер 58517.102.33.1.65 и апартамент А15 с идентификационен номер 517.102.33.1.67, заедно с припадащите се за апартамента 0,834 % идеални части от общите части на сградата, представляващи 14,80 кв. м. и заедно с припадащите се 0,834 % идеални части от правото на строеж върху поземления имот; 40.САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.1 , представляващ ОБЕКТ за обществено хранене – ирландски пъб, с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 3, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: за обществено хранене, площ от 285,00 /двеста осемдесет и пет/ квадратни метра, при съседни самостоятелни обекти в сградата: над обекта: 58517.102.33.1.18, 58517.102.33.1.19, 58517.102.33.1.20, 58517.102.33.1.21, 58517.102.33.1.22 и с описание съгласно архитектурни проекти: ИРЛАНДСКИ ПЪБ, разположен във вход „С\" в сутерен на кота - 9,10 м с идентична по схема застроена площ от 285,00 квадратни метра, при граници на ресторанта: от три страни двор и разделителна стена с вх. В, заедно с припадащите се за ресторанта 5,583 % идеални части от общите части на сградата, представляващи 99,03 кв. м. и заедно с припадащите се 5,583 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ в сграда с идентификатор 58517.102.33.1.5 , с адрес: с. Проглед, п.к. 4871, к.к. Пампорово, вх. А, ет. - 3, който обект се намира в сграда № 1, разположена в поземлен имот с идентификатор 58517.102.33, предназначение на самостоятелния обект: друг вид самостоятелен обект в сграда площ от 98,83 квадратни метра, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.6, над обекта: 58517.102.33.1.9, 58517.102.33.1.10, 58517.102.33.1.11 и с описание съгласно архитектурни проекти: СКИ ГАРДЕРОБ, разположен във вход „А\" в сутерен на кота - 9,1© м с идентична по схема застроена площ от 98,83 квадратни метра, състоящ се от: помещения за ски и помещение за ски и обувки със сервизни помещения, при граници : юг - котелно, ел. табло, хидрофлор, огняр, север - разделна стена с вх. Б, изток -покрита тераса, принадлежаща към помещението и двор, запад — коридор, заедно с припадащите се за ски гардероба 1,936 % идеални части от общите части на сградата, представляващи 34,34 кв. м. и заедно с припадащите се 1,936 % идеални части от правото на строеж върху поземления имот; ПОМЕЩЕНИЕ ЗА СПОРТНА И РАЗВЛЕКАТЕЛНА ДЕЙНОСТ , разположено във вх. Б в сутерена на сградата, на кота — 9,10 м, със застроена площ от 330,00 квадратни метра, съгласно одобрен архитектурен проект и таблица за ценообразуване, състоящ се от: помещение пинк - понк, помещение игри, магазин, помещение - билярд, складове, камериерски помещения, две тоалетни, фоайе и охрана, при граници: юг - разделна стена с вх. А, север —разделна стена с вх. С, изток - покрита тераса към помещението и запад — външна стена, който обект е нанесен в кадастралната карта и кадастралните регистри както следва: САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДАТА С ИДЕНТИФИКАТОР 58517.102.33.1.4 , със застроена площ от 64,11 квадратни метра, с административен адрес: общ. Чепеларе, с. Проглед, п.к. 4871 Пампорово, вх. А, ет. - 3, който самостоятелен обект попада в сграда с идентификатор 58517.102.33.1, с предназначение на самостоятелния обект — за спортна и развлекателна дейност, брой нива на обекта: 1, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.3, 58517.102.33.1.2, над обекта: 58517.102.33.1.12, заедно с припадащите се 1,256 % идеални части от общите части на сградата, представляващи 22,28 кв. м. и заедно с припадащите се се 1,256 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДАТА С ИДЕНТИФИКАТОР 58517.102.33.1.3 , със застроена площ от 35,00 квадратни метра, с административен адрес: общ. Чепеларе, с. Проглед, п.к. 4871 Пампорово, вх. А, ет. - 3, който самостоятелен обект попада в сграда с идентификатор 58517.102.33.1, с предназначение на самостоятелния обект - за търговска дейност, брой нива на обекта: 1, при съседни самостоятелни обекти в сградата: на същия етаж: 58517.102.33.1.4, 58517.102.33.1.2, над обекта: 58517.102.33.1.13, 58517.102.33.1.12, заедно с припадащите се 0,294 % идеални части от общите части на сградата, представляващи 5,21 кв. м. и заедно с припадащите се 0,294 % идеални части от правото на строеж върху поземления имот; САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДАТА С ИДЕНТИФИКАТОР 58517.102.33.1.2, със застроена площ от 294,77 квадратни метра, с административен адрес: общ. Чепеларе, с. Проглед, п.к. 4871 Пампорово, вх. А, ет. - 3, който самостоятелен обект попада в сграда с идентификатор 58517.102.33.1, с предназначение на самостоятелния обект — за делова и административна дейност, брой нива на обекта: 1, при съседни самостоятелни обекти в сградата: 58517.102.33.1.4, 58517.102.33.1.3, над обекта: 58517.102.33.1.12, 58517.102.33.1.13, 58517.102.33.1.14, 58517.102.33.1.15, 58517.102.33.1.16, 58517.102.33.1.17, заедно с припадащите се 9,674 % идеални части от общите части на сградата, представляващи 124,26 кв. м. и заедно с припадащите се се 9,674 % идеални части от правото на строеж върху поземления имот;",
+    "photos": [
+      "https://sales.bcpea.org/upload/93530/244226/Снимка 1.JPG",
+      "https://sales.bcpea.org/upload/93530/244227/Снимка 2.JPG",
+      "https://sales.bcpea.org/upload/93530/244228/Снимка 3.JPG",
+      "https://sales.bcpea.org/upload/93530/244229/Снимка 4.JPG",
+      "https://sales.bcpea.org/upload/93530/244230/Снимка 5.JPG",
+      "https://sales.bcpea.org/upload/93530/244224/Сателит 2.png",
+      "https://sales.bcpea.org/upload/93530/244225/Сателит.png",
+      "https://sales.bcpea.org/upload/93530/244216/doc03159220160707151358_001.jpg",
+      "https://c.tile.openstreetmap.org/18/149050/97645.png",
+      "https://a.tile.openstreetmap.org/18/149051/97645.png",
+      "https://b.tile.openstreetmap.org/18/149050/97644.png",
+      "https://c.tile.openstreetmap.org/18/149051/97644.png",
+      "https://a.tile.openstreetmap.org/18/149050/97646.png",
+      "https://b.tile.openstreetmap.org/18/149051/97646.png",
+      "https://b.tile.openstreetmap.org/18/149049/97645.png",
+      "https://b.tile.openstreetmap.org/18/149052/97645.png",
+      "https://a.tile.openstreetmap.org/18/149049/97644.png",
+      "https://a.tile.openstreetmap.org/18/149052/97644.png",
+      "https://c.tile.openstreetmap.org/18/149049/97646.png",
+      "https://c.tile.openstreetmap.org/18/149052/97646.png"
+    ],
     "price_per_sqm": 134,
     "price_history": [
       {
@@ -103727,7 +103728,7 @@
   {
     "id": "bcpea_93529",
     "url": "https://sales.bcpea.org/properties/93529",
-    "photo": null,
+    "photo": "https://b.tile.openstreetmap.org/18/148959/97507.png",
     "price_eur": 196,
     "sqm": 244,
     "area": "Забърдо",
@@ -103735,9 +103736,27 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T11:26:00+00:00",
     "category": "land",
-    "_settlement": "Забърдо",
-    "lat": null,
-    "lng": null,
+    "lat": 41.78454,
+    "lng": 24.59159,
+    "detail_checked": true,
+    "description": "1/9 (една девета) идеални част и от възстановените с Решение № 01218/14.05.1999 г. на ОСЗ – Чепеларе, вписано в Служба по вписванията – Чепеларе като Акт № 196, том № 1, книга: Прехвърляния, дв.вх.рег. № 584 от 22.11.2011 г. на наследниците на Расим Мехмедов Доралиев 11200 /4697570 (единадесет хиляди и двеста върху четири милиона шестстотин деветдесет и седем хиляди петстотин и седемдесет) идеални части, равняващи се общо на 1.244 дка. (един декар и двеста четиридесет и четири квадратни метра) от имот (ревир) № 227001 по картата на възстановената собственост на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, с площ 4697.570 дка (четири хиляди шестстотин деведесет и седем декара и петстотин и седемдесет кв.м.), представляващ ДЪРВОПРОИЗВОДИТЕЛНА ГОРСКА ПЛОЩ, находящ се в землището на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, местност \"АЙДАРИЦА\", при граници: № 148002, № 148005, № 148004, № 000238, № 000245, № 226001, № 148007, № 148006, № 226001, № 060041, ..., №175029, № 175031., който имот е отразен като: ПОЗЕМЛЕН ИМОТ с идентификатор 30034.227.1 по Кадастралната карта и кадастралните регистри на с. Забърдо, общ. Чепеларе, обл. Смолян, одобрени със Заповед № РД-18-379/03.06.2019 г. на Изпълнителния директор на АГКК, с площ от 4697753 кв.м. (четири милиона шестстотин деветдесет и седем хиляди седемстотин петдесет и три квадратни метра), находящ се в землището на с. Забърдо, общ. Чепеларе, обл. Смолян, местност: Айдарица, с трайно предназначение на територията: Горска, с начин на трайно ползване: Друг вид дървопроизводителна гора, при граници и съседи на поземления имот - поземлени имоти с идентификатори: 44848.3.270, 44848.3.255, 44848.3.277, 44848.3.279, 44848.3.278, ..., 30034.227.64, 30034.227.63, 44848.3.29.",
+    "photos": [
+      "https://b.tile.openstreetmap.org/18/148959/97507.png",
+      "https://a.tile.openstreetmap.org/18/148959/97506.png",
+      "https://a.tile.openstreetmap.org/18/148958/97507.png",
+      "https://c.tile.openstreetmap.org/18/148960/97507.png",
+      "https://c.tile.openstreetmap.org/18/148959/97508.png",
+      "https://c.tile.openstreetmap.org/18/148958/97506.png",
+      "https://b.tile.openstreetmap.org/18/148960/97506.png",
+      "https://b.tile.openstreetmap.org/18/148958/97508.png",
+      "https://a.tile.openstreetmap.org/18/148960/97508.png",
+      "https://c.tile.openstreetmap.org/18/148957/97507.png",
+      "https://a.tile.openstreetmap.org/18/148961/97507.png",
+      "https://b.tile.openstreetmap.org/18/148957/97506.png",
+      "https://c.tile.openstreetmap.org/18/148961/97506.png",
+      "https://a.tile.openstreetmap.org/18/148957/97508.png",
+      "https://b.tile.openstreetmap.org/18/148961/97508.png"
+    ],
     "price_per_sqm": 1,
     "price_history": [
       {
@@ -103765,9 +103784,28 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T11:21:00+00:00",
     "category": "house",
-    "_settlement": "Забърдо",
-    "lat": null,
-    "lng": null,
+    "lat": 41.78454,
+    "lng": 24.59159,
+    "detail_checked": true,
+    "description": "1/3 (една трета) идеални части от: ПРИЗЕМЕН ЕТАЖ със застроена площ от 95 кв.м. (деветдесет и пет квадратни метра), който етаж не е нанесен в кадастралната карта и кадастралните регистри на с. Забърдо, общ. Чепеларе, обл. Смолян, намира се в жилищна сграда със застроена площ от 95 кв.м., отразена като ТРИЕТАЖНА ЕДНОФАМИЛНА ЖИЛИЩНА СГРАДА с идентификатор 30034.501.169.1 по Кадастралната карта и кадастралните регистри на с. Забърдо, общ. Чепеларе, обл. Смолян, одобрени със Заповед № РД-18-379/03.06.2019 г. на Изпълнителния директор на АГКК, построена в поземлен имот с пл. № 169, кв. 11 по плана на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, при граници и съседи на имота: от три страни - улици и ПИ № 170, който имот с цялата си площ участва в отредения за него Урегулиран поземлен имот (УПИ) I-169, кв. 11 по плана на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, целият с площ от 250 кв.м. (двеста и петдесет квадратни метра) и с неуредени регулационни сметки, при граници и съседи на УПИ: от три страни – улици и УПИ II-170, който поземлен имот е отразен като ПОЗЕМЛЕН ИМОТ с идентификатор 30034.501.169 по Кадастралната карта и кадастралните регистри на с. Забърдо, общ. Чепеларе, обл. Смолян, одобрени със Заповед № РД-18-379/03.06.2019 г. на Изпълнителния директор на АГКК, с площ от 243 кв.м. (двеста четиридесет и три квадратни метра), с административен адрес: с. Забърдо, общ. Чепеларе, обл. Смолян, с трайно предназначение на територията: Урбанизирана, с начин на трайно ползване: ниско застрояване (до 10м), при граници и съседи на поземления имот - поземлени имоти с идентификатори: 30034.501.447, 30034.501.170, 30034.501.401, ВЕДНО със съответните идеални части от правото на строеж върху поземления имот.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93526/295836/Zabardo.jpg",
+      "https://sales.bcpea.org/upload/93526/295840/IMG_5655.JPG",
+      "https://sales.bcpea.org/upload/93526/295838/IMG_5642.JPG",
+      "https://sales.bcpea.org/upload/93526/295839/IMG_5647.JPG",
+      "https://c.tile.openstreetmap.org/18/148978/97522.png",
+      "https://a.tile.openstreetmap.org/18/148979/97522.png",
+      "https://b.tile.openstreetmap.org/18/148978/97521.png",
+      "https://c.tile.openstreetmap.org/18/148979/97521.png",
+      "https://a.tile.openstreetmap.org/18/148978/97523.png",
+      "https://b.tile.openstreetmap.org/18/148979/97523.png",
+      "https://b.tile.openstreetmap.org/18/148977/97522.png",
+      "https://b.tile.openstreetmap.org/18/148980/97522.png",
+      "https://a.tile.openstreetmap.org/18/148977/97521.png",
+      "https://a.tile.openstreetmap.org/18/148980/97521.png",
+      "https://c.tile.openstreetmap.org/18/148977/97523.png",
+      "https://c.tile.openstreetmap.org/18/148980/97523.png"
+    ],
     "price_per_sqm": 15,
     "price_history": [
       {
@@ -103795,9 +103833,25 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T11:16:00+00:00",
     "category": "land",
-    "_settlement": "Забърдо",
-    "lat": null,
-    "lng": null,
+    "lat": 41.78454,
+    "lng": 24.59159,
+    "detail_checked": true,
+    "description": "1/3 (една трета) идеални части от: ДВОРНО МЯСТО, представляващо ПОЗЕМЛЕН ИМОТ с пл. № 169, кв. 11 по плана на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, с площ от 210 кв.м. (двеста и десет квадратни метра), находящ се в землището на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, при граници и съседи на имота: от три страни - улици и ПИ № 170, който имот с цялата си площ участва в отредения за него Урегулиран поземлен имот (УПИ) I-169, кв. 11 по плана на с. Забърдо, ЕКАТТЕ 30034, общ. Чепеларе, обл. Смолян, целият с площ от 250 кв.м. (двеста и петдесет квадратни метра) и с неуредени регулационни сметки, при граници и съседи на УПИ: от три страни – улици и УПИ II-170., който поземлен имот е отразен като: ПОЗЕМЛЕН ИМОТ с идентификатор 30034.501.169 по Кадастралната карта и кадастралните регистри на с. Забърдо, общ. Чепеларе, обл. Смолян, одобрени със Заповед № РД-18-379/03.06.2019 г. на Изпълнителния директор на АГКК, с площ от 243 кв.м. (двеста четиридесет и три квадратни метра), с административен адрес: с. Забърдо, общ. Чепеларе, обл. Смолян, с трайно предназначение на територията: Урбанизирана, с начин на трайно ползване: ниско застрояване (до 10м), при граници и съседи на поземления имот - поземлени имоти с идентификатори: 30034.501.447, 30034.501.170, 30034.501.401.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93525/295828/Zabardo.jpg",
+      "https://c.tile.openstreetmap.org/18/148978/97522.png",
+      "https://a.tile.openstreetmap.org/18/148979/97522.png",
+      "https://b.tile.openstreetmap.org/18/148978/97521.png",
+      "https://c.tile.openstreetmap.org/18/148979/97521.png",
+      "https://a.tile.openstreetmap.org/18/148978/97523.png",
+      "https://b.tile.openstreetmap.org/18/148979/97523.png",
+      "https://b.tile.openstreetmap.org/18/148977/97522.png",
+      "https://b.tile.openstreetmap.org/18/148980/97522.png",
+      "https://a.tile.openstreetmap.org/18/148977/97521.png",
+      "https://a.tile.openstreetmap.org/18/148980/97521.png",
+      "https://c.tile.openstreetmap.org/18/148977/97523.png",
+      "https://c.tile.openstreetmap.org/18/148980/97523.png"
+    ],
     "price_per_sqm": 1,
     "price_history": [
       {
@@ -103825,9 +103879,10 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T11:11:00+00:00",
     "category": "land",
-    "_settlement": "Очуша",
-    "lat": null,
-    "lng": null,
+    "lat": 42.3884222,
+    "lng": 23.7259684,
+    "detail_checked": true,
+    "description": "ШИРОКОЛИСТНА ГОРА, находяща се в землието на с. Очуша, община Костенец, Софийска област, с площ от 75.001 дка /седемдесет и пет декара и един кв.м./, в местността „СИНАНИЦА”, представляваща имот №848002 /осемдесет и четири осемдесет нула две/ по картата на землището, при граници на имота по скица: имот № 848003-широколистна гора на наел. на Христо Василев Стоицов, имот № 848004-широколистна гора на наел, на Христо Станков Попов, имот № 848020-широколистна гора на Стефка Борисова Цвеова, имот № 848021- широколистна гора на наел. на Микя Димитрова Филипова, имот № 848022- широколистна гора на наел. на Йордан Стоименов Петров, имот № 848024- широколистна гора на Иван Петров Стоев, имот № 067012- пасище, мера на земи по чл. 19 от ЗСПЗЗ, имот № 847021- широколистна гора на Георги Димитров Петров, имот № 848001- широколистна гора на МЗГ- Държавно лесничейство, имот № 000199- др. селскост. т. на земи по чл. 19 от ЗСПЗЗ.",
     "price_per_sqm": 110000,
     "price_history": [
       {
@@ -103855,9 +103910,10 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T10:59:00+00:00",
     "category": "apartment",
-    "_settlement": "Свищов",
-    "lat": null,
-    "lng": null,
+    "lat": 43.6158817,
+    "lng": 25.3509536,
+    "detail_checked": true,
+    "description": "АПАРТАМЕНТ № 30, вход Б на пети етаж в жилищна сграда - блок 9 в Комплекс Химик, състоящ се от спалня, дневна, кухня, баня-тоалетна, коридор и две тераси, със застроена площ от 94,54 кв.м., при граници: север - външен зид, изток - стълбище, юг - външен зид и запад -апартамент от Вх. А, заедно с избено помещение № 1, с полезна площ от 6,75 кв.м., при граници: север - външен зид, изток - стълбище, юг - общ коридор и зарад - изба № 2, ведно с 1,328 % идеални части от общите части на сградата от правото на строеж върху общинска земя, а по действащата КК на град Свищов, одобрена със Заповед № РД-18-10/12.02.2009 г. на изпълнителен директор на АГКК с последно изменение засягащо самостоятелния обект от 11.11.2011 г. - САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 65766.702.4866.1.15, с адрес на имота град Свищов, ул. Акад. Александър Божинов, бл. 9, вх. Б, ет. 5, ап. 30, а по удостоверение изх. № 94-з-1070/07.05.2020 г. на община Свищов, с адрес на имота Свищов, ул. Акад. Александър Божинов № 4, бл. 9, ет. 5, ап. 30. Самостоятелният обект се намира на пети етаж в сграда с идентификатор 65766.702.4866.1, с предназначение жилищна сграда многофамилна, разположена в ПИ с идентификатор 65766.702.4866; предназначение на самостоятелния обект - жилище, апартамент, брой нива едно, площ 61.54 кв.м., прилежащи части: избено помещение 1 с площ 6,75 кв.м. и 1,328 % идеални части от общите части на сградата, Съседни самостоятелни обекти в сградата: на същия етаж - 65766.702.4866.1.14, под обекта - 65766.702.4866.1.12, над обекта – няма",
     "price_per_sqm": 365,
     "price_history": [
       {
@@ -103885,9 +103941,10 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T10:58:00+00:00",
     "category": "land",
-    "_settlement": "Ракита",
-    "lat": null,
-    "lng": null,
+    "lat": 42.78954,
+    "lng": 22.93338,
+    "detail_checked": true,
+    "description": "поземлен имот с идентификатор 61964.500.209 (шестдесет и една хиляди деветстотин шестдесет и четири, точка, петстотин, точка, двеста и девет), съгласно Скица № 15-746811/22.05.2026 г., по кадастралната карта и кадастралните регистри на с. Ракита, общ. Сливница, обл. София, одобрени със Заповед РД-18-666/16.09.2019 г. на изпълнителния Директор на АГКК, с адрес на поземления имот: с. Ракита, площ: 552 кв.м., трайно предназначение на територията: Урбанизирана, начин на трайно ползване: ниско застрояване (до 10 м), номер по предходен план: 132, квартал: 1, парцел: ХI, заедно с построената в имота: СГРАДА 61964.500.209.1: застроена площ 46 кв.м., брой етажи 2, брой самостоятелни обекти в сградата: 0, предназначение: жилищна сграда - еднофамилна, при съседи на имота: 61964.500.200, 61964.500.201, 61964.500.210, 61964.500.208, 61964.500.337, който имот по документ за собственост, представлява УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с площ от 560,00 (петстотин и шестдесет) кв.м., съставляващ парцел XI-132 /единадесети за имот с пл. номер сто тридесет и две) в кв. 1 (първи) по плана на с. Ракита, общ. Сливница, област София, при граници: УПИ II-133; УПИ Х-132; улица и УПИ ХII-133, заедно с построената в имота МАСИВНА ЖИЛИЩНА СГРАДА, състояща се от сутерен, пъви и втори етаж със застроена площ от около 70,00 кв.м.",
     "price_per_sqm": 48,
     "price_history": [
       {
@@ -103915,9 +103972,10 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T10:56:00+00:00",
     "category": "apartment",
-    "_settlement": "Свищов",
-    "lat": null,
-    "lng": null,
+    "lat": 43.6158817,
+    "lng": 25.3509536,
+    "detail_checked": true,
+    "description": "СОС с идентификатор 65766.702.5055.1.10, представляващ апартамент № 10 с административен адрес град Свищов, ул. Стоян Ников № 12, вх. Б, бл. 9 Б, състоящ се от спалня, хол, кухня-столова, килер, баня - тоалетна, коридор и една тераса, със застроена площ от 76.15 кв.м., при граници: север - апартамент от вход А, изток - външен зид, юг - външен зид, запад - стълбище, заедно с приложащото избено помещение № 10 с площ от 8,02 кв.м., заедно с 2,515 % идеални части от общите части на сградата и от отстъпеното право на строеж върху държавна земя в квартал 103 по плана на град Свищов",
     "price_per_sqm": 372,
     "price_history": [
       {
@@ -103940,14 +103998,19 @@
     "photo": "https://sales.bcpea.org/upload/93520/465513/IMG_20240426_102202.jpg?w=270&h=270",
     "price_eur": 1503,
     "sqm": 187,
-    "area": "Павел",
+    "area": "Павел, с. Павел, общ. Полски Тръмбеш",
     "title": "Парцел, Павел",
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T10:18:00+00:00",
     "category": "land",
-    "_settlement": "Павел",
     "lat": null,
     "lng": null,
+    "detail_checked": true,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 55018.501.647 , съгласно Скица №15-266884-17.03.2024 г. на СГКК гр. Велико Търново, находящ се в с. Павел, общ. Полски Тръмбеш, обл. Велико Търново по КККР , одобрен исъс Заповед РД-18-97/08.06.2022 г. на ИД на АГКК, последно изменение на КККР, засягащо ПИ: няма данни за изменение, адрес на ПИ: с.Павел, ул.Трета , с площ от 1 187 кв.м. /хиляда сто осемдесет и седем кв.метра/, с трайно предназначение на територията: Урбанизирана, начин на трайно ползване за друг вид застрояване, предишен идентификатор: няма, номер по предходен план: 111, квартал 19, парцел IV , а съгласно Нотариален акт № 1853, том 10, рег.№12234, дело № 1283/2015г. на Нотариус Т.Братанова представлява УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ IV – 111/ четвърти за сто и единадесет/, в квартал 19/деветнадесет/ по ПУП на селото, с площ на УПИ – 1320 кв.м./хиляда триста и двадесет кв.метра/, незастроен, с уредени регулационни отношения и приложена улична регулация, при граници: североизток – УПИ VII – 108, северозапад – улица, югозапад – УПИ VIII – 111, югоизток – УПИ V- 110 и УПИ III – 110, заедно с всички подобрения и трайни насаждения в имота",
+    "photos": [
+      "https://sales.bcpea.org/upload/93520/465513/IMG_20240426_102202.jpg",
+      "https://sales.bcpea.org/upload/93520/465514/IMG_20240426_104005.jpg"
+    ],
     "price_per_sqm": 8,
     "price_history": [
       {
@@ -103965,6 +104028,54 @@
     "score": 0
   },
   {
+    "id": "bcpea_93519",
+    "url": "https://sales.bcpea.org/properties/93519",
+    "photo": "https://sales.bcpea.org/upload/93519/465497/IMG_9036.jpeg?w=270&h=270",
+    "price_eur": 53616,
+    "sqm": 55,
+    "area": "Варна, Приморски",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T10:16:00+00:00",
+    "category": "apartment",
+    "lat": 43.2566785,
+    "lng": 27.9972332,
+    "detail_checked": true,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 10135.2575.1277.2.11 /едно нула едно три пет точка две пет седем пет точка едно две седем седем точка две точка едно едно/ , находящ се в О бласт Варна, О бщина Варна, район Приморски, ул. „Св. Теодор Стратилат“ № 7 /седем/ , ет. 3 /трети/ , ап.11 /единадесет/ съгласно кадастралната карта и кадастралните регистри на гр. Варна, одобрени със Заповед № РД-18-92/14.10.2008г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Самостоятелният обект се намира на етаж 3 /три/ в сграда с идентификатор 10135.2575.1277.2 / едно нула едно три пет точка две пет седем пет точка едно две седем седем точка две/ с предназначение: Жилищна сграда – многофамилна, построена в поземлен имот с идентификатор 10135.2575.1277 / едно нула едно три пет точка две пет седем пет точка едно две седем седем/. Предназначение на СОС – Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение. Брой нива: 1 / едно/ , П лощ: 55.23 кв.м. /петдесет и пет цяло и двадесет и три стотни квадратни метра/ , ВЕДНО С 4.8529 % /четири цяло осем хиляди петстотин двадесет и девет десетохилядни процента/ от ОЧС. Съседи: 10135.2575.1277.2.10, 10135.2575.1277.2.12, 10135.2575.1277.2.7, а съгласно Нотариален АКТ: АПАРТАМЕНТ № 11 /единадесет/ , находящ се в град Варна, район Приморски, ул. „Св. Теодор Стратилат“ № 7 /седем/ , разположен съгласно одобрен архитектурен на проект 3 /трети/ етаж, на кота + 5,60 /плюс пет цяло и шестдесет стотни/ метра, с площ 55.23 / петдесет и пет цяло и двадесет и три стотни/ кв.м., състоящ се от: коридор, дневна с кухненски бокс, спалня с дрешник, баня -тоалет, лоджия, при граници: апартамент № 10 / десет/, апартамент № 12 /дванадесет/, коридор, двор, както и 4,8529% /четири цяло осем хиляди петстотин двадесет и девет десетохилядни процента/ идеални части, равняващи се на 8,15 /осем цяло и петнадесет стотни/ кв.м. ид.ч. от общите части на сградата и от правото на строеж върху поземлен имот с идентификатор 10135.2575.1277 /едно нула едно три пет точка две пет седем пет точка едно две седем седем/. ЗАБЕЛЕЖКА: Апартаментът е по БДС, без вътрешни врати, а сансьор в сградата не е монтиран, посградата има неизпълнени довършителните работи.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93519/465497/IMG_9036.jpeg",
+      "https://sales.bcpea.org/upload/93519/465498/IMG_9038.jpeg",
+      "https://sales.bcpea.org/upload/93519/465499/IMG_9041.jpeg",
+      "https://sales.bcpea.org/upload/93519/465500/IMG_9042.jpeg",
+      "https://sales.bcpea.org/upload/93519/465501/IMG_9043.jpeg",
+      "https://sales.bcpea.org/upload/93519/465502/IMG_9044.jpeg",
+      "https://sales.bcpea.org/upload/93519/465503/IMG_9045.jpeg",
+      "https://sales.bcpea.org/upload/93519/465504/IMG_9048.jpeg",
+      "https://sales.bcpea.org/upload/93519/465505/IMG_9049.jpeg",
+      "https://sales.bcpea.org/upload/93519/465506/IMG_9050.jpeg",
+      "https://sales.bcpea.org/upload/93519/465507/IMG_9051.jpeg",
+      "https://sales.bcpea.org/upload/93519/465508/IMG_9053.jpeg",
+      "https://sales.bcpea.org/upload/93519/465509/IMG_9054.jpeg",
+      "https://sales.bcpea.org/upload/93519/465510/IMG_9058.jpeg",
+      "https://sales.bcpea.org/upload/93519/465511/IMG_9065.jpeg"
+    ],
+    "price_per_sqm": 975,
+    "price_history": [
+      {
+        "date": "2026-10-23T09:20:02.178472+00:00",
+        "price_eur": 53616
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": 747,
+    "pct_vs_area_avg": 30.5,
+    "score": 0
+  },
+  {
     "id": "bcpea_93518",
     "url": "https://sales.bcpea.org/properties/93518",
     "photo": "https://sales.bcpea.org/upload/93518/465474/IMG_8005 Large.jpeg?w=270&h=270",
@@ -103975,9 +104086,23 @@
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T10:04:00+00:00",
     "category": "land",
-    "_settlement": "Ягода",
-    "lat": null,
-    "lng": null,
+    "lat": 42.5432913,
+    "lng": 25.5763626,
+    "detail_checked": true,
+    "description": "180/610 кв. м. ид. части (сто и осемдесет/шестстотин и десет квадратни метра идеални части) от ДВОРНО МЯСТО, цялото с площ от 610 кв. м.  (шестстотин и десет квадратни метра), находящо се в с. Ягода, общ. Мъглиж, обл. Стара Загора, съставляващо урегулиран поземлен имот XVIII ‑ 1212 (осемнадесет за имот с планоснимачен номер хиляда двеста и дванадесет) в квартал 17 (седемнадесет) по подробния устройствен план на село Ягода, Община Мъглиж, област Стара Загора, одобрен със заповед № 132/11.03.1991 г., ведно с първи и втори жилищен етаж и с таванските помещения над тях от построената в дворното място триетажна масивна жилищна сграда (без сутеренния етаж, включващ една стая, коридор и гараж), с югозападно изложение и с вход от северозапад, при граници на дворното място: улица, УПИ XIX – 1211, УПИ X – 1213 и УПИ XVII – 1216. В дворното място има изпълнена вертикална планировка, има изградени ВиК и ел. инсталация. Има огради по всички регулационни граници на имота: частично с телена мрежа с метални колони и частично от зидария от газобетонни блокчета. Сутеренният етаж, включващ една стая, коридор и гараж, не е предмет на публичната продажба.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93518/465474/IMG_8005 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465475/IMG_8006 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465476/IMG_8007 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465477/IMG_8008 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465478/IMG_8009 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465479/IMG_8010 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465480/IMG_8011 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465481/IMG_8012 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465482/IMG_8013 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465483/IMG_8014 Large.jpeg",
+      "https://sales.bcpea.org/upload/93518/465484/IMG_8015 Large.jpeg"
+    ],
     "price_per_sqm": 178,
     "price_history": [
       {
@@ -104000,14 +104125,29 @@
     "photo": "https://sales.bcpea.org/upload/93517/465461/viber_image_2026-10-07_20-37-11-202.jpg?w=270&h=270",
     "price_eur": 130560,
     "sqm": 65,
-    "area": "София",
+    "area": "Младост 4",
     "title": "Двустаен апартамент, София",
     "portal": "sales.bcpea.org",
     "site_updated_at": "2026-10-23T08:55:00+00:00",
     "category": "apartment",
-    "_settlement": "София",
-    "lat": null,
-    "lng": null,
+    "lat": 42.7744044,
+    "lng": 23.2512012,
+    "detail_checked": true,
+    "description": "О Б Я В Л Е Н И Е по изп. дело № 20268440402152 Подписан ата ПЧСИ Ива Панайотова, от кантората на ЧСИ Стоян Якимов, Частен съдебен изпълнител с район на действие Софийски градски съд, на основание чл. 487 и сл. от ГПК изнасям на ПУБЛИЧНА ПРОДАН следния недвижим имот, описан с протокол от 30.09.2026 г., собственост на съделителите Искра Димитрова Димитрова / 1/4 ид. част /, Марияна Стефанова Гугова / 1/2 ид. част / и Цветанка Петрова Димитрова / 1/4 ид. част / , а именно: АПАР Т АМЕНТ № 62 (шестдесет и две), с идентификатор 68134.4089.947.3.62 (шестдесет и осем хиляди сто тридесет и четири точка четири хиляди осемдесет и девет точка деветстотин четиридесет и седем точка три точка шестдесет и две) , находящ се в гр. София, СО, район „Младост – 4“, блок 444, вх. 3, ет. 7, със застроена площ от 65.49 (шестдесет и пет цяло и четиридесет и девет стотни) кв. м., състоящ се от стая, дневна, кухня и сервизни помещения, при съседи: апартамент № 63, коридор, стълбище и двор, заедно с ИЗБЕНО ПОМЕЩЕНИЕ № 18 (осемнадесет) при съседи: мазе № 17, мазе № 19, и коридор, заедно с 4.198 % (четири цяло сто деветдесет и осем хилядни върху сто) ид. ч. от сградата и от отстъпеното право на строеж върху урегулиран общински имот, който имот съгласно Схема на самостоятелен обект в сграда, представлява САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 68134.4089.947.3.62 по кадастралната карта и кадастралните регистри на гр. София, общ. Столична, обл. София, одобрени със Заповед № РД-18-15/06.03.2009 г. на Изпълнителния директор на АГКК, с адрес на имота: гр София, район „Младост“, ж.к. „Младост-4'', бл. 444, вх. 3, ет. 7, ап. 62, като самостоятелният обект се намира в сграда № 3, разположена в поземлен имот с идентификатор 68134.4089.947, с предназначение на самостоятелния обект: Жилище, апартамент; брой нива на обекта: 1; с посочена по документ за собственост площ: 65,49 кв.м.; при съседни самостоятелни обекти в сградата: на същия етаж: 68134.4089.947.3.63, 68134.4089.947.3.41, под обекта: 68134.4089.947.3.59, над обекта: 68134.4089.947.3.65, стар идентификатор: 68134.4089. 179.3.62. Върху изнесения на публична продан имот има следните вписани тежести: Възбрана акт № 259, том 12, дв.вх.рег. № 56916 от 17.07.2026 г., вписана от ЧСИ Стоян Якимов по изп. дело № 20268440402152. ЦЕНАТА, ОТ КОЯТО ЗАПОЧВА ПРОДАНТА НА ИМОТА Е В РАЗМЕР НА 130 560.00 / сто и тридесет хиляди, петстотин и шестдесет / евро. Проданта ще се проведе в канцеларията на Софийски районен съд, с адрес: гр. София, бул. “Цар Борис III” № 54, на 27.11.2026 г. в началото на работния ден, като започва на 26.10.2026 г. и завършва на 26.11.2026 г. - 17.00 часа. Недвижимият имот може да бъде преглеждан с лед предварителна уговорка на тел: 0899135475 За пазач на имота е определен а Марияна Стефанова Гугова. Задатъкът в размер на 10 на сто от началната цена се внася предварително по сметка на Частен съдебен изпълнител Стоян Якимов, рег. № 844 по сметка УниКредит Булбанк АД, IBAN: BG57UNCR70001520546988, BIC код UNCRBGSF, с титуляр Стоян Благоев Якимов, по изп. д ело № 20268440402152. Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Взискателят не внася задатък, ако вземането му надвишава неговия размер. Предложенията се подават в канцеларията на Софийски районен съд, което се отразява във входящия регистър / при условията на чл. 489 ал. 4 и 5 от ГПК/. Наддавателните предложения могат да се оттеглят най-късно до края на работното време в последния ден на проданта. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. На 27.11.2026 г. в началото на работния ден в сградата на Софийски районен съд в гр. София, бул. “Цар Борис III” № 54 ще се състави протокол и ще бъде обявен купувач от частния съдебен изпълнител /чл. 492 ал. 1 ГПК/. За купувач на имота се смята този наддавач, който е предложил най-висока цена. Ако най-високата цена е предложена от повече от един наддавач, купувачът се определя от съдебния изпълнител чрез жребий в присъствието на явилите се наддавачи. Ако при обявяване на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък ще се пристъпи към устно наддаване със стъпка в размер на един задатък /чл. 492, ал. 2 от ГПК/.",
+    "photos": [
+      "https://sales.bcpea.org/upload/93517/465461/viber_image_2026-10-07_20-37-11-202.jpg",
+      "https://sales.bcpea.org/upload/93517/465462/viber_image_2026-10-07_20-37-27-401.jpg",
+      "https://sales.bcpea.org/upload/93517/465463/viber_image_2026-10-07_20-37-47-191.jpg",
+      "https://sales.bcpea.org/upload/93517/465464/viber_image_2026-10-07_20-38-00-426.jpg",
+      "https://sales.bcpea.org/upload/93517/465465/viber_image_2026-10-07_20-38-20-257.jpg",
+      "https://sales.bcpea.org/upload/93517/465466/viber_image_2026-10-07_20-38-36-698.jpg",
+      "https://sales.bcpea.org/upload/93517/465467/viber_image_2026-10-07_20-38-56-144.jpg",
+      "https://sales.bcpea.org/upload/93517/465468/viber_image_2026-10-07_20-39-35-083.jpg",
+      "https://sales.bcpea.org/upload/93517/465469/viber_image_2026-10-07_20-40-01-544.jpg",
+      "https://sales.bcpea.org/upload/93517/465470/viber_image_2026-10-07_20-40-25-034.jpg",
+      "https://sales.bcpea.org/upload/93517/465471/viber_image_2026-10-07_20-40-38-455.jpg",
+      "https://sales.bcpea.org/upload/93517/465472/viber_image_2026-10-07_20-40-50-877.jpg"
+    ],
     "price_per_sqm": 2009,
     "price_history": [
       {
@@ -104020,8 +104160,8 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 0,
-    "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": 1.8,
+    "area_avg_price_per_sqm": 2009,
+    "pct_vs_area_avg": 0.0,
     "score": 0
   }
 ]
