@@ -526,7 +526,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -55.3,
     "score": 19
@@ -621,7 +621,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -54.7,
     "score": 19
@@ -715,7 +715,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -55.3,
     "score": 19
@@ -874,7 +874,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -44.9,
     "score": 19
@@ -1462,7 +1462,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -55.5,
     "score": 19
@@ -2940,7 +2940,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -42.0,
     "score": 17
@@ -2972,7 +2972,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -58.7,
     "score": 17
@@ -3497,7 +3497,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 855,
     "pct_vs_area_avg": -40.1,
     "score": 16
@@ -3778,7 +3778,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -27.9,
     "score": 15
@@ -4219,7 +4219,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -36.5,
     "score": 15
@@ -5453,7 +5453,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": 234,
     "pct_vs_area_avg": -25.8,
     "score": 12
@@ -5488,7 +5488,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -31.8,
     "score": 12
@@ -6334,6 +6334,38 @@
     "days_on_market": 8,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -25.0,
+    "score": 10
+  },
+  {
+    "id": "bcpea_92974",
+    "url": "https://sales.bcpea.org/properties/92974",
+    "photo": null,
+    "price_eur": 21600,
+    "sqm": 15,
+    "area": "Варна",
+    "title": "Гараж, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-08T15:10:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "ГАРАЖ представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА, с идентификатор № 10135.1503.606.1.46, находящ се в гр.Варна, ул.Христо Самсаров №14-16, етаж -1/минус едно/, Гараж №7, самостоятелния обект се намира в сграда №1, разположена в поземлен имот с ид.№ 10135.1503.606, предназначение на самостоятелния обект : гараж в сграда, брой нива на обекта : 1/едно/, площ по документ : 14.60/четиринадесет цяло и шестдесет стотни/кв.м., прилежащи части : 3.07/три цяло и седем стоттни/кв.м. идеални части от общите части на сградата, съседни самостоятелни обекти в сградата : на същият етаж обект с идентификатор № 10135.1503.606.1.47 и обект с ид.№ 10135.1503.606.1.45, под обекта няма и над обекта няма, както и 0.9314%/нула цяло девет хиляди триста и четиринадесет десетохилядни процента/, представляващи 3.07/три цяло и седем стотни/кв.м. идеални части от общите части на сградата и от правото на строеж върху посочения по-горе поземлен имот, в който е построена сградата",
+    "detail_checked": true,
+    "price_per_sqm": 1440,
+    "price_history": [
+      {
+        "date": "2026-10-08T15:15:01.338238+00:00",
+        "price_eur": 21600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 16,
+    "area_avg_price_per_sqm": 1815,
+    "pct_vs_area_avg": -20.7,
     "score": 10
   },
   {
@@ -7480,38 +7512,6 @@
     "score": 9
   },
   {
-    "id": "bcpea_92974",
-    "url": "https://sales.bcpea.org/properties/92974",
-    "photo": null,
-    "price_eur": 21600,
-    "sqm": 15,
-    "area": "Варна",
-    "title": "Гараж, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-08T15:10:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "ГАРАЖ представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА, с идентификатор № 10135.1503.606.1.46, находящ се в гр.Варна, ул.Христо Самсаров №14-16, етаж -1/минус едно/, Гараж №7, самостоятелния обект се намира в сграда №1, разположена в поземлен имот с ид.№ 10135.1503.606, предназначение на самостоятелния обект : гараж в сграда, брой нива на обекта : 1/едно/, площ по документ : 14.60/четиринадесет цяло и шестдесет стотни/кв.м., прилежащи части : 3.07/три цяло и седем стоттни/кв.м. идеални части от общите части на сградата, съседни самостоятелни обекти в сградата : на същият етаж обект с идентификатор № 10135.1503.606.1.47 и обект с ид.№ 10135.1503.606.1.45, под обекта няма и над обекта няма, както и 0.9314%/нула цяло девет хиляди триста и четиринадесет десетохилядни процента/, представляващи 3.07/три цяло и седем стотни/кв.м. идеални части от общите части на сградата и от правото на строеж върху посочения по-горе поземлен имот, в който е построена сградата",
-    "detail_checked": true,
-    "price_per_sqm": 1440,
-    "price_history": [
-      {
-        "date": "2026-10-08T15:15:01.338238+00:00",
-        "price_eur": 21600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 15,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -20.7,
-    "score": 9
-  },
-  {
     "id": "bcpea_93245",
     "url": "https://sales.bcpea.org/properties/93245",
     "photo": "https://sales.bcpea.org/upload/93245/446186/20260306_145918.jpg?w=270&h=270",
@@ -7586,7 +7586,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -22.3,
     "score": 9
@@ -8896,7 +8896,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10179,7 +10179,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10804,7 +10804,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": -12.0,
     "score": 8
@@ -11280,7 +11280,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -15.4,
     "score": 8
@@ -11317,7 +11317,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -15.3,
     "score": 8
@@ -11792,7 +11792,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": 1092,
     "pct_vs_area_avg": 703.4,
     "score": 7
@@ -12479,7 +12479,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 51,
+    "days_on_market": 52,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -13830,7 +13830,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 51,
+    "days_on_market": 52,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -15713,7 +15713,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 51,
+    "days_on_market": 52,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -99.6,
     "score": 7
@@ -17059,7 +17059,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 51,
+    "days_on_market": 52,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -18204,6 +18204,38 @@
     "score": 6
   },
   {
+    "id": "bcpea_92258",
+    "url": "https://sales.bcpea.org/properties/92258",
+    "photo": "https://sales.bcpea.org/upload/92258/424947/DSC03459.JPG?w=270&h=270",
+    "price_eur": 288000,
+    "sqm": 607,
+    "area": "Хрищени",
+    "title": "Производствен имот, Хрищени",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-11T15:30:00+00:00",
+    "category": "apartment",
+    "_settlement": "Хрищени",
+    "lat": 42.4578001,
+    "lng": 25.7051999,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 77476.507.34 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири/ по КККР на с. Хрищени, общ. Стара Загора, одобрени  със Заповед РД 18 1/15.01.2007г. на ИД на АК, с адрес на ПИ: с. Хрищени, п.к. 6050, ул. Новозагорско шосе № 1, с площ 2607кв.м. /две хиляди шестстотин и седем кв.м./, трайно предназначение на територията:  урбанизирана, начин на трайно ползване: за химическата и каучуковата промишленост, с номер от предходен план: 194068, при съседи: ПИ с идент. 77476.507.145, 77476.507.167, 77476.507.33, ВЕДНО с всички  и постройки в него, в т.ч. следните сгради, които попадат в имота: СГРАДА 77476.507.34.1 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири точка едно/, застроена площ 505кв.м. /петстотин и пет кв.м./, брой етажи 2 /два/, предназначение: промишлена сграда, при граници на сградата: от всички страни поземлен имот с идентификатор 77476.507.34, и който имот съгласно документ за собственост представлява обособена част „СГРАДА – учебен корпус К-221 А-1 с прилежащ терен“, включваща сграда с прилежащ терен, а именно НЕУРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с площ от 2607кв.м., представляващ парцел 194068, находящ се в землището на с. Хрищени, общ. Стара Загора, ЕКНМ 77476, с координати на граничните точки по координатната система от 1970г., както следва: Х 4635154.07 и Y 9443055.25; 2. Х 4635178.89 и Y 9443131.60, 3. Х 4635150.81 и Y 9443140.66, 4. Х 4635142.63 и Y 9443115.83, 5. Х 4635138.49 и Y 9443117.23, 6. Х 4635121.86 и Y 9443065.67, при граници и съседи: от север – заводски път, от юг – парцел 194067 /учебен корпус К-221 А-2, собственост на Агробиохим АД в несъстоятелност, ЗАЕДО с находящата се в гореописания недвижим имот сграда, а именно УЧЕБЕН КОРПУС К 221 А-1, построена през 1973г., със застроена площ от 507кв.м., представляваща масивна сграда със сглобяема панелна конструкция построена върху противоатомно скривалище с разгъната площ 1014кв.м. Сградата е двуетажна, по голямата част от сградата е оформена като учебни зали. Останалата част е използвана за производствени цели и представлява хале по цялата й височина на сградата. Подът е изолиран с киселинно устойчиви плочки. Сервизни помещения – една баня и две тоалетни. Противоатомното скривалище е монолитно, стоманено бетонова конструкция с дебелина на външните стени 0,50м., подовете са с циментова замазка, както и заедно с всички останали настоящи и бъдещи постройки, съоръжения на техническата инфраструктура, подобрения и приращения по смисъла на чл. 92 от ЗС, БЕЗ СГРАДА 77476.507.34.2 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири точка две/, застроена площ 124кв.м. /сто двадесет и четири кв.м./, брой етажи 1 /един/, предназначение: складова база, склад,",
+    "detail_checked": true,
+    "price_per_sqm": 474,
+    "price_history": [
+      {
+        "date": "2026-09-11T14:36:42.706133+00:00",
+        "price_eur": 288000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 43,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 6
+  },
+  {
     "id": "bcpea_91303",
     "url": "https://sales.bcpea.org/properties/91303",
     "photo": "https://sales.bcpea.org/upload/91303/455520/IMG-20251104-WA0069.jpg?w=270&h=270",
@@ -19077,7 +19109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26328,7 +26360,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29454,39 +29486,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 5
-  },
-  {
-    "id": "bcpea_92258",
-    "url": "https://sales.bcpea.org/properties/92258",
-    "photo": "https://sales.bcpea.org/upload/92258/424947/DSC03459.JPG?w=270&h=270",
-    "price_eur": 288000,
-    "sqm": 607,
-    "area": "Хрищени",
-    "title": "Производствен имот, Хрищени",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-11T15:30:00+00:00",
-    "category": "apartment",
-    "_settlement": "Хрищени",
-    "lat": 42.4578001,
-    "lng": 25.7051999,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 77476.507.34 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири/ по КККР на с. Хрищени, общ. Стара Загора, одобрени  със Заповед РД 18 1/15.01.2007г. на ИД на АК, с адрес на ПИ: с. Хрищени, п.к. 6050, ул. Новозагорско шосе № 1, с площ 2607кв.м. /две хиляди шестстотин и седем кв.м./, трайно предназначение на територията:  урбанизирана, начин на трайно ползване: за химическата и каучуковата промишленост, с номер от предходен план: 194068, при съседи: ПИ с идент. 77476.507.145, 77476.507.167, 77476.507.33, ВЕДНО с всички  и постройки в него, в т.ч. следните сгради, които попадат в имота: СГРАДА 77476.507.34.1 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири точка едно/, застроена площ 505кв.м. /петстотин и пет кв.м./, брой етажи 2 /два/, предназначение: промишлена сграда, при граници на сградата: от всички страни поземлен имот с идентификатор 77476.507.34, и който имот съгласно документ за собственост представлява обособена част „СГРАДА – учебен корпус К-221 А-1 с прилежащ терен“, включваща сграда с прилежащ терен, а именно НЕУРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с площ от 2607кв.м., представляващ парцел 194068, находящ се в землището на с. Хрищени, общ. Стара Загора, ЕКНМ 77476, с координати на граничните точки по координатната система от 1970г., както следва: Х 4635154.07 и Y 9443055.25; 2. Х 4635178.89 и Y 9443131.60, 3. Х 4635150.81 и Y 9443140.66, 4. Х 4635142.63 и Y 9443115.83, 5. Х 4635138.49 и Y 9443117.23, 6. Х 4635121.86 и Y 9443065.67, при граници и съседи: от север – заводски път, от юг – парцел 194067 /учебен корпус К-221 А-2, собственост на Агробиохим АД в несъстоятелност, ЗАЕДО с находящата се в гореописания недвижим имот сграда, а именно УЧЕБЕН КОРПУС К 221 А-1, построена през 1973г., със застроена площ от 507кв.м., представляваща масивна сграда със сглобяема панелна конструкция построена върху противоатомно скривалище с разгъната площ 1014кв.м. Сградата е двуетажна, по голямата част от сградата е оформена като учебни зали. Останалата част е използвана за производствени цели и представлява хале по цялата й височина на сградата. Подът е изолиран с киселинно устойчиви плочки. Сервизни помещения – една баня и две тоалетни. Противоатомното скривалище е монолитно, стоманено бетонова конструкция с дебелина на външните стени 0,50м., подовете са с циментова замазка, както и заедно с всички останали настоящи и бъдещи постройки, съоръжения на техническата инфраструктура, подобрения и приращения по смисъла на чл. 92 от ЗС, БЕЗ СГРАДА 77476.507.34.2 /седемдесет и седем хиляди четиристотин седемдесет и шест точка петстотин и седем точка тридесет и четири точка две/, застроена площ 124кв.м. /сто двадесет и четири кв.м./, брой етажи 1 /един/, предназначение: складова база, склад,",
-    "detail_checked": true,
-    "price_per_sqm": 474,
-    "price_history": [
-      {
-        "date": "2026-09-11T14:36:42.706133+00:00",
-        "price_eur": 288000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 42,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -33830,7 +33830,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -33956,7 +33956,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -34479,7 +34479,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -36405,7 +36405,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -40963,7 +40963,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -42510,7 +42510,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -43041,7 +43041,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46410,7 +46410,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 143.8,
     "score": 5
@@ -46972,7 +46972,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 143.8,
     "score": 5
@@ -52231,7 +52231,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -97.7,
     "score": 4
@@ -57647,7 +57647,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -58240,7 +58240,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -61678,7 +61678,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -63912,7 +63912,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64170,7 +64170,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -68562,7 +68562,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -69100,7 +69100,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -69164,7 +69164,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -69200,7 +69200,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -70345,7 +70345,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -70781,7 +70781,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -71093,7 +71093,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 7025,
     "pct_vs_area_avg": 294.5,
     "score": 4
@@ -74259,7 +74259,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74291,7 +74291,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74323,7 +74323,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74355,7 +74355,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -74387,7 +74387,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75834,7 +75834,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76905,7 +76905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 0.5,
     "score": 3
@@ -76937,7 +76937,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76979,7 +76979,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -77704,7 +77704,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -77739,7 +77739,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78692,7 +78692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78724,7 +78724,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78756,7 +78756,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78788,7 +78788,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78922,7 +78922,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81280,7 +81280,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81312,7 +81312,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -81344,7 +81344,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -83064,7 +83064,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -83096,7 +83096,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86267,7 +86267,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86299,7 +86299,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86331,7 +86331,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86363,7 +86363,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86395,7 +86395,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86427,7 +86427,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86459,7 +86459,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -98.8,
     "score": 2
@@ -86491,7 +86491,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86523,7 +86523,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86565,7 +86565,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87950,7 +87950,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87987,7 +87987,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89704,6 +89704,512 @@
     "score": 2
   },
   {
+    "id": "bcpea_93121",
+    "url": "https://sales.bcpea.org/properties/93121",
+    "photo": null,
+    "price_eur": 61704,
+    "sqm": 253,
+    "area": "Белгун",
+    "title": "Земеделска земя, Белгун",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:29:00+00:00",
+    "category": "land",
+    "_settlement": "Белгун",
+    "lat": 43.6014179,
+    "lng": 28.3208499,
+    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.26.14 (нула, три, три, едно, осем, точка, две, шест, точка, едно, четири) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 37 253 кв.м. (тридесет и седем хиляди двеста петдесет и три квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Втора, предишен идентификатор: няма, номер по предходен план: 026014 (нула, две, шест, нула, едно, четири), при съседи: 03318.26.186, 03318.26.15, 03318.26.11, 03318.26.12, 03318.26.21.",
+    "detail_checked": true,
+    "price_per_sqm": 244,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 61704
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93120",
+    "url": "https://sales.bcpea.org/properties/93120",
+    "photo": null,
+    "price_eur": 157320,
+    "sqm": 20,
+    "area": "Белгун",
+    "title": "Земеделска земя, Белгун",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:27:00+00:00",
+    "category": "land",
+    "_settlement": "Белгун",
+    "lat": 43.6014179,
+    "lng": 28.3208499,
+    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.13.16 (нула, три, три, едно, осем, точка, едно, три, точка, едно, шест) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 95 020 кв.м. (деветдесет и пет хиляди и двадесет квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Втора, предишен идентификатор: няма, номер по предходен план: 013016 (нула, едно, три, нула, едно, шест), при съседи: 03318.13.17, 03318.13.19, 03318.13.20, 03318.13.50, 03318.13.108, 03318.13.52, 03318.13.112.",
+    "detail_checked": true,
+    "price_per_sqm": 7866,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 157320
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93119",
+    "url": "https://sales.bcpea.org/properties/93119",
+    "photo": null,
+    "price_eur": 13824,
+    "sqm": 357,
+    "area": "Белгун",
+    "title": "Земеделска земя, Белгун",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:26:00+00:00",
+    "category": "land",
+    "_settlement": "Белгун",
+    "lat": 43.6014179,
+    "lng": 28.3208499,
+    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.10.209 (нула, три, три, едно, осем, точка, едно, нула, точка, две, нула, девет) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 8 357 кв.м. (осем хиляди триста петдесет и седем квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: 03318.10.200 (нула, три, три, едно, осем, точка, едно, нула, точка, две, нула, нула), номер по предходен план: 010081 (нула, едно, нула, нула, осем, едно), при съседи: 03318.10.208, 03318.10.201, 03318.10.153, 03318.10.68, 03318.10.67.",
+    "detail_checked": true,
+    "price_per_sqm": 39,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 13824
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93118",
+    "url": "https://sales.bcpea.org/properties/93118",
+    "photo": null,
+    "price_eur": 42264,
+    "sqm": 670,
+    "area": "Нейково",
+    "title": "Земеделска земя, Нейково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:24:00+00:00",
+    "category": "land",
+    "_settlement": "Нейково",
+    "lat": 43.6100688,
+    "lng": 28.4276766,
+    "description": "Недвижим имот, находящ се в с.Нейково, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 51408.6.22 (пет, едно, четири, нула, осем, точка, шест, точка, две, две) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-25/27.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 26 670 кв.м. (двадесет и шест хиляди шестстотин и седемдесет квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 006022 (нула, нула, шест, нула, две, две), при съседи: 51408.6.8, 51408.6.21, 51408.6.25, 51408.6.77, 51408.8.133.",
+    "detail_checked": true,
+    "price_per_sqm": 63,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 42264
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93117",
+    "url": "https://sales.bcpea.org/properties/93117",
+    "photo": null,
+    "price_eur": 42264,
+    "sqm": 671,
+    "area": "Нейково",
+    "title": "Земеделска земя, Нейково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:22:00+00:00",
+    "category": "land",
+    "_settlement": "Нейково",
+    "lat": 43.6100688,
+    "lng": 28.4276766,
+    "description": "Недвижим имот, находящ се в с.Нейково, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 51408.6.21 (пет, едно, четири, нула, осем, точка, шест, точка, две, едно) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-25/27.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 26 671 кв.м. (двадесет и шест хиляди шестстотин седемдесет и един квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 006021 (нула, нула, шест, нула, две, едно), при съседи: 51408.6.20, 51408.6.22, 51408.6.77, 51408.8.133.",
+    "detail_checked": true,
+    "price_per_sqm": 63,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 42264
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93116",
+    "url": "https://sales.bcpea.org/properties/93116",
+    "photo": null,
+    "price_eur": 83232,
+    "sqm": 558,
+    "area": "Езерец",
+    "title": "Земеделска земя, Езерец",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:19:00+00:00",
+    "category": "land",
+    "_settlement": "Езерец",
+    "lat": 43.5952834,
+    "lng": 28.5368262,
+    "description": "Недвижим имот, находящ се в с.Езерец, общ.Шабла, обл.Добрич, местност „ПЪТ ЗА ЛЕТИЩЕТО“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27108.16.36 (две, седем, едно, нула, осем, точка, едно, шест, точка, три, шест) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-21/30.03.2006г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 52 558 кв.м. (петдесет и две хиляди петстотин петдесет и осем квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 016036 (нула, едно, шест, нула, три, шест), при съседи: 27108.16.45, 27108.16.35, 27108.16.32, 27108.18.3, 27108.16.2, 27108.16.34, 27108.16.46.",
+    "detail_checked": true,
+    "price_per_sqm": 149,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 83232
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93115",
+    "url": "https://sales.bcpea.org/properties/93115",
+    "photo": null,
+    "price_eur": 62136,
+    "sqm": 165,
+    "area": "Крушари",
+    "title": "Земеделска земя, Крушари",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:17:00+00:00",
+    "category": "land",
+    "_settlement": "Крушари",
+    "lat": 43.8596584,
+    "lng": 27.7329716,
+    "description": "Недвижим имот, находящ се в с.Крушари, общ.Крушари, обл.Добрич, местност „ГЬОЛДЖУКА“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 40097.26.41/четири, нула, нула, девет, седем, точка, две, шест, точка, четири, едно/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-92/19.12.2009 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 43165кв.м., а по документ за собственост 43,149дка/четиридесет и три декара и сто четиридесет и девет квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 026041, при съседи: 40097.26.61, 40097.26.60, 40097.26.51, 40097.25.51, 40097.26.52, 40097.26.62, 40097.26.73.",
+    "detail_checked": true,
+    "price_per_sqm": 377,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 62136
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93114",
+    "url": "https://sales.bcpea.org/properties/93114",
+    "photo": null,
+    "price_eur": 19152,
+    "sqm": 12,
+    "area": "Ефрейтор Бакалово",
+    "title": "Земеделска земя, Ефрейтор Бакалово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:09:00+00:00",
+    "category": "land",
+    "_settlement": "Ефрейтор Бакалово",
+    "lat": 43.83448,
+    "lng": 27.60699,
+    "description": "Недвижим имот, находящ се в с.Ефрейтор Бакалово, общ.Крушари, обл.Добрич, местност „КЮАРКЪСЪ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27656.15.13/две, седем, шест, пет, шест, точка, едно, пет, точка, едно, три/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-530/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 14012кв.м., а по документ за собственост 14,008дка/четиринадесет декара и осем квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 015013, при съседи: 27656.15.34, 27656.15.14, 27656.100.67, 27656.15.12.",
+    "detail_checked": true,
+    "price_per_sqm": 1596,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 19152
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93113",
+    "url": "https://sales.bcpea.org/properties/93113",
+    "photo": null,
+    "price_eur": 19152,
+    "sqm": 12,
+    "area": "Ефрейтор Бакалово",
+    "title": "Земеделска земя, Ефрейтор Бакалово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:07:00+00:00",
+    "category": "land",
+    "_settlement": "Ефрейтор Бакалово",
+    "lat": 43.83448,
+    "lng": 27.60699,
+    "description": "Недвижим имот, находящ се в с.Ефрейтор Бакалово, общ.Крушари, обл.Добрич, местност „КЮАРКЪСЪ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27656.15.12/две, седем, шест, пет, шест, точка, едно, пет, точка, едно, две/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-530/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 14012кв.м., а по документ за собственост 14,008дка/четиринадесет декара и осем квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 015012, при съседи: 27656.15.13, 27656.15.34, 27656.100.67, 27656.15.6, 27656.15.112.",
+    "detail_checked": true,
+    "price_per_sqm": 1596,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 19152
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93112",
+    "url": "https://sales.bcpea.org/properties/93112",
+    "photo": null,
+    "price_eur": 20520,
+    "sqm": 3,
+    "area": "Загорци",
+    "title": "Земеделска земя, Загорци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:05:00+00:00",
+    "category": "land",
+    "_settlement": "Загорци",
+    "lat": 42.3960001,
+    "lng": 27.06038,
+    "description": "Недвижим имот, находящ се в с.Загорци, общ.Крушари, обл.Добрич, местност „ЧЕСТИТЕ МОГИЛИ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 30185.70.148/три, нула, едно, осем, пет, точка, седем, нула, точка, едно, четири, осем/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-531/05.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 15003кв.м., а по документ за собственост 15,000дка/петнадесет декара/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 070148, при съседи: 30185.60.118, 30185.70.122, 30185.70.147, 30185.70.149, 30185.70.123.",
+    "detail_checked": true,
+    "price_per_sqm": 6840,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 20520
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93111",
+    "url": "https://sales.bcpea.org/properties/93111",
+    "photo": null,
+    "price_eur": 25920,
+    "sqm": 966,
+    "area": "Зимница",
+    "title": "Земеделска земя, Зимница",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:02:00+00:00",
+    "category": "land",
+    "_settlement": "Зимница",
+    "lat": 43.8647,
+    "lng": 27.61871,
+    "description": "Недвижим имот, находящ се в с.Зимница, общ.Крушари, обл.Добрич, местност „ЮРТЛУК“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 30884.13.26/три, нула, осем, осем, четири, точка, едно, три, точка, две, шест/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-533/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 18966кв.м., а по документ за собственост 18,961дка/осемнадесет декара, деветстотин, шестдесет и един квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 013026, при съседи: 30884.13.24, 30884.13.45, 30884.13.181, 30884.13.25.",
+    "detail_checked": true,
+    "price_per_sqm": 27,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 25920
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93110",
+    "url": "https://sales.bcpea.org/properties/93110",
+    "photo": "https://sales.bcpea.org/upload/93110/463933/IMG_4767.jpg?w=270&h=270",
+    "price_eur": 48400,
+    "sqm": 99,
+    "area": "Омуртаг",
+    "title": "Двустаен апартамент, Омуртаг",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T15:02:00+00:00",
+    "category": "apartment",
+    "_settlement": "Омуртаг",
+    "lat": 43.1085755,
+    "lng": 26.4174525,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 53535.501.735.1. 2 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно, точка, две /, по кадастралната карта и кадастралните регистри на гр.Омуртаг, общ.Омуртаг, обл.Търговище, одобрени със Заповед № РД-18-86/17.12.2009г. на Изпълнителен Директор на АГКК, последно то изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е със Заповед № 18-899-24.01.2023г. на Началник на СГКК-Търговище. Адрес на имота: гр.Омуртаг, ул.Тунджа, ет.3 /трети/, общ.Омуртаг, обл.Търговище. Самостоятелният обект се намира на етаж 3 /трети/ в сграда с идентификатор 53535.501.735.1 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно/ с предназнчение: Жилищна сграда – многофамилна. Сградата е разположена в поземлен имот с идентификатор 53535.501.735 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет/, с административен адрес: гр.Омуртаг, ул.Тунджа № 1 /едно/ , общ.Омуртаг, обл.Търговище, с площ от 271 кв.м. /двеста седемдесет и един квадратни метра/ . П редназначение на самостоятелния обект – Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 /едно/, с площ 99.0 6 кв.м. /деветдесет и девет цяло и шест стотни квадратни метра/, ниво: 1 /едно/, ведно с прилежащите северно избено помещение с площ от 12 кв.м. /дванедесет квадратни метра/ и ½ ид.ч. /една втора идеални части/ от общите части на сградата и правото на строеж, стар идентификатор: 53535.501.735.1.3 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно, точка, три / , при съседни самостоятелни обекти в сградата: на същия етаж: няма, под обекта: 53535.501.735.1. 1, над обекта: няма, а по документ за собственост: Недвижим имот, находящ се гр.Омуртаг, общ.Омуртаг, обл.Търговище, ул.Тунджа № 1 /едно/, а именно: ВТОРИ ЖИЛИЩЕН ЕТАЖ със застроена площ от 100.00 кв.м. /сто квадратни метра/, който е обособен като самостоятелно жилище с отделен вход от ДВУЕТАЖНА ДВУФАМИЛНА МАСИВНА със железен гредоред ЖИЛИЩНА СГРАДА, заедно с принадлежащите му ИЗБЕНО ПОМЕЩЕНИЕ със застроена площ от 12.00 кв.м. /дванадесет квадратни метра/ и ведно с ½ ид.ч. /една втора идеална част/ от общите части на жилищната сграда и правото на строеж, която сграда е построена на основание отстъпено право на строеж върху УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № XVIII-735 / парцел осемнадесети за дворище седемстотин тридесет и пет/, в квартал № 72 /седемдесет и втори/ по регулационния план на град Омуртаг, находящо се на ул.Тунджа № 1 /едно/, при граници и съседи за имота: улица Тунджа, УПИ XVII-736, УПИ II-733 и УПИ I-734.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93110/463933/IMG_4767.jpg",
+      "https://sales.bcpea.org/upload/93110/463930/IMG_4760.jpg",
+      "https://sales.bcpea.org/upload/93110/463931/IMG_4762.jpg",
+      "https://sales.bcpea.org/upload/93110/463932/IMG_4764.jpg",
+      "https://sales.bcpea.org/upload/93110/463934/IMG_4769.jpg",
+      "https://sales.bcpea.org/upload/93110/463935/IMG_4775.jpg",
+      "https://sales.bcpea.org/upload/93110/463936/IMG_4780.jpg",
+      "https://sales.bcpea.org/upload/93110/463937/IMG_4781.jpg",
+      "https://sales.bcpea.org/upload/93110/463938/IMG_4782.jpg",
+      "https://sales.bcpea.org/upload/93110/463939/IMG_4784.jpg",
+      "https://sales.bcpea.org/upload/93110/463940/IMG_4790.jpg",
+      "https://sales.bcpea.org/upload/93110/463941/IMG_4793.jpg",
+      "https://sales.bcpea.org/upload/93110/463942/IMG_4796.jpg",
+      "https://sales.bcpea.org/upload/93110/463943/IMG_4797.jpg",
+      "https://sales.bcpea.org/upload/93110/463944/IMG_4804.jpg",
+      "https://sales.bcpea.org/upload/93110/463945/IMG_4809.jpg",
+      "https://sales.bcpea.org/upload/93110/463946/IMG_4814.jpg",
+      "https://sales.bcpea.org/upload/93110/463947/IMG_4821.jpg",
+      "https://sales.bcpea.org/upload/93110/463949/IMG_4827.jpg"
+    ],
+    "price_per_sqm": 489,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 48400
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93109",
+    "url": "https://sales.bcpea.org/properties/93109",
+    "photo": null,
+    "price_eur": 77256,
+    "sqm": 672,
+    "area": "Чернооково",
+    "title": "Земеделска земя, Чернооково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T14:58:00+00:00",
+    "category": "land",
+    "_settlement": "Чернооково",
+    "lat": 43.7105,
+    "lng": 28.17111,
+    "description": "Недвижим имот, находящ се в с.Чернооково, общ.Генерал Тошево, обл.Добрич, местност „БОЗЛАТА“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 81219.40.14 (осем, едно, две, едно, девет, точка, четири, нула, точка, едно, четири) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-883/08.12.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 46 672 кв.м. (четиридесет и шест хиляди шестстотин седемдесет и два квадратни метра), а по документ за собственост 46,663 дка (четиридесет и шест декара шестстотин шестдесет и три квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 040014 (нула, четири, нула, нула, едно, четири), при съседи: 81219.40.24, 81219.40.15, 81219.40.26, 81219.40.25, 81219.40.8, 81219.40.27, 81219.40.11.",
+    "detail_checked": true,
+    "price_per_sqm": 115,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 77256
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93108",
+    "url": "https://sales.bcpea.org/properties/93108",
+    "photo": null,
+    "price_eur": 38016,
+    "sqm": 0,
+    "area": "Преселенци",
+    "title": "Земеделска земя, Преселенци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T14:55:00+00:00",
+    "category": "land",
+    "_settlement": "Преселенци",
+    "lat": 43.64158,
+    "lng": 28.137,
+    "description": "Недвижим имот, находящ се в с.Преселенци, общ.Генерал Тошево, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 58181.37.39 (пет, осем, едно, осем, едно, точка, три, седем, точка, три, девет) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-552/27.02.2018г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 24 003 кв.м. (двадесет и четири хиляди и три квадратни метра), а по документ за собственост 24,000 дка (двадесет и четири декара), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 037039 (нула, три, седем, нула, три, девет), при съседи: 58181.36.405, 58181.37.30, 58181.37.29, 58181.32.125, 58181.37.36.",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 38016
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93107",
+    "url": "https://sales.bcpea.org/properties/93107",
+    "photo": "https://sales.bcpea.org/upload/93107/463922/1.JPG?w=270&h=270",
+    "price_eur": 62638,
+    "sqm": 39,
+    "area": "Шабла",
+    "title": "Вила, Шабла",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T14:52:00+00:00",
+    "category": "house",
+    "_settlement": "Шабла",
+    "lat": 43.5406619,
+    "lng": 28.5339137,
+    "description": "Недвижим имот находящ се в гр.Шабла, общ.Шабла, обл.Добрич, СО „Кария“, представляващ: СГРАДА с идентификатор 83017.505.6.1 (осем, три, нула, едно, седем, точка, пет, нула, пет, точка, шест, точка, едно), по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-15/29.03.2006г. на изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, със застроена площ от 39кв.м. (тридесет и девет квадратни метра), сградата е разположена в поземлен имот с идентификатор 83017.505.6 (осем, три, нула, едно, седем, точка, пет, нула, пет, точка, шест), предназначение: курортна, туристическа сграда, брой етажи: 1 (един), брой самостоятелни обекти в сградата: 0 (нула), предишен идентификатор: няма. *Сградата по документи е на един етаж, със застроена площ от 39кв.м., но при нейния опис се установи, че тя е на два етажа, със застроена площ от 39кв.м. и разгъната застроена площ от 78кв.м.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93107/463922/1.JPG",
+      "https://sales.bcpea.org/upload/93107/463923/2.JPG",
+      "https://sales.bcpea.org/upload/93107/463925/3.JPG"
+    ],
+    "price_per_sqm": 1606,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 62638
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93106",
     "url": "https://sales.bcpea.org/properties/93106",
     "photo": "https://sales.bcpea.org/upload/93106/463918/20260910_094250.jpg?w=270&h=270",
@@ -91034,512 +91540,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93121",
-    "url": "https://sales.bcpea.org/properties/93121",
-    "photo": null,
-    "price_eur": 61704,
-    "sqm": 253,
-    "area": "Белгун",
-    "title": "Земеделска земя, Белгун",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:29:00+00:00",
-    "category": "land",
-    "_settlement": "Белгун",
-    "lat": 43.6014179,
-    "lng": 28.3208499,
-    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.26.14 (нула, три, три, едно, осем, точка, две, шест, точка, едно, четири) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 37 253 кв.м. (тридесет и седем хиляди двеста петдесет и три квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Втора, предишен идентификатор: няма, номер по предходен план: 026014 (нула, две, шест, нула, едно, четири), при съседи: 03318.26.186, 03318.26.15, 03318.26.11, 03318.26.12, 03318.26.21.",
-    "detail_checked": true,
-    "price_per_sqm": 244,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 61704
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93120",
-    "url": "https://sales.bcpea.org/properties/93120",
-    "photo": null,
-    "price_eur": 157320,
-    "sqm": 20,
-    "area": "Белгун",
-    "title": "Земеделска земя, Белгун",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:27:00+00:00",
-    "category": "land",
-    "_settlement": "Белгун",
-    "lat": 43.6014179,
-    "lng": 28.3208499,
-    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.13.16 (нула, три, три, едно, осем, точка, едно, три, точка, едно, шест) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 95 020 кв.м. (деветдесет и пет хиляди и двадесет квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Втора, предишен идентификатор: няма, номер по предходен план: 013016 (нула, едно, три, нула, едно, шест), при съседи: 03318.13.17, 03318.13.19, 03318.13.20, 03318.13.50, 03318.13.108, 03318.13.52, 03318.13.112.",
-    "detail_checked": true,
-    "price_per_sqm": 7866,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 157320
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93119",
-    "url": "https://sales.bcpea.org/properties/93119",
-    "photo": null,
-    "price_eur": 13824,
-    "sqm": 357,
-    "area": "Белгун",
-    "title": "Земеделска земя, Белгун",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:26:00+00:00",
-    "category": "land",
-    "_settlement": "Белгун",
-    "lat": 43.6014179,
-    "lng": 28.3208499,
-    "description": "Недвижим имот, находящ се в с.Белгун, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 03318.10.209 (нула, три, три, едно, осем, точка, едно, нула, точка, две, нула, девет) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-9/19.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 8 357 кв.м. (осем хиляди триста петдесет и седем квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: 03318.10.200 (нула, три, три, едно, осем, точка, едно, нула, точка, две, нула, нула), номер по предходен план: 010081 (нула, едно, нула, нула, осем, едно), при съседи: 03318.10.208, 03318.10.201, 03318.10.153, 03318.10.68, 03318.10.67.",
-    "detail_checked": true,
-    "price_per_sqm": 39,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 13824
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93118",
-    "url": "https://sales.bcpea.org/properties/93118",
-    "photo": null,
-    "price_eur": 42264,
-    "sqm": 670,
-    "area": "Нейково",
-    "title": "Земеделска земя, Нейково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:24:00+00:00",
-    "category": "land",
-    "_settlement": "Нейково",
-    "lat": 43.6100688,
-    "lng": 28.4276766,
-    "description": "Недвижим имот, находящ се в с.Нейково, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 51408.6.22 (пет, едно, четири, нула, осем, точка, шест, точка, две, две) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-25/27.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 26 670 кв.м. (двадесет и шест хиляди шестстотин и седемдесет квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 006022 (нула, нула, шест, нула, две, две), при съседи: 51408.6.8, 51408.6.21, 51408.6.25, 51408.6.77, 51408.8.133.",
-    "detail_checked": true,
-    "price_per_sqm": 63,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 42264
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93117",
-    "url": "https://sales.bcpea.org/properties/93117",
-    "photo": null,
-    "price_eur": 42264,
-    "sqm": 671,
-    "area": "Нейково",
-    "title": "Земеделска земя, Нейково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:22:00+00:00",
-    "category": "land",
-    "_settlement": "Нейково",
-    "lat": 43.6100688,
-    "lng": 28.4276766,
-    "description": "Недвижим имот, находящ се в с.Нейково, общ.Каварна, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 51408.6.21 (пет, едно, четири, нула, осем, точка, шест, точка, две, едно) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-25/27.02.2008г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 26 671 кв.м. (двадесет и шест хиляди шестстотин седемдесет и един квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 006021 (нула, нула, шест, нула, две, едно), при съседи: 51408.6.20, 51408.6.22, 51408.6.77, 51408.8.133.",
-    "detail_checked": true,
-    "price_per_sqm": 63,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 42264
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93116",
-    "url": "https://sales.bcpea.org/properties/93116",
-    "photo": null,
-    "price_eur": 83232,
-    "sqm": 558,
-    "area": "Езерец",
-    "title": "Земеделска земя, Езерец",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:19:00+00:00",
-    "category": "land",
-    "_settlement": "Езерец",
-    "lat": 43.5952834,
-    "lng": 28.5368262,
-    "description": "Недвижим имот, находящ се в с.Езерец, общ.Шабла, обл.Добрич, местност „ПЪТ ЗА ЛЕТИЩЕТО“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27108.16.36 (две, седем, едно, нула, осем, точка, едно, шест, точка, три, шест) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-21/30.03.2006г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ от 52 558 кв.м. (петдесет и две хиляди петстотин петдесет и осем квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 016036 (нула, едно, шест, нула, три, шест), при съседи: 27108.16.45, 27108.16.35, 27108.16.32, 27108.18.3, 27108.16.2, 27108.16.34, 27108.16.46.",
-    "detail_checked": true,
-    "price_per_sqm": 149,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 83232
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93115",
-    "url": "https://sales.bcpea.org/properties/93115",
-    "photo": null,
-    "price_eur": 62136,
-    "sqm": 165,
-    "area": "Крушари",
-    "title": "Земеделска земя, Крушари",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:17:00+00:00",
-    "category": "land",
-    "_settlement": "Крушари",
-    "lat": 43.8596584,
-    "lng": 27.7329716,
-    "description": "Недвижим имот, находящ се в с.Крушари, общ.Крушари, обл.Добрич, местност „ГЬОЛДЖУКА“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 40097.26.41/четири, нула, нула, девет, седем, точка, две, шест, точка, четири, едно/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-92/19.12.2009 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 43165кв.м., а по документ за собственост 43,149дка/четиридесет и три декара и сто четиридесет и девет квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 026041, при съседи: 40097.26.61, 40097.26.60, 40097.26.51, 40097.25.51, 40097.26.52, 40097.26.62, 40097.26.73.",
-    "detail_checked": true,
-    "price_per_sqm": 377,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 62136
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93114",
-    "url": "https://sales.bcpea.org/properties/93114",
-    "photo": null,
-    "price_eur": 19152,
-    "sqm": 12,
-    "area": "Ефрейтор Бакалово",
-    "title": "Земеделска земя, Ефрейтор Бакалово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:09:00+00:00",
-    "category": "land",
-    "_settlement": "Ефрейтор Бакалово",
-    "lat": 43.83448,
-    "lng": 27.60699,
-    "description": "Недвижим имот, находящ се в с.Ефрейтор Бакалово, общ.Крушари, обл.Добрич, местност „КЮАРКЪСЪ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27656.15.13/две, седем, шест, пет, шест, точка, едно, пет, точка, едно, три/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-530/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 14012кв.м., а по документ за собственост 14,008дка/четиринадесет декара и осем квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 015013, при съседи: 27656.15.34, 27656.15.14, 27656.100.67, 27656.15.12.",
-    "detail_checked": true,
-    "price_per_sqm": 1596,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 19152
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93113",
-    "url": "https://sales.bcpea.org/properties/93113",
-    "photo": null,
-    "price_eur": 19152,
-    "sqm": 12,
-    "area": "Ефрейтор Бакалово",
-    "title": "Земеделска земя, Ефрейтор Бакалово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:07:00+00:00",
-    "category": "land",
-    "_settlement": "Ефрейтор Бакалово",
-    "lat": 43.83448,
-    "lng": 27.60699,
-    "description": "Недвижим имот, находящ се в с.Ефрейтор Бакалово, общ.Крушари, обл.Добрич, местност „КЮАРКЪСЪ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 27656.15.12/две, седем, шест, пет, шест, точка, едно, пет, точка, едно, две/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-530/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 14012кв.м., а по документ за собственост 14,008дка/четиринадесет декара и осем квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 015012, при съседи: 27656.15.13, 27656.15.34, 27656.100.67, 27656.15.6, 27656.15.112.",
-    "detail_checked": true,
-    "price_per_sqm": 1596,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 19152
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93112",
-    "url": "https://sales.bcpea.org/properties/93112",
-    "photo": null,
-    "price_eur": 20520,
-    "sqm": 3,
-    "area": "Загорци",
-    "title": "Земеделска земя, Загорци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:05:00+00:00",
-    "category": "land",
-    "_settlement": "Загорци",
-    "lat": 42.3960001,
-    "lng": 27.06038,
-    "description": "Недвижим имот, находящ се в с.Загорци, общ.Крушари, обл.Добрич, местност „ЧЕСТИТЕ МОГИЛИ“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 30185.70.148/три, нула, едно, осем, пет, точка, седем, нула, точка, едно, четири, осем/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-531/05.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 15003кв.м., а по документ за собственост 15,000дка/петнадесет декара/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 070148, при съседи: 30185.60.118, 30185.70.122, 30185.70.147, 30185.70.149, 30185.70.123.",
-    "detail_checked": true,
-    "price_per_sqm": 6840,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 20520
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93111",
-    "url": "https://sales.bcpea.org/properties/93111",
-    "photo": null,
-    "price_eur": 25920,
-    "sqm": 966,
-    "area": "Зимница",
-    "title": "Земеделска земя, Зимница",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:02:00+00:00",
-    "category": "land",
-    "_settlement": "Зимница",
-    "lat": 43.8647,
-    "lng": 27.61871,
-    "description": "Недвижим имот, находящ се в с.Зимница, общ.Крушари, обл.Добрич, местност „ЮРТЛУК“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 30884.13.26/три, нула, осем, осем, четири, точка, едно, три, точка, две, шест/ по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-533/05.08.2019 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 18966кв.м., а по документ за собственост 18,961дка/осемнадесет декара, деветстотин, шестдесет и един квадратни метра/, трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Четвърта, предишен идентификатор: няма, номер по предходен план: 013026, при съседи: 30884.13.24, 30884.13.45, 30884.13.181, 30884.13.25.",
-    "detail_checked": true,
-    "price_per_sqm": 27,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 25920
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93110",
-    "url": "https://sales.bcpea.org/properties/93110",
-    "photo": "https://sales.bcpea.org/upload/93110/463933/IMG_4767.jpg?w=270&h=270",
-    "price_eur": 48400,
-    "sqm": 99,
-    "area": "Омуртаг",
-    "title": "Двустаен апартамент, Омуртаг",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T15:02:00+00:00",
-    "category": "apartment",
-    "_settlement": "Омуртаг",
-    "lat": 43.1085755,
-    "lng": 26.4174525,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 53535.501.735.1. 2 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно, точка, две /, по кадастралната карта и кадастралните регистри на гр.Омуртаг, общ.Омуртаг, обл.Търговище, одобрени със Заповед № РД-18-86/17.12.2009г. на Изпълнителен Директор на АГКК, последно то изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е със Заповед № 18-899-24.01.2023г. на Началник на СГКК-Търговище. Адрес на имота: гр.Омуртаг, ул.Тунджа, ет.3 /трети/, общ.Омуртаг, обл.Търговище. Самостоятелният обект се намира на етаж 3 /трети/ в сграда с идентификатор 53535.501.735.1 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно/ с предназнчение: Жилищна сграда – многофамилна. Сградата е разположена в поземлен имот с идентификатор 53535.501.735 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет/, с административен адрес: гр.Омуртаг, ул.Тунджа № 1 /едно/ , общ.Омуртаг, обл.Търговище, с площ от 271 кв.м. /двеста седемдесет и един квадратни метра/ . П редназначение на самостоятелния обект – Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 /едно/, с площ 99.0 6 кв.м. /деветдесет и девет цяло и шест стотни квадратни метра/, ниво: 1 /едно/, ведно с прилежащите северно избено помещение с площ от 12 кв.м. /дванедесет квадратни метра/ и ½ ид.ч. /една втора идеални части/ от общите части на сградата и правото на строеж, стар идентификатор: 53535.501.735.1.3 /петдесет и три хиляди петстотин тридесет и пет, точка, петстотин и едно, точка, седемстотин тридесет и пет, точка, едно, точка, три / , при съседни самостоятелни обекти в сградата: на същия етаж: няма, под обекта: 53535.501.735.1. 1, над обекта: няма, а по документ за собственост: Недвижим имот, находящ се гр.Омуртаг, общ.Омуртаг, обл.Търговище, ул.Тунджа № 1 /едно/, а именно: ВТОРИ ЖИЛИЩЕН ЕТАЖ със застроена площ от 100.00 кв.м. /сто квадратни метра/, който е обособен като самостоятелно жилище с отделен вход от ДВУЕТАЖНА ДВУФАМИЛНА МАСИВНА със железен гредоред ЖИЛИЩНА СГРАДА, заедно с принадлежащите му ИЗБЕНО ПОМЕЩЕНИЕ със застроена площ от 12.00 кв.м. /дванадесет квадратни метра/ и ведно с ½ ид.ч. /една втора идеална част/ от общите части на жилищната сграда и правото на строеж, която сграда е построена на основание отстъпено право на строеж върху УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № XVIII-735 / парцел осемнадесети за дворище седемстотин тридесет и пет/, в квартал № 72 /седемдесет и втори/ по регулационния план на град Омуртаг, находящо се на ул.Тунджа № 1 /едно/, при граници и съседи за имота: улица Тунджа, УПИ XVII-736, УПИ II-733 и УПИ I-734.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93110/463933/IMG_4767.jpg",
-      "https://sales.bcpea.org/upload/93110/463930/IMG_4760.jpg",
-      "https://sales.bcpea.org/upload/93110/463931/IMG_4762.jpg",
-      "https://sales.bcpea.org/upload/93110/463932/IMG_4764.jpg",
-      "https://sales.bcpea.org/upload/93110/463934/IMG_4769.jpg",
-      "https://sales.bcpea.org/upload/93110/463935/IMG_4775.jpg",
-      "https://sales.bcpea.org/upload/93110/463936/IMG_4780.jpg",
-      "https://sales.bcpea.org/upload/93110/463937/IMG_4781.jpg",
-      "https://sales.bcpea.org/upload/93110/463938/IMG_4782.jpg",
-      "https://sales.bcpea.org/upload/93110/463939/IMG_4784.jpg",
-      "https://sales.bcpea.org/upload/93110/463940/IMG_4790.jpg",
-      "https://sales.bcpea.org/upload/93110/463941/IMG_4793.jpg",
-      "https://sales.bcpea.org/upload/93110/463942/IMG_4796.jpg",
-      "https://sales.bcpea.org/upload/93110/463943/IMG_4797.jpg",
-      "https://sales.bcpea.org/upload/93110/463944/IMG_4804.jpg",
-      "https://sales.bcpea.org/upload/93110/463945/IMG_4809.jpg",
-      "https://sales.bcpea.org/upload/93110/463946/IMG_4814.jpg",
-      "https://sales.bcpea.org/upload/93110/463947/IMG_4821.jpg",
-      "https://sales.bcpea.org/upload/93110/463949/IMG_4827.jpg"
-    ],
-    "price_per_sqm": 489,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 48400
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93109",
-    "url": "https://sales.bcpea.org/properties/93109",
-    "photo": null,
-    "price_eur": 77256,
-    "sqm": 672,
-    "area": "Чернооково",
-    "title": "Земеделска земя, Чернооково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T14:58:00+00:00",
-    "category": "land",
-    "_settlement": "Чернооково",
-    "lat": 43.7105,
-    "lng": 28.17111,
-    "description": "Недвижим имот, находящ се в с.Чернооково, общ.Генерал Тошево, обл.Добрич, местност „БОЗЛАТА“, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 81219.40.14 (осем, едно, две, едно, девет, точка, четири, нула, точка, едно, четири) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-883/08.12.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 46 672 кв.м. (четиридесет и шест хиляди шестстотин седемдесет и два квадратни метра), а по документ за собственост 46,663 дка (четиридесет и шест декара шестстотин шестдесет и три квадратни метра), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 040014 (нула, четири, нула, нула, едно, четири), при съседи: 81219.40.24, 81219.40.15, 81219.40.26, 81219.40.25, 81219.40.8, 81219.40.27, 81219.40.11.",
-    "detail_checked": true,
-    "price_per_sqm": 115,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 77256
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93108",
-    "url": "https://sales.bcpea.org/properties/93108",
-    "photo": null,
-    "price_eur": 38016,
-    "sqm": 0,
-    "area": "Преселенци",
-    "title": "Земеделска земя, Преселенци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T14:55:00+00:00",
-    "category": "land",
-    "_settlement": "Преселенци",
-    "lat": 43.64158,
-    "lng": 28.137,
-    "description": "Недвижим имот, находящ се в с.Преселенци, общ.Генерал Тошево, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 58181.37.39 (пет, осем, едно, осем, едно, точка, три, седем, точка, три, девет) по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-552/27.02.2018г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с площ по скица от 24 003 кв.м. (двадесет и четири хиляди и три квадратни метра), а по документ за собственост 24,000 дка (двадесет и четири декара), трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, категория на земята при неполивни условия: Трета, предишен идентификатор: няма, номер по предходен план: 037039 (нула, три, седем, нула, три, девет), при съседи: 58181.36.405, 58181.37.30, 58181.37.29, 58181.32.125, 58181.37.36.",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 38016
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93107",
-    "url": "https://sales.bcpea.org/properties/93107",
-    "photo": "https://sales.bcpea.org/upload/93107/463922/1.JPG?w=270&h=270",
-    "price_eur": 62638,
-    "sqm": 39,
-    "area": "Шабла",
-    "title": "Вила, Шабла",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T14:52:00+00:00",
-    "category": "house",
-    "_settlement": "Шабла",
-    "lat": 43.5406619,
-    "lng": 28.5339137,
-    "description": "Недвижим имот находящ се в гр.Шабла, общ.Шабла, обл.Добрич, СО „Кария“, представляващ: СГРАДА с идентификатор 83017.505.6.1 (осем, три, нула, едно, седем, точка, пет, нула, пет, точка, шест, точка, едно), по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-15/29.03.2006г. на изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, със застроена площ от 39кв.м. (тридесет и девет квадратни метра), сградата е разположена в поземлен имот с идентификатор 83017.505.6 (осем, три, нула, едно, седем, точка, пет, нула, пет, точка, шест), предназначение: курортна, туристическа сграда, брой етажи: 1 (един), брой самостоятелни обекти в сградата: 0 (нула), предишен идентификатор: няма. *Сградата по документи е на един етаж, със застроена площ от 39кв.м., но при нейния опис се установи, че тя е на два етажа, със застроена площ от 39кв.м. и разгъната застроена площ от 78кв.м.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93107/463922/1.JPG",
-      "https://sales.bcpea.org/upload/93107/463923/2.JPG",
-      "https://sales.bcpea.org/upload/93107/463925/3.JPG"
-    ],
-    "price_per_sqm": 1606,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 62638
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
     "id": "bcpea_93136",
     "url": "https://sales.bcpea.org/properties/93136",
     "photo": "https://sales.bcpea.org/upload/93136/464041/1705909314838.jpg?w=270&h=270",
@@ -92084,7 +92084,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -94051,7 +94051,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96844,6 +96844,198 @@
     "score": 1
   },
   {
+    "id": "bcpea_93392",
+    "url": "https://sales.bcpea.org/properties/93392",
+    "photo": null,
+    "price_eur": 15602,
+    "sqm": 0,
+    "area": "Велико Търново",
+    "title": "Други, Велико Търново",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T15:39:00+00:00",
+    "category": "apartment",
+    "_settlement": "Велико Търново",
+    "lat": 43.0820584,
+    "lng": 25.6321312,
+    "description": "ПРАВО НА НАДСТРОЯВАНЕ на трети жилищен етаж от недовършена сграда по архитектурен проект утвърден на 6.8.79г. и преутвърден на 7.6.83г. в северната част на ПИ с идентификатор 10447.504.16 по КККР на гр. В. Търново от 502 кв.м.",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 15602
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93391",
+    "url": "https://sales.bcpea.org/properties/93391",
+    "photo": null,
+    "price_eur": 22581,
+    "sqm": 220,
+    "area": "Велико Търново",
+    "title": "Други, Велико Търново",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T15:00:00+00:00",
+    "category": "apartment",
+    "_settlement": "Велико Търново",
+    "lat": 43.0820584,
+    "lng": 25.6321312,
+    "description": "СУТЕРЕНЕН ЕТАЖ от недовършена жилищна сграда, състоящ се от апартамент със ЗП 64,76 кв.м.; общи части 14,77 кв.м., избено помещение с площ 6,15 кв.м. със съответните ид. части от общите части на сградата и ВТОРИ ЖИЛИЩЕН ЕТАЖ от недовършена жилищна сграда със ЗП от 113,67 кв.м., с 16,35 кв.м. от общите части на сградата и избено помещение от 4,74 кв.м., със съответните ид. части от общите части на сградата, построени в северната част на ПИ с идентификатор 10447.504.16 по КККР на гр. В. Търново с адрес на ПИ гр. В. Търново, ул. \"Освобождение\" №55, площ от 502 кв.м., съседи: 10447.504.21, 10447.504.396, 10447.504.17, 10447.505.275, 10447.504.15.",
+    "detail_checked": true,
+    "price_per_sqm": 103,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 22581
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 855,
+    "pct_vs_area_avg": -88.0,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93390",
+    "url": "https://sales.bcpea.org/properties/93390",
+    "photo": null,
+    "price_eur": 56268,
+    "sqm": 95,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T14:59:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41066 / 20.10.2026 г. Íg*5[hXZÎ 711021597256 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А20 с площ от 94,92 кв.м., състоящ се от антре, дневен тракт, 2 спални, 2 баня-тоалет, дрешник и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А19 и апартамент В16 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 56 268,00 € (петдесет и шест хиляди двеста шестдесет и осем) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
+    "detail_checked": true,
+    "price_per_sqm": 592,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 56268
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 1815,
+    "pct_vs_area_avg": -67.4,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93389",
+    "url": "https://sales.bcpea.org/properties/93389",
+    "photo": null,
+    "price_eur": 36144,
+    "sqm": 60,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T14:58:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41065 / 20.10.2026 г. Íg*5[hNÉÎ 711021597246 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А19 с площ от 59,66 кв.м., състоящ се от дневен тракт, спалня, баня-тоалет и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А18 и апартамент А20 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 36 144,00 € (тридесет и шест хиляди сто четиридесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
+    "detail_checked": true,
+    "price_per_sqm": 602,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 36144
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 1815,
+    "pct_vs_area_avg": -66.8,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93388",
+    "url": "https://sales.bcpea.org/properties/93388",
+    "photo": null,
+    "price_eur": 39384,
+    "sqm": 65,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T14:56:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41063 / 20.10.2026 г. Íg*5[hA7Î 711021597233 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А18 с площ от 65,06 кв.м., състоящ се от дневен тракт със спалня, баня-тоалет и тераса, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А19 и апартамент А17 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 39 384,00 € (тридесет и девет хиляди триста осемдесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
+    "detail_checked": true,
+    "price_per_sqm": 606,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 39384
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 1815,
+    "pct_vs_area_avg": -66.6,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93387",
+    "url": "https://sales.bcpea.org/properties/93387",
+    "photo": null,
+    "price_eur": 36144,
+    "sqm": 60,
+    "area": "Варна",
+    "title": "Двустаен апартамент, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T14:55:00+00:00",
+    "category": "apartment",
+    "_settlement": "Варна",
+    "lat": 43.2073873,
+    "lng": 27.9166653,
+    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41061 / 20.10.2026 г. Íg*5[h5VÎ 711021597221 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А17 с площ от 59,66 кв.м., състоящ се от дневен тракт, спалня, баня-тоалет и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А18 и апартамент А16 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 36 144,00 € (тридесет и шест хиляди сто четиридесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление.",
+    "detail_checked": true,
+    "price_per_sqm": 602,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 36144
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 1815,
+    "pct_vs_area_avg": -66.8,
+    "score": 1
+  },
+  {
     "id": "bcpea_93386",
     "url": "https://sales.bcpea.org/properties/93386",
     "photo": null,
@@ -98232,7 +98424,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99809,7 +100001,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -99848,7 +100040,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 178.5,
     "score": 0
@@ -101332,7 +101524,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101364,7 +101556,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101396,7 +101588,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101443,7 +101635,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101474,7 +101666,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 581,
     "pct_vs_area_avg": 84.4,
     "score": 0
@@ -101506,7 +101698,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101538,7 +101730,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101570,7 +101762,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101602,7 +101794,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101634,7 +101826,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101666,7 +101858,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -103494,198 +103686,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93392",
-    "url": "https://sales.bcpea.org/properties/93392",
-    "photo": null,
-    "price_eur": 15602,
-    "sqm": 0,
-    "area": "Велико Търново",
-    "title": "Други, Велико Търново",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T15:39:00+00:00",
-    "category": "apartment",
-    "_settlement": "Велико Търново",
-    "lat": 43.0820584,
-    "lng": 25.6321312,
-    "description": "ПРАВО НА НАДСТРОЯВАНЕ на трети жилищен етаж от недовършена сграда по архитектурен проект утвърден на 6.8.79г. и преутвърден на 7.6.83г. в северната част на ПИ с идентификатор 10447.504.16 по КККР на гр. В. Търново от 502 кв.м.",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 15602
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93391",
-    "url": "https://sales.bcpea.org/properties/93391",
-    "photo": null,
-    "price_eur": 22581,
-    "sqm": 220,
-    "area": "Велико Търново",
-    "title": "Други, Велико Търново",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T15:00:00+00:00",
-    "category": "apartment",
-    "_settlement": "Велико Търново",
-    "lat": 43.0820584,
-    "lng": 25.6321312,
-    "description": "СУТЕРЕНЕН ЕТАЖ от недовършена жилищна сграда, състоящ се от апартамент със ЗП 64,76 кв.м.; общи части 14,77 кв.м., избено помещение с площ 6,15 кв.м. със съответните ид. части от общите части на сградата и ВТОРИ ЖИЛИЩЕН ЕТАЖ от недовършена жилищна сграда със ЗП от 113,67 кв.м., с 16,35 кв.м. от общите части на сградата и избено помещение от 4,74 кв.м., със съответните ид. части от общите части на сградата, построени в северната част на ПИ с идентификатор 10447.504.16 по КККР на гр. В. Търново с адрес на ПИ гр. В. Търново, ул. \"Освобождение\" №55, площ от 502 кв.м., съседи: 10447.504.21, 10447.504.396, 10447.504.17, 10447.505.275, 10447.504.15.",
-    "detail_checked": true,
-    "price_per_sqm": 103,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 22581
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 855,
-    "pct_vs_area_avg": -88.0,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93390",
-    "url": "https://sales.bcpea.org/properties/93390",
-    "photo": null,
-    "price_eur": 56268,
-    "sqm": 95,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T14:59:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41066 / 20.10.2026 г. Íg*5[hXZÎ 711021597256 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А20 с площ от 94,92 кв.м., състоящ се от антре, дневен тракт, 2 спални, 2 баня-тоалет, дрешник и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А19 и апартамент В16 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 56 268,00 € (петдесет и шест хиляди двеста шестдесет и осем) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
-    "detail_checked": true,
-    "price_per_sqm": 592,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 56268
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -67.4,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93389",
-    "url": "https://sales.bcpea.org/properties/93389",
-    "photo": null,
-    "price_eur": 36144,
-    "sqm": 60,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T14:58:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41065 / 20.10.2026 г. Íg*5[hNÉÎ 711021597246 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А19 с площ от 59,66 кв.м., състоящ се от дневен тракт, спалня, баня-тоалет и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А18 и апартамент А20 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 36 144,00 € (тридесет и шест хиляди сто четиридесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
-    "detail_checked": true,
-    "price_per_sqm": 602,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 36144
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.8,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93388",
-    "url": "https://sales.bcpea.org/properties/93388",
-    "photo": null,
-    "price_eur": 39384,
-    "sqm": 65,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T14:56:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41063 / 20.10.2026 г. Íg*5[hA7Î 711021597233 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А18 с площ от 65,06 кв.м., състоящ се от дневен тракт със спалня, баня-тоалет и тераса, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А19 и апартамент А17 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 39 384,00 € (тридесет и девет хиляди триста осемдесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление. Частен съдебен изпълнител:.......................................... / подпис и печат /",
-    "detail_checked": true,
-    "price_per_sqm": 606,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 39384
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.6,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93387",
-    "url": "https://sales.bcpea.org/properties/93387",
-    "photo": null,
-    "price_eur": 36144,
-    "sqm": 60,
-    "area": "Варна",
-    "title": "Двустаен апартамент, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T14:55:00+00:00",
-    "category": "apartment",
-    "_settlement": "Варна",
-    "lat": 43.2073873,
-    "lng": 27.9166653,
-    "description": "Изпълнително дело №: 20257110400675 Изходящ №: 41061 / 20.10.2026 г. Íg*5[h5VÎ 711021597221 ОБЯВЛЕНИЕ Подписаната Милица Дикова ПЧСИ при Даниела Петрова - Янкова частен съдебен изпълнител рег. № 711, с район на действие ОС – гр. Варна, обявявам на интересуващите се, че о т 16.11.2026 г. до 16.12.2026 г. в сградата на РАЙОНЕН СЪД ВАРНА, ще се проведе публична продан, приключваща в края на работното време на последния работен ден – 16.12.2026 г. , на следния недвижим имот, собственост на длъжника по делото ИМПЕРА ТРЕЙДИНГ ООД , в полза на СЛАВА-93 ЕООД по изп.дело № 20257110400675 по описа на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова, а именно: АПАРТАМЕНТ № А17 с площ от 59,66 кв.м., състоящ се от дневен тракт, спалня, баня-тоалет и лоджия, находящ се в секция „АВ“, кота +0.00 в ЖИЛИЩНА СГРАДА със смесено предназначение, завършена до етап „груб строеж“ – комплекс от апартаменти и хотелска част, спа-център, фитнес зала, боулинг, ресторант, магазини и гараж, състояща се от осем секции (тела): A, B, C, D, E, F, G и H, с идентификатор № 10135.513.163.6 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три точка шест), със застроена площ от 3211 кв.м. (три хиляди двеста и единадесет квадратни метра), брой етажи: девет, предназначение: жилищна сграда със смесено предназначение, стар идентификатор: 10135.513.163.5, номер по предходен план: няма, с обща разгъната застроена площ на цялата сграда: 29507.51 (двадесет и девет хиляди петстотин и седем цяло и петдесет и една стотни квадратни метра), съгласно площообразуване от 27.04.2013 г., изградена в ПОЗЕМЛЕН ИМОТ, находящ се в област Варненска, Община Варна, град Варна, район Приморски, к.к. „Златни пясъци“, с идентификатор № 10135.513.163 (десет хиляди сто тридесет и пет точка петстотин и тринадесет точка сто шестдесет и три) по кадастралната карта и кадастралния регистър на град Варна, к.к. „Златни пясъци“, стар идентификатор: няма, номер по предходен план: кв. 25 (квартал двадесет и пети), парцел II (втори) по ПРЗ на к.к. „Златни пясъци“, с площ 9001 кв.м. (девет хилядии един квадратни метра), вид територия: урбанизирана, с начин на трайно ползване: за курортен хотел, поивен дом, при граници и съседи на поземления имот: поземлени имоти с кадастрални номера:10135.513.606, 10135.513.607, 10135.513.609, 10135.513.165, 10135.513.441, 10135.513.159 и 10135.513.442, заедно с изградената в посочения по-горе поземлен имот, при граници на самостоятелния обект апартамент А18 и апартамент А16 Върху имота има наложени възбрани с дв.вх.рег. № 39948/22.12.2023 г., акт № 199, том 14/2023 г. и с дв.вх.рег. № 23917/29.07.2025 г., акт № 62, том 9/2025 г. по изпълнителното дело. На осн. чл. 494, ал. 2 вр. 485 вр. чл 468 от ГПК определям начална цена, от която да започне наддаването в размер на 36 144,00 € (тридесет и шест хиляди сто четиридесет и четири) евро . Интересуващите се от имота могат да се явят в кантората на частен съдебен изпълнител рег. № 711 Даниела Петрова - Янкова на адрес: гр. Варна, бул. „Владислав Варненчик” № 53-55 ет. 5, офис 507 и в сградата на РАЙОНЕН СЪД ВАРНА, всеки присъствен ден о т 16.11.2026 г. до 16.12.2026 г. от 9.00 до 17.00 часа, за да прегледат книжата, след заплащане на такса в размер на 24,00 с ДДС, на осн. т. 19 от ТТРЗЧСИ. Всички желаещи да прегледат имота могат да сторят това о т 16.11.2026 г. до 16.12.2026 г. ,  след предварителна уговорка. Задатъкът – 10% върху първоначалната цена на продаваемия имот на основание чл. 489, ал. 1 от ГПК за участие в проданта, се внася по сметка на частен съдебен изпълнител Даниела Петрова – Янкова  в банкова сметка Банка ДСК АД, IBAN BG14 STSA 9300 0012 1991 40, BIC код STSABGSF, по изп.дело 20257110400675 . Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в сградата на РАЙОНЕН СЪД ВАРНА,  всеки делничен ден от понеделник до петък о т 16.11.2026 г. до 16.12.2026 г. , от 9.00 до 17.00 часа, което се отразява във входящия регистър. Съгласно чл. 489, ал. 2 от ГПК – всеки наддавач може да направи само едно наддавателно предложение. Съгласно чл. 489, ал. 6 от ГПК – предложения с цена под началната, както и предложения, надхвърлящи началната цена с повече от 30% са недействителни. За дружества с ограничена отговорност, съгласно чл. 137, ал. 1, т. 7 от ТЗ, следва да се представи решение на общото събрание за придобиване на имот, с нотариално удостоверяване на подписите и съдържанието, извършени едновременно, освен ако в дружествения договор е предвидена писмена форма, съгласно чл. 137, ал. 4 от ТЗ. На 17.12.2026 г. от 10.20 часа, частен съдебен изпълнител Даниела Петрова – Янкова в сградата на РАЙОНЕН СЪД ВАРНА, в присъствието на явилите се наддавачи обявява постъпилите наддавателни предложения, за което съставя протокол и обявява купувача на имота. Съгласно чл. 6, ал. 3 от Правилника за Вписванията, ако имотът попада в административен район, който е кадастриран, в Постановлението за възлагане недвижимят имот се описва съобразно данните по чл. 60, т. 1-7 от ЗКИР и към него се прилага скица-копие от КК на района, в който се намира. В случай, че описаният по-горе недвижим имот не е заснет/е заснет и съответно нанесен неправилно в КК и по настоящата продан бъде обявен купувач, и към момента на издаването на постановлението за възлагане, длъжникът в качеството му на собственик не е провел процедура по правилното заснемане и нанасяне на имота в кадастралната карта, купувачът ще трябва да инициира и проведе посочената процедура по изправяне на непълноти и грешки за своя сметка, преди вписването на възлагателното постановление.",
-    "detail_checked": true,
-    "price_per_sqm": 602,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 36144
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 1815,
-    "pct_vs_area_avg": -66.8,
-    "score": 0
-  },
-  {
     "id": "bcpea_93532",
     "url": "https://sales.bcpea.org/properties/93532",
     "photo": "https://sales.bcpea.org/upload/93532/465529/67547.10.13.png?w=270&h=270",
@@ -104487,7 +104487,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104519,7 +104519,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104551,7 +104551,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104583,7 +104583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104625,7 +104625,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
