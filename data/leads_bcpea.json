@@ -2162,7 +2162,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -55.9,
     "score": 18
@@ -4187,7 +4187,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -32.2,
     "score": 15
@@ -4709,7 +4709,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -32.4,
     "score": 14
@@ -6170,7 +6170,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 42,
+    "days_on_market": 43,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -12.9,
     "score": 10
@@ -11422,6 +11422,51 @@
     "score": 8
   },
   {
+    "id": "bcpea_92991",
+    "url": "https://sales.bcpea.org/properties/92991",
+    "photo": "https://sales.bcpea.org/upload/92991/463471/IMG_20230503_152820.jpg?w=270&h=270",
+    "price_eur": 150240,
+    "sqm": 90,
+    "area": "София",
+    "title": "Ателие, Таван, София",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-08T16:53:00+00:00",
+    "category": "commercial",
+    "_settlement": "София",
+    "lat": 42.6774732,
+    "lng": 23.2052117,
+    "description": "АТЕЛИЕ № 2 (две), находящо се на шести надпартерен етаж на сградата , на кота + 17,40 м (плюс седемнадесет цяло и четиридесет стотни метра), със застроена площ на ателието по таблица за площообразуване и по арх. проект от 89,80 кв.м (осемдесет и девет цяло и осемдесет стотни квадратни метра), състоящо се от коридор, стая, склад, баня с тоалетна и тераса, при граници (съседи): улица, двор, стьлбище, асансьорна шахта, общ коридор и ателие № 1 (едно), заедно с 1,40 % (едно цяло и четиридесет стотни върху сто) идеални части от общите части на сградата и заедно с припадащото се право на строеж върху урегулирания поземлен имот, в който е построена сградата, подробно описан по-горе, което гореописано ателие № 2 (две) е нанесено в кадастъра като САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 68134.4333.1170.1.10 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, десет), с предназначение на обекта: ателие за творческа дейност, брой нива: 1 (едно), при съседни самостоятелни обекти в сградата: на същия етаж: 68134.4333.1170.1.9, под обекта: 68134.4333.1170.1. 40 , 68134.4333.1170.1. 41, над обекта: 68134.4333.1170.1.12.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92991/463471/IMG_20230503_152820.jpg",
+      "https://sales.bcpea.org/upload/92991/463468/IMG_20230503_152728.jpg",
+      "https://sales.bcpea.org/upload/92991/463470/IMG_20230503_152809.jpg",
+      "https://sales.bcpea.org/upload/92991/463472/IMG_20230503_152830.jpg",
+      "https://sales.bcpea.org/upload/92991/463473/IMG_20230503_152838.jpg",
+      "https://sales.bcpea.org/upload/92991/463475/IMG_20230503_152852.jpg",
+      "https://sales.bcpea.org/upload/92991/463476/IMG_20230503_152927.jpg",
+      "https://sales.bcpea.org/upload/92991/463477/IMG_20230503_152931_1.jpg",
+      "https://sales.bcpea.org/upload/92991/463478/IMG_20230503_152937_1.jpg",
+      "https://sales.bcpea.org/upload/92991/463479/IMG_20230503_153035_1.jpg",
+      "https://sales.bcpea.org/upload/92991/463480/IMG_20230512_151553_1.jpg"
+    ],
+    "price_per_sqm": 1669,
+    "price_history": [
+      {
+        "date": "2026-10-08T15:15:01.338238+00:00",
+        "price_eur": 150240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 16,
+    "area_avg_price_per_sqm": 1974,
+    "pct_vs_area_avg": -15.5,
+    "score": 8
+  },
+  {
     "id": "bcpea_92990",
     "url": "https://sales.bcpea.org/properties/92990",
     "photo": "https://sales.bcpea.org/upload/92990/463442/IMG_20230503_152252_1.jpg?w=270&h=270",
@@ -14040,7 +14085,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -17812,51 +17857,6 @@
     "score": 7
   },
   {
-    "id": "bcpea_92991",
-    "url": "https://sales.bcpea.org/properties/92991",
-    "photo": "https://sales.bcpea.org/upload/92991/463471/IMG_20230503_152820.jpg?w=270&h=270",
-    "price_eur": 150240,
-    "sqm": 90,
-    "area": "София",
-    "title": "Ателие, Таван, София",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-08T16:53:00+00:00",
-    "category": "commercial",
-    "_settlement": "София",
-    "lat": 42.6774732,
-    "lng": 23.2052117,
-    "description": "АТЕЛИЕ № 2 (две), находящо се на шести надпартерен етаж на сградата , на кота + 17,40 м (плюс седемнадесет цяло и четиридесет стотни метра), със застроена площ на ателието по таблица за площообразуване и по арх. проект от 89,80 кв.м (осемдесет и девет цяло и осемдесет стотни квадратни метра), състоящо се от коридор, стая, склад, баня с тоалетна и тераса, при граници (съседи): улица, двор, стьлбище, асансьорна шахта, общ коридор и ателие № 1 (едно), заедно с 1,40 % (едно цяло и четиридесет стотни върху сто) идеални части от общите части на сградата и заедно с припадащото се право на строеж върху урегулирания поземлен имот, в който е построена сградата, подробно описан по-горе, което гореописано ателие № 2 (две) е нанесено в кадастъра като САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 68134.4333.1170.1.10 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, десет), с предназначение на обекта: ателие за творческа дейност, брой нива: 1 (едно), при съседни самостоятелни обекти в сградата: на същия етаж: 68134.4333.1170.1.9, под обекта: 68134.4333.1170.1. 40 , 68134.4333.1170.1. 41, над обекта: 68134.4333.1170.1.12.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92991/463471/IMG_20230503_152820.jpg",
-      "https://sales.bcpea.org/upload/92991/463468/IMG_20230503_152728.jpg",
-      "https://sales.bcpea.org/upload/92991/463470/IMG_20230503_152809.jpg",
-      "https://sales.bcpea.org/upload/92991/463472/IMG_20230503_152830.jpg",
-      "https://sales.bcpea.org/upload/92991/463473/IMG_20230503_152838.jpg",
-      "https://sales.bcpea.org/upload/92991/463475/IMG_20230503_152852.jpg",
-      "https://sales.bcpea.org/upload/92991/463476/IMG_20230503_152927.jpg",
-      "https://sales.bcpea.org/upload/92991/463477/IMG_20230503_152931_1.jpg",
-      "https://sales.bcpea.org/upload/92991/463478/IMG_20230503_152937_1.jpg",
-      "https://sales.bcpea.org/upload/92991/463479/IMG_20230503_153035_1.jpg",
-      "https://sales.bcpea.org/upload/92991/463480/IMG_20230512_151553_1.jpg"
-    ],
-    "price_per_sqm": 1669,
-    "price_history": [
-      {
-        "date": "2026-10-08T15:15:01.338238+00:00",
-        "price_eur": 150240
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 15,
-    "area_avg_price_per_sqm": 1974,
-    "pct_vs_area_avg": -15.5,
-    "score": 7
-  },
-  {
     "id": "bcpea_91340",
     "url": "https://sales.bcpea.org/properties/91340",
     "photo": null,
@@ -19922,7 +19922,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20583,7 +20583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20710,7 +20710,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20901,7 +20901,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25260,7 +25260,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25384,7 +25384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25858,7 +25858,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26111,7 +26111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26952,7 +26952,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26984,7 +26984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28290,7 +28290,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28584,7 +28584,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -31719,7 +31719,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": 1092,
     "pct_vs_area_avg": -91.3,
     "score": 5
@@ -47376,7 +47376,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -48848,7 +48848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -8.4,
     "score": 5
@@ -51111,7 +51111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -63848,7 +63848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72472,6 +72472,42 @@
     "score": 4
   },
   {
+    "id": "bcpea_92608",
+    "url": "https://sales.bcpea.org/properties/92608",
+    "photo": "https://sales.bcpea.org/upload/92608/461798/IMG_7809.jpeg?w=270&h=270",
+    "price_eur": 3884,
+    "sqm": 19,
+    "area": "Кубрат",
+    "title": "Гараж, Кубрат",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-27T16:54:00+00:00",
+    "category": "apartment",
+    "_settlement": "Кубрат",
+    "lat": 43.7967009,
+    "lng": 26.5006777,
+    "description": "1/2 ид.ч. /една втора идеална част/ от недвижим имот , находящ се в : гр.Кубрат, ул.Витоша №41 , а именно : САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 40422.505.2080.1.64 /четиридесет хиляди четиристотин двадесет и две, точка, петстотин и пет, точка, две хиляди и осемдесет, точка, едно, точка, шестдесет и четири/, по КККР на гр. Кубрат, общ. Кубрат, обл. Разград, одобрени със Заповед № РД-18-51/27.07.2009г. на Изпълнителния директор на АГКК, с предназначение на обекта: ГАРАЖ В СГРАДА , със застроена площ от 18.83 кв.м. /осемнадесет цяло и осемдесет и три стотни квадратни метра, брой нива на обекта: 1 /едно/, с адрес на имота: гр. Кубрат, п.к. 7300, улица Витоша № 41 /четиридесет и едно/, който самостоятелен обект се намира в сграда № 1 /едно/, разположена в поземлен имот с идентификатор № 40422.505.2080 /четиридесет хиляди четиристотин двадесет и две, точка, петстотин и пет, точка, две хиляди и осемдесет/, при съседни самостоятелни обекти в сградата: на същия етаж: 40422.505.2080.1.63 и 40422.505.2080.1.65; под обекта: няма, над обекта: 40422.505.2080.1.32.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92608/461798/IMG_7809.jpeg",
+      "https://sales.bcpea.org/upload/92608/461799/IMG_7807.jpeg"
+    ],
+    "price_per_sqm": 204,
+    "price_history": [
+      {
+        "date": "2026-09-27T18:49:53.795448+00:00",
+        "price_eur": 3884
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
     "id": "bcpea_92888",
     "url": "https://sales.bcpea.org/properties/92888",
     "photo": "https://sales.bcpea.org/upload/92888/462758/DSCN1543.JPG?w=270&h=270",
@@ -74021,42 +74057,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92608",
-    "url": "https://sales.bcpea.org/properties/92608",
-    "photo": "https://sales.bcpea.org/upload/92608/461798/IMG_7809.jpeg?w=270&h=270",
-    "price_eur": 3884,
-    "sqm": 19,
-    "area": "Кубрат",
-    "title": "Гараж, Кубрат",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-27T16:54:00+00:00",
-    "category": "apartment",
-    "_settlement": "Кубрат",
-    "lat": 43.7967009,
-    "lng": 26.5006777,
-    "description": "1/2 ид.ч. /една втора идеална част/ от недвижим имот , находящ се в : гр.Кубрат, ул.Витоша №41 , а именно : САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 40422.505.2080.1.64 /четиридесет хиляди четиристотин двадесет и две, точка, петстотин и пет, точка, две хиляди и осемдесет, точка, едно, точка, шестдесет и четири/, по КККР на гр. Кубрат, общ. Кубрат, обл. Разград, одобрени със Заповед № РД-18-51/27.07.2009г. на Изпълнителния директор на АГКК, с предназначение на обекта: ГАРАЖ В СГРАДА , със застроена площ от 18.83 кв.м. /осемнадесет цяло и осемдесет и три стотни квадратни метра, брой нива на обекта: 1 /едно/, с адрес на имота: гр. Кубрат, п.к. 7300, улица Витоша № 41 /четиридесет и едно/, който самостоятелен обект се намира в сграда № 1 /едно/, разположена в поземлен имот с идентификатор № 40422.505.2080 /четиридесет хиляди четиристотин двадесет и две, точка, петстотин и пет, точка, две хиляди и осемдесет/, при съседни самостоятелни обекти в сградата: на същия етаж: 40422.505.2080.1.63 и 40422.505.2080.1.65; под обекта: няма, над обекта: 40422.505.2080.1.32.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92608/461798/IMG_7809.jpeg",
-      "https://sales.bcpea.org/upload/92608/461799/IMG_7807.jpeg"
-    ],
-    "price_per_sqm": 204,
-    "price_history": [
-      {
-        "date": "2026-09-27T18:49:53.795448+00:00",
-        "price_eur": 3884
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
     "id": "bcpea_92641",
     "url": "https://sales.bcpea.org/properties/92641",
     "photo": "https://sales.bcpea.org/upload/92641/461918/IMG_8451.PNG?w=270&h=270",
@@ -75308,7 +75308,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75339,7 +75339,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75370,7 +75370,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75401,7 +75401,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75432,7 +75432,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75464,7 +75464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75496,7 +75496,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76373,7 +76373,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76405,7 +76405,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76437,7 +76437,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76469,7 +76469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78431,7 +78431,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78463,7 +78463,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78495,7 +78495,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78527,7 +78527,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80076,7 +80076,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 672,
     "pct_vs_area_avg": -3.9,
     "score": 3
@@ -80806,7 +80806,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80838,7 +80838,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80870,7 +80870,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80902,7 +80902,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80934,7 +80934,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80966,7 +80966,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -80998,7 +80998,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82398,7 +82398,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82440,7 +82440,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82472,7 +82472,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82504,7 +82504,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82536,7 +82536,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82568,7 +82568,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82600,7 +82600,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82632,7 +82632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82680,7 +82680,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82712,7 +82712,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82744,7 +82744,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84166,7 +84166,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84198,7 +84198,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84230,7 +84230,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87561,7 +87561,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87593,7 +87593,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87625,7 +87625,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87657,7 +87657,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87689,7 +87689,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87721,7 +87721,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89704,6 +89704,78 @@
     "score": 2
   },
   {
+    "id": "bcpea_93127",
+    "url": "https://sales.bcpea.org/properties/93127",
+    "photo": "https://sales.bcpea.org/upload/93127/463977/501.155 2.png?w=270&h=270",
+    "price_eur": 3440,
+    "sqm": 517,
+    "area": "Радан войвода",
+    "title": "Парцел, Радан войвода",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T16:53:00+00:00",
+    "category": "land",
+    "_settlement": "Радан войвода",
+    "lat": 43.5431681,
+    "lng": 27.3939996,
+    "description": "½ идеална част от Поземлен имот с идентификатор 61265.501.155; По кадастралната карта и кадастралните регистри на с. Радан войвода, общ. Вълчи дол, обл.; Варна, одобрени със Заповед №РД-18-595/21.08.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР; НААГКК; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления; имот: няма извършено изменение на КККР със заповед; Адрес на поземления имот: с. Радан войвода; Площ: 2517 кв.м; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване (до 10 m); Предишен идентификатор: няма; Номер от предходен план: 215, квартал: 38, парцел: IX; Съседи: 61265.501.148, 61265.501.466, 61265.501.149, 61265.501.150, 61265.501.156",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93127/463977/501.155 2.png",
+      "https://sales.bcpea.org/upload/93127/463978/501.155.png"
+    ],
+    "price_per_sqm": 7,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 3440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93126",
+    "url": "https://sales.bcpea.org/properties/93126",
+    "photo": "https://sales.bcpea.org/upload/93126/463974/501.156 2.png?w=270&h=270",
+    "price_eur": 3758,
+    "sqm": 749,
+    "area": "Радан войвода",
+    "title": "Парцел, Радан войвода",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T16:49:00+00:00",
+    "category": "land",
+    "_settlement": "Радан войвода",
+    "lat": 43.5431681,
+    "lng": 27.3939996,
+    "description": "½ идеална част от Поземлен имот с идентификатор 61265.501.156; По кадастралната карта и кадастралните регистри на с. Радан войвода, общ. Вълчи дол, обл.; Варна, одобрени със Заповед №РД-18-595/21.08.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР; НААГКК; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления; имот: няма извършено изменение на КККР със заповед; Адрес на поземления имот: с. Радан войвода; Площ: 2749 кв.м; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване (до 10 m); Предишен идентификатор: няма; Номер от предходен план: 215, квартал: 38, парцел: X; Съседи: 61265.501.148, 61265.501.155, 61265.501.466, 61265.501.465",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93126/463974/501.156 2.png",
+      "https://sales.bcpea.org/upload/93126/463975/501.156.png"
+    ],
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 3758
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93125",
     "url": "https://sales.bcpea.org/properties/93125",
     "photo": "https://sales.bcpea.org/upload/93125/463971/14.62 2.png?w=270&h=270",
@@ -91463,78 +91535,6 @@
     "source_status": "removed",
     "removed_at": "2026-10-14T05:40:50.038070+00:00",
     "days_on_market": 4,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93127",
-    "url": "https://sales.bcpea.org/properties/93127",
-    "photo": "https://sales.bcpea.org/upload/93127/463977/501.155 2.png?w=270&h=270",
-    "price_eur": 3440,
-    "sqm": 517,
-    "area": "Радан войвода",
-    "title": "Парцел, Радан войвода",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T16:53:00+00:00",
-    "category": "land",
-    "_settlement": "Радан войвода",
-    "lat": 43.5431681,
-    "lng": 27.3939996,
-    "description": "½ идеална част от Поземлен имот с идентификатор 61265.501.155; По кадастралната карта и кадастралните регистри на с. Радан войвода, общ. Вълчи дол, обл.; Варна, одобрени със Заповед №РД-18-595/21.08.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР; НААГКК; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления; имот: няма извършено изменение на КККР със заповед; Адрес на поземления имот: с. Радан войвода; Площ: 2517 кв.м; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване (до 10 m); Предишен идентификатор: няма; Номер от предходен план: 215, квартал: 38, парцел: IX; Съседи: 61265.501.148, 61265.501.466, 61265.501.149, 61265.501.150, 61265.501.156",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93127/463977/501.155 2.png",
-      "https://sales.bcpea.org/upload/93127/463978/501.155.png"
-    ],
-    "price_per_sqm": 7,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 3440
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93126",
-    "url": "https://sales.bcpea.org/properties/93126",
-    "photo": "https://sales.bcpea.org/upload/93126/463974/501.156 2.png?w=270&h=270",
-    "price_eur": 3758,
-    "sqm": 749,
-    "area": "Радан войвода",
-    "title": "Парцел, Радан войвода",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T16:49:00+00:00",
-    "category": "land",
-    "_settlement": "Радан войвода",
-    "lat": 43.5431681,
-    "lng": 27.3939996,
-    "description": "½ идеална част от Поземлен имот с идентификатор 61265.501.156; По кадастралната карта и кадастралните регистри на с. Радан войвода, общ. Вълчи дол, обл.; Варна, одобрени със Заповед №РД-18-595/21.08.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР; НААГКК; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления; имот: няма извършено изменение на КККР със заповед; Адрес на поземления имот: с. Радан войвода; Площ: 2749 кв.м; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване (до 10 m); Предишен идентификатор: няма; Номер от предходен план: 215, квартал: 38, парцел: X; Съседи: 61265.501.148, 61265.501.155, 61265.501.466, 61265.501.465",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93126/463974/501.156 2.png",
-      "https://sales.bcpea.org/upload/93126/463975/501.156.png"
-    ],
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 3758
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96692,7 +96692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98342,7 +98342,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98374,7 +98374,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98406,7 +98406,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100066,7 +100066,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101067,7 +101067,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101106,7 +101106,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -101144,7 +101144,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104320,7 +104320,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104352,7 +104352,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
