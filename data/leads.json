@@ -726,7 +726,7 @@
     ],
     "price_drop_count": 2,
     "drop_pct": 5.9,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1215,
@@ -2602,7 +2602,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 20.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 80,
@@ -3851,7 +3851,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -14632,6 +14632,35 @@
     "score": 22
   },
   {
+    "id": "6166848",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166848/?sid=huZFPB&page=12",
+    "photo": "https://www.imoti.net/web/files/obiavi/6166848/main_image/thumb_280x210_1.jpg?ver=1792811124",
+    "price_eur": 66499,
+    "sqm": 70,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 70 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 950,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 66499
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -43.6,
+    "score": 22
+  },
+  {
     "id": "6164007",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/belomorski/dvustaen/6164007/?sid=huZFPB&page=2",
     "photo": "https://www.imoti.net/web/files/obiavi/6164007/main_image/thumb_280x210_main_image_6164007_1.jpg?ver=1792724749",
@@ -14831,6 +14860,35 @@
     "score": 22
   },
   {
+    "id": "6157614",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/dvustaen/6157614/?sid=huZFPB&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6157614/main_image/thumb_280x210_1.jpg?ver=1792724751",
+    "price_eur": 137999,
+    "sqm": 114,
+    "area": "Center",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 114 м 2 Plovdiv, Center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1211,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 137999
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2156,
+    "pct_vs_area_avg": -43.8,
+    "score": 22
+  },
+  {
     "id": "6213032",
     "url": "https://www.imoti.net/en/obiava/prodava/shumen/grivica/parcel/6213032/?sid=gEb389&page=11",
     "photo": "https://www.imoti.net/web/files/obiavi/6213032/main_image/thumb_280x210_main_image_6213032_1.jpg?ver=1792811482",
@@ -14942,6 +15000,93 @@
     "score": 22
   },
   {
+    "id": "6292278",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292278/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292278/main_image/thumb_280x210_main_image_6292278_1.jpg?ver=1792811309",
+    "price_eur": 54083,
+    "sqm": 81,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 81 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 668,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1667,
+    "pct_vs_area_avg": -59.9,
+    "score": 22
+  },
+  {
+    "id": "6292282",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292282/?sid=g9tjtT&page=2",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292282/main_image/thumb_280x210_main_image_6292282_1.jpg?ver=1792811296",
+    "price_eur": 19667,
+    "sqm": 23,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 23 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 855,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 19667
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1667,
+    "pct_vs_area_avg": -48.7,
+    "score": 22
+  },
+  {
+    "id": "6292283",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292283/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292283/main_image/thumb_280x210_main_image_6292283_1.jpg?ver=1792811309",
+    "price_eur": 54083,
+    "sqm": 63,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 63 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 858,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1667,
+    "pct_vs_area_avg": -48.5,
+    "score": 22
+  },
+  {
     "id": "6237143",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/pasarel/parcel/6237143/?sid=icNBCK&page=14",
     "photo": "https://www.imoti.net/web/files/obiavi/6237143/main_image/thumb_280x210_main_image_6237143_1.jpg?ver=1792811030",
@@ -15042,6 +15187,35 @@
     "removed_at": "2026-10-12T10:27:39.263888+00:00",
     "area_avg_price_per_sqm": 1581,
     "pct_vs_area_avg": 10.3,
+    "score": 22
+  },
+  {
+    "id": "6166828",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/ednostaen/6166828/?sid=huZFPB&page=6",
+    "photo": "https://www.imoti.net/web/files/obiavi/6166828/main_image/thumb_280x210_1.png?ver=1792811111",
+    "price_eur": 40032,
+    "sqm": 42,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "Studio/bedsit, 42 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 953,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 40032
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -43.4,
     "score": 22
   },
   {
@@ -15540,6 +15714,35 @@
     "score": 22
   },
   {
+    "id": "6292284",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292284/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292284/main_image/thumb_280x210_main_image_6292284_1.jpg?ver=1792811309",
+    "price_eur": 54083,
+    "sqm": 55,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 55 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 983,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1667,
+    "pct_vs_area_avg": -41.0,
+    "score": 22
+  },
+  {
     "id": "6163747",
     "url": "https://www.imoti.net/en/obiava/prodava/targovishte/malcho-malchev/garaj/6163747/?sid=iuyfPP&page=1",
     "photo": "https://www.imoti.net/web/files/obiavi/6163747/main_image/thumb_280x210_main_image_6163747_1.jpg?ver=1792811578",
@@ -15833,6 +16036,64 @@
     "score": 22
   },
   {
+    "id": "6166855",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166855/?sid=huZFPB&page=19",
+    "photo": "https://www.imoti.net/web/files/obiavi/6166855/main_image/thumb_280x210_1.jpg?ver=1792811141",
+    "price_eur": 75427,
+    "sqm": 79,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 79 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 955,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 75427
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -43.3,
+    "score": 22
+  },
+  {
+    "id": "6166849",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166849/?sid=huZFPB&page=24",
+    "photo": "https://www.imoti.net/web/files/obiavi/6166849/main_image/thumb_280x210_1.jpg?ver=1792811154",
+    "price_eur": 80236,
+    "sqm": 84,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 84 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 955,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 80236
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -43.3,
+    "score": 22
+  },
+  {
     "id": "6266539",
     "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/tri-chuchura/dvustaen/6266539/?sid=fNEg3e&page=3",
     "photo": "https://www.imoti.net/web/files/obiavi/6266539/main_image/thumb_280x210_1.jpg?ver=1792811393",
@@ -16034,6 +16295,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -49.5,
+    "score": 22
+  },
+  {
+    "id": "6292285",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292285/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292285/main_image/thumb_280x210_main_image_6292285_1.jpg?ver=1792811309",
+    "price_eur": 54083,
+    "sqm": 60,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 60 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 901,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1667,
+    "pct_vs_area_avg": -46.0,
     "score": 22
   },
   {
@@ -16319,6 +16609,35 @@
     "score": 22
   },
   {
+    "id": "5855856",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/ujen/dvustaen/5855856/?sid=huZFPB&page=13",
+    "photo": "https://www.imoti.net/web/files/obiavi/5855856/main_image/thumb_280x210_1.jpg?ver=1792811127",
+    "price_eur": 67200,
+    "sqm": 98,
+    "area": "Southern",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 98 м 2 Plovdiv, Southern",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 686,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 67200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1470,
+    "pct_vs_area_avg": -53.3,
+    "score": 22
+  },
+  {
     "id": "6279237",
     "url": "https://www.imoti.net/en/obiava/prodava/yambol/jambol-georgi-benkovski/tristaen/6279237/?sid=ib5UDV&page=1",
     "photo": "https://www.imoti.net/web/files/obiavi/6279237/main_image/thumb_280x210_main_image_6279237_1.jpg?ver=1792811521",
@@ -16538,6 +16857,34 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2220,
     "pct_vs_area_avg": -16.5,
+    "score": 22
+  },
+  {
+    "id": "6081341",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/gabrovo/gabrovo-mladost/6081341/?sid=gnjBUQ&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6081341/main_image/thumb_280x210_main_image_6081341_1.jpg?ver=1792725245",
+    "price_eur": 600000,
+    "sqm": 1090,
+    "area": "Mladost",
+    "city": "Габрово",
+    "title": ", 1090 м 2 Gabrovo, Mladost",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "price_per_sqm": 550,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 600000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 990,
+    "pct_vs_area_avg": -44.5,
     "score": 22
   },
   {
@@ -17041,35 +17388,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2156,
     "pct_vs_area_avg": -49.0,
-    "score": 21
-  },
-  {
-    "id": "6166848",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166848/?sid=huZFPB&page=12",
-    "photo": "https://www.imoti.net/web/files/obiavi/6166848/main_image/thumb_280x210_1.jpg?ver=1792811124",
-    "price_eur": 66499,
-    "sqm": 70,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 70 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 950,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 66499
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -43.6,
     "score": 21
   },
   {
@@ -17828,35 +18146,6 @@
     "score": 21
   },
   {
-    "id": "6157614",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/dvustaen/6157614/?sid=huZFPB&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6157614/main_image/thumb_280x210_1.jpg?ver=1792724751",
-    "price_eur": 137999,
-    "sqm": 114,
-    "area": "Center",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 114 м 2 Plovdiv, Center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1211,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 137999
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2156,
-    "pct_vs_area_avg": -43.8,
-    "score": 21
-  },
-  {
     "id": "6299328",
     "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/mnogostaen/6299328/?sid=fNEg3e&page=7",
     "photo": "https://www.imoti.net/web/files/obiavi/6299328/main_image/thumb_280x210_main_image_6299328_1.jpg?ver=1792811402",
@@ -18071,64 +18360,6 @@
     "score": 21
   },
   {
-    "id": "6292278",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292278/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292278/main_image/thumb_280x210_main_image_6292278_1.jpg?ver=1792811309",
-    "price_eur": 54083,
-    "sqm": 81,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 81 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 668,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1667,
-    "pct_vs_area_avg": -59.9,
-    "score": 21
-  },
-  {
-    "id": "6292282",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292282/?sid=g9tjtT&page=2",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292282/main_image/thumb_280x210_main_image_6292282_1.jpg?ver=1792811296",
-    "price_eur": 19667,
-    "sqm": 23,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 23 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 855,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 19667
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1667,
-    "pct_vs_area_avg": -48.7,
-    "score": 21
-  },
-  {
     "id": "6230482",
     "url": "https://www.imoti.net/en/obiava/prodava/targovishte/tyrgovishte-centyr/tristaen/6230482/?sid=iuyfPP&page=1",
     "photo": "https://www.imoti.net/web/files/obiavi/6230482/main_image/thumb_280x210_main_image_6230482_1.jpg?ver=1792811578",
@@ -18164,35 +18395,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1277,
     "pct_vs_area_avg": -18.3,
-    "score": 21
-  },
-  {
-    "id": "6292283",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292283/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292283/main_image/thumb_280x210_main_image_6292283_1.jpg?ver=1792811309",
-    "price_eur": 54083,
-    "sqm": 63,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 63 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 858,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1667,
-    "pct_vs_area_avg": -48.5,
     "score": 21
   },
   {
@@ -18375,35 +18577,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2156,
     "pct_vs_area_avg": -46.1,
-    "score": 21
-  },
-  {
-    "id": "6166828",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/ednostaen/6166828/?sid=huZFPB&page=6",
-    "photo": "https://www.imoti.net/web/files/obiavi/6166828/main_image/thumb_280x210_1.png?ver=1792811111",
-    "price_eur": 40032,
-    "sqm": 42,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "Studio/bedsit, 42 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 953,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 40032
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -43.4,
     "score": 21
   },
   {
@@ -19427,35 +19600,6 @@
     "score": 21
   },
   {
-    "id": "6292284",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292284/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292284/main_image/thumb_280x210_main_image_6292284_1.jpg?ver=1792811309",
-    "price_eur": 54083,
-    "sqm": 55,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 55 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 983,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1667,
-    "pct_vs_area_avg": -41.0,
-    "score": 21
-  },
-  {
     "id": "6270415",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/tristaen/6270415/?sid=icNBCK&page=5",
     "photo": "https://www.imoti.net/web/files/obiavi/6270415/main_image/thumb_280x210_main_image_6270415_1.jpg?ver=1792137301",
@@ -19752,7 +19896,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 6.3,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2156,
@@ -19974,64 +20118,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 367,
     "pct_vs_area_avg": -53.2,
-    "score": 21
-  },
-  {
-    "id": "6166855",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166855/?sid=huZFPB&page=19",
-    "photo": "https://www.imoti.net/web/files/obiavi/6166855/main_image/thumb_280x210_1.jpg?ver=1792811141",
-    "price_eur": 75427,
-    "sqm": 79,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 79 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 955,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 75427
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -43.3,
-    "score": 21
-  },
-  {
-    "id": "6166849",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/kyrshijaka/dvustaen/6166849/?sid=huZFPB&page=24",
-    "photo": "https://www.imoti.net/web/files/obiavi/6166849/main_image/thumb_280x210_1.jpg?ver=1792811154",
-    "price_eur": 80236,
-    "sqm": 84,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 84 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 955,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 80236
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -43.3,
     "score": 21
   },
   {
@@ -20483,35 +20569,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2156,
     "pct_vs_area_avg": -49.1,
-    "score": 21
-  },
-  {
-    "id": "6292285",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292285/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292285/main_image/thumb_280x210_main_image_6292285_1.jpg?ver=1792811309",
-    "price_eur": 54083,
-    "sqm": 60,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 60 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 901,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1667,
-    "pct_vs_area_avg": -46.0,
     "score": 21
   },
   {
@@ -21170,35 +21227,6 @@
     "score": 21
   },
   {
-    "id": "5855856",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/ujen/dvustaen/5855856/?sid=huZFPB&page=13",
-    "photo": "https://www.imoti.net/web/files/obiavi/5855856/main_image/thumb_280x210_1.jpg?ver=1792811127",
-    "price_eur": 67200,
-    "sqm": 98,
-    "area": "Southern",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 98 м 2 Plovdiv, Southern",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 686,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 67200
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1470,
-    "pct_vs_area_avg": -53.3,
-    "score": 21
-  },
-  {
     "id": "5840297",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/garaj/5840297/?sid=huZFPB&page=4",
     "photo": "https://www.imoti.net/web/files/obiavi/5840297/main_image/thumb_280x210_image0-16.jpg?ver=1792811106",
@@ -21326,7 +21354,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 4.6,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 475,
@@ -21759,34 +21787,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
     "pct_vs_area_avg": 32.0,
-    "score": 21
-  },
-  {
-    "id": "6081341",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/gabrovo/gabrovo-mladost/6081341/?sid=gnjBUQ&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6081341/main_image/thumb_280x210_main_image_6081341_1.jpg?ver=1792725245",
-    "price_eur": 600000,
-    "sqm": 1090,
-    "area": "Mladost",
-    "city": "Габрово",
-    "title": ", 1090 м 2 Gabrovo, Mladost",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 550,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 600000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 990,
-    "pct_vs_area_avg": -44.5,
     "score": 21
   },
   {
@@ -25151,7 +25151,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1502,
@@ -40874,7 +40874,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1595,
@@ -47047,6 +47047,35 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -41.7,
+    "score": 17
+  },
+  {
+    "id": "6179116",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/dvustaen/6179116/?sid=huZFPB&page=33",
+    "photo": "https://www.imoti.net/web/files/obiavi/6179116/main_image/thumb_280x210_01.jpg?ver=1792811175",
+    "price_eur": 88990,
+    "sqm": 72,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 72 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1236,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 88990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -26.6,
     "score": 17
   },
   {
@@ -54542,7 +54571,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1726,
@@ -56654,6 +56683,35 @@
     "removed_at": "2026-09-16T05:36:33.429839+00:00",
     "area_avg_price_per_sqm": 1556,
     "pct_vs_area_avg": -35.7,
+    "score": 16
+  },
+  {
+    "id": "6132585",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/trakija/dvustaen/6132585/?sid=huZFPB&page=24",
+    "photo": "https://www.imoti.net/web/files/obiavi/6132585/main_image/thumb_280x210_1ll.jpg?ver=1792811154",
+    "price_eur": 80706,
+    "sqm": 68,
+    "area": "Trakia",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 68 м 2 Plovdiv, Trakia",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1187,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 80706
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1563,
+    "pct_vs_area_avg": -24.0,
     "score": 16
   },
   {
@@ -60471,35 +60529,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1595,
     "pct_vs_area_avg": -28.5,
-    "score": 16
-  },
-  {
-    "id": "6179116",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/dvustaen/6179116/?sid=huZFPB&page=33",
-    "photo": "https://www.imoti.net/web/files/obiavi/6179116/main_image/thumb_280x210_01.jpg?ver=1792811175",
-    "price_eur": 88990,
-    "sqm": 72,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 72 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1236,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 88990
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -26.6,
     "score": 16
   },
   {
@@ -71472,7 +71501,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1556,
@@ -72529,35 +72558,6 @@
     "score": 15
   },
   {
-    "id": "6132585",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/trakija/dvustaen/6132585/?sid=huZFPB&page=24",
-    "photo": "https://www.imoti.net/web/files/obiavi/6132585/main_image/thumb_280x210_1ll.jpg?ver=1792811154",
-    "price_eur": 80706,
-    "sqm": 68,
-    "area": "Trakia",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 68 м 2 Plovdiv, Trakia",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1187,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 80706
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1563,
-    "pct_vs_area_avg": -24.0,
-    "score": 15
-  },
-  {
     "id": "6218136",
     "url": "https://www.imoti.net/en/obiava/prodava/shumen/shumen-centyr-/dvustaen/6218136/?sid=gEb389&page=17",
     "photo": "https://www.imoti.net/web/files/obiavi/6218136/main_image/thumb_280x210_main_image_6218136_1.jpg?ver=1792811494",
@@ -73520,7 +73520,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -78364,7 +78364,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1595,
@@ -154005,6 +154005,35 @@
     "score": 11
   },
   {
+    "id": "6046648",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/vystanicheski/dvustaen/6046648/?sid=huZFPB&page=34",
+    "photo": "https://www.imoti.net/web/files/obiavi/6046648/main_image/thumb_280x210_01.jpg?ver=1792724827",
+    "price_eur": 92600,
+    "sqm": 69,
+    "area": "Vastanicheski",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 69 м 2 Plovdiv, Vastanicheski",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1342,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 92600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1502,
+    "pct_vs_area_avg": -10.7,
+    "score": 11
+  },
+  {
     "id": "6289467",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/dvustaen/6289467/?sid=huZFPB&page=34",
     "photo": "https://www.imoti.net/web/files/obiavi/6289467/main_image/thumb_280x210_2.jpg?ver=1792811177",
@@ -166067,7 +166096,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1215,
@@ -166735,7 +166764,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -171526,7 +171555,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1502,
@@ -178104,7 +178133,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -179159,7 +179188,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1192,
@@ -179926,35 +179955,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1207,
     "pct_vs_area_avg": 0.4,
-    "score": 10
-  },
-  {
-    "id": "6046648",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/vystanicheski/dvustaen/6046648/?sid=huZFPB&page=34",
-    "photo": "https://www.imoti.net/web/files/obiavi/6046648/main_image/thumb_280x210_01.jpg?ver=1792724827",
-    "price_eur": 92600,
-    "sqm": 69,
-    "area": "Vastanicheski",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 69 м 2 Plovdiv, Vastanicheski",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1342,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 92600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1502,
-    "pct_vs_area_avg": -10.7,
     "score": 10
   },
   {
@@ -188592,7 +188592,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -194222,7 +194222,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -203059,7 +203059,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1563,
@@ -207170,7 +207170,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -212248,7 +212248,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 724,
@@ -220507,7 +220507,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 952,
@@ -222216,7 +222216,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -222762,7 +222762,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1130,
@@ -223532,7 +223532,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -224575,7 +224575,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1192,
@@ -234164,7 +234164,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -237161,7 +237161,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 842,
@@ -237620,7 +237620,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 259,
@@ -237837,7 +237837,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 259,
@@ -238144,7 +238144,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -241914,7 +241914,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1505,
@@ -243358,7 +243358,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -254059,7 +254059,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1192,
@@ -255418,7 +255418,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -260676,7 +260676,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1563,
@@ -270452,6 +270452,35 @@
     "score": 7
   },
   {
+    "id": "6294496",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/jeleznica-centyr/tristaen/6294496/?sid=fNEg3e&page=11",
+    "photo": "https://www.imoti.net/web/files/obiavi/6294496/main_image/thumb_280x210_viber-image-2026-08-05-14-02-46-479.jpg?ver=1792811410",
+    "price_eur": 129000,
+    "sqm": 108,
+    "area": "Jeleznik - center",
+    "city": "Стара Загора",
+    "title": "2 bedroom apartment, 108 м 2 Stara Zagora, Jeleznik, Jeleznik - center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1194,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 129000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1056,
+    "pct_vs_area_avg": 13.1,
+    "score": 7
+  },
+  {
     "id": "6304389",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/tristaen/6304389/?sid=icNBCK&page=37",
     "photo": "https://www.imoti.net/web/files/obiavi/6304389/main_image/thumb_280x210_main_image_6304389_1.jpg?ver=1790089330",
@@ -271606,6 +271635,35 @@
     "removed_at": "2026-09-14T05:40:40.574949+00:00",
     "area_avg_price_per_sqm": 1870,
     "pct_vs_area_avg": -14.3,
+    "score": 7
+  },
+  {
+    "id": "3680041",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/tyrgovski-obekt/3680041/?sid=fNEg3e&page=2",
+    "photo": "https://www.imoti.net/web/files/obiavi/3680041/main_image/thumb_280x210_img-20200508-151902-00-110-2020-05-22-10-27-17-screenshot.jpg?ver=1792811390",
+    "price_eur": 630000,
+    "sqm": 620,
+    "area": "620 м 2 Stara Zagora",
+    "city": "Стара Загора",
+    "title": "Commercial property, 620 м 2 Stara Zagora",
+    "portal": "imoti.net",
+    "category": "business",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 1016,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 630000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1016,
+    "pct_vs_area_avg": 0.0,
     "score": 7
   },
   {
@@ -273537,6 +273595,35 @@
     "score": 7
   },
   {
+    "id": "6294500",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/kv-tri-chuchura-sever/tristaen/6294500/?sid=fNEg3e&page=15",
+    "photo": "https://www.imoti.net/web/files/obiavi/6294500/main_image/thumb_280x210_viber-izobrajenie-2026-03-26-11-54-11-306.jpg?ver=1792811419",
+    "price_eur": 196000,
+    "sqm": 115,
+    "area": "Tri Chuchura - Sever",
+    "city": "Стара Загора",
+    "title": "2 bedroom apartment, 115 м 2 Stara Zagora, Tri chuchura, Tri Chuchura - Sever",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1704,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 196000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1125,
+    "pct_vs_area_avg": 51.4,
+    "score": 7
+  },
+  {
     "id": "6139860",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/serdika/dvustaen/6139860/?sid=icNBCK&page=38",
     "photo": "https://www.imoti.net/web/files/obiavi/6139860/main_image/thumb_280x210_main_image_6139860_1.jpg?ver=1789096423",
@@ -274083,6 +274170,35 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1331,
     "pct_vs_area_avg": -13.9,
+    "score": 7
+  },
+  {
+    "id": "6178092",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/smirnenski/dvustaen/6178092/?sid=huZFPB&page=31",
+    "photo": "https://www.imoti.net/web/files/obiavi/6178092/main_image/thumb_280x210_01.jpg?ver=1792724820",
+    "price_eur": 90000,
+    "sqm": 50,
+    "area": "Smirnenski",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 50 м 2 Plovdiv, Smirnenski",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1800,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 90000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1601,
+    "pct_vs_area_avg": 12.4,
     "score": 7
   },
   {
@@ -275914,6 +276030,35 @@
     "score": 7
   },
   {
+    "id": "6136878",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/dvustaen/6136878/?sid=huZFPB&page=22",
+    "photo": "https://www.imoti.net/web/files/obiavi/6136878/main_image/thumb_280x210_1.jpg?ver=1792811149",
+    "price_eur": 79000,
+    "sqm": 47,
+    "area": "Kichuk Paris",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 47 м 2 Plovdiv, Kichuk Paris",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1681,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 79000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1595,
+    "pct_vs_area_avg": 5.4,
+    "score": 7
+  },
+  {
     "id": "6243023",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/dvustaen/6243023/?sid=icNBCK&page=116",
     "photo": "https://www.imoti.net/web/files/obiavi/6243023/main_image/thumb_280x210_1.jpg?ver=1787721302",
@@ -276318,6 +276463,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1470,
     "pct_vs_area_avg": -96.3,
+    "score": 7
+  },
+  {
+    "id": "3680040",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/sgrada/3680040/?sid=fNEg3e&page=17",
+    "photo": "https://www.imoti.net/web/files/obiavi/3680040/main_image/thumb_280x210_img-20200508-151902-00-110-2020-05-22-10-27-17-screenshot.jpg?ver=1792811424",
+    "price_eur": 630000,
+    "sqm": 620,
+    "area": "620 м 2 Stara Zagora",
+    "city": "Стара Загора",
+    "title": "Building, office building, 620 м 2 Stara Zagora",
+    "portal": "imoti.net",
+    "category": "business",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 1016,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 630000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1016,
+    "pct_vs_area_avg": 0.0,
     "score": 7
   },
   {
@@ -282265,7 +282439,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1373,
@@ -282505,7 +282679,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1384,
@@ -285437,6 +285611,34 @@
     "score": 7
   },
   {
+    "id": "6099816",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/kajsieva-gradina/6099816/?sid=hOOTsy&page=31",
+    "photo": "https://www.imoti.net/web/files/obiavi/6099816/main_image/thumb_280x210_main_image_6099816_1.jpg?ver=1792811267",
+    "price_eur": 98000,
+    "sqm": 44,
+    "area": "Kaysieva Gradina",
+    "city": "Варна",
+    "title": ", 44 м 2 Varna, Kaysieva Gradina",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "price_per_sqm": 2227,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 98000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1505,
+    "pct_vs_area_avg": 47.9,
+    "score": 7
+  },
+  {
     "id": "6257863",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/m-t-pchelina/dvustaen/6257863/?sid=hOOTsy&page=21",
     "photo": "https://www.imoti.net/web/files/obiavi/6257863/main_image/thumb_280x210_main_image_6257863_1.jpg?ver=1792811245",
@@ -286750,6 +286952,39 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 2942,
     "pct_vs_area_avg": -18.1,
+    "score": 7
+  },
+  {
+    "id": "6183366",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/smirnenski/ednostaen/6183366/?sid=huZFPB&page=27",
+    "photo": "https://www.imoti.net/web/files/obiavi/6183366/main_image/thumb_280x210_1eeeee.jpg?ver=1792811161",
+    "price_eur": 83607,
+    "sqm": 52,
+    "area": "Smirnenski",
+    "city": "Пловдив",
+    "title": "Studio/bedsit, 52 м 2 Plovdiv, Smirnenski",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1608,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 82049
+      },
+      {
+        "date": "2026-09-06T05:06:01.215450+00:00",
+        "price_eur": 83607
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": -1.9,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1601,
+    "pct_vs_area_avg": 0.4,
     "score": 7
   },
   {
@@ -292274,6 +292509,35 @@
     "score": 7
   },
   {
+    "id": "5574898",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/bul-slavjanski/magazin/5574898/?sid=fNEg3e&page=17",
+    "photo": null,
+    "price_eur": 391000,
+    "sqm": 326,
+    "area": "Slavyanski blvd.",
+    "city": "Стара Загора",
+    "title": "Shop, 326 м 2 Stara Zagora, Slavyanski blvd.",
+    "portal": "imoti.net",
+    "category": "shop",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1199,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 391000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1199,
+    "pct_vs_area_avg": 0.0,
+    "score": 7
+  },
+  {
     "id": "6276470",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/briz/kashta/6276470/?sid=hOOTsy&page=171",
     "photo": "https://www.imoti.net/web/files/obiavi/6276470/main_image/thumb_280x210_main_image_6276470_1.jpg?ver=1790066549",
@@ -294416,6 +294680,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1592,
     "pct_vs_area_avg": -11.1,
+    "score": 7
+  },
+  {
+    "id": "6155773",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/izgrev/dvustaen/6155773/?sid=huZFPB&page=10",
+    "photo": "https://www.imoti.net/web/files/obiavi/6155773/main_image/thumb_280x210_1.jpg?ver=1792811120",
+    "price_eur": 58999,
+    "sqm": 45,
+    "area": "Izgrev",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 45 м 2 Plovdiv, Izgrev",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1311,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 58999
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1294,
+    "pct_vs_area_avg": 1.3,
     "score": 7
   },
   {
@@ -322333,35 +322626,6 @@
     "score": 6
   },
   {
-    "id": "6294496",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/jeleznica-centyr/tristaen/6294496/?sid=fNEg3e&page=11",
-    "photo": "https://www.imoti.net/web/files/obiavi/6294496/main_image/thumb_280x210_viber-image-2026-08-05-14-02-46-479.jpg?ver=1792811410",
-    "price_eur": 129000,
-    "sqm": 108,
-    "area": "Jeleznik - center",
-    "city": "Стара Загора",
-    "title": "2 bedroom apartment, 108 м 2 Stara Zagora, Jeleznik, Jeleznik - center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1194,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 129000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1056,
-    "pct_vs_area_avg": 13.1,
-    "score": 6
-  },
-  {
     "id": "6209067",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/sofia/banishora/dvustaen/6209067/?sid=icNBCK&page=33",
     "photo": "https://www.imoti.net/web/files/obiavi/6209067/main_image/thumb_280x210_main_image_6209067_1.jpg?ver=1789979963",
@@ -323373,35 +323637,6 @@
     "removed_at": "2026-09-20T11:03:16.062515+00:00",
     "area_avg_price_per_sqm": 1617,
     "pct_vs_area_avg": -7.8,
-    "score": 6
-  },
-  {
-    "id": "3680041",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/tyrgovski-obekt/3680041/?sid=fNEg3e&page=2",
-    "photo": "https://www.imoti.net/web/files/obiavi/3680041/main_image/thumb_280x210_img-20200508-151902-00-110-2020-05-22-10-27-17-screenshot.jpg?ver=1792811390",
-    "price_eur": 630000,
-    "sqm": 620,
-    "area": "620 м 2 Stara Zagora",
-    "city": "Стара Загора",
-    "title": "Commercial property, 620 м 2 Stara Zagora",
-    "portal": "imoti.net",
-    "category": "business",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 1016,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 630000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1016,
-    "pct_vs_area_avg": 0.0,
     "score": 6
   },
   {
@@ -325837,35 +326072,6 @@
     "score": 6
   },
   {
-    "id": "6294500",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/kv-tri-chuchura-sever/tristaen/6294500/?sid=fNEg3e&page=15",
-    "photo": "https://www.imoti.net/web/files/obiavi/6294500/main_image/thumb_280x210_viber-izobrajenie-2026-03-26-11-54-11-306.jpg?ver=1792811419",
-    "price_eur": 196000,
-    "sqm": 115,
-    "area": "Tri Chuchura - Sever",
-    "city": "Стара Загора",
-    "title": "2 bedroom apartment, 115 м 2 Stara Zagora, Tri chuchura, Tri Chuchura - Sever",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1704,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 196000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1125,
-    "pct_vs_area_avg": 51.4,
-    "score": 6
-  },
-  {
     "id": "6266170",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/vitosha/tristaen/6266170/?sid=icNBCK&page=184",
     "photo": "https://www.imoti.net/web/files/obiavi/6266170/main_image/thumb_280x210_main_image_6266170_1.jpg?ver=1790065532",
@@ -326776,35 +326982,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1501,
     "pct_vs_area_avg": -9.5,
-    "score": 6
-  },
-  {
-    "id": "6178092",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/smirnenski/dvustaen/6178092/?sid=huZFPB&page=31",
-    "photo": "https://www.imoti.net/web/files/obiavi/6178092/main_image/thumb_280x210_01.jpg?ver=1792724820",
-    "price_eur": 90000,
-    "sqm": 50,
-    "area": "Smirnenski",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 50 м 2 Plovdiv, Smirnenski",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1800,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 90000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1601,
-    "pct_vs_area_avg": 12.4,
     "score": 6
   },
   {
@@ -328530,35 +328707,6 @@
     "score": 6
   },
   {
-    "id": "6136878",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/dvustaen/6136878/?sid=huZFPB&page=22",
-    "photo": "https://www.imoti.net/web/files/obiavi/6136878/main_image/thumb_280x210_1.jpg?ver=1792811149",
-    "price_eur": 79000,
-    "sqm": 47,
-    "area": "Kichuk Paris",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 47 м 2 Plovdiv, Kichuk Paris",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1681,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 79000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1595,
-    "pct_vs_area_avg": 5.4,
-    "score": 6
-  },
-  {
     "id": "6140237",
     "url": "https://www.imoti.net/en/obiava/prodava/burgas/metro/parcel/6140237/?sid=g9tjtT&page=34",
     "photo": "https://www.imoti.net/web/files/obiavi/6140237/main_image/thumb_280x210_viber-izobrajenie-2025-08-08-11-35-39-983.jpg?ver=1792137661",
@@ -328885,35 +329033,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2797,
     "pct_vs_area_avg": -9.8,
-    "score": 6
-  },
-  {
-    "id": "3680040",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/sgrada/3680040/?sid=fNEg3e&page=17",
-    "photo": "https://www.imoti.net/web/files/obiavi/3680040/main_image/thumb_280x210_img-20200508-151902-00-110-2020-05-22-10-27-17-screenshot.jpg?ver=1792811424",
-    "price_eur": 630000,
-    "sqm": 620,
-    "area": "620 м 2 Stara Zagora",
-    "city": "Стара Загора",
-    "title": "Building, office building, 620 м 2 Stara Zagora",
-    "portal": "imoti.net",
-    "category": "business",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 1016,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 630000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1016,
-    "pct_vs_area_avg": 0.0,
     "score": 6
   },
   {
@@ -340293,34 +340412,6 @@
     "score": 6
   },
   {
-    "id": "6099816",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/kajsieva-gradina/6099816/?sid=hOOTsy&page=31",
-    "photo": "https://www.imoti.net/web/files/obiavi/6099816/main_image/thumb_280x210_main_image_6099816_1.jpg?ver=1792811267",
-    "price_eur": 98000,
-    "sqm": 44,
-    "area": "Kaysieva Gradina",
-    "city": "Варна",
-    "title": ", 44 м 2 Varna, Kaysieva Gradina",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 2227,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 98000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1505,
-    "pct_vs_area_avg": 47.9,
-    "score": 6
-  },
-  {
     "id": "6119000",
     "url": "https://www.imoti.net/en/obiava/prodava/pleven/pleven-drujba-1/dvustaen/6119000/?sid=hXL3fo&page=3",
     "photo": "https://www.imoti.net/web/files/obiavi/6119000/main_image/thumb_280x210_main_image_6119000_1.jpg?ver=1792811433",
@@ -341741,39 +341832,6 @@
     "removed_at": "2026-08-30T04:46:40.918622+00:00",
     "area_avg_price_per_sqm": 1373,
     "pct_vs_area_avg": -16.0,
-    "score": 6
-  },
-  {
-    "id": "6183366",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/smirnenski/ednostaen/6183366/?sid=huZFPB&page=27",
-    "photo": "https://www.imoti.net/web/files/obiavi/6183366/main_image/thumb_280x210_1eeeee.jpg?ver=1792811161",
-    "price_eur": 83607,
-    "sqm": 52,
-    "area": "Smirnenski",
-    "city": "Пловдив",
-    "title": "Studio/bedsit, 52 м 2 Plovdiv, Smirnenski",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1608,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 82049
-      },
-      {
-        "date": "2026-09-06T05:06:01.215450+00:00",
-        "price_eur": 83607
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": -1.9,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1601,
-    "pct_vs_area_avg": 0.4,
     "score": 6
   },
   {
@@ -348454,35 +348512,6 @@
     "score": 6
   },
   {
-    "id": "5574898",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/bul-slavjanski/magazin/5574898/?sid=fNEg3e&page=17",
-    "photo": null,
-    "price_eur": 391000,
-    "sqm": 326,
-    "area": "Slavyanski blvd.",
-    "city": "Стара Загора",
-    "title": "Shop, 326 м 2 Stara Zagora, Slavyanski blvd.",
-    "portal": "imoti.net",
-    "category": "shop",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1199,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 391000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1199,
-    "pct_vs_area_avg": 0.0,
-    "score": 6
-  },
-  {
     "id": "6270580",
     "url": "https://www.imoti.net/en/obiava/prodava/blagoevgrad/bjalata-visota/parcel/6270580/?sid=geW25Y&page=1",
     "photo": "https://www.imoti.net/web/files/obiavi/6270580/main_image/thumb_280x210_main_image_6270580_1.jpg?ver=1792811539",
@@ -351017,35 +351046,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1741,
     "pct_vs_area_avg": -16.2,
-    "score": 6
-  },
-  {
-    "id": "6155773",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/izgrev/dvustaen/6155773/?sid=huZFPB&page=10",
-    "photo": "https://www.imoti.net/web/files/obiavi/6155773/main_image/thumb_280x210_1.jpg?ver=1792811120",
-    "price_eur": 58999,
-    "sqm": 45,
-    "area": "Izgrev",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 45 м 2 Plovdiv, Izgrev",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1311,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 58999
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1294,
-    "pct_vs_area_avg": 1.3,
     "score": 6
   },
   {
