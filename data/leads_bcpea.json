@@ -305,7 +305,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 51,
+    "days_on_market": 52,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": -38.8,
     "score": 20
@@ -75239,7 +75239,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75276,7 +75276,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -77410,7 +77410,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82366,7 +82366,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84131,7 +84131,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 258,
     "pct_vs_area_avg": -74.0,
     "score": 2
@@ -91783,7 +91783,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -91815,7 +91815,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95326,7 +95326,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95362,7 +95362,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95401,7 +95401,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96841,6 +96841,38 @@
     "days_on_market": 3,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -2.9,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93349",
+    "url": "https://sales.bcpea.org/properties/93349",
+    "photo": null,
+    "price_eur": 2119,
+    "sqm": 685,
+    "area": "Неделино",
+    "title": "Парцел, Неделино",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T08:07:00+00:00",
+    "category": "land",
+    "_settlement": "Неделино",
+    "lat": 41.4563356,
+    "lng": 25.0785825,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 51319.501.530 / пет, едно, три, едно, девет, точка, пет, нула, едно, точка, пет, три, нула / по кадастралната карта и кадастралните регистри на гр.Неделино, одобрени със Заповед за одобрение на КККР РД-18-75/19.11.2021 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на имота: област Смолян, община Неделино, гр. Неделино, ул. ПАИСИЙ ХИЛЕНДАРСКИ №5А, вид собств еност: о бщинска частна, вид територия: Урбанизирана, начин на трайно ползване: Ниско застрояване (до 10 m), с площ 685 /шестстотин осемдесет и пет квадратни метра/, стар номер 368 / триста шестдесет и осем/ , квартал 35 / тридесет и пет/ , парцел V / пети/, при съседи: 51319.22.540, 51319.501.529, 51319.501.531, 51319.501.563.",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 2119
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 1
   },
   {
@@ -102208,7 +102240,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -103651,38 +103683,6 @@
     "days_on_market": 3,
     "area_avg_price_per_sqm": 528,
     "pct_vs_area_avg": 123.1,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93349",
-    "url": "https://sales.bcpea.org/properties/93349",
-    "photo": null,
-    "price_eur": 2119,
-    "sqm": 685,
-    "area": "Неделино",
-    "title": "Парцел, Неделино",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T08:07:00+00:00",
-    "category": "land",
-    "_settlement": "Неделино",
-    "lat": 41.4563356,
-    "lng": 25.0785825,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 51319.501.530 / пет, едно, три, едно, девет, точка, пет, нула, едно, точка, пет, три, нула / по кадастралната карта и кадастралните регистри на гр.Неделино, одобрени със Заповед за одобрение на КККР РД-18-75/19.11.2021 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на имота: област Смолян, община Неделино, гр. Неделино, ул. ПАИСИЙ ХИЛЕНДАРСКИ №5А, вид собств еност: о бщинска частна, вид територия: Урбанизирана, начин на трайно ползване: Ниско застрояване (до 10 m), с площ 685 /шестстотин осемдесет и пет квадратни метра/, стар номер 368 / триста шестдесет и осем/ , квартал 35 / тридесет и пет/ , парцел V / пети/, при съседи: 51319.22.540, 51319.501.529, 51319.501.531, 51319.501.563.",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 2119
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 0
   },
   {
