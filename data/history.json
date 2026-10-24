@@ -886573,7 +886573,11 @@
       "title": "Garage, 31 м 2 Bourgas, Lazur",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.5101426524,
+      "lng": 27.4724342505
     }
   },
   "6283334": {

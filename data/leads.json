@@ -87832,34 +87832,6 @@
     "score": 15
   },
   {
-    "id": "6243201",
-    "url": "https://www.imoti.net/en/obiava/prodava/burgas/lazur/garaj/6243201/?sid=g9tjtT&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/6243201/main_image/thumb_280x210_viber-izobrajenie-2026-04-17-19-57-00-787.jpg?ver=1790849681",
-    "price_eur": 59900,
-    "sqm": 31,
-    "area": "Lazur",
-    "city": "Бургас",
-    "title": "Garage, 31 м 2 Bourgas, Lazur",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "price_per_sqm": 1932,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 59900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 36,
-    "source_status": "removed",
-    "removed_at": "2026-10-01T10:33:50.790207+00:00",
-    "area_avg_price_per_sqm": 2753,
-    "pct_vs_area_avg": -29.8,
-    "score": 15
-  },
-  {
     "id": "6241477",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/vyzrajdane-3/dvustaen/6241477/?sid=hOOTsy&page=19",
     "photo": "https://www.imoti.net/web/files/obiavi/6241477/main_image/thumb_280x210_main_image_6241477_1.jpg?ver=1792811241",
@@ -155952,6 +155924,38 @@
     "removed_at": "2026-10-07T10:31:32.025955+00:00",
     "area_avg_price_per_sqm": 1294,
     "pct_vs_area_avg": -19.3,
+    "score": 11
+  },
+  {
+    "id": "6243201",
+    "url": "https://www.imoti.net/en/obiava/prodava/burgas/lazur/garaj/6243201/?sid=g9tjtT&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/6243201/main_image/thumb_280x210_viber-izobrajenie-2026-04-17-19-57-00-787.jpg?ver=1790849681",
+    "price_eur": 59900,
+    "sqm": 31,
+    "area": "Lazur",
+    "city": "Бургас",
+    "title": "Garage, 31 м 2 Bourgas, Lazur",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-24",
+    "lat": 42.5101426524,
+    "lng": 27.4724342505,
+    "price_per_sqm": 1932,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 59900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-10-01T10:33:50.790207+00:00",
+    "area_avg_price_per_sqm": 2753,
+    "pct_vs_area_avg": -29.8,
     "score": 11
   },
   {
