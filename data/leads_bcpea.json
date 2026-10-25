@@ -2162,7 +2162,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -55.9,
     "score": 18
@@ -4332,7 +4332,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -32.2,
     "score": 15
@@ -4709,7 +4709,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -32.4,
     "score": 14
@@ -6208,7 +6208,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -12.9,
     "score": 10
@@ -11492,7 +11492,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -15.5,
     "score": 8
@@ -14085,7 +14085,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 53,
+    "days_on_market": 54,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -19922,7 +19922,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20583,7 +20583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20710,7 +20710,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20901,7 +20901,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25260,7 +25260,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25384,7 +25384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25858,7 +25858,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26111,7 +26111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26952,7 +26952,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26984,7 +26984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28290,7 +28290,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28584,7 +28584,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -31719,7 +31719,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": 1092,
     "pct_vs_area_avg": -91.3,
     "score": 5
@@ -47376,7 +47376,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -48848,7 +48848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -8.4,
     "score": 5
@@ -51111,7 +51111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -63848,7 +63848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72502,7 +72502,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75308,7 +75308,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75339,7 +75339,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75370,7 +75370,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75401,7 +75401,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75432,7 +75432,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75464,7 +75464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75496,7 +75496,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76373,7 +76373,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76405,7 +76405,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76437,7 +76437,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76469,7 +76469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78431,7 +78431,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78463,7 +78463,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78495,7 +78495,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78527,7 +78527,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80030,6 +80030,230 @@
     "score": 3
   },
   {
+    "id": "bcpea_92826",
+    "url": "https://sales.bcpea.org/properties/92826",
+    "photo": null,
+    "price_eur": 18864,
+    "sqm": 537,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T17:17:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 537 кв.м. /петстотин тридесет и седем квадратни метра/, при граници: улица, поземлени имоти УПИ III от кв.35, УПИ I от кв.35, УПИ XXVI от кв.35, съставляващо Урегулиран поземлен имот II / втори /, образуван от имот 297 /двеста деветдесет и седем/ в кв.35 /тридесет и пет/ съгласно кадастрално - регулационния план на селото.",
+    "detail_checked": true,
+    "price_per_sqm": 35,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 18864
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92825",
+    "url": "https://sales.bcpea.org/properties/92825",
+    "photo": null,
+    "price_eur": 28925,
+    "sqm": 351,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T17:14:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски , общ. Ветрино, обл. Варна, цялото с площ от 1 351кв.м. /хиляда триста петдесет и един квадратни метра/, при граници: от две страни улици, поземлени имоти УПИ II от кв.15 и УПИ III от кв.15, и УПИ XII от кв.15, съставляващо Урегулиран поземлен имот I /първи/ в кв.15 /петнадесет/ по плана на селото, който имот е образуван от имот пл.№ 96 / имот планоснимачен номер деветдесет и шест/.",
+    "detail_checked": true,
+    "price_per_sqm": 82,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 28925
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92824",
+    "url": "https://sales.bcpea.org/properties/92824",
+    "photo": null,
+    "price_eur": 17750,
+    "sqm": 818,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T17:11:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ 818кв.м. /осемстотин и осемнадесет квадратни метра/, при граници: улица, поземлени имоти УПИ I от кв. 46, УПИ II от кв.46 и УПИ XI от кв. 46, съставляващо Урегулиран поземлен имот XII /дванадесети/ в кв. 46 /четиридесет и шест/ по плана на селото.",
+    "detail_checked": true,
+    "price_per_sqm": 22,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 17750
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92823",
+    "url": "https://sales.bcpea.org/properties/92823",
+    "photo": null,
+    "price_eur": 27187,
+    "sqm": 821,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T17:08:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ 821кв.м. /осемстотин двадесет и един квадратни метра/, при граници: от две страни улици, УПИ VIII от кв.62 и УПИ VI от кв. 62, съставляващо Урегулиран поземлен имот VII /седми/, образуван от имот пл. №42 /четиридесет и две/ в кв. 62 /шестдесет и две/ по плана на селото, ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 54. 00 кв.м. /петдесет и четири квадратни метра/, с прилежащо мазе с площ от 30. 00 кв.м. /тридесет квадратни метра/ и ГАРАЖ с площ от 12. 00 кв.м. /дванадесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ",
+    "detail_checked": true,
+    "price_per_sqm": 33,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 27187
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92822",
+    "url": "https://sales.bcpea.org/properties/92822",
+    "photo": null,
+    "price_eur": 36307,
+    "sqm": 182,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T17:05:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски , общ. Ветрино, обл. Варна, цялото с площ от 1 182кв.м. /хиляда сто осемдесет и два квадратни метра/, при граници: улица, поземлени имоти VII-337, XVI-338 и V-343, съставляващо урегулиран поземлен имот VI-338 /шест и - триста тридесет и осем/, в кв.36 /тридесет и шест/ по плана на селото.",
+    "detail_checked": true,
+    "price_per_sqm": 199,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 36307
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92821",
+    "url": "https://sales.bcpea.org/properties/92821",
+    "photo": null,
+    "price_eur": 27446,
+    "sqm": 153,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:54:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 153кв.м. /хиляда сто петдесет и три квадратни метра/, при граници: улица, поземлен имот XVI-248 и имоти извън регулацията, съставляващо Урегулиран поземлен имот XVII-205 /седемнадесет и - двеста и пет/, в кв. 21 /двадесет и едно/, по плана на селото.",
+    "detail_checked": true,
+    "price_per_sqm": 179,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 27446
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92820",
+    "url": "https://sales.bcpea.org/properties/92820",
+    "photo": null,
+    "price_eur": 27370,
+    "sqm": 136,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:50:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ДВОРНО МЯСТО , находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 136кв.м./хиляда сто тридесет и шест квадратни метра/ при граници: улица, урегулиран поземлен имот IV от кв.21 и урегулиран поземлен имот II от кв.21, съставляващо Урегулиран поземлен имот III/три/, който имот е образуван от имот пл.№ 203/двеста и три/ в кв. 21/двадесет и едно/ по плана на селото, ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 81кв.м./осемдесет и един квадратни метра/, ЛЯТНА КУХНЯ с площ от 28кв.м./двадесет и осем квадратни метра/, НАВЕС с оградни стени с площ от 20кв.м./двадесет квадратни метра/ и НАВЕС без оградни стени с площ 30кв.м./тридесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ.",
+    "detail_checked": true,
+    "price_per_sqm": 201,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 27370
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
     "id": "bcpea_92819",
     "url": "https://sales.bcpea.org/properties/92819",
     "photo": null,
@@ -81190,7 +81414,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "area_avg_price_per_sqm": 672,
     "pct_vs_area_avg": -3.9,
     "score": 3
@@ -81857,230 +82081,6 @@
     "score": 2
   },
   {
-    "id": "bcpea_92826",
-    "url": "https://sales.bcpea.org/properties/92826",
-    "photo": null,
-    "price_eur": 18864,
-    "sqm": 537,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T17:17:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 537 кв.м. /петстотин тридесет и седем квадратни метра/, при граници: улица, поземлени имоти УПИ III от кв.35, УПИ I от кв.35, УПИ XXVI от кв.35, съставляващо Урегулиран поземлен имот II / втори /, образуван от имот 297 /двеста деветдесет и седем/ в кв.35 /тридесет и пет/ съгласно кадастрално - регулационния план на селото.",
-    "detail_checked": true,
-    "price_per_sqm": 35,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 18864
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92825",
-    "url": "https://sales.bcpea.org/properties/92825",
-    "photo": null,
-    "price_eur": 28925,
-    "sqm": 351,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T17:14:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски , общ. Ветрино, обл. Варна, цялото с площ от 1 351кв.м. /хиляда триста петдесет и един квадратни метра/, при граници: от две страни улици, поземлени имоти УПИ II от кв.15 и УПИ III от кв.15, и УПИ XII от кв.15, съставляващо Урегулиран поземлен имот I /първи/ в кв.15 /петнадесет/ по плана на селото, който имот е образуван от имот пл.№ 96 / имот планоснимачен номер деветдесет и шест/.",
-    "detail_checked": true,
-    "price_per_sqm": 82,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 28925
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92824",
-    "url": "https://sales.bcpea.org/properties/92824",
-    "photo": null,
-    "price_eur": 17750,
-    "sqm": 818,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T17:11:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ 818кв.м. /осемстотин и осемнадесет квадратни метра/, при граници: улица, поземлени имоти УПИ I от кв. 46, УПИ II от кв.46 и УПИ XI от кв. 46, съставляващо Урегулиран поземлен имот XII /дванадесети/ в кв. 46 /четиридесет и шест/ по плана на селото.",
-    "detail_checked": true,
-    "price_per_sqm": 22,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 17750
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92823",
-    "url": "https://sales.bcpea.org/properties/92823",
-    "photo": null,
-    "price_eur": 27187,
-    "sqm": 821,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T17:08:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ 821кв.м. /осемстотин двадесет и един квадратни метра/, при граници: от две страни улици, УПИ VIII от кв.62 и УПИ VI от кв. 62, съставляващо Урегулиран поземлен имот VII /седми/, образуван от имот пл. №42 /четиридесет и две/ в кв. 62 /шестдесет и две/ по плана на селото, ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 54. 00 кв.м. /петдесет и четири квадратни метра/, с прилежащо мазе с площ от 30. 00 кв.м. /тридесет квадратни метра/ и ГАРАЖ с площ от 12. 00 кв.м. /дванадесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ",
-    "detail_checked": true,
-    "price_per_sqm": 33,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 27187
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92822",
-    "url": "https://sales.bcpea.org/properties/92822",
-    "photo": null,
-    "price_eur": 36307,
-    "sqm": 182,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T17:05:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски , общ. Ветрино, обл. Варна, цялото с площ от 1 182кв.м. /хиляда сто осемдесет и два квадратни метра/, при граници: улица, поземлени имоти VII-337, XVI-338 и V-343, съставляващо урегулиран поземлен имот VI-338 /шест и - триста тридесет и осем/, в кв.36 /тридесет и шест/ по плана на селото.",
-    "detail_checked": true,
-    "price_per_sqm": 199,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 36307
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92821",
-    "url": "https://sales.bcpea.org/properties/92821",
-    "photo": null,
-    "price_eur": 27446,
-    "sqm": 153,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:54:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ПРАЗНО ДВОРНО МЯСТО, находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 153кв.м. /хиляда сто петдесет и три квадратни метра/, при граници: улица, поземлен имот XVI-248 и имоти извън регулацията, съставляващо Урегулиран поземлен имот XVII-205 /седемнадесет и - двеста и пет/, в кв. 21 /двадесет и едно/, по плана на селото.",
-    "detail_checked": true,
-    "price_per_sqm": 179,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 27446
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92820",
-    "url": "https://sales.bcpea.org/properties/92820",
-    "photo": null,
-    "price_eur": 27370,
-    "sqm": 136,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:50:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ДВОРНО МЯСТО , находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 136кв.м./хиляда сто тридесет и шест квадратни метра/ при граници: улица, урегулиран поземлен имот IV от кв.21 и урегулиран поземлен имот II от кв.21, съставляващо Урегулиран поземлен имот III/три/, който имот е образуван от имот пл.№ 203/двеста и три/ в кв. 21/двадесет и едно/ по плана на селото, ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 81кв.м./осемдесет и един квадратни метра/, ЛЯТНА КУХНЯ с площ от 28кв.м./двадесет и осем квадратни метра/, НАВЕС с оградни стени с площ от 20кв.м./двадесет квадратни метра/ и НАВЕС без оградни стени с площ 30кв.м./тридесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ.",
-    "detail_checked": true,
-    "price_per_sqm": 201,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 27370
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
     "id": "bcpea_92803",
     "url": "https://sales.bcpea.org/properties/92803",
     "photo": "https://sales.bcpea.org/upload/92803/462543/1.jpg?w=270&h=270",
@@ -82398,7 +82398,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82440,7 +82440,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82472,7 +82472,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82504,7 +82504,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82536,7 +82536,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82568,7 +82568,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82600,7 +82600,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82632,7 +82632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82680,7 +82680,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82712,7 +82712,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82744,7 +82744,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84166,7 +84166,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84198,7 +84198,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84230,7 +84230,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87561,7 +87561,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87593,7 +87593,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87625,7 +87625,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87657,7 +87657,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87689,7 +87689,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87721,7 +87721,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89734,7 +89734,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89770,7 +89770,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96692,7 +96692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96839,6 +96839,123 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 9,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93484",
+    "url": "https://sales.bcpea.org/properties/93484",
+    "photo": "https://sales.bcpea.org/upload/93484/416741/IMG_0373.JPG?w=270&h=270",
+    "price_eur": 10560,
+    "sqm": 97,
+    "area": "Староселци",
+    "title": "Магазин, Староселци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T17:04:00+00:00",
+    "category": "commercial",
+    "_settlement": "Староселци",
+    "lat": 43.5381563,
+    "lng": 24.2771628,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 898/2025г. с Изх. №  63049/ 20.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе публична продажба след определяне на нова начална цена , приключваща в края на работното време на последния ден на следния недвижим имот собственост на „ ПЛАМЕН ИВАНОВ“ 92 ЕООД , представлявано от управителя Пламен Стефанов Иванов, а именно: Втори магазин, разположен на първи етаж на западната страна на сградата, с площ от 71.40 кв.м. /седемдесет и едно цяло и четиридесет стотни квадратни метра/, ведно със склад към магазина с площ от 25.20 кв.м. /двадесет и пет цяло и двадесет стотни квадратни метра/, или общо 96,60 кв.м. /деветдесет и шест цяло и шестдесет стотни квадратни метра/, при граници и съседи: от две страни улица, отгоре „БТК“ ЕАД, отдолу избено помещение, заедно с прилежащите идеални част от дворното място, съставляващи 71,30/1860 /седемдесет и едно цяло и тридесет стотни върху хиляда осемстотин и шестдесет/ идеални части квадратни метра, съответните идеални части от общите части на сградата, който магазин е разположен в ТЪРГОВСКА АДМИНИСТРАТИВНА СГРАДА, със застроена площ от 325 кв.м. /триста двадесет и пет квадратни метра/ на два етажа, представляващи две търговски помещения на първия етаж, при съседи на парцела: Димитър Панчев Тончев, от две страни улици и парцел на АПК, разположена в дворно място, находящо се в село Староселци , Плевенска област и съставляващо парцел XII /дванадесет/, с пл. № 492 /четиристотин деветдесет и две/, в стр. кв. 63 /шестдесет и три/ по плана на с.Староселци, придобит въз основа и подробно описан в Постановление за възлагане на недвижим имот от 31.10.2019г., издадено от ЧСИ Цветозар Найденов, с рег.№756, с район на действие Окръжен съд -Плевен, след проведена публична продан по изп. дело №20087560400478, вписано в СВ – Кнежа, Акт №186, том VII, вх.рег.№2369/02.12.2019г., който магазин съгласно актуална скица №183/27.08.2025г., издадена от община Искър, се намира на първия етаж, в двуетажна сграда, обозначена на скицата като „2МЖБЖ“, построена в урегулиран поземлен имот №XII-492 /урегулиран поземлен имот дванадесети, отреден за имот с планоснимачен номер четиристотин деветдесет и две/, в квартал 63 /шестдесет и три/ по плана на село Староселци , при граници на УПИ по скица: УПИ XI- 491 на Веселина Атанасова Патева, Димитър Кръстев Патов и Анатоли Кръстев Патов, УПИ XIII– 495 на ЗКПУ Искър и от две страни улици. В магазина няма изградени ВиК инсталации-няма партида за захранване, не е свързан с канализационната мрежа за отпадни води, няма електричество-няма открита партида за захранване с ел.енергия. - при първоначална цена – 10 560,00 евро /десет хиляди петстотин и шестдесет евро/ Данъчната оценка на имота, е в размер на 1006.94 евро / 1969.40 лева, съгласно удостоверение на МДТ при Община Искър. Тежести за имота: Договорна ипотека том 1, акт №22/2022г., в полза на „УСТОИ“ ЕАД. Възбрана том 1, акт №164 от 2025г., по изп.дело №20258150400898 по описа на ЧСИ Т.Кирилова, съгласно удостоверение за тежести с Изх.№434/11.08.2025г. на Агенция Вписвания имотен регистър и съгласно справка в АВ имотен регистър към дата 20.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в с.Староселци, след предварителна уговорка с кантората на чси. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20258150400898 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 20.10.2026г. Частен съдебен изпълнител: ............................",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93484/416741/IMG_0373.JPG",
+      "https://sales.bcpea.org/upload/93484/416742/IMG_0368.JPG",
+      "https://sales.bcpea.org/upload/93484/416743/IMG_0369.JPG",
+      "https://sales.bcpea.org/upload/93484/416744/IMG_0370.JPG",
+      "https://sales.bcpea.org/upload/93484/416745/IMG_0371.JPG",
+      "https://sales.bcpea.org/upload/93484/416746/IMG_0372.JPG"
+    ],
+    "price_per_sqm": 109,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 10560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93483",
+    "url": "https://sales.bcpea.org/properties/93483",
+    "photo": "https://sales.bcpea.org/upload/93483/465296/1000024627.jpg?w=270&h=270",
+    "price_eur": 5600,
+    "sqm": 278,
+    "area": "Търничени",
+    "title": "Парцел, Търничени",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:59:00+00:00",
+    "category": "land",
+    "_settlement": "Търничени",
+    "lat": 42.618913,
+    "lng": 25.1138582,
+    "description": "½ (една втора) идеална част от Дворно място, цялото с площ от 555 кв. м. (петстотин петдесет и пет квадратни метра), заедно с ½ (една втора) идеална част от построените в това място: жилищна сграда и подобрения, представляващ парцел VI -248 (шести за двеста четиридесет и осем) в кв. 20 (двадесет) по плана на с. Търничени, общ. Павел баня, обл. Стара Загора, при съседи на парцела: от двете страни улици, наследниците на Стойно Г. Чорбаджийски и Христо Г. Чорбаджийски. Забележка: Имотът се намира близо до центъра на с. Търничени, на оживено и комуникативно място. От сградата е останала само рамката на входната врата на двора.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93483/465296/1000024627.jpg",
+      "https://sales.bcpea.org/upload/93483/465297/1000024628.jpg",
+      "https://sales.bcpea.org/upload/93483/465298/1000024629.jpg",
+      "https://sales.bcpea.org/upload/93483/465299/1000024630.jpg",
+      "https://sales.bcpea.org/upload/93483/465300/1000024631.jpg"
+    ],
+    "price_per_sqm": 20,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 5600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93482",
+    "url": "https://sales.bcpea.org/properties/93482",
+    "photo": "https://sales.bcpea.org/upload/93482/457625/Screenshot_20260804_152912_Viber.jpg?w=270&h=270",
+    "price_eur": 104037,
+    "sqm": 359,
+    "area": "Кнежа",
+    "title": "Склад, Кнежа",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:50:00+00:00",
+    "category": "commercial",
+    "_settlement": "Кнежа",
+    "lat": 43.4990084,
+    "lng": 24.0745138,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62761/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе първа публична продажба, приключваща в края на работното време на последния ден на следния недвижим имот собственост на ЕТ „РУМЕН ТАФРАДЖИЙСКИ“ представлявано от Румен Кубратов Тафраджийски, в качеството му на физическо лице – търговец, а именно: СГРАДА с идентификатор 37376.736.1.1 /тридесет и седем хиляди триста седемдесет и шест, точка, седемстотин тридесет и шест, точка, едно, точка, едно/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със Заповед № РД-18-1431/07.08.2018 г. на изпълнителния директор на АГКК, без данни за изменение на КККР, засягащо сградата, адрес на сградата: град Кнежа , застроена площ 359 кв.м. /триста петдесет и девет квадратни метра/, брой етажи: 1 /един/, брой самостоятелни обекти в сградата: няма данни, предназначение: селскостопанска сграда , стар идентификатор: няма, номер по предходен план: няма, като сградата е разположена в поземлен имот с идентификатор 37376.736.1 /тридесет и седем хиляди триста седемдесет и шест, точка, седемстотин тридесет и шест, точка, едно/ в град Кнежа, общ. Кнежа обл. Плевен по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18-1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Мерата“ , площ: 7432 кв.м. /седем хиляди четиристотин тридесет и два квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: за стопански двор, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 736001 /седемстотин тридесет и шест хиляди и едно/, при съседи: 37376.732.2, 37376.736.3, 37376.736.23, 37376.736.674, като сградата е описана по нотариален акт като ремонтна работилница, застроена върху 360 кв.м . и прилежаща към нея асфалтова площадка върху 3500 кв.м., находяща се в парцел първи, масив №6 по плана на град Кнежа, извън регулация на град Кнежа, в Стопански двор №6, построени върху общинска земя, при граници и съседи: №106 – местен път на Община Кнежа, парцел № 4 – празен, парцел № 3 на портал/караулно/ и парцел №2 на кантар. Ремонтната работилница е с метална конструкция, тухлени зидове и покрив с ламарина. Дограма -метални портални врати и алум иниева на битовата част. Пред сградата е изпълнена асфалтова настилка. Сграда е построена с отстъпено право на строеж върху държавна земя. - при първоначална цена – 104 036.80 евро /сто и четири хиляди и тридесет и шест евро и осемдесет евроцента/. Данъчната оценка на имота, е в размер на 3394.90 евро / 6639.85 лева, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №26/2005г., в полза на „Уникредит Булбанк“АД. Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана том 1, акт №42/2026 по ид №2190/2025г. по описа на ЧСИ В.Стоянов, в полза на НАП и Анна Евгениева Матеева; Възбрана том 1, акт №90/2026 по ид №456/2026г. по описа на ЧСИ Т.Кирилова в полза на УНИОН ТАНК ЕКЩАЙН ГМБХ & КО.КГ КОМАНДИТНО ДРУЖЕСТВО, учредено по правото на ФР Германия; Възбрана том 1, акт №123/2026 по ид №30/2026г., по описа на СИС при РС Кнежа, в полза на Гена Димитрова Руневска. Възбрана том 1, акт 147/2026 по ид №761/2026г. по описа на ЧСИ Т.Кирилова в полза на ПЛАМИНА ТРЕЙД ООД. Възбрана, вписана под том 2, акт №15 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, по описа на ЧСИ Т.Кирилова, съгласно удостоверение за тежести на АВ Имотен регистър гр.Кнежа с изх.№199/18.08.2026г. Възбрана том 2, акт 68/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова. Възбрана том 2, акт 75/2026 в полза на БАНКА ДСК АД, по ид №509/2026, на ЧСИ П.Петков, съгласно справка Имотен регистър към дата 19.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа, след предварителна уговорка с кантората на чси. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93482/457625/Screenshot_20260804_152912_Viber.jpg",
+      "https://sales.bcpea.org/upload/93482/457626/IMG-0d662c09dc93ca9244a6394c5bd79e60-V.jpg",
+      "https://sales.bcpea.org/upload/93482/457627/IMG-2a683c75c294c9da739aee3a32c77317-V.jpg",
+      "https://sales.bcpea.org/upload/93482/457628/IMG-c351612d905e0977cceaf5e31600d074-V.jpg"
+    ],
+    "price_per_sqm": 290,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 104037
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100831,7 +100948,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100863,7 +100980,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100895,7 +101012,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102555,7 +102672,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -103522,123 +103639,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93484",
-    "url": "https://sales.bcpea.org/properties/93484",
-    "photo": "https://sales.bcpea.org/upload/93484/416741/IMG_0373.JPG?w=270&h=270",
-    "price_eur": 10560,
-    "sqm": 97,
-    "area": "Староселци",
-    "title": "Магазин, Староселци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T17:04:00+00:00",
-    "category": "commercial",
-    "_settlement": "Староселци",
-    "lat": 43.5381563,
-    "lng": 24.2771628,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 898/2025г. с Изх. №  63049/ 20.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе публична продажба след определяне на нова начална цена , приключваща в края на работното време на последния ден на следния недвижим имот собственост на „ ПЛАМЕН ИВАНОВ“ 92 ЕООД , представлявано от управителя Пламен Стефанов Иванов, а именно: Втори магазин, разположен на първи етаж на западната страна на сградата, с площ от 71.40 кв.м. /седемдесет и едно цяло и четиридесет стотни квадратни метра/, ведно със склад към магазина с площ от 25.20 кв.м. /двадесет и пет цяло и двадесет стотни квадратни метра/, или общо 96,60 кв.м. /деветдесет и шест цяло и шестдесет стотни квадратни метра/, при граници и съседи: от две страни улица, отгоре „БТК“ ЕАД, отдолу избено помещение, заедно с прилежащите идеални част от дворното място, съставляващи 71,30/1860 /седемдесет и едно цяло и тридесет стотни върху хиляда осемстотин и шестдесет/ идеални части квадратни метра, съответните идеални части от общите части на сградата, който магазин е разположен в ТЪРГОВСКА АДМИНИСТРАТИВНА СГРАДА, със застроена площ от 325 кв.м. /триста двадесет и пет квадратни метра/ на два етажа, представляващи две търговски помещения на първия етаж, при съседи на парцела: Димитър Панчев Тончев, от две страни улици и парцел на АПК, разположена в дворно място, находящо се в село Староселци , Плевенска област и съставляващо парцел XII /дванадесет/, с пл. № 492 /четиристотин деветдесет и две/, в стр. кв. 63 /шестдесет и три/ по плана на с.Староселци, придобит въз основа и подробно описан в Постановление за възлагане на недвижим имот от 31.10.2019г., издадено от ЧСИ Цветозар Найденов, с рег.№756, с район на действие Окръжен съд -Плевен, след проведена публична продан по изп. дело №20087560400478, вписано в СВ – Кнежа, Акт №186, том VII, вх.рег.№2369/02.12.2019г., който магазин съгласно актуална скица №183/27.08.2025г., издадена от община Искър, се намира на първия етаж, в двуетажна сграда, обозначена на скицата като „2МЖБЖ“, построена в урегулиран поземлен имот №XII-492 /урегулиран поземлен имот дванадесети, отреден за имот с планоснимачен номер четиристотин деветдесет и две/, в квартал 63 /шестдесет и три/ по плана на село Староселци , при граници на УПИ по скица: УПИ XI- 491 на Веселина Атанасова Патева, Димитър Кръстев Патов и Анатоли Кръстев Патов, УПИ XIII– 495 на ЗКПУ Искър и от две страни улици. В магазина няма изградени ВиК инсталации-няма партида за захранване, не е свързан с канализационната мрежа за отпадни води, няма електричество-няма открита партида за захранване с ел.енергия. - при първоначална цена – 10 560,00 евро /десет хиляди петстотин и шестдесет евро/ Данъчната оценка на имота, е в размер на 1006.94 евро / 1969.40 лева, съгласно удостоверение на МДТ при Община Искър. Тежести за имота: Договорна ипотека том 1, акт №22/2022г., в полза на „УСТОИ“ ЕАД. Възбрана том 1, акт №164 от 2025г., по изп.дело №20258150400898 по описа на ЧСИ Т.Кирилова, съгласно удостоверение за тежести с Изх.№434/11.08.2025г. на Агенция Вписвания имотен регистър и съгласно справка в АВ имотен регистър към дата 20.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в с.Староселци, след предварителна уговорка с кантората на чси. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20258150400898 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 20.10.2026г. Частен съдебен изпълнител: ............................",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93484/416741/IMG_0373.JPG",
-      "https://sales.bcpea.org/upload/93484/416742/IMG_0368.JPG",
-      "https://sales.bcpea.org/upload/93484/416743/IMG_0369.JPG",
-      "https://sales.bcpea.org/upload/93484/416744/IMG_0370.JPG",
-      "https://sales.bcpea.org/upload/93484/416745/IMG_0371.JPG",
-      "https://sales.bcpea.org/upload/93484/416746/IMG_0372.JPG"
-    ],
-    "price_per_sqm": 109,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 10560
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93483",
-    "url": "https://sales.bcpea.org/properties/93483",
-    "photo": "https://sales.bcpea.org/upload/93483/465296/1000024627.jpg?w=270&h=270",
-    "price_eur": 5600,
-    "sqm": 278,
-    "area": "Търничени",
-    "title": "Парцел, Търничени",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:59:00+00:00",
-    "category": "land",
-    "_settlement": "Търничени",
-    "lat": 42.618913,
-    "lng": 25.1138582,
-    "description": "½ (една втора) идеална част от Дворно място, цялото с площ от 555 кв. м. (петстотин петдесет и пет квадратни метра), заедно с ½ (една втора) идеална част от построените в това място: жилищна сграда и подобрения, представляващ парцел VI -248 (шести за двеста четиридесет и осем) в кв. 20 (двадесет) по плана на с. Търничени, общ. Павел баня, обл. Стара Загора, при съседи на парцела: от двете страни улици, наследниците на Стойно Г. Чорбаджийски и Христо Г. Чорбаджийски. Забележка: Имотът се намира близо до центъра на с. Търничени, на оживено и комуникативно място. От сградата е останала само рамката на входната врата на двора.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93483/465296/1000024627.jpg",
-      "https://sales.bcpea.org/upload/93483/465297/1000024628.jpg",
-      "https://sales.bcpea.org/upload/93483/465298/1000024629.jpg",
-      "https://sales.bcpea.org/upload/93483/465299/1000024630.jpg",
-      "https://sales.bcpea.org/upload/93483/465300/1000024631.jpg"
-    ],
-    "price_per_sqm": 20,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 5600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93482",
-    "url": "https://sales.bcpea.org/properties/93482",
-    "photo": "https://sales.bcpea.org/upload/93482/457625/Screenshot_20260804_152912_Viber.jpg?w=270&h=270",
-    "price_eur": 104037,
-    "sqm": 359,
-    "area": "Кнежа",
-    "title": "Склад, Кнежа",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:50:00+00:00",
-    "category": "commercial",
-    "_settlement": "Кнежа",
-    "lat": 43.4990084,
-    "lng": 24.0745138,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62761/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе първа публична продажба, приключваща в края на работното време на последния ден на следния недвижим имот собственост на ЕТ „РУМЕН ТАФРАДЖИЙСКИ“ представлявано от Румен Кубратов Тафраджийски, в качеството му на физическо лице – търговец, а именно: СГРАДА с идентификатор 37376.736.1.1 /тридесет и седем хиляди триста седемдесет и шест, точка, седемстотин тридесет и шест, точка, едно, точка, едно/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със Заповед № РД-18-1431/07.08.2018 г. на изпълнителния директор на АГКК, без данни за изменение на КККР, засягащо сградата, адрес на сградата: град Кнежа , застроена площ 359 кв.м. /триста петдесет и девет квадратни метра/, брой етажи: 1 /един/, брой самостоятелни обекти в сградата: няма данни, предназначение: селскостопанска сграда , стар идентификатор: няма, номер по предходен план: няма, като сградата е разположена в поземлен имот с идентификатор 37376.736.1 /тридесет и седем хиляди триста седемдесет и шест, точка, седемстотин тридесет и шест, точка, едно/ в град Кнежа, общ. Кнежа обл. Плевен по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18-1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Мерата“ , площ: 7432 кв.м. /седем хиляди четиристотин тридесет и два квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: за стопански двор, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 736001 /седемстотин тридесет и шест хиляди и едно/, при съседи: 37376.732.2, 37376.736.3, 37376.736.23, 37376.736.674, като сградата е описана по нотариален акт като ремонтна работилница, застроена върху 360 кв.м . и прилежаща към нея асфалтова площадка върху 3500 кв.м., находяща се в парцел първи, масив №6 по плана на град Кнежа, извън регулация на град Кнежа, в Стопански двор №6, построени върху общинска земя, при граници и съседи: №106 – местен път на Община Кнежа, парцел № 4 – празен, парцел № 3 на портал/караулно/ и парцел №2 на кантар. Ремонтната работилница е с метална конструкция, тухлени зидове и покрив с ламарина. Дограма -метални портални врати и алум иниева на битовата част. Пред сградата е изпълнена асфалтова настилка. Сграда е построена с отстъпено право на строеж върху държавна земя. - при първоначална цена – 104 036.80 евро /сто и четири хиляди и тридесет и шест евро и осемдесет евроцента/. Данъчната оценка на имота, е в размер на 3394.90 евро / 6639.85 лева, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №26/2005г., в полза на „Уникредит Булбанк“АД. Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана том 1, акт №42/2026 по ид №2190/2025г. по описа на ЧСИ В.Стоянов, в полза на НАП и Анна Евгениева Матеева; Възбрана том 1, акт №90/2026 по ид №456/2026г. по описа на ЧСИ Т.Кирилова в полза на УНИОН ТАНК ЕКЩАЙН ГМБХ & КО.КГ КОМАНДИТНО ДРУЖЕСТВО, учредено по правото на ФР Германия; Възбрана том 1, акт №123/2026 по ид №30/2026г., по описа на СИС при РС Кнежа, в полза на Гена Димитрова Руневска. Възбрана том 1, акт 147/2026 по ид №761/2026г. по описа на ЧСИ Т.Кирилова в полза на ПЛАМИНА ТРЕЙД ООД. Възбрана, вписана под том 2, акт №15 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, по описа на ЧСИ Т.Кирилова, съгласно удостоверение за тежести на АВ Имотен регистър гр.Кнежа с изх.№199/18.08.2026г. Възбрана том 2, акт 68/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова. Възбрана том 2, акт 75/2026 в полза на БАНКА ДСК АД, по ид №509/2026, на ЧСИ П.Петков, съгласно справка Имотен регистър към дата 19.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа, след предварителна уговорка с кантората на чси. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93482/457625/Screenshot_20260804_152912_Viber.jpg",
-      "https://sales.bcpea.org/upload/93482/457626/IMG-0d662c09dc93ca9244a6394c5bd79e60-V.jpg",
-      "https://sales.bcpea.org/upload/93482/457627/IMG-2a683c75c294c9da739aee3a32c77317-V.jpg",
-      "https://sales.bcpea.org/upload/93482/457628/IMG-c351612d905e0977cceaf5e31600d074-V.jpg"
-    ],
-    "price_per_sqm": 290,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 104037
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93450",
     "url": "https://sales.bcpea.org/properties/93450",
     "photo": "https://sales.bcpea.org/upload/93450/465207/IMG_20260612_105501.jpg?w=270&h=270",
@@ -104320,7 +104320,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104352,7 +104352,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
