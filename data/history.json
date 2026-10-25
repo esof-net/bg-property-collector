@@ -946194,7 +946194,15 @@
       "title": "1 bedroom apartment, 72 м 2 Sofia, Levski V",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313739/main_image/thumb_1200x630_wm_main_image_6313739_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313739/images/thumb_1200x630_wm_images_6313739_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313739/images/thumb_1200x630_wm_images_6313739_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313739/images/thumb_1200x630_wm_images_6313739_4.jpg"
+      ]
     }
   },
   "6316767": {
@@ -946216,7 +946224,11 @@
       "title": "Studio/bedsit, 41 м 2 Sofia, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6315668": {
@@ -946238,7 +946250,17 @@
       "title": "1 bedroom apartment, 70 м 2 Sofia, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6315668/main_image/thumb_1200x630_wm_main_image_6315668_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315668/images/thumb_1200x630_wm_images_6315668_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315668/images/thumb_1200x630_wm_images_6315668_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315668/images/thumb_1200x630_wm_images_6315668_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315668/images/thumb_1200x630_wm_images_6315668_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315668/images/thumb_1200x630_wm_images_6315668_6.jpg"
+      ]
     }
   },
   "6316769": {
@@ -946260,7 +946282,11 @@
       "title": "Shop, 40 м 2 Sofia, Knyajevo",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316781": {
@@ -946282,7 +946308,11 @@
       "title": "Shop, 11 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316783": {
@@ -946304,7 +946334,11 @@
       "title": "Garage, 13 м 2 Bourgas, Zornitsa",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316787": {
@@ -946326,7 +946360,11 @@
       "title": "House, 42 м 2 Bourgas, Banevo",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316788": {
@@ -946348,7 +946386,18 @@
       "title": "Development land, 660 м 2 Bourgas, Gorno Ezerovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.48199119,
+      "lng": 27.37596819,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316788/main_image/thumb_1200x630_wm_main_image_6316788_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316788/images/thumb_1200x630_wm_images_6316788_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316788/images/thumb_1200x630_wm_images_6316788_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316788/images/thumb_1200x630_wm_images_6316788_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316788/images/thumb_1200x630_wm_images_6316788_5.jpg"
+      ]
     }
   },
   "6316785": {
@@ -946370,7 +946419,11 @@
       "title": "Garage, 19 м 2 Bourgas, Lazur",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316784": {
@@ -946392,7 +946445,11 @@
       "title": "Development land, 1016 м 2 Bourgas, Banevo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316777": {
@@ -946414,7 +946471,11 @@
       "title": "Development land, 260 м 2 Bourgas, Akatsiite",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316778": {
@@ -946436,7 +946497,11 @@
       "title": "Garage, 20 м 2 Ruse, Zdravets",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316766": {
@@ -946458,7 +946523,17 @@
       "title": "Studio/bedsit, 42 м 2 Shumen, Everest",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316766/main_image/thumb_1200x630_wm_main_image_6316766_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316766/images/thumb_1200x630_wm_images_6316766_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316766/images/thumb_1200x630_wm_images_6316766_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316766/images/thumb_1200x630_wm_images_6316766_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316766/images/thumb_1200x630_wm_images_6316766_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316766/images/thumb_1200x630_wm_images_6316766_6.jpg"
+      ]
     }
   },
   "6316751": {
@@ -946480,7 +946555,19 @@
       "title": "2 bedroom apartment, 89 м 2 Vidin, Alexander Stamboliyski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 43.9952784202,
+      "lng": 22.8649837835,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316751/main_image/thumb_1200x630_wm_main_image_6316751_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316751/images/thumb_1200x630_wm_images_6316751_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316751/images/thumb_1200x630_wm_images_6316751_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316751/images/thumb_1200x630_wm_images_6316751_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316751/images/thumb_1200x630_wm_images_6316751_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316751/images/thumb_1200x630_wm_images_6316751_6.jpg"
+      ]
     }
   }
 }
