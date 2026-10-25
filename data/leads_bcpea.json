@@ -90,7 +90,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 54,
+    "days_on_market": 55,
     "area_avg_price_per_sqm": 2533,
     "pct_vs_area_avg": -51.2,
     "score": 21
@@ -589,7 +589,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -55.5,
     "score": 19
@@ -1586,7 +1586,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -50.6,
     "score": 19
@@ -3389,7 +3389,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 26,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -35.2,
     "score": 16
@@ -3497,7 +3497,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -51.5,
     "score": 16
@@ -4404,7 +4404,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -36.1,
     "score": 15
@@ -6447,7 +6447,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2254,
     "pct_vs_area_avg": -24.8,
     "score": 10
@@ -6479,7 +6479,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 855,
     "pct_vs_area_avg": -23.6,
     "score": 10
@@ -7546,7 +7546,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -22.3,
     "score": 9
@@ -8178,7 +8178,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -8615,7 +8615,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9114,7 +9114,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9395,7 +9395,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9427,7 +9427,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9705,7 +9705,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10147,7 +10147,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10461,7 +10461,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10618,7 +10618,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11210,7 +11210,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11306,7 +11306,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 59,
+    "days_on_market": 60,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11545,7 +11545,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -15.3,
     "score": 8
@@ -11623,7 +11623,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 581,
     "pct_vs_area_avg": -17.9,
     "score": 8
@@ -13081,7 +13081,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -13774,7 +13774,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 53,
+    "days_on_market": 54,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -14240,7 +14240,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -14429,7 +14429,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -14900,7 +14900,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -14995,7 +14995,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -15341,7 +15341,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 50,
+    "days_on_market": 51,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -16094,7 +16094,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -16532,7 +16532,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -16941,7 +16941,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -17726,7 +17726,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -17851,7 +17851,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -14.2,
     "score": 7
@@ -17947,7 +17947,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -18825,7 +18825,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20458,7 +20458,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23135,7 +23135,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23542,7 +23542,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25570,7 +25570,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -97.9,
     "score": 6
@@ -26424,7 +26424,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27048,7 +27048,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -30539,7 +30539,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -32125,7 +32125,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -32375,7 +32375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -33087,7 +33087,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -34297,7 +34297,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -35813,7 +35813,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -37244,7 +37244,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -38417,7 +38417,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -39253,7 +39253,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -42080,7 +42080,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -43562,7 +43562,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": 204.9,
     "score": 5
@@ -43718,7 +43718,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49210,7 +49210,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -50109,7 +50109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -50669,7 +50669,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -52199,7 +52199,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -53238,7 +53238,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -57709,7 +57709,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -76.5,
     "score": 4
@@ -64038,7 +64038,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -65392,7 +65392,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72508,6 +72508,179 @@
     "score": 4
   },
   {
+    "id": "bcpea_92641",
+    "url": "https://sales.bcpea.org/properties/92641",
+    "photo": "https://sales.bcpea.org/upload/92641/461918/IMG_8451.PNG?w=270&h=270",
+    "price_eur": 9000,
+    "sqm": 750,
+    "area": "Ветрино",
+    "title": "Парцел, Ветрино",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-28T16:44:00+00:00",
+    "category": "land",
+    "_settlement": "Ветрино",
+    "lat": 43.3410065,
+    "lng": 27.3861108,
+    "description": "ДВОРНО МЯСТО, находящо се в с. Ветрино, обл. Варна, цялото от 750/седемстотин и петдесет/кв. м, при граници: улица и ПИ XIII - 457, XI - 455 и XVI - 453, съставляващо ПИ XII -456 в кв. 60 по плана на селото.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92641/461918/IMG_8451.PNG",
+      "https://sales.bcpea.org/upload/92641/461919/IMG_8452.PNG",
+      "https://sales.bcpea.org/upload/92641/461920/IMG_8454.PNG",
+      "https://sales.bcpea.org/upload/92641/461921/IMG_8455.PNG",
+      "https://sales.bcpea.org/upload/92641/461922/IMG_8456.PNG",
+      "https://sales.bcpea.org/upload/92641/461923/IMG_8457.jpg",
+      "https://sales.bcpea.org/upload/92641/461924/IMG_8458.jpg",
+      "https://sales.bcpea.org/upload/92641/461925/IMG_8460.jpg",
+      "https://sales.bcpea.org/upload/92641/461926/IMG_8461.jpg",
+      "https://sales.bcpea.org/upload/92641/461927/IMG_8462.jpg",
+      "https://sales.bcpea.org/upload/92641/461928/IMG_8463.jpg"
+    ],
+    "price_per_sqm": 12,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:10:33.888929+00:00",
+        "price_eur": 9000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92639",
+    "url": "https://sales.bcpea.org/properties/92639",
+    "photo": null,
+    "price_eur": 5186,
+    "sqm": 497,
+    "area": "Садово",
+    "title": "Земеделска земя, Садово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-28T16:07:00+00:00",
+    "category": "land",
+    "_settlement": "Садово",
+    "lat": 42.1342256,
+    "lng": 24.9374825,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 65125.43.5 /шест пет едно две пет точка четири три точка пет/ по кадастралната карта и кадастралните регистри на с. Садово,общ. Аврен, обл.Варна, одобрени със Заповед РД-18-193/24.01.2018 г. на Изпълнителен директор на АГКК с последно изменение на КККР, засягащо ПИ е от 29.01.2024г. - съгласно акт за собственост. Адрес на поземления имот: с. Садово, местност \"МАНДРА КУЛА\" с площ: 15497.00 кв. м. /петнадесет хиляди четиристотин деветдесет и седем квадратни метра/. Трайно предназначение на територията: ЗЕМЕДЕЛСКА. Начин на трайно ползване: Изоставена орна земя. Категория на земята: 10 /десета/ Номер по предходен план: 043005 /нула четири три нула нула пет/, при СЪСЕДИ: 65125.43.2, 65125.43.3, 65125.43.6, 65125.43.137, 65125.43.190",
+    "detail_checked": true,
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:10:33.888929+00:00",
+        "price_eur": 5186
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92638",
+    "url": "https://sales.bcpea.org/properties/92638",
+    "photo": null,
+    "price_eur": 2160,
+    "sqm": 325,
+    "area": "Плодовитово",
+    "title": "Земеделска земя, Плодовитово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-28T16:06:00+00:00",
+    "category": "land",
+    "_settlement": "Плодовитово",
+    "lat": 42.1751206,
+    "lng": 25.2089166,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 56811.17.11 , по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-373/07.02.2018г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, с трайно предназначение на територията: земеделска, начин на трайно ползване: НИВА , с площ от 3325 кв. м, находящ се в село Плодовитово, община Братя Даскалови, област Стара Загора, местност Ч иирите , категория на земята: трета, предишен идентификатор: няма, номер по предходен план: 017011 , при съседи: 56811.17.31, 56811.17.25, 56811.17.9, 56811.17.10",
+    "detail_checked": true,
+    "price_per_sqm": 7,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:10:33.888929+00:00",
+        "price_eur": 2160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92637",
+    "url": "https://sales.bcpea.org/properties/92637",
+    "photo": null,
+    "price_eur": 2000,
+    "sqm": 249,
+    "area": "Пшеничево",
+    "title": "Земеделска земя, Пшеничево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-28T16:02:00+00:00",
+    "category": "land",
+    "_settlement": "Пшеничево",
+    "lat": 42.3721,
+    "lng": 25.8699099,
+    "description": "½ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 58952.16.47 , по кадастралната карта и кадастралните регистри на село Пшеничево, община Стара Загора, област Стара Загора, одобрени със Заповед № РД-18-621/03.11.2017 г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с трайно предназначение на територията: земеделска, с начин на трайно ползване: НИВА, с площ от 6249 кв.м, находящ се в село Пшеничево, община Стара Загора, област Стара Загора, местност Лозята, категория на земята при неполивни условия: 4, номер по предходен план: 016047, при съседи: 58952.16.9, 58952.16.49, 58952.16.14, 58952.1697.",
+    "detail_checked": true,
+    "price_per_sqm": 8,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:10:33.888929+00:00",
+        "price_eur": 2000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92636",
+    "url": "https://sales.bcpea.org/properties/92636",
+    "photo": null,
+    "price_eur": 1856,
+    "sqm": 549,
+    "area": "Садово",
+    "title": "Земеделска земя, Садово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-28T16:00:00+00:00",
+    "category": "land",
+    "_settlement": "Садово",
+    "lat": 42.1342256,
+    "lng": 24.9374825,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 65125.42.33 /шест пет едно две пет точка четири две точка три три/ по кадастралната карта и кадастралните регистри на с. Садово,общ. Аврен, обл.Варна, одобрени със Заповед РД-18-193/24.01.2018 г. на Изпълнителен директор на АГКК. Адрес на поземления имот: с. Садово, местност \"АБА ПАНАР\" с площ: 5549.00 кв. м. /пет хиляди петстотин четиридесет и девет квадратни метра/. Трайно предназначение на територията: ЗЕМЕДЕЛСКА. Начин на трайно ползване: НИВА. Категория на земята: 10 /десета/. Номер по предходен план: 042033 /нула четири две нула три три/, при СЪСЕДИ: 65125.42.2, 65125.42.3, 65125.42.32, 65125.42.95",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:10:33.888929+00:00",
+        "price_eur": 1856
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
     "id": "bcpea_92635",
     "url": "https://sales.bcpea.org/properties/92635",
     "photo": "https://sales.bcpea.org/upload/92635/461902/Untitled.jpg?w=270&h=270",
@@ -74993,179 +75166,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92641",
-    "url": "https://sales.bcpea.org/properties/92641",
-    "photo": "https://sales.bcpea.org/upload/92641/461918/IMG_8451.PNG?w=270&h=270",
-    "price_eur": 9000,
-    "sqm": 750,
-    "area": "Ветрино",
-    "title": "Парцел, Ветрино",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-28T16:44:00+00:00",
-    "category": "land",
-    "_settlement": "Ветрино",
-    "lat": 43.3410065,
-    "lng": 27.3861108,
-    "description": "ДВОРНО МЯСТО, находящо се в с. Ветрино, обл. Варна, цялото от 750/седемстотин и петдесет/кв. м, при граници: улица и ПИ XIII - 457, XI - 455 и XVI - 453, съставляващо ПИ XII -456 в кв. 60 по плана на селото.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92641/461918/IMG_8451.PNG",
-      "https://sales.bcpea.org/upload/92641/461919/IMG_8452.PNG",
-      "https://sales.bcpea.org/upload/92641/461920/IMG_8454.PNG",
-      "https://sales.bcpea.org/upload/92641/461921/IMG_8455.PNG",
-      "https://sales.bcpea.org/upload/92641/461922/IMG_8456.PNG",
-      "https://sales.bcpea.org/upload/92641/461923/IMG_8457.jpg",
-      "https://sales.bcpea.org/upload/92641/461924/IMG_8458.jpg",
-      "https://sales.bcpea.org/upload/92641/461925/IMG_8460.jpg",
-      "https://sales.bcpea.org/upload/92641/461926/IMG_8461.jpg",
-      "https://sales.bcpea.org/upload/92641/461927/IMG_8462.jpg",
-      "https://sales.bcpea.org/upload/92641/461928/IMG_8463.jpg"
-    ],
-    "price_per_sqm": 12,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:10:33.888929+00:00",
-        "price_eur": 9000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92639",
-    "url": "https://sales.bcpea.org/properties/92639",
-    "photo": null,
-    "price_eur": 5186,
-    "sqm": 497,
-    "area": "Садово",
-    "title": "Земеделска земя, Садово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-28T16:07:00+00:00",
-    "category": "land",
-    "_settlement": "Садово",
-    "lat": 42.1342256,
-    "lng": 24.9374825,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 65125.43.5 /шест пет едно две пет точка четири три точка пет/ по кадастралната карта и кадастралните регистри на с. Садово,общ. Аврен, обл.Варна, одобрени със Заповед РД-18-193/24.01.2018 г. на Изпълнителен директор на АГКК с последно изменение на КККР, засягащо ПИ е от 29.01.2024г. - съгласно акт за собственост. Адрес на поземления имот: с. Садово, местност \"МАНДРА КУЛА\" с площ: 15497.00 кв. м. /петнадесет хиляди четиристотин деветдесет и седем квадратни метра/. Трайно предназначение на територията: ЗЕМЕДЕЛСКА. Начин на трайно ползване: Изоставена орна земя. Категория на земята: 10 /десета/ Номер по предходен план: 043005 /нула четири три нула нула пет/, при СЪСЕДИ: 65125.43.2, 65125.43.3, 65125.43.6, 65125.43.137, 65125.43.190",
-    "detail_checked": true,
-    "price_per_sqm": 10,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:10:33.888929+00:00",
-        "price_eur": 5186
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92638",
-    "url": "https://sales.bcpea.org/properties/92638",
-    "photo": null,
-    "price_eur": 2160,
-    "sqm": 325,
-    "area": "Плодовитово",
-    "title": "Земеделска земя, Плодовитово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-28T16:06:00+00:00",
-    "category": "land",
-    "_settlement": "Плодовитово",
-    "lat": 42.1751206,
-    "lng": 25.2089166,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 56811.17.11 , по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-373/07.02.2018г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, с трайно предназначение на територията: земеделска, начин на трайно ползване: НИВА , с площ от 3325 кв. м, находящ се в село Плодовитово, община Братя Даскалови, област Стара Загора, местност Ч иирите , категория на земята: трета, предишен идентификатор: няма, номер по предходен план: 017011 , при съседи: 56811.17.31, 56811.17.25, 56811.17.9, 56811.17.10",
-    "detail_checked": true,
-    "price_per_sqm": 7,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:10:33.888929+00:00",
-        "price_eur": 2160
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92637",
-    "url": "https://sales.bcpea.org/properties/92637",
-    "photo": null,
-    "price_eur": 2000,
-    "sqm": 249,
-    "area": "Пшеничево",
-    "title": "Земеделска земя, Пшеничево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-28T16:02:00+00:00",
-    "category": "land",
-    "_settlement": "Пшеничево",
-    "lat": 42.3721,
-    "lng": 25.8699099,
-    "description": "½ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 58952.16.47 , по кадастралната карта и кадастралните регистри на село Пшеничево, община Стара Загора, област Стара Загора, одобрени със Заповед № РД-18-621/03.11.2017 г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с трайно предназначение на територията: земеделска, с начин на трайно ползване: НИВА, с площ от 6249 кв.м, находящ се в село Пшеничево, община Стара Загора, област Стара Загора, местност Лозята, категория на земята при неполивни условия: 4, номер по предходен план: 016047, при съседи: 58952.16.9, 58952.16.49, 58952.16.14, 58952.1697.",
-    "detail_checked": true,
-    "price_per_sqm": 8,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:10:33.888929+00:00",
-        "price_eur": 2000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92636",
-    "url": "https://sales.bcpea.org/properties/92636",
-    "photo": null,
-    "price_eur": 1856,
-    "sqm": 549,
-    "area": "Садово",
-    "title": "Земеделска земя, Садово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-28T16:00:00+00:00",
-    "category": "land",
-    "_settlement": "Садово",
-    "lat": 42.1342256,
-    "lng": 24.9374825,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 65125.42.33 /шест пет едно две пет точка четири две точка три три/ по кадастралната карта и кадастралните регистри на с. Садово,общ. Аврен, обл.Варна, одобрени със Заповед РД-18-193/24.01.2018 г. на Изпълнителен директор на АГКК. Адрес на поземления имот: с. Садово, местност \"АБА ПАНАР\" с площ: 5549.00 кв. м. /пет хиляди петстотин четиридесет и девет квадратни метра/. Трайно предназначение на територията: ЗЕМЕДЕЛСКА. Начин на трайно ползване: НИВА. Категория на земята: 10 /десета/. Номер по предходен план: 042033 /нула четири две нула три три/, при СЪСЕДИ: 65125.42.2, 65125.42.3, 65125.42.32, 65125.42.95",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:10:33.888929+00:00",
-        "price_eur": 1856
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
     "id": "bcpea_92611",
     "url": "https://sales.bcpea.org/properties/92611",
     "photo": "https://sales.bcpea.org/upload/92611/461807/20250910_110041.jpg?w=270&h=270",
@@ -75528,7 +75528,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75560,7 +75560,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75592,7 +75592,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75624,7 +75624,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -98.5,
     "score": 3
@@ -75656,7 +75656,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -95.8,
     "score": 3
@@ -75688,7 +75688,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -97.2,
     "score": 3
@@ -75720,7 +75720,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -98.8,
     "score": 3
@@ -75755,7 +75755,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -75798,7 +75798,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -84.1,
     "score": 3
@@ -76501,7 +76501,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76533,7 +76533,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76565,7 +76565,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76597,7 +76597,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76629,7 +76629,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76661,7 +76661,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76693,7 +76693,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76725,7 +76725,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76757,7 +76757,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76789,7 +76789,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76821,7 +76821,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -76853,7 +76853,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -79.1,
     "score": 3
@@ -77460,7 +77460,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 6258,
     "pct_vs_area_avg": -91.3,
     "score": 3
@@ -77508,7 +77508,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 6258,
     "pct_vs_area_avg": -86.5,
     "score": 3
@@ -77569,7 +77569,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 2533,
     "pct_vs_area_avg": -69.8,
     "score": 3
@@ -77601,7 +77601,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -77637,7 +77637,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": -67.7,
     "score": 3
@@ -77669,7 +77669,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78566,7 +78566,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78598,7 +78598,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78629,7 +78629,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78660,7 +78660,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80025,6 +80025,256 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 23,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92819",
+    "url": "https://sales.bcpea.org/properties/92819",
+    "photo": null,
+    "price_eur": 49680,
+    "sqm": 500,
+    "area": "Неофит Рилски",
+    "title": "Парцел, Неофит Рилски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:46:00+00:00",
+    "category": "land",
+    "_settlement": "Неофит Рилски",
+    "lat": 43.2748215,
+    "lng": 27.5172072,
+    "description": "ДВОРНО МЯСТО находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 500 кв.м. /хиляда и петстотин квадратни метра/, съставляващо поземлен имот пл.№ 457 /четири петдесет и седем/, в кв. 44 /четиридесет и четири квадратни метра/ по плана на селото, при граници: улица, поземлени имоти пл. № 458, пл.№ 459 и III - 456, от което дворно място в урегулиран поземлен имот IV - 457 в същия квартал са включени 848 / осемстотин четиридесет и осем / кв.м., ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 100 кв.м./сто квадратни метра/ и НАВЕС без оградни стени с площ от 50 кв.м. /петдесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ.",
+    "detail_checked": true,
+    "price_per_sqm": 99,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 49680
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92818",
+    "url": "https://sales.bcpea.org/properties/92818",
+    "photo": "https://sales.bcpea.org/upload/92818/440814/IMG-f63615c68dc48a54af3c87fd8346dbdd-V.jpg?w=270&h=270",
+    "price_eur": 12000,
+    "sqm": 109,
+    "area": "Крамолин",
+    "title": "Къща, Крамолин",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:32:00+00:00",
+    "category": "house",
+    "_settlement": "Крамолин",
+    "lat": 43.13809,
+    "lng": 25.07653,
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92818/440814/IMG-f63615c68dc48a54af3c87fd8346dbdd-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440810/IMG-0bd70ae8ea9729d7ddbd16892521c44f-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440816/IMG-ffde8e695eed30980526c301b95e676c-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440811/IMG-86114191ce16431cbabf88c48b7ef547-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440812/IMG-b2a01c6bd962af9458284305fa4b448e-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440813/IMG-ec0037f254602f9ab4f7766e7f5f9959-V.jpg",
+      "https://sales.bcpea.org/upload/92818/440815/IMG-f952904d263d45371cb49499a5ac3627-V.jpg"
+    ],
+    "price_per_sqm": 110,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 12000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92817",
+    "url": "https://sales.bcpea.org/properties/92817",
+    "photo": "https://sales.bcpea.org/upload/92817/429998/IMG-9f1e926563ac8cbf4f22317cbb79b9dc-V.jpg?w=270&h=270",
+    "price_eur": 45000,
+    "sqm": 54,
+    "area": "Богатово",
+    "title": "Къща, Богатово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:30:00+00:00",
+    "category": "house",
+    "_settlement": "Богатово",
+    "lat": 43.0285343,
+    "lng": 25.1581468,
+    "description": "ЖИЛИЩНА ЕДНОЕТАЖНА СГРАДА СЪСТОЯЩА СЕ ОТ ТРИ СТАИ СЪС ЗП 54КВ.М. ЦЯЛАТА НА МАЗА. ЛЯТНА КУХНЯ СЪС ЗП 20КВ.М. СТОПАНСКА СГРАДА НА ЕДИН ЕТАЖ СЪС ЗП 60КВ.М ГЕРАН С ХИДРОФОР.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92817/429998/IMG-9f1e926563ac8cbf4f22317cbb79b9dc-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429996/IMG-7bd7dfa4908dc926965999bab7853b5e-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429999/IMG-40d6c03039256161871cf25bcc02188f-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430002/IMG-172db3f16a68ddf2e8d813e86974dcfe-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430009/IMG-f95eb2300c257262ecaa6d790570e6d5-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429992/IMG-4b23f160932fdf1cfb41041f7bcd13a9-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430003/IMG-738bb9c9d407e221cfa24ecd4047c46e-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429993/IMG-5dbdcc9c34e124e0696467ba25fe65a1-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429994/IMG-6af731773373f64d76591ec0c67efc8b-V.jpg",
+      "https://sales.bcpea.org/upload/92817/429995/IMG-07d48c964340dc0dabb679fc52f143b4-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430004/IMG-8145fe478b0b6cd544c19ea1d565b599-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430006/IMG-e733cc66f8f1325b67945b589ff11b06-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430011/IMG-fd9d750f3a2253381977f988ca462af4-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430007/IMG-ed45079ef56b6d6b3cbf7d65a437be40-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430010/IMG-f5660c2e0d1c0bf82041ea117ba475de-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430005/IMG-ad7c6a18972dc971a7bc2e46ea514043-V.jpg",
+      "https://sales.bcpea.org/upload/92817/430008/IMG-f7e78a704dfe8424cf5a6c52a9818a66-V.jpg"
+    ],
+    "price_per_sqm": 833,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 45000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92816",
+    "url": "https://sales.bcpea.org/properties/92816",
+    "photo": null,
+    "price_eur": 2202,
+    "sqm": 173,
+    "area": "Добромирка",
+    "title": "Парцел, Добромирка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:28:00+00:00",
+    "category": "land",
+    "_settlement": "Добромирка",
+    "lat": 43.08024,
+    "lng": 25.25841,
+    "detail_checked": true,
+    "price_per_sqm": 13,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 2202
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92815",
+    "url": "https://sales.bcpea.org/properties/92815",
+    "photo": null,
+    "price_eur": 6600,
+    "sqm": 0,
+    "area": "Калипетрово",
+    "title": "Парцел, Калипетрово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:15:00+00:00",
+    "category": "land",
+    "_settlement": "Калипетрово",
+    "lat": 44.0794,
+    "lng": 27.23676,
+    "description": "- 1000 кв.м. /хиляда квадратни метра / от 2606 кв.м /две хиляди шестстотин и шест квадратни метра/ идеални части от ПОЗЕМЛЕН ИМОТ с идентификатор 41143.500.130 /четири едно едно четири три точка пет нула нула точка едно три нула/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 2606 кв.м. /две хиляди шестстотин и шест квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.301.1, 41143.208.537, 41143.500.2043, 41143.500.2201, 41143.500.128, 41143.500.129.",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 6600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92814",
+    "url": "https://sales.bcpea.org/properties/92814",
+    "photo": null,
+    "price_eur": 6992,
+    "sqm": 993,
+    "area": "Калипетрово",
+    "title": "Парцел, Калипетрово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:13:00+00:00",
+    "category": "land",
+    "_settlement": "Калипетрово",
+    "lat": 44.0794,
+    "lng": 27.23676,
+    "description": "- П оземлен имот с идентификатор 41143.500.129 /четири едно едно четири три точка пет нула нула точка едно две девет/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 993 кв.м. /деветстотин деветдесет и три квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Незастроен имот за жилищни нужди; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.500.2201, 41143.500.128, 41143.500.130.",
+    "detail_checked": true,
+    "price_per_sqm": 7,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 6992
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92813",
+    "url": "https://sales.bcpea.org/properties/92813",
+    "photo": null,
+    "price_eur": 2520,
+    "sqm": 382,
+    "area": "Калипетрово",
+    "title": "Парцел, Калипетрово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T16:12:00+00:00",
+    "category": "land",
+    "_settlement": "Калипетрово",
+    "lat": 44.0794,
+    "lng": 27.23676,
+    "description": "- Поземлен имот с идентификатор 41143.500.128 /четири едно едно четири три точка пет нула нула точка едно две осем/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 382 кв.м. /триста осемдесет и два квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Незастроен имот за жилищни нужди; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.208.537, 41143.500.2201, 41143.500.130, 41143.500.129.",
+    "detail_checked": true,
+    "price_per_sqm": 7,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 2520
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81831,256 +82081,6 @@
     "score": 2
   },
   {
-    "id": "bcpea_92819",
-    "url": "https://sales.bcpea.org/properties/92819",
-    "photo": null,
-    "price_eur": 49680,
-    "sqm": 500,
-    "area": "Неофит Рилски",
-    "title": "Парцел, Неофит Рилски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:46:00+00:00",
-    "category": "land",
-    "_settlement": "Неофит Рилски",
-    "lat": 43.2748215,
-    "lng": 27.5172072,
-    "description": "ДВОРНО МЯСТО находящо се в с. Неофит Рилски, общ. Ветрино, обл. Варна, цялото с площ от 1 500 кв.м. /хиляда и петстотин квадратни метра/, съставляващо поземлен имот пл.№ 457 /четири петдесет и седем/, в кв. 44 /четиридесет и четири квадратни метра/ по плана на селото, при граници: улица, поземлени имоти пл. № 458, пл.№ 459 и III - 456, от което дворно място в урегулиран поземлен имот IV - 457 в същия квартал са включени 848 / осемстотин четиридесет и осем / кв.м., ВЕДНО с построените в това дворно място ЖИЛИЩНА СГРАДА с площ от 100 кв.м./сто квадратни метра/ и НАВЕС без оградни стени с площ от 50 кв.м. /петдесет квадратни метра/. ЗАБЕЛЕЖКА: Сградите, описани в акта за собственост СА СЪБОРЕНИ.",
-    "detail_checked": true,
-    "price_per_sqm": 99,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 49680
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92818",
-    "url": "https://sales.bcpea.org/properties/92818",
-    "photo": "https://sales.bcpea.org/upload/92818/440814/IMG-f63615c68dc48a54af3c87fd8346dbdd-V.jpg?w=270&h=270",
-    "price_eur": 12000,
-    "sqm": 109,
-    "area": "Крамолин",
-    "title": "Къща, Крамолин",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:32:00+00:00",
-    "category": "house",
-    "_settlement": "Крамолин",
-    "lat": 43.13809,
-    "lng": 25.07653,
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92818/440814/IMG-f63615c68dc48a54af3c87fd8346dbdd-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440810/IMG-0bd70ae8ea9729d7ddbd16892521c44f-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440816/IMG-ffde8e695eed30980526c301b95e676c-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440811/IMG-86114191ce16431cbabf88c48b7ef547-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440812/IMG-b2a01c6bd962af9458284305fa4b448e-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440813/IMG-ec0037f254602f9ab4f7766e7f5f9959-V.jpg",
-      "https://sales.bcpea.org/upload/92818/440815/IMG-f952904d263d45371cb49499a5ac3627-V.jpg"
-    ],
-    "price_per_sqm": 110,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 12000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92817",
-    "url": "https://sales.bcpea.org/properties/92817",
-    "photo": "https://sales.bcpea.org/upload/92817/429998/IMG-9f1e926563ac8cbf4f22317cbb79b9dc-V.jpg?w=270&h=270",
-    "price_eur": 45000,
-    "sqm": 54,
-    "area": "Богатово",
-    "title": "Къща, Богатово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:30:00+00:00",
-    "category": "house",
-    "_settlement": "Богатово",
-    "lat": 43.0285343,
-    "lng": 25.1581468,
-    "description": "ЖИЛИЩНА ЕДНОЕТАЖНА СГРАДА СЪСТОЯЩА СЕ ОТ ТРИ СТАИ СЪС ЗП 54КВ.М. ЦЯЛАТА НА МАЗА. ЛЯТНА КУХНЯ СЪС ЗП 20КВ.М. СТОПАНСКА СГРАДА НА ЕДИН ЕТАЖ СЪС ЗП 60КВ.М ГЕРАН С ХИДРОФОР.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92817/429998/IMG-9f1e926563ac8cbf4f22317cbb79b9dc-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429996/IMG-7bd7dfa4908dc926965999bab7853b5e-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429999/IMG-40d6c03039256161871cf25bcc02188f-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430002/IMG-172db3f16a68ddf2e8d813e86974dcfe-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430009/IMG-f95eb2300c257262ecaa6d790570e6d5-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429992/IMG-4b23f160932fdf1cfb41041f7bcd13a9-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430003/IMG-738bb9c9d407e221cfa24ecd4047c46e-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429993/IMG-5dbdcc9c34e124e0696467ba25fe65a1-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429994/IMG-6af731773373f64d76591ec0c67efc8b-V.jpg",
-      "https://sales.bcpea.org/upload/92817/429995/IMG-07d48c964340dc0dabb679fc52f143b4-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430004/IMG-8145fe478b0b6cd544c19ea1d565b599-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430006/IMG-e733cc66f8f1325b67945b589ff11b06-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430011/IMG-fd9d750f3a2253381977f988ca462af4-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430007/IMG-ed45079ef56b6d6b3cbf7d65a437be40-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430010/IMG-f5660c2e0d1c0bf82041ea117ba475de-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430005/IMG-ad7c6a18972dc971a7bc2e46ea514043-V.jpg",
-      "https://sales.bcpea.org/upload/92817/430008/IMG-f7e78a704dfe8424cf5a6c52a9818a66-V.jpg"
-    ],
-    "price_per_sqm": 833,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 45000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92816",
-    "url": "https://sales.bcpea.org/properties/92816",
-    "photo": null,
-    "price_eur": 2202,
-    "sqm": 173,
-    "area": "Добромирка",
-    "title": "Парцел, Добромирка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:28:00+00:00",
-    "category": "land",
-    "_settlement": "Добромирка",
-    "lat": 43.08024,
-    "lng": 25.25841,
-    "detail_checked": true,
-    "price_per_sqm": 13,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 2202
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92815",
-    "url": "https://sales.bcpea.org/properties/92815",
-    "photo": null,
-    "price_eur": 6600,
-    "sqm": 0,
-    "area": "Калипетрово",
-    "title": "Парцел, Калипетрово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:15:00+00:00",
-    "category": "land",
-    "_settlement": "Калипетрово",
-    "lat": 44.0794,
-    "lng": 27.23676,
-    "description": "- 1000 кв.м. /хиляда квадратни метра / от 2606 кв.м /две хиляди шестстотин и шест квадратни метра/ идеални части от ПОЗЕМЛЕН ИМОТ с идентификатор 41143.500.130 /четири едно едно четири три точка пет нула нула точка едно три нула/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 2606 кв.м. /две хиляди шестстотин и шест квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско застрояване; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.301.1, 41143.208.537, 41143.500.2043, 41143.500.2201, 41143.500.128, 41143.500.129.",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 6600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92814",
-    "url": "https://sales.bcpea.org/properties/92814",
-    "photo": null,
-    "price_eur": 6992,
-    "sqm": 993,
-    "area": "Калипетрово",
-    "title": "Парцел, Калипетрово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:13:00+00:00",
-    "category": "land",
-    "_settlement": "Калипетрово",
-    "lat": 44.0794,
-    "lng": 27.23676,
-    "description": "- П оземлен имот с идентификатор 41143.500.129 /четири едно едно четири три точка пет нула нула точка едно две девет/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 993 кв.м. /деветстотин деветдесет и три квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Незастроен имот за жилищни нужди; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.500.2201, 41143.500.128, 41143.500.130.",
-    "detail_checked": true,
-    "price_per_sqm": 7,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 6992
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92813",
-    "url": "https://sales.bcpea.org/properties/92813",
-    "photo": null,
-    "price_eur": 2520,
-    "sqm": 382,
-    "area": "Калипетрово",
-    "title": "Парцел, Калипетрово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T16:12:00+00:00",
-    "category": "land",
-    "_settlement": "Калипетрово",
-    "lat": 44.0794,
-    "lng": 27.23676,
-    "description": "- Поземлен имот с идентификатор 41143.500.128 /четири едно едно четири три точка пет нула нула точка едно две осем/, находящ се в с. Калипетрово, общ. Силистра, обл. Силистра, с площ 382 кв.м. /триста осемдесет и два квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Незастроен имот за жилищни нужди; Предишен идентификатор: няма; Номер по предходен план: квартал: 102; Съседи на поземления имот: 41143.208.537, 41143.500.2201, 41143.500.130, 41143.500.129.",
-    "detail_checked": true,
-    "price_per_sqm": 7,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 2520
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
     "id": "bcpea_92803",
     "url": "https://sales.bcpea.org/properties/92803",
     "photo": "https://sales.bcpea.org/upload/92803/462543/1.jpg?w=270&h=270",
@@ -82776,7 +82776,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82808,7 +82808,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82840,7 +82840,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82872,7 +82872,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82904,7 +82904,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82936,7 +82936,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -82968,7 +82968,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -83000,7 +83000,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -83032,7 +83032,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84262,7 +84262,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84293,7 +84293,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84325,7 +84325,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84357,7 +84357,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84389,7 +84389,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84425,7 +84425,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84464,7 +84464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84500,7 +84500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85859,7 +85859,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85891,7 +85891,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85923,7 +85923,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -85988,7 +85988,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 855,
     "pct_vs_area_avg": 25.9,
     "score": 2
@@ -86026,7 +86026,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86072,7 +86072,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86107,7 +86107,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86142,7 +86142,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -98.7,
     "score": 2
@@ -86177,7 +86177,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86235,7 +86235,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 855,
     "pct_vs_area_avg": 120.2,
     "score": 2
@@ -87753,7 +87753,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87785,7 +87785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87817,7 +87817,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87854,7 +87854,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87886,7 +87886,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87918,7 +87918,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89806,7 +89806,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89842,7 +89842,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89878,7 +89878,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89915,7 +89915,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91330,6 +91330,122 @@
     "score": 2
   },
   {
+    "id": "bcpea_93153",
+    "url": "https://sales.bcpea.org/properties/93153",
+    "photo": "https://sales.bcpea.org/upload/93153/464116/snimka_15.jpg?w=270&h=270",
+    "price_eur": 208040,
+    "sqm": 144,
+    "area": "Разлог",
+    "title": "Мезонет, Разлог",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-13T15:53:00+00:00",
+    "category": "apartment",
+    "_settlement": "Разлог",
+    "lat": 41.8861079,
+    "lng": 23.4661521,
+    "description": "Самостоятелен обект в сграда с идентификатор 61813.559.15.2.50 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет/ по кадастралната карта и кадастралните регистри на гр. Разлог, община Разлог, обл. Благоевград , одобрени със Заповед № РД-18-33 от 15.05.2006г . на Изпълнителния директор на Агенция по кадастъра, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 23.03.2023г. , с адрес на имота: гр. Разлог, п.к. 2760, м. „Църнако“, вход „Б“ (буква „б“), етаж 4 (четвърти), апартамент 23 (двадесет и трети), самостоятелният обект се намира на етаж 4 (четвърти) в сграда с идентификатор 61813.559.15.2 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две/, с предназначение на сградата: апартаментен хотел, сградата е разположена в поземлен имот с идентификатор 61813.559.15 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет/ с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграра, или в сграда със смесено предназначение, брой нива на обекта: 2 (две) нива с посочена в документа площ: 120.20 кв.м . (сто и двадесет цяло и двадесет стотни квадратни метра), прилежащи части: съответните идеални части от общите части на сградата, равняващи се на 23.42 кв.м . (двадесет и три цяло и четиридесет и две стотни квадратни мета), или с обща площ 143.62 кв.м. (сто четиридесет и три цяло и шестдесет идве стотни квадратни метра), и съответните идеални части от правото на строеж върху поземления имот, при съседни самостоятелни обекти в сградата, съгласно кадастрална схема № 15-315931 от 23.03.2023г., издадена от СГКК – Благоевград ; на ниво 1 (едно) на същия етаж – обекти с идентификатор 61813.559.15.2.49 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и девет/ и 61813.559.15.2.51 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет и едно/, под обекта – обект с идентификатор 61813.559.15.2.44 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и четири/, над обекта – няма, на ниво 2 /две/ на същия етаж – обекти с идентификатори 61813.559.15.2.49 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и девет/ и 61813.559.15.2.52 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет и две /, под обекта – няма, над обекта – няма",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93153/464116/snimka_15.jpg",
+      "https://sales.bcpea.org/upload/93153/464117/snimka_16.jpg",
+      "https://sales.bcpea.org/upload/93153/464118/snimka_20.jpg",
+      "https://sales.bcpea.org/upload/93153/464119/snimka_21.jpg",
+      "https://sales.bcpea.org/upload/93153/464120/snimka_22.jpg",
+      "https://sales.bcpea.org/upload/93153/464121/snimka_23.jpg",
+      "https://sales.bcpea.org/upload/93153/464122/snimka_24.jpg",
+      "https://sales.bcpea.org/upload/93153/464123/snimka_25.jpg",
+      "https://sales.bcpea.org/upload/93153/464124/snimka_26.jpg",
+      "https://sales.bcpea.org/upload/93153/464125/snimka_27.jpg",
+      "https://sales.bcpea.org/upload/93153/464126/snimka_28.jpg",
+      "https://sales.bcpea.org/upload/93153/464127/snimka_29.jpg",
+      "https://sales.bcpea.org/upload/93153/464128/snimka_30.jpg",
+      "https://sales.bcpea.org/upload/93153/464129/03.jpg",
+      "https://sales.bcpea.org/upload/93153/464130/05.png",
+      "https://b.tile.openstreetmap.org/18/148116/97456.png",
+      "https://c.tile.openstreetmap.org/18/148117/97456.png",
+      "https://a.tile.openstreetmap.org/18/148116/97455.png",
+      "https://b.tile.openstreetmap.org/18/148117/97455.png",
+      "https://c.tile.openstreetmap.org/18/148116/97457.png",
+      "https://a.tile.openstreetmap.org/18/148117/97457.png",
+      "https://a.tile.openstreetmap.org/18/148115/97456.png",
+      "https://a.tile.openstreetmap.org/18/148118/97456.png",
+      "https://c.tile.openstreetmap.org/18/148115/97455.png",
+      "https://c.tile.openstreetmap.org/18/148118/97455.png",
+      "https://b.tile.openstreetmap.org/18/148115/97457.png",
+      "https://b.tile.openstreetmap.org/18/148118/97457.png"
+    ],
+    "price_per_sqm": 1445,
+    "price_history": [
+      {
+        "date": "2026-10-13T16:04:27.453684+00:00",
+        "price_eur": 208040
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93152",
+    "url": "https://sales.bcpea.org/properties/93152",
+    "photo": "https://sales.bcpea.org/upload/93152/464105/snimka_01.jpg?w=270&h=270",
+    "price_eur": 121200,
+    "sqm": 81,
+    "area": "Разлог",
+    "title": "Двустаен апартамент, Разлог",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-13T15:48:00+00:00",
+    "category": "apartment",
+    "_settlement": "Разлог",
+    "lat": 41.8861079,
+    "lng": 23.4661521,
+    "description": "Самостоятелен обект в сграда с идентификатор 61813.559.15.3.48 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и осем/ по кадастралната карта и кадастралните регистри на град Разлог, община Разлог, област Благоевград, одобрени със Заповед № РД-18-33 от 15.05.2006г. на Изпълнителния директор на АК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект от 29.05.2023г., с адрес на имота: гр. Разлог, „Църнако“, бл. 3 (три), вход б (латинска буква „Бе“), ет. 5 (пет), ап. 26 (двадесет и шест) ; с предназначение на самостоятелния обект: ЖИЛИЩЕ, АПАРТАМЕНТ – в жилищна или вилна сграда, или в сграда със смесено предназначение ; брой нива на обекта: 1 (едно) ниво ; със застроена площ от 68.70 кв.м . /шестдесет и осем цяло и седемдесет стотни квадратни метра/, заедно с приспадащите се на обекта 0.007% /нула цяло и седем хилядни процента/ идеални части от общите части на сградата и от правото на строеж върху поземления имот, върху който е построена сградата, равняващи се на 12,37 кв.м. /дванадесет цяло и тридесет и седем стотни квадратни метра/, или с обща площ от 81.07 кв.м . /осемдесет и едно цяло и седем стотни квадратни метра/, при съседни самостоятелни обекти съгласно Схема № 15-1070889-09.10.2023г., издадена от Началника на СГКК – Благоевград; на същия етаж: самостоятелен обект с идентификатор 61813.559.15.3.45 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и пет/ и самостоятелен обект с идентификатор 61813.559.15.3.44 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и четири/; под обекта : самостоятелен обект с идентификатор 61813.559.15.3.43 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и три/ и самостоятелен обект с идентификатор 61813.559.15.3.46 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и шест/; над обекта : няма; самостоятелният обект се намира на етаж 5 (пет) в сграда с идентификатор 61813.559.15.3 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три/ с предназначение на сградата: Друг вид сграда за обитаване: сградата е разположена в поземлен имот с идентификатор 61813.559.15 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет/, стар идентификатор: няма; който самостоятелен обект, съгласно документ за собственост представлява: АПАРТАМЕНТ № 26 /двадесет и шест/, находящ се в квартал „Пирин 1“, блок 3 (три), вход В (латинска буква „Бе“), етаж 5 (пет) – подпокривен, който апартамент се състои от: дневна с кухненски бокс, спалня, баня с тоалетна и две тераси; при съседи по архитектурен проект; етаж 2 на мезонет № 22 /двадесет и две/, етаж 2 на мезонет № 23 /двадесет и три/, коридор, стълбище и от две страни алеи, ведно със съответната идеална част от правото на строеж върху поземления имот, върху който е построена сградат а",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93152/464105/snimka_01.jpg",
+      "https://sales.bcpea.org/upload/93152/464107/snimka_08.jpg",
+      "https://sales.bcpea.org/upload/93152/464108/snimka_09.jpg",
+      "https://sales.bcpea.org/upload/93152/464109/snimka_10.jpg",
+      "https://sales.bcpea.org/upload/93152/464110/snimka_12.jpg",
+      "https://sales.bcpea.org/upload/93152/464111/snimka_13.jpg",
+      "https://sales.bcpea.org/upload/93152/464112/snimka_14.jpg",
+      "https://sales.bcpea.org/upload/93152/464113/03.jpg",
+      "https://sales.bcpea.org/upload/93152/464114/04.png",
+      "https://b.tile.openstreetmap.org/18/148116/97456.png",
+      "https://c.tile.openstreetmap.org/18/148117/97456.png",
+      "https://a.tile.openstreetmap.org/18/148116/97455.png",
+      "https://b.tile.openstreetmap.org/18/148117/97455.png",
+      "https://c.tile.openstreetmap.org/18/148116/97457.png",
+      "https://a.tile.openstreetmap.org/18/148117/97457.png",
+      "https://a.tile.openstreetmap.org/18/148115/97456.png",
+      "https://a.tile.openstreetmap.org/18/148118/97456.png",
+      "https://c.tile.openstreetmap.org/18/148115/97455.png",
+      "https://c.tile.openstreetmap.org/18/148118/97455.png",
+      "https://b.tile.openstreetmap.org/18/148115/97457.png",
+      "https://b.tile.openstreetmap.org/18/148118/97457.png"
+    ],
+    "price_per_sqm": 1496,
+    "price_history": [
+      {
+        "date": "2026-10-13T16:04:27.453684+00:00",
+        "price_eur": 121200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93151",
     "url": "https://sales.bcpea.org/properties/93151",
     "photo": "https://sales.bcpea.org/upload/93151/464090/viber_image_2026-09-13_15-43-07-773.jpg?w=270&h=270",
@@ -92413,7 +92529,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": 5.3,
     "score": 1
@@ -92445,125 +92561,9 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": 37.1,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93153",
-    "url": "https://sales.bcpea.org/properties/93153",
-    "photo": "https://sales.bcpea.org/upload/93153/464116/snimka_15.jpg?w=270&h=270",
-    "price_eur": 208040,
-    "sqm": 144,
-    "area": "Разлог",
-    "title": "Мезонет, Разлог",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-13T15:53:00+00:00",
-    "category": "apartment",
-    "_settlement": "Разлог",
-    "lat": 41.8861079,
-    "lng": 23.4661521,
-    "description": "Самостоятелен обект в сграда с идентификатор 61813.559.15.2.50 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет/ по кадастралната карта и кадастралните регистри на гр. Разлог, община Разлог, обл. Благоевград , одобрени със Заповед № РД-18-33 от 15.05.2006г . на Изпълнителния директор на Агенция по кадастъра, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 23.03.2023г. , с адрес на имота: гр. Разлог, п.к. 2760, м. „Църнако“, вход „Б“ (буква „б“), етаж 4 (четвърти), апартамент 23 (двадесет и трети), самостоятелният обект се намира на етаж 4 (четвърти) в сграда с идентификатор 61813.559.15.2 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две/, с предназначение на сградата: апартаментен хотел, сградата е разположена в поземлен имот с идентификатор 61813.559.15 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет/ с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграра, или в сграда със смесено предназначение, брой нива на обекта: 2 (две) нива с посочена в документа площ: 120.20 кв.м . (сто и двадесет цяло и двадесет стотни квадратни метра), прилежащи части: съответните идеални части от общите части на сградата, равняващи се на 23.42 кв.м . (двадесет и три цяло и четиридесет и две стотни квадратни мета), или с обща площ 143.62 кв.м. (сто четиридесет и три цяло и шестдесет идве стотни квадратни метра), и съответните идеални части от правото на строеж върху поземления имот, при съседни самостоятелни обекти в сградата, съгласно кадастрална схема № 15-315931 от 23.03.2023г., издадена от СГКК – Благоевград ; на ниво 1 (едно) на същия етаж – обекти с идентификатор 61813.559.15.2.49 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и девет/ и 61813.559.15.2.51 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет и едно/, под обекта – обект с идентификатор 61813.559.15.2.44 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и четири/, над обекта – няма, на ниво 2 /две/ на същия етаж – обекти с идентификатори 61813.559.15.2.49 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, четиридесет и девет/ и 61813.559.15.2.52 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, две, точка, петдесет и две /, под обекта – няма, над обекта – няма",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93153/464116/snimka_15.jpg",
-      "https://sales.bcpea.org/upload/93153/464117/snimka_16.jpg",
-      "https://sales.bcpea.org/upload/93153/464118/snimka_20.jpg",
-      "https://sales.bcpea.org/upload/93153/464119/snimka_21.jpg",
-      "https://sales.bcpea.org/upload/93153/464120/snimka_22.jpg",
-      "https://sales.bcpea.org/upload/93153/464121/snimka_23.jpg",
-      "https://sales.bcpea.org/upload/93153/464122/snimka_24.jpg",
-      "https://sales.bcpea.org/upload/93153/464123/snimka_25.jpg",
-      "https://sales.bcpea.org/upload/93153/464124/snimka_26.jpg",
-      "https://sales.bcpea.org/upload/93153/464125/snimka_27.jpg",
-      "https://sales.bcpea.org/upload/93153/464126/snimka_28.jpg",
-      "https://sales.bcpea.org/upload/93153/464127/snimka_29.jpg",
-      "https://sales.bcpea.org/upload/93153/464128/snimka_30.jpg",
-      "https://sales.bcpea.org/upload/93153/464129/03.jpg",
-      "https://sales.bcpea.org/upload/93153/464130/05.png",
-      "https://b.tile.openstreetmap.org/18/148116/97456.png",
-      "https://c.tile.openstreetmap.org/18/148117/97456.png",
-      "https://a.tile.openstreetmap.org/18/148116/97455.png",
-      "https://b.tile.openstreetmap.org/18/148117/97455.png",
-      "https://c.tile.openstreetmap.org/18/148116/97457.png",
-      "https://a.tile.openstreetmap.org/18/148117/97457.png",
-      "https://a.tile.openstreetmap.org/18/148115/97456.png",
-      "https://a.tile.openstreetmap.org/18/148118/97456.png",
-      "https://c.tile.openstreetmap.org/18/148115/97455.png",
-      "https://c.tile.openstreetmap.org/18/148118/97455.png",
-      "https://b.tile.openstreetmap.org/18/148115/97457.png",
-      "https://b.tile.openstreetmap.org/18/148118/97457.png"
-    ],
-    "price_per_sqm": 1445,
-    "price_history": [
-      {
-        "date": "2026-10-13T16:04:27.453684+00:00",
-        "price_eur": 208040
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93152",
-    "url": "https://sales.bcpea.org/properties/93152",
-    "photo": "https://sales.bcpea.org/upload/93152/464105/snimka_01.jpg?w=270&h=270",
-    "price_eur": 121200,
-    "sqm": 81,
-    "area": "Разлог",
-    "title": "Двустаен апартамент, Разлог",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-13T15:48:00+00:00",
-    "category": "apartment",
-    "_settlement": "Разлог",
-    "lat": 41.8861079,
-    "lng": 23.4661521,
-    "description": "Самостоятелен обект в сграда с идентификатор 61813.559.15.3.48 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и осем/ по кадастралната карта и кадастралните регистри на град Разлог, община Разлог, област Благоевград, одобрени със Заповед № РД-18-33 от 15.05.2006г. на Изпълнителния директор на АК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект от 29.05.2023г., с адрес на имота: гр. Разлог, „Църнако“, бл. 3 (три), вход б (латинска буква „Бе“), ет. 5 (пет), ап. 26 (двадесет и шест) ; с предназначение на самостоятелния обект: ЖИЛИЩЕ, АПАРТАМЕНТ – в жилищна или вилна сграда, или в сграда със смесено предназначение ; брой нива на обекта: 1 (едно) ниво ; със застроена площ от 68.70 кв.м . /шестдесет и осем цяло и седемдесет стотни квадратни метра/, заедно с приспадащите се на обекта 0.007% /нула цяло и седем хилядни процента/ идеални части от общите части на сградата и от правото на строеж върху поземления имот, върху който е построена сградата, равняващи се на 12,37 кв.м. /дванадесет цяло и тридесет и седем стотни квадратни метра/, или с обща площ от 81.07 кв.м . /осемдесет и едно цяло и седем стотни квадратни метра/, при съседни самостоятелни обекти съгласно Схема № 15-1070889-09.10.2023г., издадена от Началника на СГКК – Благоевград; на същия етаж: самостоятелен обект с идентификатор 61813.559.15.3.45 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и пет/ и самостоятелен обект с идентификатор 61813.559.15.3.44 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и четири/; под обекта : самостоятелен обект с идентификатор 61813.559.15.3.43 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и три/ и самостоятелен обект с идентификатор 61813.559.15.3.46 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три, точка, четиридесет и шест/; над обекта : няма; самостоятелният обект се намира на етаж 5 (пет) в сграда с идентификатор 61813.559.15.3 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет, точка, три/ с предназначение на сградата: Друг вид сграда за обитаване: сградата е разположена в поземлен имот с идентификатор 61813.559.15 /шестдесет и една хиляди осемстотин и тринадесет, точка, петстотин петдесет и девет, точка, петнадесет/, стар идентификатор: няма; който самостоятелен обект, съгласно документ за собственост представлява: АПАРТАМЕНТ № 26 /двадесет и шест/, находящ се в квартал „Пирин 1“, блок 3 (три), вход В (латинска буква „Бе“), етаж 5 (пет) – подпокривен, който апартамент се състои от: дневна с кухненски бокс, спалня, баня с тоалетна и две тераси; при съседи по архитектурен проект; етаж 2 на мезонет № 22 /двадесет и две/, етаж 2 на мезонет № 23 /двадесет и три/, коридор, стълбище и от две страни алеи, ведно със съответната идеална част от правото на строеж върху поземления имот, върху който е построена сградат а",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93152/464105/snimka_01.jpg",
-      "https://sales.bcpea.org/upload/93152/464107/snimka_08.jpg",
-      "https://sales.bcpea.org/upload/93152/464108/snimka_09.jpg",
-      "https://sales.bcpea.org/upload/93152/464109/snimka_10.jpg",
-      "https://sales.bcpea.org/upload/93152/464110/snimka_12.jpg",
-      "https://sales.bcpea.org/upload/93152/464111/snimka_13.jpg",
-      "https://sales.bcpea.org/upload/93152/464112/snimka_14.jpg",
-      "https://sales.bcpea.org/upload/93152/464113/03.jpg",
-      "https://sales.bcpea.org/upload/93152/464114/04.png",
-      "https://b.tile.openstreetmap.org/18/148116/97456.png",
-      "https://c.tile.openstreetmap.org/18/148117/97456.png",
-      "https://a.tile.openstreetmap.org/18/148116/97455.png",
-      "https://b.tile.openstreetmap.org/18/148117/97455.png",
-      "https://c.tile.openstreetmap.org/18/148116/97457.png",
-      "https://a.tile.openstreetmap.org/18/148117/97457.png",
-      "https://a.tile.openstreetmap.org/18/148115/97456.png",
-      "https://a.tile.openstreetmap.org/18/148118/97456.png",
-      "https://c.tile.openstreetmap.org/18/148115/97455.png",
-      "https://c.tile.openstreetmap.org/18/148118/97455.png",
-      "https://b.tile.openstreetmap.org/18/148115/97457.png",
-      "https://b.tile.openstreetmap.org/18/148118/97457.png"
-    ],
-    "price_per_sqm": 1496,
-    "price_history": [
-      {
-        "date": "2026-10-13T16:04:27.453684+00:00",
-        "price_eur": 121200
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 1
   },
   {
@@ -92648,7 +92648,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": 49.2,
     "score": 1
@@ -92680,7 +92680,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -92725,7 +92725,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -93896,7 +93896,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -93938,7 +93938,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -93977,7 +93977,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 562.7,
     "score": 1
@@ -94019,7 +94019,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 25.2,
     "score": 1
@@ -95476,7 +95476,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95508,7 +95508,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -61.1,
     "score": 1
@@ -95545,7 +95545,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": 71.5,
     "score": 1
@@ -95587,7 +95587,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1942,
     "pct_vs_area_avg": 68.0,
     "score": 1
@@ -96753,7 +96753,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96793,7 +96793,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96838,7 +96838,551 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93481",
+    "url": "https://sales.bcpea.org/properties/93481",
+    "photo": null,
+    "price_eur": 8820,
+    "sqm": 1,
+    "area": "Кнежа",
+    "title": "Земеделска земя, Кнежа",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:44:00+00:00",
+    "category": "land",
+    "_settlement": "Кнежа",
+    "lat": 43.4990084,
+    "lng": 24.0745138,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62854/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе втора публична продажба, приключваща в края на работното време на последния ден на следните недвижими имоти собственост на СНЕЖАНА ПАВЛОВА ТАФРАДЖИЙСКА, трето лице ипотекарен собственик на недвижими имоти, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.2 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, две/, по кадастралната карта и кадастралните регистри на гр. Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 7993 кв.м. /седем хиляди деветстотин деветдесет и три квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415002 /четиристотин и петнадесет хиляди и две/, при съседи: 37376.415.19, 37376.415.3, 37376.415.543, 37376.415.1, описан по придобивен нотариален акт като нива с площ 7,993 дка /седем декара и дветестотин деветдесет и три квадратни метра/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415002 /четиристотин и петнадесет хиляди и две/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот №415001, имот №000543, имот №415003, имот №415019. - при първоначална цена – 8 811,36 евро /осем хиляди осемстотин и единадесет евро и тридесет и шест евроцента/. Данъчната оценка на имота, е в размер на 659.40 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№200/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.24 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, двадесет и четири/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 8001 кв.м. /осем хиляди и един квадратни метра/ , трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, при съседи: 37376.415.25, 37376.415.77, 37376.415.6, 37376.415.18, описан по придобивен нотариален акт като нива с площ от 8 дка /осем декара/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот № 415006, имот №000077, имот № 415025, имот №415018. Имотът е образуван от имот №415007. - при първоначална цена –8 820,00 евро /осем хиляди осемстотин и двадесет евро/. Данъчната оценка на имота, е в размер на 660.10 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№201/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. Интересуващите се от имотите могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имотите. Всички желаещи да прегледат имотите могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
+    "detail_checked": true,
+    "price_per_sqm": 8820,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 8820
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93480",
+    "url": "https://sales.bcpea.org/properties/93480",
+    "photo": null,
+    "price_eur": 8811,
+    "sqm": 993,
+    "area": "Кнежа",
+    "title": "Земеделска земя, Кнежа",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:42:00+00:00",
+    "category": "land",
+    "_settlement": "Кнежа",
+    "lat": 43.4990084,
+    "lng": 24.0745138,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62854/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе втора публична продажба, приключваща в края на работното време на последния ден на следните недвижими имоти собственост на СНЕЖАНА ПАВЛОВА ТАФРАДЖИЙСКА, трето лице ипотекарен собственик на недвижими имоти, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.2 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, две/, по кадастралната карта и кадастралните регистри на гр. Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 7993 кв.м. /седем хиляди деветстотин деветдесет и три квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415002 /четиристотин и петнадесет хиляди и две/, при съседи: 37376.415.19, 37376.415.3, 37376.415.543, 37376.415.1, описан по придобивен нотариален акт като нива с площ 7,993 дка /седем декара и дветестотин деветдесет и три квадратни метра/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415002 /четиристотин и петнадесет хиляди и две/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот №415001, имот №000543, имот №415003, имот №415019. - при първоначална цена – 8 811,36 евро /осем хиляди осемстотин и единадесет евро и тридесет и шест евроцента/. Данъчната оценка на имота, е в размер на 659.40 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№200/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.24 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, двадесет и четири/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 8001 кв.м. /осем хиляди и един квадратни метра/ , трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, при съседи: 37376.415.25, 37376.415.77, 37376.415.6, 37376.415.18, описан по придобивен нотариален акт като нива с площ от 8 дка /осем декара/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот № 415006, имот №000077, имот № 415025, имот №415018. Имотът е образуван от имот №415007. - при първоначална цена –8 820,00 евро /осем хиляди осемстотин и двадесет евро/. Данъчната оценка на имота, е в размер на 660.10 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№201/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. Интересуващите се от имотите могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имотите. Всички желаещи да прегледат имотите могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
+    "detail_checked": true,
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 8811
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93479",
+    "url": "https://sales.bcpea.org/properties/93479",
+    "photo": null,
+    "price_eur": 574,
+    "sqm": 903,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:41:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.154.16 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: с. Динката, местност МЕШЕПАРА , площ: 1903 кв. м , трайно предназначение на територията: земеделска начин на трайно ползване: нива, категория на земята: 5, съседи: 21172.154.31, 21172.154.37, 21172.153.570, 21172.154.15. Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 573,84 евро (петстотин седемдесет и три евро и осемдесет и четири цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 574
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93478",
+    "url": "https://sales.bcpea.org/properties/93478",
+    "photo": null,
+    "price_eur": 1088,
+    "sqm": 504,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:38:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.62.17 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18. 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот няма данни за изменение , адрес на поземления имот: с. Динката, местност ПОЛЕТО , площ: 3504 кв. м. Трайно предназначение на територията: земеделска , начин на трайно ползване: овощна градина : 4, категория на земята, съседи: 21172.62.34, 21172.62.35, 21172.62.18, 21172.62.539, 21172.62.16 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 1 088,28 евро ( хиляда осемдесет и осем евро и двадесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 1088
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93477",
+    "url": "https://sales.bcpea.org/properties/93477",
+    "photo": null,
+    "price_eur": 346,
+    "sqm": 302,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:37:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.166.14 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД- 18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МИШИНКОВИ ТИРОВЕ, площ: 1302 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 6, съседи: 21172.166.12, 21172.166.15, 21172.166.30, 21172.166.13 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 346,32 евро ( триста четиридесет и шест евро и тридесет и два цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 346
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93476",
+    "url": "https://sales.bcpea.org/properties/93476",
+    "photo": null,
+    "price_eur": 543,
+    "sqm": 800,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:35:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.165.25 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г ., последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: с. Динката, местност МЕШЕПАРА , площ: 1800 кв. м, трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5 , съседи: 21172.165.26, 21172.165.10, 21172.165.9, 21172.165.24, 21172.165.574 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 542,88 евро ( петстотин четиридесет и две евро осемдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 543
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93475",
+    "url": "https://sales.bcpea.org/properties/93475",
+    "photo": null,
+    "price_eur": 905,
+    "sqm": 1,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:33:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.157.31 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г., последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МЕШЕПАРА, площ: 3001 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5, съседи: 21172.157.33, 21172.157.19, 21172.157.5, 21172.154.571, 21172.157.4 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 904,68 евро ( деветстотин и четири евро и шестдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 905,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 905
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93474",
+    "url": "https://sales.bcpea.org/properties/93474",
+    "photo": null,
+    "price_eur": 814,
+    "sqm": 998,
+    "area": "Динката",
+    "title": "Земеделски имот, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:27:00+00:00",
+    "category": "apartment",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.154.23, по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МЕШЕПАРА, площ: 2998 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5 , съседи: 21172.154.571, 21172.154.24, 21172.154.6, 21172.154.5, 21172.154.22 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 813,60 евро ( осемстотин и тринадесет евро и шестдесет цента ) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 814
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93473",
+    "url": "https://sales.bcpea.org/properties/93473",
+    "photo": null,
+    "price_eur": 298,
+    "sqm": 485,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:25:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от НИВА , с площ от 1.485 дка , / един декар четиристотин осемдесет и пет квадратни метра /, седма категория, находящо се в землището на С.ДИНКАТА, ЕКАТТЕ 21172, община Лесичово , област Пазарджик , в местността \" ЧУЧУРА \", съставляваща по картата на възстановената собственост на същото землище имот № 011016 / нула, единадесет хиляди и шестнадесет/, при граници съседи: имот № 000386- полски път на община- Лесичово, имот № 011009- нива на наследници на Петко Тодоров Димитров, имот № 011008- нива на наследници на Делян Петков Спасов; имот № 011015- нива на „Максима Селларс\" ООД: имот № 000384- полски път на община-Лесичово кадастрален номер 21172.11.16 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 297,75 евро ( двеста деветдесет и седем евро и седемдесет и пет цента ) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 298
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93472",
+    "url": "https://sales.bcpea.org/properties/93472",
+    "photo": null,
+    "price_eur": 237,
+    "sqm": 0,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:23:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 010011 (нула десет хиляди и единадесет) с начин на трайно ползване НИВА , с площ от 1,000 дка (един декара), шеста категория, в местността \"КОКОВА ЛИВАДА\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 010012 нива на Богомил Дамянов Петракиев; № 010019 полски пътна Община Лесичово; имот № 10010 нива на \"ДИ ЕМ ВИ\" АД: землищна граница; кадастрален номер 84067.10.11 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 236,52 евро ( двеста тридесет и шест евро и петдесет и два цента ) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 237
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93471",
+    "url": "https://sales.bcpea.org/properties/93471",
+    "photo": null,
+    "price_eur": 543,
+    "sqm": 0,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:21:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 119013 (сто и деветнадесет хиляди и тринадесет) с начин на трайно ползване НИВА , с площ от 2,000 дка (два декара), пета категория, в местността \"МАЛ ТЕПЕ\" , в землището на село Щърково , ЕКАТTE 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 119014 - нива на насл. На Никола Спасов Топкаров; № 000539 - отводнителен канал на МЗГХМС; имот № 119012-нива на Насл. на Стойко Дамянов Спасов; № 119021 полски път на Община Лесичово; кадастрален номер 84067.119.13 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 542,88 евро ( петстотин четиридесет и две евро и осемдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 543
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93470",
+    "url": "https://sales.bcpea.org/properties/93470",
+    "photo": null,
+    "price_eur": 845,
+    "sqm": 0,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:18:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 121005 (сто двадесет и една хиляди и пет) с начин на трайно ползване НИВА, с площ от 4,000 дка (четири декара), пета категория, в местността \"КОРУ ИРИМ\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 121006 нива на насл. на Хамама Мария Ангелова Колипилева; № 121010 полски път на Община Лесичово; имот № 121004 нива на Благой Димитров Ангелов; № 000061 - полски път на Община Лесичово; кадастрален номер 84067.121.5 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 845,01 евро ( девет стотин т ридесет и осем евро и девет десет цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 845
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93469",
+    "url": "https://sales.bcpea.org/properties/93469",
+    "photo": null,
+    "price_eur": 2020,
+    "sqm": 701,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:15:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 114002 (сто и четиринадесет хиляди и две) с начин на трайно ползване НИВА, с площ от 6,701 дка (шест декара седемстотин и един квадратни метра), пета категория, в местността \"ЧАМРАКА\", в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 114001 - нива на насл. на Ангел Георгиев Генов; № 000528 напоителен канал на МЗГ- ХМС; имот № 114003 нива на насл. на Ивана Димитрова Гърева; № 114007 - полски път на Община Лесичово Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 2 020,32 евро ( две хиляди и двадесет евро и тридесет и два цента) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 2020
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93468",
+    "url": "https://sales.bcpea.org/properties/93468",
+    "photo": null,
+    "price_eur": 1432,
+    "sqm": 0,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:12:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 013092 (нула тринадесет хиляди и деветдесет и две) с начин на трайно ползване НИВА , с площ от 5,000 дка (пет декара), седма категория, в местността \"КРУШАКА\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 013091 - нива на Николина Георгиева Тодорова; имот № 013085 нива на Атанаска Георгиева Иванова и др.; имот №013084 - нива на Цветан Тодоров Лъжански; имот № 013083 нива на Цветослав Тодоров Думанов; имот № 013093 - нив на Тодорка Тодорова Колева; № 013024 - полски път на Община Лесичово. кадастрален номер 84067.13.92 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 1 432,08 евро ( хиляда четиристотин тридесет и две евро и осем цента ) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 1432
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93467",
+    "url": "https://sales.bcpea.org/properties/93467",
+    "photo": null,
+    "price_eur": 144,
+    "sqm": 501,
+    "area": "Щърково",
+    "title": "Земеделска земя, Щърково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:04:00+00:00",
+    "category": "land",
+    "_settlement": "Щърково",
+    "lat": 42.30305,
+    "lng": 24.23191,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 089005 (нула осемдесет и девет хиляди и пет) с начин на трайно ползване НИВА , с площ от 0,501 дка (нула декара петстотин и един квадратни метра), седма категория, в местността \"ЧЕШМАТА\" , в землището на село Щърково, ЕКАТТЕ 84067, Община Лесичово, Пазарджишка област , при съседи: имот № 089004 - нива на „ДИ ЕМ ВИ\" АД; № 000030 полски път на Община Лесичово; № 000172 - пасище, мера на земи по чл. 19 от ЗСПЗЗ; кадастрален номер 84067.89.5 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 143,64 евро ( сто четиридесет и три евро и шестдесет и четири цента ) , представляваща 80 % от пазарната оценка на имота",
+    "detail_checked": true,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 144
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93466",
+    "url": "https://sales.bcpea.org/properties/93466",
+    "photo": null,
+    "price_eur": 660,
+    "sqm": 700,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:03:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 158019 (сто петдесет и осем хиляди и деветнадесет) с начин на трайно ползване НИВА , с площ от 2,700 дка (два декара и седемстотин квадратни метра), пета категория, в местностт а \"ГАРГА КОРИЯ\" , в землището на село Динката , ЕКАТTE 21172, Община Лесичово, Пазарджишка област , при съседи: имот № 158018 - нива на Илия Иванов Данов; имот № 158016 - нива на насл, на Петър Йосифов Тодоров; № 000033 полски път на Община Лесичово: № 000537 - полски път на Община Лесичово. Върху имота има следните ограничения: Имотът попада в зона със замърсяване „В\" 1. Има ограничения в земеползуването отразени в сертификат. кадастрален номер 21172.158.19 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 659,52 евро ( шестстотин петдесет и девет евро и петдесет и два цента).",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 660
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93465",
+    "url": "https://sales.bcpea.org/properties/93465",
+    "photo": null,
+    "price_eur": 489,
+    "sqm": 0,
+    "area": "Динката",
+    "title": "Земеделска земя, Динката",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-21T16:01:00+00:00",
+    "category": "land",
+    "_settlement": "Динката",
+    "lat": 42.28889,
+    "lng": 24.22621,
+    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 158018 (сто петдесет и осем хиляди и осемнадесет) с начин на трайно ползване НИВА , с площ от 2,000 дка (два декара), пета категория, в местността \"ГАРГА КОРИЯ\" , в землището на село Динката, ЕКАТТЕ 21172, Община Лесичово, Пазарджишка област , при съседи: имот № 158019- нива на Цонко Киров Киров и др.; имот № 158016- нива на насл. на Петър Йосифов Тодоров; имот № 158017 нива на земи по чл. 19 от ЗСПЗЗ; № 000537 полски път на Община Лесичово; Върху имота има следните ограничения: Имотът попада в зона със замърсяване „В\" 1. Има ограничения в земеползуването отразени в сертификат. кадастрален номер 21172.158.18 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 488 . 52 евро (четиристотин осемдесет и осем евро и петдесет и два цента).",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 489
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98830,7 +99374,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98874,7 +99418,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98906,7 +99450,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98956,7 +99500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": 2533,
     "pct_vs_area_avg": 1229.0,
     "score": 1
@@ -98988,7 +99532,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": 1974,
     "pct_vs_area_avg": -98.1,
     "score": 1
@@ -100383,7 +100927,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100420,7 +100964,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100463,7 +101007,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100502,7 +101046,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100534,7 +101078,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102043,7 +102587,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -102075,7 +102619,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -102107,7 +102651,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -103095,550 +103639,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93481",
-    "url": "https://sales.bcpea.org/properties/93481",
-    "photo": null,
-    "price_eur": 8820,
-    "sqm": 1,
-    "area": "Кнежа",
-    "title": "Земеделска земя, Кнежа",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:44:00+00:00",
-    "category": "land",
-    "_settlement": "Кнежа",
-    "lat": 43.4990084,
-    "lng": 24.0745138,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62854/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе втора публична продажба, приключваща в края на работното време на последния ден на следните недвижими имоти собственост на СНЕЖАНА ПАВЛОВА ТАФРАДЖИЙСКА, трето лице ипотекарен собственик на недвижими имоти, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.2 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, две/, по кадастралната карта и кадастралните регистри на гр. Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 7993 кв.м. /седем хиляди деветстотин деветдесет и три квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415002 /четиристотин и петнадесет хиляди и две/, при съседи: 37376.415.19, 37376.415.3, 37376.415.543, 37376.415.1, описан по придобивен нотариален акт като нива с площ 7,993 дка /седем декара и дветестотин деветдесет и три квадратни метра/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415002 /четиристотин и петнадесет хиляди и две/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот №415001, имот №000543, имот №415003, имот №415019. - при първоначална цена – 8 811,36 евро /осем хиляди осемстотин и единадесет евро и тридесет и шест евроцента/. Данъчната оценка на имота, е в размер на 659.40 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№200/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.24 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, двадесет и четири/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 8001 кв.м. /осем хиляди и един квадратни метра/ , трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, при съседи: 37376.415.25, 37376.415.77, 37376.415.6, 37376.415.18, описан по придобивен нотариален акт като нива с площ от 8 дка /осем декара/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот № 415006, имот №000077, имот № 415025, имот №415018. Имотът е образуван от имот №415007. - при първоначална цена –8 820,00 евро /осем хиляди осемстотин и двадесет евро/. Данъчната оценка на имота, е в размер на 660.10 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№201/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. Интересуващите се от имотите могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имотите. Всички желаещи да прегледат имотите могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
-    "detail_checked": true,
-    "price_per_sqm": 8820,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 8820
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93480",
-    "url": "https://sales.bcpea.org/properties/93480",
-    "photo": null,
-    "price_eur": 8811,
-    "sqm": 993,
-    "area": "Кнежа",
-    "title": "Земеделска земя, Кнежа",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:42:00+00:00",
-    "category": "land",
-    "_settlement": "Кнежа",
-    "lat": 43.4990084,
-    "lng": 24.0745138,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778 e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1079/2026г. с Изх.№62854/19.10.2026 г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 08.11.2026г . до 17.00 часа на 08.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд - Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\" №71 , ще се проведе втора публична продажба, приключваща в края на работното време на последния ден на следните недвижими имоти собственост на СНЕЖАНА ПАВЛОВА ТАФРАДЖИЙСКА, трето лице ипотекарен собственик на недвижими имоти, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.2 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, две/, по кадастралната карта и кадастралните регистри на гр. Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 7993 кв.м. /седем хиляди деветстотин деветдесет и три квадратни метра/, трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415002 /четиристотин и петнадесет хиляди и две/, при съседи: 37376.415.19, 37376.415.3, 37376.415.543, 37376.415.1, описан по придобивен нотариален акт като нива с площ 7,993 дка /седем декара и дветестотин деветдесет и три квадратни метра/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415002 /четиристотин и петнадесет хиляди и две/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот №415001, имот №000543, имот №415003, имот №415019. - при първоначална цена – 8 811,36 евро /осем хиляди осемстотин и единадесет евро и тридесет и шест евроцента/. Данъчната оценка на имота, е в размер на 659.40 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№200/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. ПОЗЕМЛЕН ИМОТ с идентификатор 37376.415.24 /тридесет и седем хиляди триста седемдесет и шест, точка, четиристотин и петнадесет, точка, двадесет и четири/, по кадастралната карта и кадастралните регистри на град Кнежа, община Кнежа, област Плевен, одобрени със заповед № РД 18- 1431/07.08.2018 г. на изп. директор на АГКК, без данни за изменение на КККР, засягащо поземления имот, адрес на имота: град Кнежа, местност „Дебело бърдо“, площ 8001 кв.м. /осем хиляди и един квадратни метра/ , трайно предназначение на територията: земеделска, начин на трайно ползване: нива, категория на земята: 3 /трета/, предишен идентификатор: няма, номер по предходен план: 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, при съседи: 37376.415.25, 37376.415.77, 37376.415.6, 37376.415.18, описан по придобивен нотариален акт като нива с площ от 8 дка /осем декара/, трета категория, находяща се в местността „Дебело бърдо“ , съставляваща имот № 415024 /четиристотин и петнадесет хиляди и двадесет и четири/, по плана за земеразделяне в землището на град Кнежа, община Кнежа, област Плевен, при граници и съседи: имот № 415006, имот №000077, имот № 415025, имот №415018. Имотът е образуван от имот №415007. - при първоначална цена –8 820,00 евро /осем хиляди осемстотин и двадесет евро/. Данъчната оценка на имота, е в размер на 660.10 евро, съгласно удостоверение на МДТ при Община Кнежа. Тежести за имота: Договорна ипотека вписана в Агенция по вписванията под том 1, акт №5 от дата 23.02.2022г. с вх. рег. № 372 от 23.02.2022г. вписана в полза на „ЮРОБАНК БЪЛГАРИЯ“ АД. Възбрана, вписана под том 2, акт №14 от дата 28.07.2026г., в полза на „ ЮРОБАНК БЪЛГАРИЯ“ АД, по изп.дело № 20268150401079, съгласно удостоверение за тежести с Изх.№201/18.08.2026г. на Агенция Вписвания имотен регистър. Възбрана том 2, акт 66/2026 в полза на УСТОИ ЕАД, по ид №1383/2026, на ЧСИ Т.Кирилова, съгласно справка имотен регистър към дата 19.10.2026г. Интересуващите се от имотите могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Кнежа, гр.Кнежа, ул.\"Марин Боев\" №71, на разположение на всеки, който се интересува от имотите. Всички желаещи да прегледат имотите могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч., на посочен адрес в гр.Кнежа. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 20268150401079 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Районен съд Кнежа, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, в канцеларията на Районен съд-Кнежа, което се отразява във входящ регистър. На 09.12.2026год. 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, в Районен съд- Кнежа, адрес гр.Кнежа, ул.\"Марин Боев\"№71 , в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 19.10.2026г. Частен съдебен изпълнител: ............................",
-    "detail_checked": true,
-    "price_per_sqm": 9,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 8811
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93479",
-    "url": "https://sales.bcpea.org/properties/93479",
-    "photo": null,
-    "price_eur": 574,
-    "sqm": 903,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:41:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.154.16 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: с. Динката, местност МЕШЕПАРА , площ: 1903 кв. м , трайно предназначение на територията: земеделска начин на трайно ползване: нива, категория на земята: 5, съседи: 21172.154.31, 21172.154.37, 21172.153.570, 21172.154.15. Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 573,84 евро (петстотин седемдесет и три евро и осемдесет и четири цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 574
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93478",
-    "url": "https://sales.bcpea.org/properties/93478",
-    "photo": null,
-    "price_eur": 1088,
-    "sqm": 504,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:38:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.62.17 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18. 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот няма данни за изменение , адрес на поземления имот: с. Динката, местност ПОЛЕТО , площ: 3504 кв. м. Трайно предназначение на територията: земеделска , начин на трайно ползване: овощна градина : 4, категория на земята, съседи: 21172.62.34, 21172.62.35, 21172.62.18, 21172.62.539, 21172.62.16 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 1 088,28 евро ( хиляда осемдесет и осем евро и двадесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 1088
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93477",
-    "url": "https://sales.bcpea.org/properties/93477",
-    "photo": null,
-    "price_eur": 346,
-    "sqm": 302,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:37:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "1/2 (една втора) идеална част от Поземлен имот с идентификатор 21172.166.14 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД- 18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МИШИНКОВИ ТИРОВЕ, площ: 1302 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 6, съседи: 21172.166.12, 21172.166.15, 21172.166.30, 21172.166.13 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 346,32 евро ( триста четиридесет и шест евро и тридесет и два цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 346
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93476",
-    "url": "https://sales.bcpea.org/properties/93476",
-    "photo": null,
-    "price_eur": 543,
-    "sqm": 800,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:35:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.165.25 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г ., последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: с. Динката, местност МЕШЕПАРА , площ: 1800 кв. м, трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5 , съседи: 21172.165.26, 21172.165.10, 21172.165.9, 21172.165.24, 21172.165.574 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 542,88 евро ( петстотин четиридесет и две евро осемдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 543
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93475",
-    "url": "https://sales.bcpea.org/properties/93475",
-    "photo": null,
-    "price_eur": 905,
-    "sqm": 1,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:33:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.157.31 по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г., последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МЕШЕПАРА, площ: 3001 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5, съседи: 21172.157.33, 21172.157.19, 21172.157.5, 21172.154.571, 21172.157.4 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 904,68 евро ( деветстотин и четири евро и шестдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 905,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 905
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93474",
-    "url": "https://sales.bcpea.org/properties/93474",
-    "photo": null,
-    "price_eur": 814,
-    "sqm": 998,
-    "area": "Динката",
-    "title": "Земеделски имот, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:27:00+00:00",
-    "category": "apartment",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от Поземлен имот с идентификатор 21172.154.23, по кадастралната карта и кадастралните регистри на с. Динката, общ. Лесичово, обл. Пазарджик, одобрени със Заповед РД-18- 410/12.06.2019 г. , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение , адрес на поземления имот: с. Динката, местност МЕШЕПАРА, площ: 2998 кв. м , трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята: 5 , съседи: 21172.154.571, 21172.154.24, 21172.154.6, 21172.154.5, 21172.154.22 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 813,60 евро ( осемстотин и тринадесет евро и шестдесет цента ) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 814
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93473",
-    "url": "https://sales.bcpea.org/properties/93473",
-    "photo": null,
-    "price_eur": 298,
-    "sqm": 485,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:25:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от НИВА , с площ от 1.485 дка , / един декар четиристотин осемдесет и пет квадратни метра /, седма категория, находящо се в землището на С.ДИНКАТА, ЕКАТТЕ 21172, община Лесичово , област Пазарджик , в местността \" ЧУЧУРА \", съставляваща по картата на възстановената собственост на същото землище имот № 011016 / нула, единадесет хиляди и шестнадесет/, при граници съседи: имот № 000386- полски път на община- Лесичово, имот № 011009- нива на наследници на Петко Тодоров Димитров, имот № 011008- нива на наследници на Делян Петков Спасов; имот № 011015- нива на „Максима Селларс\" ООД: имот № 000384- полски път на община-Лесичово кадастрален номер 21172.11.16 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 297,75 евро ( двеста деветдесет и седем евро и седемдесет и пет цента ) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 298
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93472",
-    "url": "https://sales.bcpea.org/properties/93472",
-    "photo": null,
-    "price_eur": 237,
-    "sqm": 0,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:23:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 010011 (нула десет хиляди и единадесет) с начин на трайно ползване НИВА , с площ от 1,000 дка (един декара), шеста категория, в местността \"КОКОВА ЛИВАДА\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 010012 нива на Богомил Дамянов Петракиев; № 010019 полски пътна Община Лесичово; имот № 10010 нива на \"ДИ ЕМ ВИ\" АД: землищна граница; кадастрален номер 84067.10.11 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 236,52 евро ( двеста тридесет и шест евро и петдесет и два цента ) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 237
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93471",
-    "url": "https://sales.bcpea.org/properties/93471",
-    "photo": null,
-    "price_eur": 543,
-    "sqm": 0,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:21:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 119013 (сто и деветнадесет хиляди и тринадесет) с начин на трайно ползване НИВА , с площ от 2,000 дка (два декара), пета категория, в местността \"МАЛ ТЕПЕ\" , в землището на село Щърково , ЕКАТTE 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 119014 - нива на насл. На Никола Спасов Топкаров; № 000539 - отводнителен канал на МЗГХМС; имот № 119012-нива на Насл. на Стойко Дамянов Спасов; № 119021 полски път на Община Лесичово; кадастрален номер 84067.119.13 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 542,88 евро ( петстотин четиридесет и две евро и осемдесет и осем цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 543
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93470",
-    "url": "https://sales.bcpea.org/properties/93470",
-    "photo": null,
-    "price_eur": 845,
-    "sqm": 0,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:18:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 121005 (сто двадесет и една хиляди и пет) с начин на трайно ползване НИВА, с площ от 4,000 дка (четири декара), пета категория, в местността \"КОРУ ИРИМ\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 121006 нива на насл. на Хамама Мария Ангелова Колипилева; № 121010 полски път на Община Лесичово; имот № 121004 нива на Благой Димитров Ангелов; № 000061 - полски път на Община Лесичово; кадастрален номер 84067.121.5 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 845,01 евро ( девет стотин т ридесет и осем евро и девет десет цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 845
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93469",
-    "url": "https://sales.bcpea.org/properties/93469",
-    "photo": null,
-    "price_eur": 2020,
-    "sqm": 701,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:15:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 114002 (сто и четиринадесет хиляди и две) с начин на трайно ползване НИВА, с площ от 6,701 дка (шест декара седемстотин и един квадратни метра), пета категория, в местността \"ЧАМРАКА\", в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 114001 - нива на насл. на Ангел Георгиев Генов; № 000528 напоителен канал на МЗГ- ХМС; имот № 114003 нива на насл. на Ивана Димитрова Гърева; № 114007 - полски път на Община Лесичово Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 2 020,32 евро ( две хиляди и двадесет евро и тридесет и два цента) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 2020
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93468",
-    "url": "https://sales.bcpea.org/properties/93468",
-    "photo": null,
-    "price_eur": 1432,
-    "sqm": 0,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:12:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 013092 (нула тринадесет хиляди и деветдесет и две) с начин на трайно ползване НИВА , с площ от 5,000 дка (пет декара), седма категория, в местността \"КРУШАКА\" , в землището на село Щърково , ЕКАТТЕ 84067, Община Лесичово , Пазарджишка област , при съседи: имот № 013091 - нива на Николина Георгиева Тодорова; имот № 013085 нива на Атанаска Георгиева Иванова и др.; имот №013084 - нива на Цветан Тодоров Лъжански; имот № 013083 нива на Цветослав Тодоров Думанов; имот № 013093 - нив на Тодорка Тодорова Колева; № 013024 - полски път на Община Лесичово. кадастрален номер 84067.13.92 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 1 432,08 евро ( хиляда четиристотин тридесет и две евро и осем цента ) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 1432
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93467",
-    "url": "https://sales.bcpea.org/properties/93467",
-    "photo": null,
-    "price_eur": 144,
-    "sqm": 501,
-    "area": "Щърково",
-    "title": "Земеделска земя, Щърково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:04:00+00:00",
-    "category": "land",
-    "_settlement": "Щърково",
-    "lat": 42.30305,
-    "lng": 24.23191,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 089005 (нула осемдесет и девет хиляди и пет) с начин на трайно ползване НИВА , с площ от 0,501 дка (нула декара петстотин и един квадратни метра), седма категория, в местността \"ЧЕШМАТА\" , в землището на село Щърково, ЕКАТТЕ 84067, Община Лесичово, Пазарджишка област , при съседи: имот № 089004 - нива на „ДИ ЕМ ВИ\" АД; № 000030 полски път на Община Лесичово; № 000172 - пасище, мера на земи по чл. 19 от ЗСПЗЗ; кадастрален номер 84067.89.5 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 143,64 евро ( сто четиридесет и три евро и шестдесет и четири цента ) , представляваща 80 % от пазарната оценка на имота",
-    "detail_checked": true,
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 144
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93466",
-    "url": "https://sales.bcpea.org/properties/93466",
-    "photo": null,
-    "price_eur": 660,
-    "sqm": 700,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:03:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 158019 (сто петдесет и осем хиляди и деветнадесет) с начин на трайно ползване НИВА , с площ от 2,700 дка (два декара и седемстотин квадратни метра), пета категория, в местностт а \"ГАРГА КОРИЯ\" , в землището на село Динката , ЕКАТTE 21172, Община Лесичово, Пазарджишка област , при съседи: имот № 158018 - нива на Илия Иванов Данов; имот № 158016 - нива на насл, на Петър Йосифов Тодоров; № 000033 полски път на Община Лесичово: № 000537 - полски път на Община Лесичово. Върху имота има следните ограничения: Имотът попада в зона със замърсяване „В\" 1. Има ограничения в земеползуването отразени в сертификат. кадастрален номер 21172.158.19 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 659,52 евро ( шестстотин петдесет и девет евро и петдесет и два цента).",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 660
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93465",
-    "url": "https://sales.bcpea.org/properties/93465",
-    "photo": null,
-    "price_eur": 489,
-    "sqm": 0,
-    "area": "Динката",
-    "title": "Земеделска земя, Динката",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-21T16:01:00+00:00",
-    "category": "land",
-    "_settlement": "Динката",
-    "lat": 42.28889,
-    "lng": 24.22621,
-    "description": "½ (една втора) идеална част от ПОЗЕМЛЕН ИМОТ № 158018 (сто петдесет и осем хиляди и осемнадесет) с начин на трайно ползване НИВА , с площ от 2,000 дка (два декара), пета категория, в местността \"ГАРГА КОРИЯ\" , в землището на село Динката, ЕКАТТЕ 21172, Община Лесичово, Пазарджишка област , при съседи: имот № 158019- нива на Цонко Киров Киров и др.; имот № 158016- нива на насл. на Петър Йосифов Тодоров; имот № 158017 нива на земи по чл. 19 от ЗСПЗЗ; № 000537 полски път на Община Лесичово; Върху имота има следните ограничения: Имотът попада в зона със замърсяване „В\" 1. Има ограничения в земеползуването отразени в сертификат. кадастрален номер 21172.158.18 Тежести за имота: КНИГА ВЪЗБРАНИ вх. рег. № 9341/04.12.2024г., Акт № 45, том № 4, дв.вх.рег. № 9293/04.12.2024г. по изп. дело № 20247900402652 по описа на ЧСИ Ренета Милчева, прехвърлено при ЧСИ Мария Ангелова с нов номер 20258840400027 НАЧАЛНАТА ЦЕНА от която ще започне наддаването е в размер на 488 . 52 евро (четиристотин осемдесет и осем евро и петдесет и два цента).",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 489
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93450",
     "url": "https://sales.bcpea.org/properties/93450",
     "photo": "https://sales.bcpea.org/upload/93450/465207/IMG_20260612_105501.jpg?w=270&h=270",
@@ -104384,7 +104384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104416,7 +104416,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -104452,7 +104452,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1815,
     "pct_vs_area_avg": 1.3,
     "score": 0
