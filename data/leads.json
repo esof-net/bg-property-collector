@@ -10288,7 +10288,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 9.1,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 103,
@@ -19820,7 +19820,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2353,
@@ -101149,7 +101149,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1215,
@@ -215352,6 +215352,35 @@
     "score": 8
   },
   {
+    "id": "6111876",
+    "url": "https://www.imoti.net/en/obiava/prodava/gabrovo/velchevci/kashta/6111876/?sid=gnjBUQ&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/6111876/main_image/thumb_280x210_main_image_6111876_1.jpg?ver=1792898059",
+    "price_eur": 37500,
+    "sqm": 138,
+    "area": "Velchevtsi",
+    "city": "Габрово",
+    "title": "House, 138 м 2 Gabrovo, Velchevtsi",
+    "portal": "imoti.net",
+    "category": "house",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 272,
+    "price_history": [
+      {
+        "date": "2026-08-28T23:09:08.950490+00:00",
+        "price_eur": 37500
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 103,
+    "pct_vs_area_avg": 164.1,
+    "score": 8
+  },
+  {
     "id": "6217839",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/varna-levski/chetiristaen/6217839/?sid=hOOTsy&page=145",
     "photo": "https://www.imoti.net/web/files/obiavi/6217839/main_image/thumb_280x210_main_image_6217839_1.jpg?ver=1789357068",
@@ -227741,6 +227770,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1192,
     "pct_vs_area_avg": -14.8,
+    "score": 8
+  },
+  {
+    "id": "6298573",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/myrchaevo/parcel/6298573/?sid=icNBCK&page=27",
+    "photo": "https://www.imoti.net/web/files/obiavi/6298573/main_image/thumb_280x210_20260424-140631.jpg?ver=1792897515",
+    "price_eur": 115000,
+    "sqm": 1620,
+    "area": "Marchaevo",
+    "city": "София",
+    "title": "Development land, 1620 м 2 Sofia, Marchaevo",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 71,
+    "price_history": [
+      {
+        "date": "2026-08-28T23:09:08.950490+00:00",
+        "price_eur": 115000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 58,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 587,
+    "pct_vs_area_avg": -87.9,
     "score": 8
   },
   {
@@ -251784,35 +251842,6 @@
     "score": 7
   },
   {
-    "id": "6111876",
-    "url": "https://www.imoti.net/en/obiava/prodava/gabrovo/velchevci/kashta/6111876/?sid=gnjBUQ&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/6111876/main_image/thumb_280x210_main_image_6111876_1.jpg?ver=1792898059",
-    "price_eur": 37500,
-    "sqm": 138,
-    "area": "Velchevtsi",
-    "city": "Габрово",
-    "title": "House, 138 м 2 Gabrovo, Velchevtsi",
-    "portal": "imoti.net",
-    "category": "house",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 272,
-    "price_history": [
-      {
-        "date": "2026-08-28T23:09:08.950490+00:00",
-        "price_eur": 37500
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 57,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 103,
-    "pct_vs_area_avg": 164.1,
-    "score": 7
-  },
-  {
     "id": "6252685",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/proslav/dvustaen/6252685/?sid=huZFPB&page=28",
     "photo": "https://www.imoti.net/web/files/obiavi/6252685/main_image/thumb_280x210_1.jpg?ver=1792897625",
@@ -271178,35 +271207,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 999,
     "pct_vs_area_avg": -97.3,
-    "score": 7
-  },
-  {
-    "id": "6298573",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/myrchaevo/parcel/6298573/?sid=icNBCK&page=27",
-    "photo": "https://www.imoti.net/web/files/obiavi/6298573/main_image/thumb_280x210_20260424-140631.jpg?ver=1792897515",
-    "price_eur": 115000,
-    "sqm": 1620,
-    "area": "Marchaevo",
-    "city": "София",
-    "title": "Development land, 1620 м 2 Sofia, Marchaevo",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 71,
-    "price_history": [
-      {
-        "date": "2026-08-28T23:09:08.950490+00:00",
-        "price_eur": 115000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 57,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 587,
-    "pct_vs_area_avg": -87.9,
     "score": 7
   },
   {
@@ -307425,7 +307425,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 878,
@@ -307881,7 +307881,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 878,
@@ -309869,7 +309869,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 878,
@@ -310759,7 +310759,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 878,
@@ -322119,7 +322119,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 878,
@@ -349746,7 +349746,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 57,
+    "days_on_market": 58,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 990,
