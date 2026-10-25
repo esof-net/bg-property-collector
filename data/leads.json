@@ -15600,7 +15600,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 63,
+    "days_on_market": 64,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2387,
@@ -31569,7 +31569,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 5.5,
-    "days_on_market": 63,
+    "days_on_market": 64,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2264,
@@ -45621,7 +45621,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 63,
+    "days_on_market": 64,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1529,
@@ -47433,7 +47433,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 63,
+    "days_on_market": 64,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2942,
@@ -200814,6 +200814,35 @@
     "score": 9
   },
   {
+    "id": "6044300",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/poduene/ednostaen/6044300/?sid=icNBCK&page=18",
+    "photo": "https://www.imoti.net/web/files/obiavi/6044300/main_image/thumb_280x210_img-20240412-110130.jpg?ver=1792897491",
+    "price_eur": 87000,
+    "sqm": 36,
+    "area": "Poduene",
+    "city": "София",
+    "title": "Studio/bedsit, 36 м 2 Sofia, Poduene",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 2417,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 87000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 64,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2517,
+    "pct_vs_area_avg": -4.0,
+    "score": 9
+  },
+  {
     "id": "6253920",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/ovcha-kupel/tristaen/6253920/?sid=icNBCK&page=131",
     "photo": "https://www.imoti.net/web/files/obiavi/6253920/main_image/thumb_280x210_main_image_6253920_1.jpg?ver=1790065388",
@@ -232063,35 +232092,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1192,
     "pct_vs_area_avg": -20.5,
-    "score": 8
-  },
-  {
-    "id": "6044300",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/poduene/ednostaen/6044300/?sid=icNBCK&page=18",
-    "photo": "https://www.imoti.net/web/files/obiavi/6044300/main_image/thumb_280x210_img-20240412-110130.jpg?ver=1792897491",
-    "price_eur": 87000,
-    "sqm": 36,
-    "area": "Poduene",
-    "city": "София",
-    "title": "Studio/bedsit, 36 м 2 Sofia, Poduene",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 2417,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 87000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 63,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2517,
-    "pct_vs_area_avg": -4.0,
     "score": 8
   },
   {
@@ -275867,7 +275867,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 63,
+    "days_on_market": 64,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 4830,
