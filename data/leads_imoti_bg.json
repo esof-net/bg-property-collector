@@ -2896,6 +2896,42 @@
     "score": 17
   },
   {
+    "id": "imotibg_516154",
+    "url": "https://imoti.bg/продажби/къща/хасково-област/свърбица-516154.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6adc6fb4de91c_6adc709c46111.png",
+    "price_eur": 45000,
+    "sqm": 90,
+    "area": "с.Върбица",
+    "city": "Хасково област",
+    "title": "Къща, с.Върбица",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 500,
+    "price_history": [
+      {
+        "date": "2026-10-24T15:02:35.901827+00:00",
+        "price_eur": 50000
+      },
+      {
+        "date": "2026-10-25T20:56:52.387835+00:00",
+        "price_eur": 45000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 10.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 500,
+    "pct_vs_area_avg": 0.0,
+    "score": 17
+  },
+  {
     "id": "imotibg_269916",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/варна/централна-поща-269916.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a47a4bacb799_6a47a4badbcec.jpg",
@@ -5680,6 +5716,38 @@
     "score": 10
   },
   {
+    "id": "imotibg_516161",
+    "url": "https://imoti.bg/продажби/къща/пазарджик-област/грпанагюрище-516161.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ade5d4809d49_6ade601ab8744.jpg",
+    "price_eur": 75000,
+    "sqm": 189,
+    "area": "гр.Панагюрище",
+    "city": "Пазарджик област",
+    "title": "Къща, гр.Панагюрище",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Триетажна къща, на груб строеж състояща се от приземен етаж с гараж и две помещения.  Първи етаж-кухня, две спални с големи тераси, баня и тоалетна. Втори етаж-по-голяма кухня отворена към голямо помещение заемащо целият втори етаж, баня с тоалетна. Таванското помещение може да бъде обитаемо. Има разрешение за строеж и натурален акт.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 397,
+    "price_history": [
+      {
+        "date": "2026-10-25T20:56:52.387835+00:00",
+        "price_eur": 75000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 546,
+    "pct_vs_area_avg": -27.3,
+    "score": 10
+  },
+  {
     "id": "imotibg_513909",
     "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас-област/грнесебър-513909.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6940510277f13_694051db716ae.jpg",
@@ -7055,8 +7123,8 @@
     "days_on_market": 61,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 621,
-    "pct_vs_area_avg": 67.0,
+    "area_avg_price_per_sqm": 546,
+    "pct_vs_area_avg": 89.8,
     "score": 8
   },
   {
@@ -8919,8 +8987,8 @@
     "days_on_market": 61,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 621,
-    "pct_vs_area_avg": -67.0,
+    "area_avg_price_per_sqm": 546,
+    "pct_vs_area_avg": -62.5,
     "score": 8
   },
   {
@@ -34725,38 +34793,6 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
-    "pct_vs_area_avg": 0.0,
-    "score": 0
-  },
-  {
-    "id": "imotibg_516154",
-    "url": "https://imoti.bg/продажби/къща/хасково-област/свърбица-516154.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6adc6fb4de91c_6adc709c46111.png",
-    "price_eur": 50000,
-    "sqm": 90,
-    "area": "с.Върбица",
-    "city": "Хасково област",
-    "title": "Къща, с.Върбица",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": null,
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 556,
-    "price_history": [
-      {
-        "date": "2026-10-24T15:02:35.901827+00:00",
-        "price_eur": 50000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 1,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 556,
     "pct_vs_area_avg": 0.0,
     "score": 0
   },
