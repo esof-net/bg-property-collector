@@ -3679,7 +3679,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 4.8,
-    "days_on_market": 49,
+    "days_on_market": 50,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2353,
@@ -315686,6 +315686,35 @@
     "score": 6
   },
   {
+    "id": "6111608",
+    "url": "https://www.imoti.net/en/obiava/prodava/dobrich/v-z-lozjata/vila/6111608/?sid=f9AqYo&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/6111608/main_image/thumb_280x210_img-f4f5d34ff3d11aa4c75db96e7b7536d6-v.jpg?ver=1792897947",
+    "price_eur": 73000,
+    "sqm": 118,
+    "area": "Lozyata",
+    "city": "Добрич",
+    "title": "Cottage, 118 м 2 Dobrich, Lozyata",
+    "portal": "imoti.net",
+    "category": "house",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 619,
+    "price_history": [
+      {
+        "date": "2026-09-06T05:06:01.215450+00:00",
+        "price_eur": 73000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 50,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 619,
+    "pct_vs_area_avg": 0.0,
+    "score": 6
+  },
+  {
     "id": "6303175",
     "url": "https://www.imoti.net/en/obiava/prodava/shumen/dobrudja/dvustaen/6303175/?sid=gEb389&page=6",
     "photo": "https://www.imoti.net/web/files/obiavi/6303175/main_image/thumb_280x210_photo-240626-10-43-59.jpg?ver=1791455907",
@@ -325076,7 +325105,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1005,
@@ -371314,35 +371343,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -6.1,
-    "score": 5
-  },
-  {
-    "id": "6111608",
-    "url": "https://www.imoti.net/en/obiava/prodava/dobrich/v-z-lozjata/vila/6111608/?sid=f9AqYo&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/6111608/main_image/thumb_280x210_img-f4f5d34ff3d11aa4c75db96e7b7536d6-v.jpg?ver=1792897947",
-    "price_eur": 73000,
-    "sqm": 118,
-    "area": "Lozyata",
-    "city": "Добрич",
-    "title": "Cottage, 118 м 2 Dobrich, Lozyata",
-    "portal": "imoti.net",
-    "category": "house",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 619,
-    "price_history": [
-      {
-        "date": "2026-09-06T05:06:01.215450+00:00",
-        "price_eur": 73000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 49,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 619,
-    "pct_vs_area_avg": 0.0,
     "score": 5
   },
   {
