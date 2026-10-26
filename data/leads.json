@@ -651,9 +651,9 @@
     ],
     "price_drop_count": 2,
     "drop_pct": 24.3,
-    "days_on_market": 36,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 34,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1741,
     "pct_vs_area_avg": -10.4,
     "score": 41
@@ -2247,9 +2247,9 @@
     ],
     "price_drop_count": 3,
     "drop_pct": 12.4,
-    "days_on_market": 25,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 23,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 2086,
     "pct_vs_area_avg": 2.6,
     "score": 35
@@ -6831,40 +6831,6 @@
     "score": 28
   },
   {
-    "id": "3197623",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/bankja/parcel/3197623/?sid=icNBCK&page=13",
-    "photo": "https://www.imoti.net/web/files/obiavi/3197623/main_image/thumb_280x210_img-20260911-122153.jpg?ver=1792811028",
-    "price_eur": 58500,
-    "sqm": 1300,
-    "area": "Bankya",
-    "city": "София",
-    "title": "Development land, 1300 м 2 Sofia, Bankya",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "site_posted_at": "2026-08-26",
-    "detail_checked": true,
-    "price_per_sqm": 45,
-    "price_history": [
-      {
-        "date": "2026-08-28T23:09:08.950490+00:00",
-        "price_eur": 65000
-      },
-      {
-        "date": "2026-09-26T10:11:59.990294+00:00",
-        "price_eur": 58500
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 10.0,
-    "days_on_market": 61,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1008,
-    "pct_vs_area_avg": -95.5,
-    "score": 28
-  },
-  {
     "id": "6230994",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/plovdiv-mladejki-hylm/dvustaen/6230994/?sid=huZFPB&page=19",
     "photo": "https://www.imoti.net/web/files/obiavi/6230994/main_image/thumb_280x210_main_image_6230994_1.jpg?ver=1792897603",
@@ -8316,6 +8282,40 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 3453,
     "pct_vs_area_avg": -21.8,
+    "score": 27
+  },
+  {
+    "id": "3197623",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/bankja/parcel/3197623/?sid=icNBCK&page=13",
+    "photo": "https://www.imoti.net/web/files/obiavi/3197623/main_image/thumb_280x210_img-20260911-122153.jpg?ver=1792811028",
+    "price_eur": 58500,
+    "sqm": 1300,
+    "area": "Bankya",
+    "city": "София",
+    "title": "Development land, 1300 м 2 Sofia, Bankya",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "site_posted_at": "2026-08-26",
+    "detail_checked": true,
+    "price_per_sqm": 45,
+    "price_history": [
+      {
+        "date": "2026-08-28T23:09:08.950490+00:00",
+        "price_eur": 65000
+      },
+      {
+        "date": "2026-09-26T10:11:59.990294+00:00",
+        "price_eur": 58500
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 10.0,
+    "days_on_market": 59,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 1008,
+    "pct_vs_area_avg": -95.5,
     "score": 27
   },
   {
@@ -12945,9 +12945,9 @@
     ],
     "price_drop_count": 2,
     "drop_pct": 3.4,
-    "days_on_market": 36,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 34,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1870,
     "pct_vs_area_avg": -9.6,
     "score": 24
@@ -89329,9 +89329,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 91,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 89,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 2117,
     "pct_vs_area_avg": -12.5,
     "score": 15
@@ -114781,9 +114781,9 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 0.0,
-    "days_on_market": 36,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 34,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 3437,
     "pct_vs_area_avg": -6.9,
     "score": 13
@@ -240985,9 +240985,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 70,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 68,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1581,
     "pct_vs_area_avg": 17.0,
     "score": 8
@@ -248559,38 +248559,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 742,
     "pct_vs_area_avg": -17.7,
-    "score": 8
-  },
-  {
-    "id": "6314411",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/ndk/ednostaen/6314411/?sid=icNBCK&page=20",
-    "photo": "https://www.imoti.net/web/files/obiavi/6314411/main_image/thumb_280x210_img-f6b8795370e400f826a87d75ae7ad746-v.jpg?ver=1792811044",
-    "price_eur": 95000,
-    "sqm": 25,
-    "area": "NDK",
-    "city": "София",
-    "title": "Studio/bedsit, 25 м 2 Sofia, Center, NDK",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "site_posted_at": "2026-10-17",
-    "lat": 42.6860330981,
-    "lng": 23.3122553338,
-    "detail_checked": true,
-    "price_per_sqm": 3800,
-    "price_history": [
-      {
-        "date": "2026-10-23T03:14:36.088801+00:00",
-        "price_eur": 95000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 9,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 4600,
-    "pct_vs_area_avg": -17.4,
     "score": 8
   },
   {
@@ -265270,42 +265238,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2387,
     "pct_vs_area_avg": 18.3,
-    "score": 7
-  },
-  {
-    "id": "6064185",
-    "url": "https://www.imoti.net/en/obiava/prodava/burgas/sarafovo/tristaen/6064185/?sid=g9tjtT&page=34",
-    "photo": "https://www.imoti.net/web/files/obiavi/6064185/main_image/thumb_280x210_main_image_6064185_1.jpg?ver=1792811361",
-    "price_eur": 149901,
-    "sqm": 98,
-    "area": "Sarafovo",
-    "city": "Бургас",
-    "title": "2 bedroom apartment, 98 м 2 Bourgas, Sarafovo",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "site_posted_at": "2026-09-23",
-    "photos": [
-      "https://www.imoti.net/web/files/obiavi/6064185/main_image/thumb_1200x630_wm_main_image_6064185_1.jpg",
-      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_2.jpg",
-      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_3.jpg",
-      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_4.jpg"
-    ],
-    "detail_checked": true,
-    "price_per_sqm": 1530,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 149901
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 33,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1660,
-    "pct_vs_area_avg": -7.9,
     "score": 7
   },
   {
@@ -298811,6 +298743,38 @@
     "score": 7
   },
   {
+    "id": "6314411",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/ndk/ednostaen/6314411/?sid=icNBCK&page=20",
+    "photo": "https://www.imoti.net/web/files/obiavi/6314411/main_image/thumb_280x210_img-f6b8795370e400f826a87d75ae7ad746-v.jpg?ver=1792811044",
+    "price_eur": 95000,
+    "sqm": 25,
+    "area": "NDK",
+    "city": "София",
+    "title": "Studio/bedsit, 25 м 2 Sofia, Center, NDK",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "site_posted_at": "2026-10-17",
+    "lat": 42.6860330981,
+    "lng": 23.3122553338,
+    "detail_checked": true,
+    "price_per_sqm": 3800,
+    "price_history": [
+      {
+        "date": "2026-10-23T03:14:36.088801+00:00",
+        "price_eur": 95000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 7,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 4600,
+    "pct_vs_area_avg": -17.4,
+    "score": 7
+  },
+  {
     "id": "6314839",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/ednostaen/6314839/?sid=huZFPB&page=11",
     "photo": "https://www.imoti.net/web/files/obiavi/6314839/main_image/thumb_280x210_main_image_6314839_1.jpg?ver=1792897584",
@@ -313992,9 +313956,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 53,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 51,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 2096,
     "pct_vs_area_avg": 19.3,
     "score": 6
@@ -317377,6 +317341,42 @@
     "score": 6
   },
   {
+    "id": "6064185",
+    "url": "https://www.imoti.net/en/obiava/prodava/burgas/sarafovo/tristaen/6064185/?sid=g9tjtT&page=34",
+    "photo": "https://www.imoti.net/web/files/obiavi/6064185/main_image/thumb_280x210_main_image_6064185_1.jpg?ver=1792811361",
+    "price_eur": 149901,
+    "sqm": 98,
+    "area": "Sarafovo",
+    "city": "Бургас",
+    "title": "2 bedroom apartment, 98 м 2 Bourgas, Sarafovo",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "site_posted_at": "2026-09-23",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6064185/main_image/thumb_1200x630_wm_main_image_6064185_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6064185/images/thumb_1200x630_wm_images_6064185_4.jpg"
+    ],
+    "detail_checked": true,
+    "price_per_sqm": 1530,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 149901
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 31,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 1660,
+    "pct_vs_area_avg": -7.9,
+    "score": 6
+  },
+  {
     "id": "6287132",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/tristaen/6287132/?sid=huZFPB&page=107",
     "photo": "https://www.imoti.net/web/files/obiavi/6287132/main_image/thumb_280x210_main_image_6287132_1.jpg?ver=1790090030",
@@ -319918,9 +319918,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 53,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 51,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1841,
     "pct_vs_area_avg": 27.3,
     "score": 6
@@ -354648,44 +354648,6 @@
     "removed_at": "2026-10-15T08:11:24.735062+00:00",
     "area_avg_price_per_sqm": 999,
     "pct_vs_area_avg": 56.1,
-    "score": 5
-  },
-  {
-    "id": "6206959",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/slatina/ednostaen/6206959/?sid=icNBCK&page=34",
-    "photo": "https://www.imoti.net/web/files/obiavi/6206959/main_image/thumb_280x210_main_image_6206959_1.jpg?ver=1792811076",
-    "price_eur": 126000,
-    "sqm": 50,
-    "area": "Slatina",
-    "city": "София",
-    "title": "Studio/bedsit, 50 м 2 Sofia, Slatina",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "site_posted_at": "2026-09-30",
-    "photos": [
-      "https://www.imoti.net/web/files/obiavi/6206959/main_image/thumb_1200x630_wm_main_image_6206959_1.jpg",
-      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_2.jpg",
-      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_3.jpg",
-      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_4.jpg",
-      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_5.jpg",
-      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_6.jpg"
-    ],
-    "detail_checked": true,
-    "price_per_sqm": 2520,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 126000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 26,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2640,
-    "pct_vs_area_avg": -4.6,
     "score": 5
   },
   {
@@ -402416,9 +402378,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 35,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 33,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 2086,
     "pct_vs_area_avg": -2.4,
     "score": 5
@@ -411781,6 +411743,44 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 2487,
     "pct_vs_area_avg": -10.7,
+    "score": 4
+  },
+  {
+    "id": "6206959",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/slatina/ednostaen/6206959/?sid=icNBCK&page=34",
+    "photo": "https://www.imoti.net/web/files/obiavi/6206959/main_image/thumb_280x210_main_image_6206959_1.jpg?ver=1792811076",
+    "price_eur": 126000,
+    "sqm": 50,
+    "area": "Slatina",
+    "city": "София",
+    "title": "Studio/bedsit, 50 м 2 Sofia, Slatina",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "site_posted_at": "2026-09-30",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6206959/main_image/thumb_1200x630_wm_main_image_6206959_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6206959/images/thumb_1200x630_wm_images_6206959_6.jpg"
+    ],
+    "detail_checked": true,
+    "price_per_sqm": 2520,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 126000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 24,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 2640,
+    "pct_vs_area_avg": -4.6,
     "score": 4
   },
   {
@@ -424693,9 +424693,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 36,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 34,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1581,
     "pct_vs_area_avg": 0.2,
     "score": 4
@@ -505119,9 +505119,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 38,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 36,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1595,
     "pct_vs_area_avg": 0.0,
     "score": 4
@@ -512758,9 +512758,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 26,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 24,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 2028,
     "pct_vs_area_avg": -98.5,
     "score": 3
@@ -516407,9 +516407,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 26,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 24,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1876,
     "pct_vs_area_avg": 22.2,
     "score": 3
@@ -572390,40 +572390,6 @@
     "score": 3
   },
   {
-    "id": "6158532",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/sofia/lulin-8/dvustaen/6158532/?sid=icNBCK&page=34",
-    "photo": "https://www.imoti.net/web/files/obiavi/6158532/main_image/thumb_280x210_main_image_6158532_1.jpg?ver=1792811076",
-    "price_eur": 126178,
-    "sqm": 61,
-    "area": "Lyulin",
-    "city": "София",
-    "title": "1 bedroom apartment, 61 м 2 Sofia, Lyulin",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "site_posted_at": "2026-10-06",
-    "photos": [
-      "https://www.imoti.net/web/files/obiavi/6158532/main_image/thumb_1200x630_wm_main_image_6158532_1.jpg",
-      "https://www.imoti.net/web/files/obiavi/6158532/images/thumb_1200x630_wm_images_6158532_2.jpg"
-    ],
-    "detail_checked": true,
-    "price_per_sqm": 2068,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 126178
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 20,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2086,
-    "pct_vs_area_avg": -0.9,
-    "score": 3
-  },
-  {
     "id": "6251616",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/park-vladislav-varnenchik/ednostaen/6251616/?sid=hOOTsy&page=21",
     "photo": "https://www.imoti.net/web/files/obiavi/6251616/main_image/thumb_280x210_main_image_6251616_1.jpg?ver=1792897711",
@@ -579664,9 +579630,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 25,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1841,
     "pct_vs_area_avg": 21.6,
     "score": 3
@@ -583085,43 +583051,6 @@
     "removed_at": "2026-10-23T03:14:36.088801+00:00",
     "area_avg_price_per_sqm": 999,
     "pct_vs_area_avg": 6.7,
-    "score": 3
-  },
-  {
-    "id": "6202151",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/lulin-8/atelie-tavan/6202151/?sid=icNBCK&page=34",
-    "photo": "https://www.imoti.net/web/files/obiavi/6202151/main_image/thumb_280x210_main_image_6202151_1.jpg?ver=1792811076",
-    "price_eur": 126178,
-    "sqm": 61,
-    "area": "Lyulin",
-    "city": "София",
-    "title": "Studio, 61 м 2 Sofia, Lyulin",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "site_posted_at": "2026-10-05",
-    "photos": [
-      "https://www.imoti.net/web/files/obiavi/6202151/main_image/thumb_1200x630_wm_main_image_6202151_1.jpg",
-      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_2.jpg",
-      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_3.jpg",
-      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_4.jpg",
-      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_5.jpg"
-    ],
-    "detail_checked": true,
-    "price_per_sqm": 2068,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 126178
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 21,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2086,
-    "pct_vs_area_avg": -0.9,
     "score": 3
   },
   {
@@ -592350,9 +592279,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 30,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 28,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1505,
     "pct_vs_area_avg": 29.0,
     "score": 3
@@ -592420,9 +592349,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 26,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1841,
     "pct_vs_area_avg": 21.6,
     "score": 3
@@ -596066,9 +595995,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 7,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1683,
     "pct_vs_area_avg": -5.8,
     "score": 3
@@ -702693,6 +702622,40 @@
     "score": 2
   },
   {
+    "id": "6158532",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/sofia/lulin-8/dvustaen/6158532/?sid=icNBCK&page=34",
+    "photo": "https://www.imoti.net/web/files/obiavi/6158532/main_image/thumb_280x210_main_image_6158532_1.jpg?ver=1792811076",
+    "price_eur": 126178,
+    "sqm": 61,
+    "area": "Lyulin",
+    "city": "София",
+    "title": "1 bedroom apartment, 61 м 2 Sofia, Lyulin",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "site_posted_at": "2026-10-06",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6158532/main_image/thumb_1200x630_wm_main_image_6158532_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6158532/images/thumb_1200x630_wm_images_6158532_2.jpg"
+    ],
+    "detail_checked": true,
+    "price_per_sqm": 2068,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 126178
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 18,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 2086,
+    "pct_vs_area_avg": -0.9,
+    "score": 2
+  },
+  {
     "id": "6241753",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/vinica/dvustaen/6241753/?sid=hOOTsy&page=53",
     "photo": "https://www.imoti.net/web/files/obiavi/6241753/main_image/thumb_280x210_main_image_6241753_1.jpg?ver=1790090428",
@@ -718009,6 +717972,43 @@
     "score": 2
   },
   {
+    "id": "6202151",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/lulin-8/atelie-tavan/6202151/?sid=icNBCK&page=34",
+    "photo": "https://www.imoti.net/web/files/obiavi/6202151/main_image/thumb_280x210_main_image_6202151_1.jpg?ver=1792811076",
+    "price_eur": 126178,
+    "sqm": 61,
+    "area": "Lyulin",
+    "city": "София",
+    "title": "Studio, 61 м 2 Sofia, Lyulin",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "site_posted_at": "2026-10-05",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6202151/main_image/thumb_1200x630_wm_main_image_6202151_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6202151/images/thumb_1200x630_wm_images_6202151_5.jpg"
+    ],
+    "detail_checked": true,
+    "price_per_sqm": 2068,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 126178
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 19,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 2086,
+    "pct_vs_area_avg": -0.9,
+    "score": 2
+  },
+  {
     "id": "6147602",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/lulin-centyr/magazin/6147602/?sid=icNBCK&page=46",
     "photo": "https://www.imoti.net/web/files/obiavi/6147602/main_image/thumb_280x210_viber-image-2025-01-14-13-56-55-141.jpg?ver=1790089352",
@@ -732798,38 +732798,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2779,
     "pct_vs_area_avg": -3.7,
-    "score": 2
-  },
-  {
-    "id": "6314412",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/sofija-centyr-idealen-centyr/ednostaen/6314412/?sid=icNBCK&page=20",
-    "photo": "https://www.imoti.net/web/files/obiavi/6314412/main_image/thumb_280x210_img-36e7d911902f41150a466df3a85c209e-v.jpg?ver=1792811044",
-    "price_eur": 95000,
-    "sqm": 25,
-    "area": "Ideal Center",
-    "city": "София",
-    "title": "Studio/bedsit, 25 м 2 Sofia, Center, Ideal Center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "site_posted_at": "2026-10-17",
-    "lat": 42.685904548,
-    "lng": 23.3121304575,
-    "detail_checked": true,
-    "price_per_sqm": 3800,
-    "price_history": [
-      {
-        "date": "2026-10-23T03:14:36.088801+00:00",
-        "price_eur": 95000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 9,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3868,
-    "pct_vs_area_avg": -1.8,
     "score": 2
   },
   {
@@ -832327,9 +832295,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 11,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 9,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1667,
     "pct_vs_area_avg": 1.1,
     "score": 1
@@ -832627,9 +832595,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 7,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 3444,
     "pct_vs_area_avg": 10.3,
     "score": 1
@@ -833126,9 +833094,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 8,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 6,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 274,
     "pct_vs_area_avg": -77.7,
     "score": 1
@@ -833238,6 +833206,38 @@
     "score": 1
   },
   {
+    "id": "6314412",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/sofija-centyr-idealen-centyr/ednostaen/6314412/?sid=icNBCK&page=20",
+    "photo": "https://www.imoti.net/web/files/obiavi/6314412/main_image/thumb_280x210_img-36e7d911902f41150a466df3a85c209e-v.jpg?ver=1792811044",
+    "price_eur": 95000,
+    "sqm": 25,
+    "area": "Ideal Center",
+    "city": "София",
+    "title": "Studio/bedsit, 25 м 2 Sofia, Center, Ideal Center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "site_posted_at": "2026-10-17",
+    "lat": 42.685904548,
+    "lng": 23.3121304575,
+    "detail_checked": true,
+    "price_per_sqm": 3800,
+    "price_history": [
+      {
+        "date": "2026-10-23T03:14:36.088801+00:00",
+        "price_eur": 95000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 7,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 3868,
+    "pct_vs_area_avg": -1.8,
+    "score": 1
+  },
+  {
     "id": "6314381",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/oborishte/garaj/6314381/?sid=icNBCK&page=21",
     "photo": "https://www.imoti.net/web/files/obiavi/6314381/main_image/thumb_280x210_main_image_6314381_1.jpg?ver=1792897499",
@@ -833273,38 +833273,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 3453,
     "pct_vs_area_avg": 11.2,
-    "score": 1
-  },
-  {
-    "id": "6316098",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/bankja/parcel/6316098/?sid=icNBCK&page=22",
-    "photo": "https://www.imoti.net/web/files/obiavi/6316098/main_image/thumb_280x210_snimka-1.jpg?ver=1792811049",
-    "price_eur": 102500,
-    "sqm": 500,
-    "area": "Bankya",
-    "city": "София",
-    "title": "Development land, 500 м 2 Sofia, Bankya",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "site_posted_at": "2026-10-22",
-    "lat": 42.6960693142,
-    "lng": 23.3253958611,
-    "detail_checked": true,
-    "price_per_sqm": 205,
-    "price_history": [
-      {
-        "date": "2026-10-23T03:14:36.088801+00:00",
-        "price_eur": 102500
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 4,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1008,
-    "pct_vs_area_avg": -79.7,
     "score": 1
   },
   {
@@ -834237,9 +834205,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 7,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
     "area_avg_price_per_sqm": 1913,
     "pct_vs_area_avg": 7.5,
     "score": 1
@@ -1002744,6 +1002712,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2028,
     "pct_vs_area_avg": -87.9,
+    "score": 0
+  },
+  {
+    "id": "6316098",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/bankja/parcel/6316098/?sid=icNBCK&page=22",
+    "photo": "https://www.imoti.net/web/files/obiavi/6316098/main_image/thumb_280x210_snimka-1.jpg?ver=1792811049",
+    "price_eur": 102500,
+    "sqm": 500,
+    "area": "Bankya",
+    "city": "София",
+    "title": "Development land, 500 м 2 Sofia, Bankya",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "site_posted_at": "2026-10-22",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "detail_checked": true,
+    "price_per_sqm": 205,
+    "price_history": [
+      {
+        "date": "2026-10-23T03:14:36.088801+00:00",
+        "price_eur": 102500
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 2,
+    "source_status": "removed",
+    "removed_at": "2026-10-24T03:13:09.121814+00:00",
+    "area_avg_price_per_sqm": 1008,
+    "pct_vs_area_avg": -79.7,
     "score": 0
   },
   {
