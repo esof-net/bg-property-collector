@@ -1380,6 +1380,42 @@
     "score": 22
   },
   {
+    "id": "imotibg_515923",
+    "url": "https://imoti.bg/продажби/вила/враца/център-515923.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab050eee7477_6ab052451d37a.jpg",
+    "price_eur": 45000,
+    "sqm": 734,
+    "area": "Център",
+    "city": "Враца",
+    "title": "Вила, Център",
+    "portal": "imoti.bg",
+    "lat": 43.2229451,
+    "lng": 23.5402562,
+    "description": "Вилата е на два етажа в местност Дери Вол до гр. Враца. Първи етаж кухня, две мазета. Втори етаж 2 стаи и предверие, три тераси, геран, резервоар за вода отделно от герана, двор, гараж, вътрешна баня с тоалетна. Къщата е близнак. Къщата е обзаведена. Намира се на 300 м от главния път Враца - Оряхово.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 61,
+    "price_history": [
+      {
+        "date": "2026-09-21T04:22:34.424853+00:00",
+        "price_eur": 50000
+      },
+      {
+        "date": "2026-09-29T23:40:37.783186+00:00",
+        "price_eur": 45000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 10.0,
+    "days_on_market": 35,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 61,
+    "pct_vs_area_avg": 0.0,
+    "score": 21
+  },
+  {
     "id": "imotibg_270272",
     "url": "https://imoti.bg/продажби/къща/варна/галата-270272.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aa2758ec736d_6aa2758eca936.jpg",
@@ -1689,42 +1725,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 86,
     "pct_vs_area_avg": -35.7,
-    "score": 20
-  },
-  {
-    "id": "imotibg_515923",
-    "url": "https://imoti.bg/продажби/вила/враца/център-515923.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab050eee7477_6ab052451d37a.jpg",
-    "price_eur": 45000,
-    "sqm": 734,
-    "area": "Център",
-    "city": "Враца",
-    "title": "Вила, Център",
-    "portal": "imoti.bg",
-    "lat": 43.2229451,
-    "lng": 23.5402562,
-    "description": "Вилата е на два етажа в местност Дери Вол до гр. Враца. Първи етаж кухня, две мазета. Втори етаж 2 стаи и предверие, три тераси, геран, резервоар за вода отделно от герана, двор, гараж, вътрешна баня с тоалетна. Къщата е близнак. Къщата е обзаведена. Намира се на 300 м от главния път Враца - Оряхово.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 61,
-    "price_history": [
-      {
-        "date": "2026-09-21T04:22:34.424853+00:00",
-        "price_eur": 50000
-      },
-      {
-        "date": "2026-09-29T23:40:37.783186+00:00",
-        "price_eur": 45000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 10.0,
-    "days_on_market": 34,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 61,
-    "pct_vs_area_avg": 0.0,
     "score": 20
   },
   {
@@ -5836,7 +5836,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2667,
@@ -21700,6 +21700,38 @@
     "score": 7
   },
   {
+    "id": "imotibg_515788",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас-област/грприморско-515788.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a8f34b5d6c4f_6a8f36b240428.jpg",
+    "price_eur": 92000,
+    "sqm": 41,
+    "area": "гр.Приморско",
+    "city": "Бургас област",
+    "title": "Едностаен апартамент, гр.Приморско",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Ново обзаведено студио - на ул. Надежда. Само на 3 минути пешеходно разстояние до въжения мост на южния плаж. Площ  с общите части 41 кв.м. Разпределение: входно антре, дневна с кухненски бокс, баня със санитарен възел и тераса.\r\nЗа повече информация, моля обадете се на тел. 0886101635. \r\nCAMO ЗА ЧАСТНИ ЛИЦА - БЕЗ ПОСРЕДНИЦИ!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2244,
+    "price_history": [
+      {
+        "date": "2026-08-28T04:41:50.772578+00:00",
+        "price_eur": 92000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 59,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2244,
+    "pct_vs_area_avg": 0.0,
+    "score": 7
+  },
+  {
     "id": "imotibg_514341",
     "url": "https://imoti.bg/продажби/едностаен-апартамент/ямбол/център-514341.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6998ad3a0e99c_6998ae306b804.jpg",
@@ -24001,38 +24033,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2245,
     "pct_vs_area_avg": 3.5,
-    "score": 6
-  },
-  {
-    "id": "imotibg_515788",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас-област/грприморско-515788.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a8f34b5d6c4f_6a8f36b240428.jpg",
-    "price_eur": 92000,
-    "sqm": 41,
-    "area": "гр.Приморско",
-    "city": "Бургас област",
-    "title": "Едностаен апартамент, гр.Приморско",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Ново обзаведено студио - на ул. Надежда. Само на 3 минути пешеходно разстояние до въжения мост на южния плаж. Площ  с общите части 41 кв.м. Разпределение: входно антре, дневна с кухненски бокс, баня със санитарен възел и тераса.\r\nЗа повече информация, моля обадете се на тел. 0886101635. \r\nCAMO ЗА ЧАСТНИ ЛИЦА - БЕЗ ПОСРЕДНИЦИ!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2244,
-    "price_history": [
-      {
-        "date": "2026-08-28T04:41:50.772578+00:00",
-        "price_eur": 92000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2244,
-    "pct_vs_area_avg": 0.0,
     "score": 6
   },
   {
