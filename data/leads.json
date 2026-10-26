@@ -40495,34 +40495,6 @@
     "score": 18
   },
   {
-    "id": "5802535",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/m-t-trakata/5802535/?sid=hOOTsy&page=98",
-    "photo": "https://www.imoti.net/web/files/obiavi/5802535/main_image/thumb_280x210_main_image_5802535_1.jpg?ver=1790090541",
-    "price_eur": 1200000,
-    "sqm": 1250,
-    "area": "locality Trakata",
-    "city": "Варна",
-    "title": ", 1250 м 2 Varna, locality Trakata",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 960,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 1200000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1829,
-    "pct_vs_area_avg": -47.5,
-    "score": 18
-  },
-  {
     "id": "6272405",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/avtogarata/dvustaen/6272405/?sid=hOOTsy&page=26",
     "photo": "https://www.imoti.net/web/files/obiavi/6272405/main_image/thumb_280x210_main_image_6272405_1.jpg?ver=1790761124",
@@ -84151,6 +84123,46 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 3577,
     "pct_vs_area_avg": -36.7,
+    "score": 15
+  },
+  {
+    "id": "5802535",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/m-t-trakata/5802535/?sid=hOOTsy&page=98",
+    "photo": "https://www.imoti.net/web/files/obiavi/5802535/main_image/thumb_280x210_main_image_5802535_1.jpg?ver=1790090541",
+    "price_eur": 1200000,
+    "sqm": 1250,
+    "area": "locality Trakata",
+    "city": "Варна",
+    "title": ", 1250 м 2 Varna, locality Trakata",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-12",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/5802535/main_image/thumb_1200x630_wm_main_image_5802535_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_6.jpg"
+    ],
+    "price_per_sqm": 960,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 1200000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1829,
+    "pct_vs_area_avg": -47.5,
     "score": 15
   },
   {

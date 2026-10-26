@@ -586798,7 +586798,19 @@
       "title": ", 1250 м 2 Varna, locality Trakata",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-12",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/5802535/main_image/thumb_1200x630_wm_main_image_5802535_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/5802535/images/thumb_1200x630_wm_images_5802535_6.jpg"
+      ]
     }
   },
   "3319444": {
