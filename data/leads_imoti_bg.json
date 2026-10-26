@@ -4876,7 +4876,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 2.1,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1575,
@@ -6037,6 +6037,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2924,
     "pct_vs_area_avg": -6.3,
+    "score": 9
+  },
+  {
+    "id": "imotibg_513727",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/бургас/лазур-513727.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_691c3a9de2ede_691c3af787083.jpg",
+    "price_eur": 170000,
+    "sqm": 66,
+    "area": "Лазур",
+    "city": "Бургас",
+    "title": "Двустаен апартамент, Лазур",
+    "portal": "imoti.bg",
+    "lat": 42.5124363,
+    "lng": 27.4703779,
+    "description": "2-стаен апартамент, 66 кв.м., ул Иван Богоров 35, ет.5, ведно с избено помещение 6.8 кв.м.\r\nТова е начало на Лазур, на 3 минути пеша от морската градина.\r\nНай-евтиният тук предлагат за 170 хил. евро",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2576,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 170000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 62,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2694,
+    "pct_vs_area_avg": -4.4,
     "score": 9
   },
   {
@@ -9473,38 +9505,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
-    "score": 8
-  },
-  {
-    "id": "imotibg_513727",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/бургас/лазур-513727.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_691c3a9de2ede_691c3af787083.jpg",
-    "price_eur": 170000,
-    "sqm": 66,
-    "area": "Лазур",
-    "city": "Бургас",
-    "title": "Двустаен апартамент, Лазур",
-    "portal": "imoti.bg",
-    "lat": 42.5124363,
-    "lng": 27.4703779,
-    "description": "2-стаен апартамент, 66 кв.м., ул Иван Богоров 35, ет.5, ведно с избено помещение 6.8 кв.м.\r\nТова е начало на Лазур, на 3 минути пеша от морската градина.\r\nНай-евтиният тук предлагат за 170 хил. евро",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2576,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 170000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 62,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2668,
-    "pct_vs_area_avg": -3.4,
     "score": 8
   },
   {
@@ -14807,7 +14807,7 @@
     "id": "imotibg_515621",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/бургас/лазур-515621.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a7478380222a_6a7478e705574.png",
-    "price_eur": 265000,
+    "price_eur": 270000,
     "sqm": 96,
     "area": "Лазур",
     "city": "Бургас",
@@ -14819,20 +14819,24 @@
     "site_posted_at": null,
     "category": "flat",
     "category_confidence": "high",
-    "price_per_sqm": 2760,
+    "price_per_sqm": 2812,
     "price_history": [
       {
         "date": "2026-08-24T23:43:33.818106+00:00",
         "price_eur": 265000
+      },
+      {
+        "date": "2026-10-26T21:46:34.023682+00:00",
+        "price_eur": 270000
       }
     ],
     "price_drop_count": 0,
-    "drop_pct": 0.0,
+    "drop_pct": -1.9,
     "days_on_market": 62,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 2668,
-    "pct_vs_area_avg": 3.4,
+    "area_avg_price_per_sqm": 2694,
+    "pct_vs_area_avg": 4.4,
     "score": 7
   },
   {
@@ -34825,7 +34829,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
