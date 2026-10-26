@@ -31792,6 +31792,38 @@
     "score": 2
   },
   {
+    "id": "imotibg_516061",
+    "url": "https://imoti.bg/продажби/парцел/перник-област/сголемо-бучино-516061.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6acc6a1b689c1_6acc6b36ba50a.jpg",
+    "price_eur": 25000,
+    "sqm": 512,
+    "area": "с.Големо Бучино",
+    "city": "Перник област",
+    "title": "Парцел, с.Големо Бучино",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Продава се дворно място, ограден парцел, с площ 512 кв.м. в село Големо Бучино, област Перник. На 20 минути от София и 15 минути от Перник.\r\nПанорамен терен с правилна форма, на 20 м. от асфалтов път, в целогодишно населен район.\r\nТрайно предазначение на територита: Урбанизирна\r\nНачин на застрояване: Ниско застрояване (до 10 м)\r\nПрекарани ток (с партида) и вода (в имота). Има собствен кладенец. Има поставен  жилищен фургон от стар модел. \r\nИмотът се намира на втора линия от асфалтовия път, като пред него има ивица земеделска земя. \r\nОт собственик. \r\nЦена: 25 000€ \r\nЗа информация : 0888137448 (след 15:00 часа)",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 49,
+    "price_history": [
+      {
+        "date": "2026-10-12T05:57:00.312808+00:00",
+        "price_eur": 25000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 14,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 49,
+    "pct_vs_area_avg": 0.0,
+    "score": 2
+  },
+  {
     "id": "imotibg_516070",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/хасково/дружба-516070.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6accf4df49f75_6accf62a3cc8e.jpg",
@@ -32144,38 +32176,6 @@
     "score": 1
   },
   {
-    "id": "imotibg_516061",
-    "url": "https://imoti.bg/продажби/парцел/перник-област/сголемо-бучино-516061.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6acc6a1b689c1_6acc6b36ba50a.jpg",
-    "price_eur": 25000,
-    "sqm": 512,
-    "area": "с.Големо Бучино",
-    "city": "Перник област",
-    "title": "Парцел, с.Големо Бучино",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Продава се дворно място, ограден парцел, с площ 512 кв.м. в село Големо Бучино, област Перник. На 20 минути от София и 15 минути от Перник.\r\nПанорамен терен с правилна форма, на 20 м. от асфалтов път, в целогодишно населен район.\r\nТрайно предазначение на територита: Урбанизирна\r\nНачин на застрояване: Ниско застрояване (до 10 м)\r\nПрекарани ток (с партида) и вода (в имота). Има собствен кладенец. Има поставен  жилищен фургон от стар модел. \r\nИмотът се намира на втора линия от асфалтовия път, като пред него има ивица земеделска земя. \r\nОт собственик. \r\nЦена: 25 000€ \r\nЗа информация : 0888137448 (след 15:00 часа)",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 49,
-    "price_history": [
-      {
-        "date": "2026-10-12T05:57:00.312808+00:00",
-        "price_eur": 25000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 13,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 49,
-    "pct_vs_area_avg": 0.0,
-    "score": 1
-  },
-  {
     "id": "imotibg_516068",
     "url": "https://imoti.bg/продажби/къща/пловдив-област/грпървомай-516068.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6accc1ad59aed_6accc2ec4381c.jpg",
@@ -32392,7 +32392,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1945,
