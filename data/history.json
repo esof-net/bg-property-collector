@@ -946657,7 +946657,11 @@
       "title": "Warehouse, 38 м 2 Sofia, American gollege",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-25",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316836": {
@@ -946679,7 +946683,11 @@
       "title": "Garage, 38 м 2 Sofia, American gollege",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-25",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316813": {
@@ -946701,7 +946709,19 @@
       "title": "2 bedroom apartment, 77 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-25",
+      "lat": 42.464192,
+      "lng": 27.416215,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316813/main_image/thumb_1200x630_wm_main_image_6316813_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316813/images/thumb_1200x630_wm_images_6316813_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316813/images/thumb_1200x630_wm_images_6316813_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316813/images/thumb_1200x630_wm_images_6316813_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316813/images/thumb_1200x630_wm_images_6316813_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316813/images/thumb_1200x630_wm_images_6316813_6.jpg"
+      ]
     }
   }
 }
