@@ -334398,34 +334398,6 @@
     "score": 6
   },
   {
-    "id": "6294753",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/tristaen/6294753/?sid=huZFPB&page=112",
-    "photo": "https://www.imoti.net/web/files/obiavi/6294753/main_image/thumb_280x210_1.png?ver=1790090043",
-    "price_eur": 159900,
-    "sqm": 104,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 104 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1538,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 159900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -8.6,
-    "score": 6
-  },
-  {
     "id": "6290181",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/tristaen/6290181/?sid=huZFPB&page=96",
     "photo": "https://www.imoti.net/web/files/obiavi/6290181/main_image/thumb_280x210_eff7e560-99f0-411b-be95-d191f1833c92.jpg?ver=1790090003",
@@ -389909,34 +389881,6 @@
     "score": 5
   },
   {
-    "id": "6290191",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kamenica-1/kashta/6290191/?sid=huZFPB&page=148",
-    "photo": "https://www.imoti.net/web/files/obiavi/6290191/main_image/thumb_280x210_01.png?ver=1790090146",
-    "price_eur": 245650,
-    "sqm": 150,
-    "area": "Kamenica",
-    "city": "Пловдив",
-    "title": "House, 150 м 2 Plovdiv, Kamenica",
-    "portal": "imoti.net",
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 1638,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 245650
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1720,
-    "pct_vs_area_avg": -4.8,
-    "score": 5
-  },
-  {
     "id": "6262968",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/krystova-vada/tristaen/6262968/?sid=icNBCK&page=183",
     "photo": "https://www.imoti.net/web/files/obiavi/6262968/main_image/thumb_280x210_main_image_6262968_1.jpg?ver=1790089707",
@@ -425113,34 +425057,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 493,
     "pct_vs_area_avg": -87.6,
-    "score": 4
-  },
-  {
-    "id": "6294495",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/proslav/parcel/6294495/?sid=huZFPB&page=112",
-    "photo": "https://www.imoti.net/web/files/obiavi/6294495/main_image/thumb_280x210_za-reklama.jpg?ver=1790090043",
-    "price_eur": 159900,
-    "sqm": 8000,
-    "area": "Proslav",
-    "city": "Пловдив",
-    "title": "Development land, 8000 м 2 Plovdiv, Proslav",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 20,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 159900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1192,
-    "pct_vs_area_avg": -98.3,
     "score": 4
   },
   {
@@ -499895,34 +499811,6 @@
     "score": 4
   },
   {
-    "id": "6296298",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/belomorski/tristaen/6296298/?sid=huZFPB&page=142",
-    "photo": "https://www.imoti.net/web/files/obiavi/6296298/main_image/thumb_280x210_01.jpg?ver=1790090131",
-    "price_eur": 222600,
-    "sqm": 84,
-    "area": "Belomorski",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 84 м 2 Plovdiv, Belomorski",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2650,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 222600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1129,
-    "pct_vs_area_avg": 134.7,
-    "score": 4
-  },
-  {
     "id": "5972952",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/mnogostaen/5972952/?sid=huZFPB&page=170",
     "photo": "https://www.imoti.net/web/files/obiavi/5972952/main_image/thumb_280x210_1ggg.jpg?ver=1790090208",
@@ -530377,34 +530265,6 @@
     "score": 3
   },
   {
-    "id": "6290062",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/tristaen/6290062/?sid=huZFPB&page=139",
-    "photo": "https://www.imoti.net/web/files/obiavi/6290062/main_image/thumb_280x210_01.png?ver=1790090122",
-    "price_eur": 211990,
-    "sqm": 97,
-    "area": "Trakia",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 97 м 2 Plovdiv, Trakia",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2185,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 211990
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1563,
-    "pct_vs_area_avg": 39.8,
-    "score": 3
-  },
-  {
     "id": "6289561",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/sofia/dianabad/tristaen/6289561/?sid=icNBCK&page=190",
     "photo": "https://www.imoti.net/web/files/obiavi/6289561/main_image/thumb_280x210_main_image_6289561_1.jpg?ver=1790089725",
@@ -540463,34 +540323,6 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 2797,
     "pct_vs_area_avg": -8.9,
-    "score": 3
-  },
-  {
-    "id": "6292483",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/tristaen/6292483/?sid=huZFPB&page=125",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292483/main_image/thumb_280x210_1.png?ver=1790090078",
-    "price_eur": 179990,
-    "sqm": 72,
-    "area": "Center",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 72 м 2 Plovdiv, Center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2500,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 179990
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 2156,
-    "pct_vs_area_avg": 16.0,
     "score": 3
   },
   {
@@ -557452,6 +557284,38 @@
     "score": 3
   },
   {
+    "id": "6294753",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/tristaen/6294753/?sid=huZFPB&page=112",
+    "photo": "https://www.imoti.net/web/files/obiavi/6294753/main_image/thumb_280x210_1.png?ver=1790090043",
+    "price_eur": 159900,
+    "sqm": 104,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 104 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 1538,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 159900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -8.6,
+    "score": 3
+  },
+  {
     "id": "6255837",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/lulin-9/tristaen/6255837/?sid=icNBCK&page=137",
     "photo": "https://www.imoti.net/web/files/obiavi/6255837/main_image/thumb_280x210_main_image_6255837_1.jpg?ver=1789355866",
@@ -564899,34 +564763,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2651,
     "pct_vs_area_avg": -9.3,
-    "score": 3
-  },
-  {
-    "id": "6293663",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/tristaen/6293663/?sid=huZFPB&page=126",
-    "photo": "https://www.imoti.net/web/files/obiavi/6293663/main_image/thumb_280x210_01.jpg?ver=1790090080",
-    "price_eur": 180290,
-    "sqm": 110,
-    "area": "Kichuk Paris",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 110 м 2 Plovdiv, Kichuk Paris",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1639,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 180290
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1595,
-    "pct_vs_area_avg": 2.7,
     "score": 3
   },
   {
@@ -582875,34 +582711,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2437,
     "pct_vs_area_avg": -7.1,
-    "score": 3
-  },
-  {
-    "id": "6288663",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/mnogostaen/6288663/?sid=huZFPB&page=153",
-    "photo": "https://www.imoti.net/web/files/obiavi/6288663/main_image/thumb_280x210_01.png?ver=1790090160",
-    "price_eur": 269900,
-    "sqm": 130,
-    "area": "Karshiaka",
-    "city": "Пловдив",
-    "title": "4+ bedroom apartment, 130 м 2 Plovdiv, Karshiaka",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 2076,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 269900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": 23.4,
     "score": 3
   },
   {
@@ -677523,6 +677331,38 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1667,
     "pct_vs_area_avg": -83.3,
+    "score": 2
+  },
+  {
+    "id": "6290191",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kamenica-1/kashta/6290191/?sid=huZFPB&page=148",
+    "photo": "https://www.imoti.net/web/files/obiavi/6290191/main_image/thumb_280x210_01.png?ver=1790090146",
+    "price_eur": 245650,
+    "sqm": 150,
+    "area": "Kamenica",
+    "city": "Пловдив",
+    "title": "House, 150 м 2 Plovdiv, Kamenica",
+    "portal": "imoti.net",
+    "category": "house",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 1638,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 245650
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1720,
+    "pct_vs_area_avg": -4.8,
     "score": 2
   },
   {
@@ -856354,6 +856194,38 @@
     "score": 0
   },
   {
+    "id": "6294495",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/proslav/parcel/6294495/?sid=huZFPB&page=112",
+    "photo": "https://www.imoti.net/web/files/obiavi/6294495/main_image/thumb_280x210_za-reklama.jpg?ver=1790090043",
+    "price_eur": 159900,
+    "sqm": 8000,
+    "area": "Proslav",
+    "city": "Пловдив",
+    "title": "Development land, 8000 м 2 Plovdiv, Proslav",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 20,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 159900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1192,
+    "pct_vs_area_avg": -98.3,
+    "score": 0
+  },
+  {
     "id": "6216254",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/obelja-2/dvustaen/6216254/?sid=icNBCK&page=47",
     "photo": "https://www.imoti.net/web/files/obiavi/6216254/main_image/thumb_280x210_main_image_6216254_1.jpg?ver=1790065167",
@@ -879160,6 +879032,38 @@
     "score": 0
   },
   {
+    "id": "6290062",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/tristaen/6290062/?sid=huZFPB&page=139",
+    "photo": "https://www.imoti.net/web/files/obiavi/6290062/main_image/thumb_280x210_01.png?ver=1790090122",
+    "price_eur": 211990,
+    "sqm": 97,
+    "area": "Trakia",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 97 м 2 Plovdiv, Trakia",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2185,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 211990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1563,
+    "pct_vs_area_avg": 39.8,
+    "score": 0
+  },
+  {
     "id": "6293345",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/varna-centyr/tristaen/6293345/?sid=hOOTsy&page=164",
     "photo": "https://www.imoti.net/web/files/obiavi/6293345/main_image/thumb_280x210_main_image_6293345_1.jpg?ver=1790066531",
@@ -900870,6 +900774,38 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 1490,
     "pct_vs_area_avg": 14.1,
+    "score": 0
+  },
+  {
+    "id": "6292483",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/tristaen/6292483/?sid=huZFPB&page=125",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292483/main_image/thumb_280x210_1.png?ver=1790090078",
+    "price_eur": 179990,
+    "sqm": 72,
+    "area": "Center",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 72 м 2 Plovdiv, Center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2500,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 179990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 2156,
+    "pct_vs_area_avg": 16.0,
     "score": 0
   },
   {
@@ -948629,6 +948565,38 @@
     "score": 0
   },
   {
+    "id": "6293663",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/tristaen/6293663/?sid=huZFPB&page=126",
+    "photo": "https://www.imoti.net/web/files/obiavi/6293663/main_image/thumb_280x210_01.jpg?ver=1790090080",
+    "price_eur": 180290,
+    "sqm": 110,
+    "area": "Kichuk Paris",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 110 м 2 Plovdiv, Kichuk Paris",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 1639,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 180290
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1595,
+    "pct_vs_area_avg": 2.7,
+    "score": 0
+  },
+  {
     "id": "6283355",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/karpuzica/dvustaen/6283355/?sid=icNBCK&page=86",
     "photo": "https://www.imoti.net/web/files/obiavi/6283355/main_image/thumb_280x210_main_image_6283355_1.jpg?ver=1790089456",
@@ -984595,6 +984563,38 @@
     "score": 0
   },
   {
+    "id": "6288663",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/mnogostaen/6288663/?sid=huZFPB&page=153",
+    "photo": "https://www.imoti.net/web/files/obiavi/6288663/main_image/thumb_280x210_01.png?ver=1790090160",
+    "price_eur": 269900,
+    "sqm": 130,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "4+ bedroom apartment, 130 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2076,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 269900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": 23.4,
+    "score": 0
+  },
+  {
     "id": "6191437",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/ovcha-kupel-1/dvustaen/6191437/?sid=icNBCK&page=105",
     "photo": "https://www.imoti.net/web/files/obiavi/6191437/main_image/thumb_280x210_main_image_6191437_1.jpg?ver=1790065319",
@@ -988300,6 +988300,38 @@
     "removed_at": "2026-09-20T11:03:16.062515+00:00",
     "area_avg_price_per_sqm": 2609,
     "pct_vs_area_avg": 12.0,
+    "score": 0
+  },
+  {
+    "id": "6296298",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/belomorski/tristaen/6296298/?sid=huZFPB&page=142",
+    "photo": "https://www.imoti.net/web/files/obiavi/6296298/main_image/thumb_280x210_01.jpg?ver=1790090131",
+    "price_eur": 222600,
+    "sqm": 84,
+    "area": "Belomorski",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 84 м 2 Plovdiv, Belomorski",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-26",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2650,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 222600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 1129,
+    "pct_vs_area_avg": 134.7,
     "score": 0
   },
   {
