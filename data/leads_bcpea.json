@@ -2201,7 +2201,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 615,
     "pct_vs_area_avg": -59.8,
     "score": 18
@@ -3607,7 +3607,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -52.8,
     "score": 16
@@ -3642,7 +3642,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -53.2,
     "score": 16
@@ -4905,7 +4905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -36.3,
     "score": 14
@@ -12661,7 +12661,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -13101,7 +13101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -20334,6 +20334,38 @@
     "score": 6
   },
   {
+    "id": "bcpea_92315",
+    "url": "https://sales.bcpea.org/properties/92315",
+    "photo": null,
+    "price_eur": 5890,
+    "sqm": 15,
+    "area": "Златна ливада",
+    "title": "Парцел, Златна ливада",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-14T13:03:00+00:00",
+    "category": "land",
+    "_settlement": "Златна ливада",
+    "lat": 42.1121601,
+    "lng": 25.43002,
+    "description": "Урегулиран поземлен имот II- 216 /  втори за двеста и шестнадесет / , находящ се в с.Златна ливада, общ.Чирпан, обл.Стара Загора, в кв. 38 / тридесет и осем/ по плана на с.Златна ливада, с площ по документ за собственост  1015  кв.м./ хиляда и петнадасет кв.м. ./при граници: от запад- край на регулацията, от север – Ракиджийница – УПИ I -229 , изток – път, юг УПИ III -217",
+    "detail_checked": true,
+    "price_per_sqm": 393,
+    "price_history": [
+      {
+        "date": "2026-09-14T14:21:30.906108+00:00",
+        "price_eur": 5890
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 43,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 6
+  },
+  {
     "id": "bcpea_91684",
     "url": "https://sales.bcpea.org/properties/91684",
     "photo": "https://sales.bcpea.org/upload/91684/457599/IMG_6519.jpg?w=270&h=270",
@@ -21279,7 +21311,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -22582,7 +22614,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -31718,7 +31750,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -33085,38 +33117,6 @@
     "source_status": "removed",
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 37,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 5
-  },
-  {
-    "id": "bcpea_92315",
-    "url": "https://sales.bcpea.org/properties/92315",
-    "photo": null,
-    "price_eur": 5890,
-    "sqm": 15,
-    "area": "Златна ливада",
-    "title": "Парцел, Златна ливада",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-14T13:03:00+00:00",
-    "category": "land",
-    "_settlement": "Златна ливада",
-    "lat": 42.1121601,
-    "lng": 25.43002,
-    "description": "Урегулиран поземлен имот II- 216 /  втори за двеста и шестнадесет / , находящ се в с.Златна ливада, общ.Чирпан, обл.Стара Загора, в кв. 38 / тридесет и осем/ по плана на с.Златна ливада, с площ по документ за собственост  1015  кв.м./ хиляда и петнадасет кв.м. ./при граници: от запад- край на регулацията, от север – Ракиджийница – УПИ I -229 , изток – път, юг УПИ III -217",
-    "detail_checked": true,
-    "price_per_sqm": 393,
-    "price_history": [
-      {
-        "date": "2026-09-14T14:21:30.906108+00:00",
-        "price_eur": 5890
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 42,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -36058,7 +36058,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -38234,7 +38234,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -38512,7 +38512,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 40,
+    "days_on_market": 41,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": -74.1,
     "score": 5
@@ -39136,7 +39136,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -40064,7 +40064,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 5
@@ -40252,7 +40252,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 5
@@ -40345,7 +40345,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 41,
+    "days_on_market": 42,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -40813,7 +40813,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -41957,7 +41957,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 5
@@ -45617,7 +45617,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 5
@@ -46356,7 +46356,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -92.1,
     "score": 5
@@ -46388,7 +46388,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46513,7 +46513,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 41,
+    "days_on_market": 42,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49191,7 +49191,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -50320,7 +50320,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -53773,7 +53773,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -60038,7 +60038,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -63375,7 +63375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64926,7 +64926,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73173,7 +73173,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73205,7 +73205,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73265,7 +73265,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73302,7 +73302,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73339,7 +73339,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73375,7 +73375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73407,7 +73407,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -95.4,
     "score": 4
@@ -74479,7 +74479,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77499,7 +77499,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 26,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": 8.0,
     "score": 3
@@ -78129,7 +78129,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78174,7 +78174,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 536,
     "pct_vs_area_avg": 56.6,
     "score": 3
@@ -78217,7 +78217,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": 90.0,
     "score": 3
@@ -78271,7 +78271,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 536,
     "pct_vs_area_avg": 37.8,
     "score": 3
@@ -80887,7 +80887,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83390,6 +83390,171 @@
     "score": 3
   },
   {
+    "id": "bcpea_92901",
+    "url": "https://sales.bcpea.org/properties/92901",
+    "photo": null,
+    "price_eur": 2880,
+    "sqm": 981,
+    "area": "Горно вършило",
+    "title": "Земеделски имот, Горно вършило",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T13:27:00+00:00",
+    "category": "apartment",
+    "_settlement": "Горно вършило",
+    "lat": 42.3296581,
+    "lng": 24.0050642,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732. 13.2 ( едно, шест, седем, три, две, точка, едно три, точка, две ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"СЕЛИЩЕТО\", п лощ: 2981 кв.м. ( две хиляди деветстотин осемдесет и един квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: гори и храсти в земеделска земя , к атегория на земята при неполивни условия: 8 , с номер по предходен план: 013002 , при съседи: 16732.13.3, 16732.208.6, 16732.13.1, 16732.13.33 Съгласно АЧОС № 2243/09.05.2016 г. върху имота има следните ограничения: 98 Да се използва съгласно Закона за горите и Правилника за приложението му. Началната цена, от която ще започне наддаването за недвижимия имот, описан под т. 3 по-горе , е в размер на 2880 ,00 евро ( две хиляди осемстотин и осемдесет евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 2880
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92900",
+    "url": "https://sales.bcpea.org/properties/92900",
+    "photo": null,
+    "price_eur": 936,
+    "sqm": 677,
+    "area": "Горно вършило",
+    "title": "Земеделска земя, Горно вършило",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T13:25:00+00:00",
+    "category": "land",
+    "_settlement": "Горно вършило",
+    "lat": 42.3296581,
+    "lng": 24.0050642,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732.91. 71 ( едно, шест, седем, три, две, точка, девет, едно, точка, седем, едно ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"РАНЧО\", п лощ: 677 кв.м. ( шестстотин седемдесет и седем квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 7 , с номер по предходен план: 091071 , при съседи: 16732.91.72, 16732.91.103, 16732.91.378, 16732.91.104 Началната цена, от която ще започне наддаването за недвижимия имот, описан под т. 2 по-горе , е в размер на 936,00 евро ( деветстотин тридесет и шест евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 936
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92899",
+    "url": "https://sales.bcpea.org/properties/92899",
+    "photo": null,
+    "price_eur": 1440,
+    "sqm": 27,
+    "area": "Горно вършило",
+    "title": "Земеделска земя, Горно вършило",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T13:23:00+00:00",
+    "category": "land",
+    "_settlement": "Горно вършило",
+    "lat": 42.3296581,
+    "lng": 24.0050642,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732.91.45 ( едно, шест, седем, три, две, точка, девет, едно, точка, четири, пет ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"РАНЧО\", п лощ: 1027 кв.м. ( хиляда двадесет и седем квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 7 , с номер по предходен план: 091045 , при съседи: 16732.91.41, 16732.91.42, 16732.91.38, 16732.91.378 Началната цена, от която ще започне наддаването за недвижими я имот, описан под т. 1 по-горе , е в размер на 1440 ,00 евро (хиляда четиристотин и четиридесет евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 53,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 1440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92898",
+    "url": "https://sales.bcpea.org/properties/92898",
+    "photo": null,
+    "price_eur": 5960,
+    "sqm": 281,
+    "area": "Сърница",
+    "title": "Земеделска земя, Сърница",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T13:13:00+00:00",
+    "category": "land",
+    "_settlement": "Сърница",
+    "lat": 41.7384034,
+    "lng": 24.024161,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 70648.51.68 ( седем, нула, шест, четири, осем, точка, пет, едно, точка, шест, осем ) по кадастралната карта и кадастралните регистри на гр. Сърница, общ. Сърница, обл. Пазарджик, одобрени със Заповед № РД- 18 - 794 / 11.11.2019 г. на изпълнителния директор на АГКК, а дрес на поземления имот: няма данни, м естност: „КАРААСАН“, с площ: 1281 кв.м ( хиляда двеста осемдесет и един квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 10 , с номер по предходен план: 051068 при съседи: 70648.51.72, 70648.51.70, 70648.51.67, 70648.51.138, 70648.51.79, 70648.51.73, 70648.51.71 Началната цена, от която ще започне наддаването, е в размер на 5960,00 евро ( пет хиляди деветстотин и шестдесет евро ) , съставляваща 80 % от стойността на имота, съгласно чл. 494 ГПК , във връзка с чл. 485, ал. 4 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 21,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 5960
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92897",
+    "url": "https://sales.bcpea.org/properties/92897",
+    "photo": "https://sales.bcpea.org/upload/92897/462788/20260507_111206.jpg?w=270&h=270",
+    "price_eur": 42394,
+    "sqm": 944,
+    "area": "Семчиново",
+    "title": "Земеделска земя, Семчиново",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T13:06:00+00:00",
+    "category": "land",
+    "_settlement": "Семчиново",
+    "lat": 42.17937,
+    "lng": 24.09231,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 66202.4.6 (шест, шест, две, нула, две, точка, четири, точка, шест) по кадастралната карта и кадастралните регистри на с. Семчиново, общ. Септември, обл. Пазарджик, одобрени със Заповед РД-18-1037/02.05.2018 г. на Изпълнителния директор на АГКК, адрес на поземления имот: с. Семчиново, местност: „КАРЯЦИТЕ“ , площ на имота: 2 944 кв. м. (две хиляди деветстотин четиридесет и четири квадратни метра), трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива , категория на земята при неполивни условия: 6 , номер от предходен план: 004006 , при съседи: 66202.3.172, 66202.3.170, 66202.4.183, 66202.1.195. Началната цена, от която ще започне наддаването за недвижими я имот, е в размер на 42 393,60 евро ( ч етиридесет и две хиляди триста деветдесет и три евро и шестдесет цента ), съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92897/462788/20260507_111206.jpg",
+      "https://sales.bcpea.org/upload/92897/462789/20260507_111209.jpg",
+      "https://sales.bcpea.org/upload/92897/462791/20260507_111249.jpg"
+    ],
+    "price_per_sqm": 45,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 42394
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
     "id": "bcpea_92896",
     "url": "https://sales.bcpea.org/properties/92896",
     "photo": null,
@@ -84849,171 +85014,6 @@
       {
         "date": "2026-10-07T14:59:49.486107+00:00",
         "price_eur": 5800
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92901",
-    "url": "https://sales.bcpea.org/properties/92901",
-    "photo": null,
-    "price_eur": 2880,
-    "sqm": 981,
-    "area": "Горно вършило",
-    "title": "Земеделски имот, Горно вършило",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T13:27:00+00:00",
-    "category": "apartment",
-    "_settlement": "Горно вършило",
-    "lat": 42.3296581,
-    "lng": 24.0050642,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732. 13.2 ( едно, шест, седем, три, две, точка, едно три, точка, две ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"СЕЛИЩЕТО\", п лощ: 2981 кв.м. ( две хиляди деветстотин осемдесет и един квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: гори и храсти в земеделска земя , к атегория на земята при неполивни условия: 8 , с номер по предходен план: 013002 , при съседи: 16732.13.3, 16732.208.6, 16732.13.1, 16732.13.33 Съгласно АЧОС № 2243/09.05.2016 г. върху имота има следните ограничения: 98 Да се използва съгласно Закона за горите и Правилника за приложението му. Началната цена, от която ще започне наддаването за недвижимия имот, описан под т. 3 по-горе , е в размер на 2880 ,00 евро ( две хиляди осемстотин и осемдесет евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 2880
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92900",
-    "url": "https://sales.bcpea.org/properties/92900",
-    "photo": null,
-    "price_eur": 936,
-    "sqm": 677,
-    "area": "Горно вършило",
-    "title": "Земеделска земя, Горно вършило",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T13:25:00+00:00",
-    "category": "land",
-    "_settlement": "Горно вършило",
-    "lat": 42.3296581,
-    "lng": 24.0050642,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732.91. 71 ( едно, шест, седем, три, две, точка, девет, едно, точка, седем, едно ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"РАНЧО\", п лощ: 677 кв.м. ( шестстотин седемдесет и седем квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 7 , с номер по предходен план: 091071 , при съседи: 16732.91.72, 16732.91.103, 16732.91.378, 16732.91.104 Началната цена, от която ще започне наддаването за недвижимия имот, описан под т. 2 по-горе , е в размер на 936,00 евро ( деветстотин тридесет и шест евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 936
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92899",
-    "url": "https://sales.bcpea.org/properties/92899",
-    "photo": null,
-    "price_eur": 1440,
-    "sqm": 27,
-    "area": "Горно вършило",
-    "title": "Земеделска земя, Горно вършило",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T13:23:00+00:00",
-    "category": "land",
-    "_settlement": "Горно вършило",
-    "lat": 42.3296581,
-    "lng": 24.0050642,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16732.91.45 ( едно, шест, седем, три, две, точка, девет, едно, точка, четири, пет ) по кадастралната карта и кадастралните регистри на с. Горно вършило, общ. Септември, обл. Пазарджик, одобрени със Заповед № РД-18-1032/02.05.2018 г. на И зпълнителния директор на АГКК, а дрес на поземления имот: с. Горно вършило, м естност: \"РАНЧО\", п лощ: 1027 кв.м. ( хиляда двадесет и седем квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 7 , с номер по предходен план: 091045 , при съседи: 16732.91.41, 16732.91.42, 16732.91.38, 16732.91.378 Началната цена, от която ще започне наддаването за недвижими я имот, описан под т. 1 по-горе , е в размер на 1440 ,00 евро (хиляда четиристотин и четиридесет евро) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 53,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 1440
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92898",
-    "url": "https://sales.bcpea.org/properties/92898",
-    "photo": null,
-    "price_eur": 5960,
-    "sqm": 281,
-    "area": "Сърница",
-    "title": "Земеделска земя, Сърница",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T13:13:00+00:00",
-    "category": "land",
-    "_settlement": "Сърница",
-    "lat": 41.7384034,
-    "lng": 24.024161,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 70648.51.68 ( седем, нула, шест, четири, осем, точка, пет, едно, точка, шест, осем ) по кадастралната карта и кадастралните регистри на гр. Сърница, общ. Сърница, обл. Пазарджик, одобрени със Заповед № РД- 18 - 794 / 11.11.2019 г. на изпълнителния директор на АГКК, а дрес на поземления имот: няма данни, м естност: „КАРААСАН“, с площ: 1281 кв.м ( хиляда двеста осемдесет и един квадратни метра), с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , к атегория на земята при неполивни условия: 10 , с номер по предходен план: 051068 при съседи: 70648.51.72, 70648.51.70, 70648.51.67, 70648.51.138, 70648.51.79, 70648.51.73, 70648.51.71 Началната цена, от която ще започне наддаването, е в размер на 5960,00 евро ( пет хиляди деветстотин и шестдесет евро ) , съставляваща 80 % от стойността на имота, съгласно чл. 494 ГПК , във връзка с чл. 485, ал. 4 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 21,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 5960
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92897",
-    "url": "https://sales.bcpea.org/properties/92897",
-    "photo": "https://sales.bcpea.org/upload/92897/462788/20260507_111206.jpg?w=270&h=270",
-    "price_eur": 42394,
-    "sqm": 944,
-    "area": "Семчиново",
-    "title": "Земеделска земя, Семчиново",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T13:06:00+00:00",
-    "category": "land",
-    "_settlement": "Семчиново",
-    "lat": 42.17937,
-    "lng": 24.09231,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 66202.4.6 (шест, шест, две, нула, две, точка, четири, точка, шест) по кадастралната карта и кадастралните регистри на с. Семчиново, общ. Септември, обл. Пазарджик, одобрени със Заповед РД-18-1037/02.05.2018 г. на Изпълнителния директор на АГКК, адрес на поземления имот: с. Семчиново, местност: „КАРЯЦИТЕ“ , площ на имота: 2 944 кв. м. (две хиляди деветстотин четиридесет и четири квадратни метра), трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива , категория на земята при неполивни условия: 6 , номер от предходен план: 004006 , при съседи: 66202.3.172, 66202.3.170, 66202.4.183, 66202.1.195. Началната цена, от която ще започне наддаването за недвижими я имот, е в размер на 42 393,60 евро ( ч етиридесет и две хиляди триста деветдесет и три евро и шестдесет цента ), съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, във връзка с чл. 485 от ГПК.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92897/462788/20260507_111206.jpg",
-      "https://sales.bcpea.org/upload/92897/462789/20260507_111209.jpg",
-      "https://sales.bcpea.org/upload/92897/462791/20260507_111249.jpg"
-    ],
-    "price_per_sqm": 45,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 42394
       }
     ],
     "price_drop_count": 0,
@@ -86696,7 +86696,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86732,7 +86732,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86764,7 +86764,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86796,7 +86796,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86828,7 +86828,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86860,7 +86860,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -86898,7 +86898,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88166,7 +88166,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88201,7 +88201,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91855,7 +91855,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91907,7 +91907,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92278,7 +92278,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92310,7 +92310,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93188,6 +93188,198 @@
     "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93232",
+    "url": "https://sales.bcpea.org/properties/93232",
+    "photo": null,
+    "price_eur": 1947,
+    "sqm": 776,
+    "area": "Сестримо",
+    "title": "Земеделска земя, Сестримо",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:49:00+00:00",
+    "category": "land",
+    "_settlement": "Сестримо",
+    "lat": 42.21589,
+    "lng": 23.92005,
+    "description": "2 бр. имоти в м. ПЯСЪКА , с. Сестримо с подробна информация за публичната продан в прикаченото обявление. 10.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.28 (шест, шест, три, едно, девет, точка, едно, пет, точка, две, осем) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност ПЯСЪКА , площ: 3058 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015028 , съседи: 66319.15.29, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 10, е в размер на 1246,40 евро ( хиляда двеста четиридесет и шест евро и четиридесет цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 11.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.33 (шест, шест, три, едно, девет, точка, едно, пет, точка, три, три) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност ПЯСЪКА , площ: 1718 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015033 , съседи: 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 11, е в размер на 700,26 евро ( седемстотин евро и двадесет и шест цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 1947
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93231",
+    "url": "https://sales.bcpea.org/properties/93231",
+    "photo": null,
+    "price_eur": 194,
+    "sqm": 476,
+    "area": "Сестримо",
+    "title": "Земеделска земя, Сестримо",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:44:00+00:00",
+    "category": "land",
+    "_settlement": "Сестримо",
+    "lat": 42.21589,
+    "lng": 23.92005,
+    "description": "9.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.16 (шест, шест, три, едно, девет, точка, едно, пет, точка, едно, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СТОЯНИЦА , площ: 476 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015016 , съседи: 66319.15.101, 66319.15.17 Началната цена, от която ще започне наддаването за имота по т. 9 , е в размер на 194,03 евро ( сто деветдесет и четири евро и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 194
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93230",
+    "url": "https://sales.bcpea.org/properties/93230",
+    "photo": null,
+    "price_eur": 3447,
+    "sqm": 458,
+    "area": "Сестримо",
+    "title": "Земеделска земя, Сестримо",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:39:00+00:00",
+    "category": "land",
+    "_settlement": "Сестримо",
+    "lat": 42.21589,
+    "lng": 23.92005,
+    "description": "3 бр. имоти в м. МАНАСТИРА , с.Сестримо с подробна информация за публичната продан в прикаченото обявление. 6.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.1 (шест, шест, три, едно, девет, точка, едно, пет, точка, едно) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 2194 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015001 , съседи: 66319.15.3, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 6 , е в размер на 894,21 евро ( осемстотин деветдесет и четири евро и двадесет и един цента ) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 7.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.4 (шест, шест, три, едно, девет, точка, едно, пет, точка, четири) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 1907 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015004 , съседи: 66319.12.2, 66319.12.10, 66319.15.101, 66319.12.4 Началната цена, от която ще започне наддаването за имота по т. 7 е в размер на 777,24 евро ( седемстотин седемдесет и седем евро и двадесет и четири цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 8.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.6 (шест, шест, три, едно, девет, точка, едно, пет, точка, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 4357 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015006 , съседи: 66319.12.9, 66319.12.22, 66319.12.34, 66319.12.21, 66319.12.8, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 8, е в размер на 1775,93 евро ( хиляда седемстотин седемдесет и пет евро и деветдесет и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 8,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 3447
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93229",
+    "url": "https://sales.bcpea.org/properties/93229",
+    "photo": null,
+    "price_eur": 20504,
+    "sqm": 312,
+    "area": "Сестримо",
+    "title": "Земеделска земя, Сестримо",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:35:00+00:00",
+    "category": "land",
+    "_settlement": "Сестримо",
+    "lat": 42.21589,
+    "lng": 23.92005,
+    "description": "2 бр. имоти в м. АНГЬОВОТО , с. Сестримо с подробна информация за публичната продан в прикаченото обявление. 4.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.3.16 (шест, шест, три, едно, девет, точка, три, точка, едно, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност АНГЬОВОТО , площ: 16314 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 003016 , съседи: 66319.4.277, 66319.4.29, 66319.2.9, 66319.2.102, 66319.3.9, 66319.2.12, 66319.3.1, 66319.4.6, 66319.4.221, 66319.4.218, 66319.4.215, 66319.4.256, 66319.4.311 Началната цена, от която ще започне наддаването за имота по т. 4, е в размер на 5736,54 евро ( пет хиляди седемстотин тридесет и шест евро и петдесет и четири цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 5.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.3.220 (шест, шест, три, едно, девет, точка, три, точка, две, две, нула) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност АНГЬОВОТО , площ: 41998 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: 66319.3.18, номер по предходен план: 003020 , съседи: 66319.61.221, 66319.3.219, 66319.3.14, 66319.61.128, 66319.61.20, 66319.3.3, 66319.3.9, 66319.3.13. Началната цена, от която ще започне наддаването за имота по т. 5, е в размер на 14767,90 евро ( четиринадесет хиляди седемстотин шестдесет и седем евро и деветдесет цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 66,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 20504
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93228",
+    "url": "https://sales.bcpea.org/properties/93228",
+    "photo": null,
+    "price_eur": 41841,
+    "sqm": 991,
+    "area": "Сестримо",
+    "title": "Земеделска земя, Сестримо",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:31:00+00:00",
+    "category": "land",
+    "_settlement": "Сестримо",
+    "lat": 42.21589,
+    "lng": 23.92005,
+    "description": "3 бр. имоти в м. СРЕДНА ЧУКАРА, с.Сестримо с подробна информация за публичната продан в прикаченото обявление. 1 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.8 (шест, шест, три, едно, девет, точка, две, точка, осем) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА, площ: 2526 кв.м., трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002008, съседи: 66319.2.102, 66319.2.12, 66319.2.7 Началната цена, от която ще започне наддаването за имота по т. 1, е в размер на 888,23 евро ( осемстотин осемдесет и осем евро и двадесет и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 2 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.13 (шест, шест, три, едно, девет, точка, две, точка, едно, три) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА , площ: 4130 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002013 , съседи: 66319.2.14, 66319.11.210 Началната цена, от която ще започне наддаването за имота по т. 2, е в размер на 1452,27 евро ( хиляда четиристотин петдесет и две евро и двадесет и седем цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 3 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.31 (шест, шест, три, едно, девет, точка, две, точка, три, едно) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА , площ: 112335 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002031 , съседи: 66319.2.19, 66319.2.18, 66319.2.29, 66319.2.14, 66319.11.210, 66319.2.5, 66319.61.3, 66319.2.12, 66319.2.6, 66319.2.101 Началната цена, от която ще започне наддаването за имота по т. 3 , е в размер на 39500,99 евро ( тридесет и девет хиляди и петстотин евро и деветдесет и девет цента) , съставляваща 80 % от цената, съгласночл. 485 от ГПК.",
+    "detail_checked": true,
+    "price_per_sqm": 42,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 41841
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93227",
+    "url": "https://sales.bcpea.org/properties/93227",
+    "photo": null,
+    "price_eur": 12424,
+    "sqm": 298,
+    "area": "Шумен",
+    "title": "Земеделска земя, Шумен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-15T13:06:00+00:00",
+    "category": "land",
+    "_settlement": "Шумен",
+    "lat": 43.3088188,
+    "lng": 27.0197261,
+    "description": "½ /една втора/ идеална част от Поземлен имот с идентификатор 83510.10.74 /осем три пет едно нула точка едно нула точка седем четири/, находящ се в област Шумен, община Шумен, гр. Шумен, местност КУВАНЛЪК , вид територия Земеделска, категория 6 /шеста/, НТП Лозе, с площ 1298 кв. м /хиляда двеста деветдесет и осем квадратни метра/, при съседи: 83510.10.79, 83510.10.81, 83510.10.82, 83510.10.517, 83510.10.996. По КККР одобрени със Заповед за одобрение на КККР РД-18-52/25.11.2005 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, а съгласно документ за собственост ½ /една втора/ идеална част от ЛОЗЕ от 1217 /хиляда двеста и седемнадесет/ квадратни метра находящо се в местността \"КУВАНЛЪК\" в землището на град ШУМЕН представляващо имот №010074 /нула десет нула седемдесет и четири/, съответно парцел №74 /седемдесет и четири/ от масив №10 /десет/, при граници по плана за земеразделяне както следва имот № 010079 лозе, имот № 010081 лозе, №010082 лозе, полски път № 000444, имот № 010073 лозе и имот №010078 лозе.",
+    "detail_checked": true,
+    "price_per_sqm": 42,
+    "price_history": [
+      {
+        "date": "2026-10-15T13:18:40.026848+00:00",
+        "price_eur": 12424
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": 15535,
+    "pct_vs_area_avg": -99.7,
     "score": 2
   },
   {
@@ -94234,7 +94426,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -3.1,
     "score": 2
@@ -95309,198 +95501,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93232",
-    "url": "https://sales.bcpea.org/properties/93232",
-    "photo": null,
-    "price_eur": 1947,
-    "sqm": 776,
-    "area": "Сестримо",
-    "title": "Земеделска земя, Сестримо",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:49:00+00:00",
-    "category": "land",
-    "_settlement": "Сестримо",
-    "lat": 42.21589,
-    "lng": 23.92005,
-    "description": "2 бр. имоти в м. ПЯСЪКА , с. Сестримо с подробна информация за публичната продан в прикаченото обявление. 10.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.28 (шест, шест, три, едно, девет, точка, едно, пет, точка, две, осем) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност ПЯСЪКА , площ: 3058 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015028 , съседи: 66319.15.29, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 10, е в размер на 1246,40 евро ( хиляда двеста четиридесет и шест евро и четиридесет цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 11.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.33 (шест, шест, три, едно, девет, точка, едно, пет, точка, три, три) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност ПЯСЪКА , площ: 1718 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015033 , съседи: 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 11, е в размер на 700,26 евро ( седемстотин евро и двадесет и шест цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 1947
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93231",
-    "url": "https://sales.bcpea.org/properties/93231",
-    "photo": null,
-    "price_eur": 194,
-    "sqm": 476,
-    "area": "Сестримо",
-    "title": "Земеделска земя, Сестримо",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:44:00+00:00",
-    "category": "land",
-    "_settlement": "Сестримо",
-    "lat": 42.21589,
-    "lng": 23.92005,
-    "description": "9.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.16 (шест, шест, три, едно, девет, точка, едно, пет, точка, едно, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СТОЯНИЦА , площ: 476 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015016 , съседи: 66319.15.101, 66319.15.17 Началната цена, от която ще започне наддаването за имота по т. 9 , е в размер на 194,03 евро ( сто деветдесет и четири евро и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 194
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93230",
-    "url": "https://sales.bcpea.org/properties/93230",
-    "photo": null,
-    "price_eur": 3447,
-    "sqm": 458,
-    "area": "Сестримо",
-    "title": "Земеделска земя, Сестримо",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:39:00+00:00",
-    "category": "land",
-    "_settlement": "Сестримо",
-    "lat": 42.21589,
-    "lng": 23.92005,
-    "description": "3 бр. имоти в м. МАНАСТИРА , с.Сестримо с подробна информация за публичната продан в прикаченото обявление. 6.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.1 (шест, шест, три, едно, девет, точка, едно, пет, точка, едно) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 2194 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015001 , съседи: 66319.15.3, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 6 , е в размер на 894,21 евро ( осемстотин деветдесет и четири евро и двадесет и един цента ) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 7.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.4 (шест, шест, три, едно, девет, точка, едно, пет, точка, четири) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 1907 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015004 , съседи: 66319.12.2, 66319.12.10, 66319.15.101, 66319.12.4 Началната цена, от която ще започне наддаването за имота по т. 7 е в размер на 777,24 евро ( седемстотин седемдесет и седем евро и двадесет и четири цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 8.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.15.6 (шест, шест, три, едно, девет, точка, едно, пет, точка, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност МАНАСТИРА , площ: 4357 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 6, предишен идентификатор: няма, номер по предходен план: 015006 , съседи: 66319.12.9, 66319.12.22, 66319.12.34, 66319.12.21, 66319.12.8, 66319.15.101 Началната цена, от която ще започне наддаването за имота по т. 8, е в размер на 1775,93 евро ( хиляда седемстотин седемдесет и пет евро и деветдесет и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 8,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 3447
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93229",
-    "url": "https://sales.bcpea.org/properties/93229",
-    "photo": null,
-    "price_eur": 20504,
-    "sqm": 312,
-    "area": "Сестримо",
-    "title": "Земеделска земя, Сестримо",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:35:00+00:00",
-    "category": "land",
-    "_settlement": "Сестримо",
-    "lat": 42.21589,
-    "lng": 23.92005,
-    "description": "2 бр. имоти в м. АНГЬОВОТО , с. Сестримо с подробна информация за публичната продан в прикаченото обявление. 4.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.3.16 (шест, шест, три, едно, девет, точка, три, точка, едно, шест) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност АНГЬОВОТО , площ: 16314 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 003016 , съседи: 66319.4.277, 66319.4.29, 66319.2.9, 66319.2.102, 66319.3.9, 66319.2.12, 66319.3.1, 66319.4.6, 66319.4.221, 66319.4.218, 66319.4.215, 66319.4.256, 66319.4.311 Началната цена, от която ще започне наддаването за имота по т. 4, е в размер на 5736,54 евро ( пет хиляди седемстотин тридесет и шест евро и петдесет и четири цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 5.) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.3.220 (шест, шест, три, едно, девет, точка, три, точка, две, две, нула) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност АНГЬОВОТО , площ: 41998 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: 66319.3.18, номер по предходен план: 003020 , съседи: 66319.61.221, 66319.3.219, 66319.3.14, 66319.61.128, 66319.61.20, 66319.3.3, 66319.3.9, 66319.3.13. Началната цена, от която ще започне наддаването за имота по т. 5, е в размер на 14767,90 евро ( четиринадесет хиляди седемстотин шестдесет и седем евро и деветдесет цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 66,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 20504
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93228",
-    "url": "https://sales.bcpea.org/properties/93228",
-    "photo": null,
-    "price_eur": 41841,
-    "sqm": 991,
-    "area": "Сестримо",
-    "title": "Земеделска земя, Сестримо",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:31:00+00:00",
-    "category": "land",
-    "_settlement": "Сестримо",
-    "lat": 42.21589,
-    "lng": 23.92005,
-    "description": "3 бр. имоти в м. СРЕДНА ЧУКАРА, с.Сестримо с подробна информация за публичната продан в прикаченото обявление. 1 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.8 (шест, шест, три, едно, девет, точка, две, точка, осем) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА, площ: 2526 кв.м., трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002008, съседи: 66319.2.102, 66319.2.12, 66319.2.7 Началната цена, от която ще започне наддаването за имота по т. 1, е в размер на 888,23 евро ( осемстотин осемдесет и осем евро и двадесет и три цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 2 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.13 (шест, шест, три, едно, девет, точка, две, точка, едно, три) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА , площ: 4130 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002013 , съседи: 66319.2.14, 66319.11.210 Началната цена, от която ще започне наддаването за имота по т. 2, е в размер на 1452,27 евро ( хиляда четиристотин петдесет и две евро и двадесет и седем цента) , съставляваща 80 % от цената, съгласно чл. 485 от ГПК. 3 .) ПОЗЕМЛЕН ИМОТ с идентификатор 66319.2.31 (шест, шест, три, едно, девет, точка, две, точка, три, едно) по КККР на с. Сестримо, общ. Белово, обл. Пазарджик, одобрени със Заповед № РД-18-120/20.02.2019 г. на Изпълнителен директор на АГКК, местност СРЕДНА ЧУКАРА , площ: 112335 кв.м. , трайно предназначение на територията: Земеделска, начин на трайно ползване: Гори и храсти в земеделска земя, категория на земята при неполивни условия: 9, предишен идентификатор: няма, номер по предходен план: 002031 , съседи: 66319.2.19, 66319.2.18, 66319.2.29, 66319.2.14, 66319.11.210, 66319.2.5, 66319.61.3, 66319.2.12, 66319.2.6, 66319.2.101 Началната цена, от която ще започне наддаването за имота по т. 3 , е в размер на 39500,99 евро ( тридесет и девет хиляди и петстотин евро и деветдесет и девет цента) , съставляваща 80 % от цената, съгласночл. 485 от ГПК.",
-    "detail_checked": true,
-    "price_per_sqm": 42,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 41841
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93227",
-    "url": "https://sales.bcpea.org/properties/93227",
-    "photo": null,
-    "price_eur": 12424,
-    "sqm": 298,
-    "area": "Шумен",
-    "title": "Земеделска земя, Шумен",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-15T13:06:00+00:00",
-    "category": "land",
-    "_settlement": "Шумен",
-    "lat": 43.3088188,
-    "lng": 27.0197261,
-    "description": "½ /една втора/ идеална част от Поземлен имот с идентификатор 83510.10.74 /осем три пет едно нула точка едно нула точка седем четири/, находящ се в област Шумен, община Шумен, гр. Шумен, местност КУВАНЛЪК , вид територия Земеделска, категория 6 /шеста/, НТП Лозе, с площ 1298 кв. м /хиляда двеста деветдесет и осем квадратни метра/, при съседи: 83510.10.79, 83510.10.81, 83510.10.82, 83510.10.517, 83510.10.996. По КККР одобрени със Заповед за одобрение на КККР РД-18-52/25.11.2005 г., издадена от ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, а съгласно документ за собственост ½ /една втора/ идеална част от ЛОЗЕ от 1217 /хиляда двеста и седемнадесет/ квадратни метра находящо се в местността \"КУВАНЛЪК\" в землището на град ШУМЕН представляващо имот №010074 /нула десет нула седемдесет и четири/, съответно парцел №74 /седемдесет и четири/ от масив №10 /десет/, при граници по плана за земеразделяне както следва имот № 010079 лозе, имот № 010081 лозе, №010082 лозе, полски път № 000444, имот № 010073 лозе и имот №010078 лозе.",
-    "detail_checked": true,
-    "price_per_sqm": 42,
-    "price_history": [
-      {
-        "date": "2026-10-15T13:18:40.026848+00:00",
-        "price_eur": 12424
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": 15535,
-    "pct_vs_area_avg": -99.7,
-    "score": 1
-  },
-  {
     "id": "bcpea_93251",
     "url": "https://sales.bcpea.org/properties/93251",
     "photo": null,
@@ -95739,7 +95739,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95775,7 +95775,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95810,7 +95810,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95846,7 +95846,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95890,7 +95890,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": -83.0,
     "score": 1
@@ -95922,7 +95922,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -95957,7 +95957,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": -97.8,
     "score": 1
@@ -95994,7 +95994,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96030,7 +96030,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": -99.8,
     "score": 1
@@ -96066,7 +96066,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96107,7 +96107,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96144,7 +96144,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96184,7 +96184,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99059,7 +99059,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99091,7 +99091,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -101485,7 +101485,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -101517,7 +101517,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102554,7 +102554,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102586,7 +102586,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102618,7 +102618,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102650,7 +102650,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102682,7 +102682,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102714,7 +102714,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102746,7 +102746,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102778,7 +102778,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103953,6 +103953,304 @@
     "score": 1
   },
   {
+    "id": "bcpea_93546",
+    "url": "https://sales.bcpea.org/properties/93546",
+    "photo": "https://sales.bcpea.org/upload/93546/465601/11301.1.438.png?w=270&h=270",
+    "price_eur": 390,
+    "sqm": 126,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:53:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000438 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 1126 кв. м. (хиляда сто двадесет и шест квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Аладжик“, при граници и съседи на имота: поземлени имоти № 000437, № 000439 и № 000741; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.1.438 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 126 кв.м. (хиляда сто двадесет и шест квадратни метра), находящ се в землището на с. Витина, местност АЛАДЖИК, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000438, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.1.437, 11301.1.439.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93546/465601/11301.1.438.png"
+    ],
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 390
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93545",
+    "url": "https://sales.bcpea.org/properties/93545",
+    "photo": "https://sales.bcpea.org/upload/93545/465599/11301.4.404.png?w=270&h=270",
+    "price_eur": 153,
+    "sqm": 409,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:50:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000404 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 409 кв. м. (четиристотин и девет квадратни метра), с начин на трайно ползване (НТП): Нива, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Харман“, при граници и съседи на имота: поземлени имоти № 000403, № 000406, № 000557, № 000405 и № 001200; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.404 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 409 кв.м. (четиристотин и девет квадратни метра), находящ се в землището на с. Витина, местност ХАРМАН, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, с категория на земята: 9, със стар номер: 000404, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.403, 11301.4.405, 11301.4.406, 11301.4.557, 11301.889.9901.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93545/465599/11301.4.404.png"
+    ],
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 153
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93543",
+    "url": "https://sales.bcpea.org/properties/93543",
+    "photo": "https://sales.bcpea.org/upload/93543/465596/11301.4.225.png?w=270&h=270",
+    "price_eur": 302,
+    "sqm": 182,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:46:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000225 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 1182 кв. м. (хиляда сто осемдесет и два квадратни метра), с начин на трайно ползване (НТП): Нива, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Асанилово“, при граници и съседи на имота: поземлени имоти № 000226, № 000410, № 000224, № 000223, № 000126 и № 000317; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.225 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 182 кв.м. (хиляда сто осемдесет и два квадратни метра), находящ се в землището на с. Витина, местност АСАНИЛОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, с категория на земята: 9, със стар номер: 000225, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.4.126, 11301.4.223, 11301.4.224, 11301.4.226, 11301.4.317, 11301.4.410.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93543/465596/11301.4.225.png"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 302
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93542",
+    "url": "https://sales.bcpea.org/properties/93542",
+    "photo": "https://sales.bcpea.org/upload/93542/465594/11301.4.217.png?w=270&h=270",
+    "price_eur": 118,
+    "sqm": 491,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:43:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000217 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 491 кв. м. (четиристотин деветдесет и един квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Асанилово“, при граници и съседи на имота: поземлени имоти № 000216, № 000218, № 000738, № 000410 и № 000215; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.217 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 491 кв.м. (четиристотин деветдесет и един квадратен метър), находящ се в землището на с. Витина, местност АСАНИЛОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000217, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.4.3, 11301.4.215, 11301.4.216, 11301.4.218, 11301.4.410.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93542/465594/11301.4.217.png"
+    ],
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 118
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93541",
+    "url": "https://sales.bcpea.org/properties/93541",
+    "photo": "https://sales.bcpea.org/upload/93541/465592/11301.1.898.png?w=270&h=270",
+    "price_eur": 241,
+    "sqm": 129,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:40:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000898 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 1129 кв. м. (хиляда сто двадесет и девет квадратни метра), с начин на трайно ползване (НТП): Пасище, категория: Десета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Билево“, при граници и съседи на имота: поземлени имоти № 000897, № 000741, № 000890 и № 000895; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.1.898 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 130 кв.м. (хиляда сто и тридесет квадратни метра), находящ се в землището на с. Витина, местност БИЛЕВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Пасище, с категория на земята: 10, със стар номер: 000898, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.1.890, 11301.1.895, 11301.1.897.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93541/465592/11301.1.898.png"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 241
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93539",
+    "url": "https://sales.bcpea.org/properties/93539",
+    "photo": "https://sales.bcpea.org/upload/93539/465573/DSC03818.jpg?w=270&h=270",
+    "price_eur": 176640,
+    "sqm": 347,
+    "area": "Велинград",
+    "title": "Производствен имот, Велинград",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:32:00+00:00",
+    "category": "apartment",
+    "_settlement": "Велинград",
+    "lat": 42.0277467,
+    "lng": 23.9914376,
+    "description": "12 512/90 347 ид. ч. ( дванадесет хиляди петстотин и дванадесет идеални части от деветдесет хиляди триста четиридесет и седем квадратни метра ) от Поземлен имот с идентификатор 10450.502.2401 ( десет хиляди четиристотин и петдесет, точка, петстотин и две, точка, две хиляди четиристотин и едно ). По кадастралната карта и кадастралните регистри на гр. Велинград, общ. Велинград, обл. Пазарджик , одобрени със Заповед № РД-18-1214/06.06.2018 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Адрес на поземления имот: гр. Велинград, ул. ЦЕПИНА. Площ на целия имот съгласно скица на поземлен имот на СГКК : 90 270 кв. м., ( деветдесет хиляди двеста и седемдесет квадратни метра ). Трайно предназначение на територията: Урбанизирана. Начин на трайно ползване: За друг вид производствен, складов обект. Предишен идентификатор: няма. Номер от предходен план: 6581, квартал: 78, парцел: II, при съседи: 10450.502.3403, 10450.502.3393, 10450.502.2324, 10450.502.2502, 10450.502.2606, 10450.502.2627, 10450.502.2609, 10450.502.2503, 10450.502.3402, 10450.502.2501, 10450.502.2626, 10450.502.3183, 10450.502.2607, съгласно описание по скица на поземлен имот на СГКК – гр. Пазарджик, а по документ за собственост : Постановление за възлагане на недвижим имот, вписано в Служба по вписванията – Велинград с № от вх. рег. 1688/02.09.2016 г., № от дв. вх. рег. 1682/2017 г., акт № 81, том VI : 12 512/90 347 ид. ч. ( дванадесет хиляди петстотин и дванадесет идеални части от деветдесет хиляди трист a четиридесет и седем квадратни метра ) от ДВОРНО МЯСТО, цялото с площ от 90 347 ( деветдесет хиляди триста четиридесет и седем ) кв. м., образуващо УПИ II ( парцел втори за жилищно строителство, търговия, услуги, спа комплекс, рекреация, басейн и атракции ) , имот планоснимачен номер 6581 ( шест хиляди петстотин осемдесет и едно ) от квартал № 78 ( седемдесет и осем ) по плана на Велинград, имот с пълен номер 5086581, пл. № 6581, от кад. район 508, при граници на имота: имот № 8105 - производствен терен, имот № 9732 - улица, имот № 8925 – производствен терен на Ангел Теменлиев, имот № 8924 - производствен терен на Ангел Теменлиев, имот № 8889 - производствен терен на Интериор И ООД, имот № 8890 - производствен терен на Йордан Ръжанков, имот № 8893 - производствен терен на Лиляна Аргирова, имот № 9725 - улица на Община Велинград, имот № 8106 - производствен терен на Пайн Ботаник ЕАД, имот № 9712 - ЖП територия, имот № 7330 - производствен на Хлебопроизводство и сладкарство ЕООД, имот А 8105 - производствен терен, имот № 8104 - производствен терен на Пайн Ботаник ЕАД.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93539/465573/DSC03818.jpg",
+      "https://sales.bcpea.org/upload/93539/465568/DSC03813.jpg",
+      "https://sales.bcpea.org/upload/93539/465569/DSC03814.jpg",
+      "https://sales.bcpea.org/upload/93539/465570/DSC03815.jpg",
+      "https://sales.bcpea.org/upload/93539/465571/DSC03816.jpg",
+      "https://sales.bcpea.org/upload/93539/465572/DSC03817.jpg",
+      "https://sales.bcpea.org/upload/93539/465574/DSC03819.jpg",
+      "https://sales.bcpea.org/upload/93539/465575/DSC03820.jpg",
+      "https://sales.bcpea.org/upload/93539/465576/DSC03821.jpg",
+      "https://sales.bcpea.org/upload/93539/465577/DSC03822.jpg",
+      "https://sales.bcpea.org/upload/93539/465578/DSC03823.jpg",
+      "https://sales.bcpea.org/upload/93539/465579/DSC03824.jpg",
+      "https://sales.bcpea.org/upload/93539/465580/DSC03825.jpg",
+      "https://sales.bcpea.org/upload/93539/465581/DSC03826.jpg",
+      "https://sales.bcpea.org/upload/93539/465582/DSC03827.jpg",
+      "https://sales.bcpea.org/upload/93539/465583/DSC03828.jpg",
+      "https://sales.bcpea.org/upload/93539/465584/DSC03829.jpg",
+      "https://sales.bcpea.org/upload/93539/465585/DSC03830.jpg",
+      "https://sales.bcpea.org/upload/93539/465586/DSC03831.jpg"
+    ],
+    "price_per_sqm": 509,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 176640
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93538",
+    "url": "https://sales.bcpea.org/properties/93538",
+    "photo": "https://sales.bcpea.org/upload/93538/465588/11301.2.836.png?w=270&h=270",
+    "price_eur": 317,
+    "sqm": 381,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:31:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000836 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 1381 кв. м. (хиляда двеста триста осемдесет и един квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Костово“, при граници и съседи на имота: поземлени имоти № 000835, № 000834, № 000837, № 000838, № 000741, № 000833 и № 000832; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.2.836 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 381 кв.м. (хиляда триста осемдесет и един квадратен метър), находящ се в землището на с. Витина, местност КОСТОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000836, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.2.832, 11301.2.833, 11301.2.834, 11301.2.835, 11301.2.837, 11301.2.838.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93538/465588/11301.2.836.png"
+    ],
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 317
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93537",
+    "url": "https://sales.bcpea.org/properties/93537",
+    "photo": "https://sales.bcpea.org/upload/93537/465566/11301.2.807.png?w=270&h=270",
+    "price_eur": 516,
+    "sqm": 249,
+    "area": "Витина",
+    "title": "Земеделска земя, Витина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T13:28:00+00:00",
+    "category": "land",
+    "_settlement": "Витина",
+    "lat": 41.42779,
+    "lng": 24.76458,
+    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000807 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 2249 кв. м. (две хиляди двеста четиридесет и девет квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Селище“, при граници и съседи на имота: поземлени имоти № 000806, № 000842, № 000810, № 000809 и № 000808; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.2.807 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 2 249 кв.м. (две хиляди двеста четиридесет и девет квадратни метра), находящ се в землището на с. Витина, местност СЕЛИЩЕ, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, с номер по предходен план: 000807, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.2.806, 11301.2.808, 11301.2.809, 11301.2.810, 11301.2.842.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93537/465566/11301.2.807.png"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 516
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93536",
     "url": "https://sales.bcpea.org/properties/93536",
     "photo": "https://sales.bcpea.org/upload/93536/465553/11301.1.645.png?w=270&h=270",
@@ -104982,304 +105280,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93546",
-    "url": "https://sales.bcpea.org/properties/93546",
-    "photo": "https://sales.bcpea.org/upload/93546/465601/11301.1.438.png?w=270&h=270",
-    "price_eur": 390,
-    "sqm": 126,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:53:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000438 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 1126 кв. м. (хиляда сто двадесет и шест квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Аладжик“, при граници и съседи на имота: поземлени имоти № 000437, № 000439 и № 000741; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.1.438 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 126 кв.м. (хиляда сто двадесет и шест квадратни метра), находящ се в землището на с. Витина, местност АЛАДЖИК, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000438, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.1.437, 11301.1.439.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93546/465601/11301.1.438.png"
-    ],
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 390
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93545",
-    "url": "https://sales.bcpea.org/properties/93545",
-    "photo": "https://sales.bcpea.org/upload/93545/465599/11301.4.404.png?w=270&h=270",
-    "price_eur": 153,
-    "sqm": 409,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:50:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000404 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 409 кв. м. (четиристотин и девет квадратни метра), с начин на трайно ползване (НТП): Нива, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Харман“, при граници и съседи на имота: поземлени имоти № 000403, № 000406, № 000557, № 000405 и № 001200; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.404 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 409 кв.м. (четиристотин и девет квадратни метра), находящ се в землището на с. Витина, местност ХАРМАН, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, с категория на земята: 9, със стар номер: 000404, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.403, 11301.4.405, 11301.4.406, 11301.4.557, 11301.889.9901.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93545/465599/11301.4.404.png"
-    ],
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 153
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93543",
-    "url": "https://sales.bcpea.org/properties/93543",
-    "photo": "https://sales.bcpea.org/upload/93543/465596/11301.4.225.png?w=270&h=270",
-    "price_eur": 302,
-    "sqm": 182,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:46:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000225 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 1182 кв. м. (хиляда сто осемдесет и два квадратни метра), с начин на трайно ползване (НТП): Нива, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Асанилово“, при граници и съседи на имота: поземлени имоти № 000226, № 000410, № 000224, № 000223, № 000126 и № 000317; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.225 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 182 кв.м. (хиляда сто осемдесет и два квадратни метра), находящ се в землището на с. Витина, местност АСАНИЛОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Нива, с категория на земята: 9, със стар номер: 000225, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.4.126, 11301.4.223, 11301.4.224, 11301.4.226, 11301.4.317, 11301.4.410.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93543/465596/11301.4.225.png"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 302
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93542",
-    "url": "https://sales.bcpea.org/properties/93542",
-    "photo": "https://sales.bcpea.org/upload/93542/465594/11301.4.217.png?w=270&h=270",
-    "price_eur": 118,
-    "sqm": 491,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:43:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000217 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 237, дело № 339 от 1998 г., в размер на 491 кв. м. (четиристотин деветдесет и един квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Асанилово“, при граници и съседи на имота: поземлени имоти № 000216, № 000218, № 000738, № 000410 и № 000215; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.4.217 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 491 кв.м. (четиристотин деветдесет и един квадратен метър), находящ се в землището на с. Витина, местност АСАНИЛОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000217, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.4.3, 11301.4.215, 11301.4.216, 11301.4.218, 11301.4.410.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93542/465594/11301.4.217.png"
-    ],
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 118
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93541",
-    "url": "https://sales.bcpea.org/properties/93541",
-    "photo": "https://sales.bcpea.org/upload/93541/465592/11301.1.898.png?w=270&h=270",
-    "price_eur": 241,
-    "sqm": 129,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:40:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000898 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 1129 кв. м. (хиляда сто двадесет и девет квадратни метра), с начин на трайно ползване (НТП): Пасище, категория: Десета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Билево“, при граници и съседи на имота: поземлени имоти № 000897, № 000741, № 000890 и № 000895; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.1.898 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 130 кв.м. (хиляда сто и тридесет квадратни метра), находящ се в землището на с. Витина, местност БИЛЕВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Пасище, с категория на земята: 10, със стар номер: 000898, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.1.890, 11301.1.895, 11301.1.897.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93541/465592/11301.1.898.png"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 241
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93539",
-    "url": "https://sales.bcpea.org/properties/93539",
-    "photo": "https://sales.bcpea.org/upload/93539/465573/DSC03818.jpg?w=270&h=270",
-    "price_eur": 176640,
-    "sqm": 347,
-    "area": "Велинград",
-    "title": "Производствен имот, Велинград",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:32:00+00:00",
-    "category": "apartment",
-    "_settlement": "Велинград",
-    "lat": 42.0277467,
-    "lng": 23.9914376,
-    "description": "12 512/90 347 ид. ч. ( дванадесет хиляди петстотин и дванадесет идеални части от деветдесет хиляди триста четиридесет и седем квадратни метра ) от Поземлен имот с идентификатор 10450.502.2401 ( десет хиляди четиристотин и петдесет, точка, петстотин и две, точка, две хиляди четиристотин и едно ). По кадастралната карта и кадастралните регистри на гр. Велинград, общ. Велинград, обл. Пазарджик , одобрени със Заповед № РД-18-1214/06.06.2018 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Адрес на поземления имот: гр. Велинград, ул. ЦЕПИНА. Площ на целия имот съгласно скица на поземлен имот на СГКК : 90 270 кв. м., ( деветдесет хиляди двеста и седемдесет квадратни метра ). Трайно предназначение на територията: Урбанизирана. Начин на трайно ползване: За друг вид производствен, складов обект. Предишен идентификатор: няма. Номер от предходен план: 6581, квартал: 78, парцел: II, при съседи: 10450.502.3403, 10450.502.3393, 10450.502.2324, 10450.502.2502, 10450.502.2606, 10450.502.2627, 10450.502.2609, 10450.502.2503, 10450.502.3402, 10450.502.2501, 10450.502.2626, 10450.502.3183, 10450.502.2607, съгласно описание по скица на поземлен имот на СГКК – гр. Пазарджик, а по документ за собственост : Постановление за възлагане на недвижим имот, вписано в Служба по вписванията – Велинград с № от вх. рег. 1688/02.09.2016 г., № от дв. вх. рег. 1682/2017 г., акт № 81, том VI : 12 512/90 347 ид. ч. ( дванадесет хиляди петстотин и дванадесет идеални части от деветдесет хиляди трист a четиридесет и седем квадратни метра ) от ДВОРНО МЯСТО, цялото с площ от 90 347 ( деветдесет хиляди триста четиридесет и седем ) кв. м., образуващо УПИ II ( парцел втори за жилищно строителство, търговия, услуги, спа комплекс, рекреация, басейн и атракции ) , имот планоснимачен номер 6581 ( шест хиляди петстотин осемдесет и едно ) от квартал № 78 ( седемдесет и осем ) по плана на Велинград, имот с пълен номер 5086581, пл. № 6581, от кад. район 508, при граници на имота: имот № 8105 - производствен терен, имот № 9732 - улица, имот № 8925 – производствен терен на Ангел Теменлиев, имот № 8924 - производствен терен на Ангел Теменлиев, имот № 8889 - производствен терен на Интериор И ООД, имот № 8890 - производствен терен на Йордан Ръжанков, имот № 8893 - производствен терен на Лиляна Аргирова, имот № 9725 - улица на Община Велинград, имот № 8106 - производствен терен на Пайн Ботаник ЕАД, имот № 9712 - ЖП територия, имот № 7330 - производствен на Хлебопроизводство и сладкарство ЕООД, имот А 8105 - производствен терен, имот № 8104 - производствен терен на Пайн Ботаник ЕАД.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93539/465573/DSC03818.jpg",
-      "https://sales.bcpea.org/upload/93539/465568/DSC03813.jpg",
-      "https://sales.bcpea.org/upload/93539/465569/DSC03814.jpg",
-      "https://sales.bcpea.org/upload/93539/465570/DSC03815.jpg",
-      "https://sales.bcpea.org/upload/93539/465571/DSC03816.jpg",
-      "https://sales.bcpea.org/upload/93539/465572/DSC03817.jpg",
-      "https://sales.bcpea.org/upload/93539/465574/DSC03819.jpg",
-      "https://sales.bcpea.org/upload/93539/465575/DSC03820.jpg",
-      "https://sales.bcpea.org/upload/93539/465576/DSC03821.jpg",
-      "https://sales.bcpea.org/upload/93539/465577/DSC03822.jpg",
-      "https://sales.bcpea.org/upload/93539/465578/DSC03823.jpg",
-      "https://sales.bcpea.org/upload/93539/465579/DSC03824.jpg",
-      "https://sales.bcpea.org/upload/93539/465580/DSC03825.jpg",
-      "https://sales.bcpea.org/upload/93539/465581/DSC03826.jpg",
-      "https://sales.bcpea.org/upload/93539/465582/DSC03827.jpg",
-      "https://sales.bcpea.org/upload/93539/465583/DSC03828.jpg",
-      "https://sales.bcpea.org/upload/93539/465584/DSC03829.jpg",
-      "https://sales.bcpea.org/upload/93539/465585/DSC03830.jpg",
-      "https://sales.bcpea.org/upload/93539/465586/DSC03831.jpg"
-    ],
-    "price_per_sqm": 509,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 176640
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93538",
-    "url": "https://sales.bcpea.org/properties/93538",
-    "photo": "https://sales.bcpea.org/upload/93538/465588/11301.2.836.png?w=270&h=270",
-    "price_eur": 317,
-    "sqm": 381,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:31:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000836 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 1381 кв. м. (хиляда двеста триста осемдесет и един квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Костово“, при граници и съседи на имота: поземлени имоти № 000835, № 000834, № 000837, № 000838, № 000741, № 000833 и № 000832; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.2.836 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 1 381 кв.м. (хиляда триста осемдесет и един квадратен метър), находящ се в землището на с. Витина, местност КОСТОВО, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, със стар номер: 000836, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.1.150, 11301.2.832, 11301.2.833, 11301.2.834, 11301.2.835, 11301.2.837, 11301.2.838.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93538/465588/11301.2.836.png"
-    ],
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 317
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93537",
-    "url": "https://sales.bcpea.org/properties/93537",
-    "photo": "https://sales.bcpea.org/upload/93537/465566/11301.2.807.png?w=270&h=270",
-    "price_eur": 516,
-    "sqm": 249,
-    "area": "Витина",
-    "title": "Земеделска земя, Витина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T13:28:00+00:00",
-    "category": "land",
-    "_settlement": "Витина",
-    "lat": 41.42779,
-    "lng": 24.76458,
-    "description": "1/ 9 (една девета ) идеални части от ЗЕМЕДЕЛСКА ЗЕМЯ, представляваща ПОЗЕМЛЕ Н ИМОТ с № 000807 по Картата на землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян, с площ, съгласно документа за собственост – Нотариален акт, вписан в Служба по вписванията – Мадан, като Акт № 236, дело № 338 от 1998 г., в размер на 2249 кв. м. (две хиляди двеста четиридесет и девет квадратни метра), с начин на трайно ползване (НТП): Ливада, категория: Девета, находящ се в землището на с.Витина, ЕКАТТЕ 11301, общ. Рудозем, обл. Смолян , местност „Селище“, при граници и съседи на имота: поземлени имоти № 000806, № 000842, № 000810, № 000809 и № 000808; ПОЗЕМЛЕН ИМОТ с идентификатор 11301.2.807 по кадастралната карта и кадастралните регистри на с. Витина, общ. Рудозем, обл. Смолян, одобрени със Заповед № РД-18-880/17.12.2019 г. на Изпълнителния директор на АГКК, с площ от 2 249 кв.м. (две хиляди двеста четиридесет и девет квадратни метра), находящ се в землището на с. Витина, местност СЕЛИЩЕ, с трайно предназначение на територията: Земеделска, с начин на трайно ползване: Ливада, с категория на земята: 9, с номер по предходен план: 000807, при граници и съседи на поземления имот – поземлени имоти с идентификатори: 11301.2.806, 11301.2.808, 11301.2.809, 11301.2.810, 11301.2.842.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93537/465566/11301.2.807.png"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 516
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93574",
     "url": "https://sales.bcpea.org/properties/93574",
     "photo": "https://sales.bcpea.org/upload/93574/427737/IMG_0706.JPG?w=270&h=270",
@@ -106202,7 +106202,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -106234,7 +106234,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1807,
     "pct_vs_area_avg": -80.8,
     "score": 0
