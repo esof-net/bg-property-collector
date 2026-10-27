@@ -5761,9 +5761,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 17,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -23.5,
     "score": 11
@@ -5799,9 +5799,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 17,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -24.8,
     "score": 11
@@ -28611,38 +28611,6 @@
     "score": 5
   },
   {
-    "id": "bcpea_92500",
-    "url": "https://sales.bcpea.org/properties/92500",
-    "photo": "https://sales.bcpea.org/upload/92500/461271/Екранна снимка (23).png?w=270&h=270",
-    "price_eur": 10040,
-    "sqm": 50,
-    "area": "Тръстиково",
-    "title": "Парцел с къща, Тръстиково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-21T16:22:00+00:00",
-    "category": "land",
-    "_settlement": "Тръстиково",
-    "lat": 43.14389,
-    "lng": 27.5929199,
-    "description": "2/4  идеални части от УПИ № XII-174  от кв. 22 по плана на действащия регулационен план на с. Тръстиково, община Аврен, област Варна, одобрен със Заповед № 3972 от 20.07.1971 г. за улична и дворищна регулация на председателя на ИК на ОНС Варна, целият с площ от 2050 кв.м., при граници на имота: улица, УПИ № XIII-175, III-169, IV-170, V-170, VIII-172, IX-172 и XI-173, ведно с построената в имота жилищна сграда",
-    "detail_checked": true,
-    "price_per_sqm": 201,
-    "price_history": [
-      {
-        "date": "2026-09-21T13:51:56.991398+00:00",
-        "price_eur": 10040
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 35,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 5
-  },
-  {
     "id": "bcpea_90493",
     "url": "https://sales.bcpea.org/properties/90493",
     "photo": null,
@@ -50034,6 +50002,38 @@
     "days_on_market": 32,
     "area_avg_price_per_sqm": 2221,
     "pct_vs_area_avg": -86.3,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92500",
+    "url": "https://sales.bcpea.org/properties/92500",
+    "photo": "https://sales.bcpea.org/upload/92500/461271/Екранна снимка (23).png?w=270&h=270",
+    "price_eur": 10040,
+    "sqm": 50,
+    "area": "Тръстиково",
+    "title": "Парцел с къща, Тръстиково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-21T16:22:00+00:00",
+    "category": "land",
+    "_settlement": "Тръстиково",
+    "lat": 43.14389,
+    "lng": 27.5929199,
+    "description": "2/4  идеални части от УПИ № XII-174  от кв. 22 по плана на действащия регулационен план на с. Тръстиково, община Аврен, област Варна, одобрен със Заповед № 3972 от 20.07.1971 г. за улична и дворищна регулация на председателя на ИК на ОНС Варна, целият с площ от 2050 кв.м., при граници на имота: улица, УПИ № XIII-175, III-169, IV-170, V-170, VIII-172, IX-172 и XI-173, ведно с построената в имота жилищна сграда",
+    "detail_checked": true,
+    "price_per_sqm": 201,
+    "price_history": [
+      {
+        "date": "2026-09-21T13:51:56.991398+00:00",
+        "price_eur": 10040
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 34,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 4
   },
   {
@@ -72755,9 +72755,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 28,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 27,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84581,9 +84581,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -84613,9 +84613,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
+    "source_status": "removed",
+    "removed_at": "2026-10-26T09:01:17.401696+00:00",
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
