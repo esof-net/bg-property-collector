@@ -694586,7 +694586,11 @@
       "title": "2 bedroom apartment, 91 м 2 Sofia, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-27",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6284786": {
