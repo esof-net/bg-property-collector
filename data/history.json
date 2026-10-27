@@ -946859,7 +946859,11 @@
       "title": "2 bedroom apartment, 129 м 2 Sofia, Doctor's square",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6295874": {
@@ -946881,7 +946885,17 @@
       "title": "2 bedroom apartment, 134 м 2 Sofia, Yavorov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6295874/main_image/thumb_1200x630_wm_main_image_6295874_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6295874/images/thumb_1200x630_wm_images_6295874_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6295874/images/thumb_1200x630_wm_images_6295874_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6295874/images/thumb_1200x630_wm_images_6295874_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6295874/images/thumb_1200x630_wm_images_6295874_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6295874/images/thumb_1200x630_wm_images_6295874_6.jpg"
+      ]
     }
   },
   "6267476": {
@@ -946903,7 +946917,11 @@
       "title": "Studio/bedsit, 47 м 2 Sofia, Malinova Dolina",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-27",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317151": {
@@ -946925,7 +946943,19 @@
       "title": "Development land, 580 м 2 Sofia, Novi Iskar",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.8320976,
+      "lng": 23.34992755,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317151/main_image/thumb_1200x630_wm_main_image_6317151_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317151/images/thumb_1200x630_wm_images_6317151_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317151/images/thumb_1200x630_wm_images_6317151_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317151/images/thumb_1200x630_wm_images_6317151_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317151/images/thumb_1200x630_wm_images_6317151_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317151/images/thumb_1200x630_wm_images_6317151_6.jpg"
+      ]
     }
   },
   "6287393": {
@@ -946947,7 +946977,17 @@
       "title": "1 bedroom apartment, 60 м 2 Sofia, Ovcha Kupel",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6287393/main_image/thumb_1200x630_wm_main_image_6287393_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287393/images/thumb_1200x630_wm_images_6287393_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287393/images/thumb_1200x630_wm_images_6287393_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287393/images/thumb_1200x630_wm_images_6287393_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287393/images/thumb_1200x630_wm_images_6287393_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287393/images/thumb_1200x630_wm_images_6287393_6.jpg"
+      ]
     }
   },
   "6317207": {
@@ -946969,7 +947009,17 @@
       "title": "House, 220 м 2 Sofia, Kokalyane",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317207/main_image/thumb_1200x630_wm_main_image_6317207_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317207/images/thumb_1200x630_wm_images_6317207_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317207/images/thumb_1200x630_wm_images_6317207_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317207/images/thumb_1200x630_wm_images_6317207_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317207/images/thumb_1200x630_wm_images_6317207_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317207/images/thumb_1200x630_wm_images_6317207_6.jpg"
+      ]
     }
   },
   "6315265": {
@@ -946991,7 +947041,17 @@
       "title": "Studio/bedsit, 50 м 2 Sofia, Karpuzica",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6315265/main_image/thumb_1200x630_wm_main_image_6315265_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315265/images/thumb_1200x630_wm_images_6315265_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315265/images/thumb_1200x630_wm_images_6315265_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315265/images/thumb_1200x630_wm_images_6315265_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315265/images/thumb_1200x630_wm_images_6315265_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315265/images/thumb_1200x630_wm_images_6315265_6.jpg"
+      ]
     }
   },
   "6316630": {
@@ -947013,7 +947073,19 @@
       "title": "Studio/bedsit, 40 м 2 Sofia, Ovcha Kupel",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 42.6776687,
+      "lng": 23.2583467,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316630/main_image/thumb_1200x630_wm_main_image_6316630_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316630/images/thumb_1200x630_wm_images_6316630_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316630/images/thumb_1200x630_wm_images_6316630_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316630/images/thumb_1200x630_wm_images_6316630_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316630/images/thumb_1200x630_wm_images_6316630_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316630/images/thumb_1200x630_wm_images_6316630_6.jpg"
+      ]
     }
   },
   "6313555": {
@@ -947035,7 +947107,18 @@
       "title": "1 bedroom apartment, 74 м 2 Sofia, Suha Reka",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-14",
+      "lat": 42.6998254991,
+      "lng": 23.3842159895,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313555/main_image/thumb_1200x630_wm_main_image_6313555_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313555/images/thumb_1200x630_wm_images_6313555_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313555/images/thumb_1200x630_wm_images_6313555_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313555/images/thumb_1200x630_wm_images_6313555_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313555/images/thumb_1200x630_wm_images_6313555_5.jpg"
+      ]
     }
   },
   "6314562": {
@@ -947057,7 +947140,11 @@
       "title": "1 bedroom apartment, 62 м 2 Sofia, Tolstoy",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-19",
+      "lat": 42.7288135653,
+      "lng": 23.3112852147
     }
   },
   "6282322": {
@@ -947079,7 +947166,14 @@
       "title": "1 bedroom apartment, 55 м 2 Sofia, Vitosha",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6282322/main_image/thumb_1200x630_wm_main_image_6282322_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6282322/images/thumb_1200x630_wm_images_6282322_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6282322/images/thumb_1200x630_wm_images_6282322_3.jpg"
+      ]
     }
   },
   "6313718": {
@@ -947101,7 +947195,15 @@
       "title": "1 bedroom apartment, 63 м 2 Sofia, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-15",
+      "lat": 42.701,
+      "lng": 23.321,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313718/main_image/thumb_1200x630_wm_main_image_6313718_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313718/images/thumb_1200x630_wm_images_6313718_2.jpg"
+      ]
     }
   },
   "6301754": {
@@ -947123,7 +947225,17 @@
       "title": "1 bedroom apartment, 60 м 2 Sofia, Ovcha Kupel",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6301754/main_image/thumb_1200x630_wm_main_image_6301754_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6301754/images/thumb_1200x630_wm_images_6301754_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6301754/images/thumb_1200x630_wm_images_6301754_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6301754/images/thumb_1200x630_wm_images_6301754_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6301754/images/thumb_1200x630_wm_images_6301754_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6301754/images/thumb_1200x630_wm_images_6301754_6.jpg"
+      ]
     }
   },
   "6316023": {
@@ -947145,7 +947257,17 @@
       "title": "1 bedroom apartment, 63 м 2 Sofia, Malinova Dolina",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-22",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316023/main_image/thumb_1200x630_wm_main_image_6316023_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316023/images/thumb_1200x630_wm_images_6316023_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316023/images/thumb_1200x630_wm_images_6316023_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316023/images/thumb_1200x630_wm_images_6316023_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316023/images/thumb_1200x630_wm_images_6316023_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316023/images/thumb_1200x630_wm_images_6316023_6.jpg"
+      ]
     }
   },
   "6316664": {
@@ -947167,7 +947289,19 @@
       "title": "1 bedroom apartment, 62 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.7113114034,
+      "lng": 23.2439787692,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316664/main_image/thumb_1200x630_wm_main_image_6316664_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316664/images/thumb_1200x630_wm_images_6316664_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316664/images/thumb_1200x630_wm_images_6316664_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316664/images/thumb_1200x630_wm_images_6316664_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316664/images/thumb_1200x630_wm_images_6316664_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316664/images/thumb_1200x630_wm_images_6316664_6.jpg"
+      ]
     }
   },
   "6287888": {
@@ -947189,7 +947323,15 @@
       "title": "1 bedroom apartment, 73 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6287888/main_image/thumb_1200x630_wm_main_image_6287888_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287888/images/thumb_1200x630_wm_images_6287888_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287888/images/thumb_1200x630_wm_images_6287888_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287888/images/thumb_1200x630_wm_images_6287888_4.jpg"
+      ]
     }
   },
   "6314682": {
@@ -947211,7 +947353,19 @@
       "title": "1 bedroom apartment, 64 м 2 Sofia, Nadejda",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-19",
+      "lat": 42.6980970665,
+      "lng": 23.3215726561,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6314682/main_image/thumb_1200x630_wm_main_image_6314682_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314682/images/thumb_1200x630_wm_images_6314682_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314682/images/thumb_1200x630_wm_images_6314682_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314682/images/thumb_1200x630_wm_images_6314682_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314682/images/thumb_1200x630_wm_images_6314682_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314682/images/thumb_1200x630_wm_images_6314682_6.jpg"
+      ]
     }
   },
   "6313521": {
@@ -947233,7 +947387,14 @@
       "title": "1 bedroom apartment, 79 м 2 Sofia, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-14",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313521/main_image/thumb_1200x630_wm_main_image_6313521_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313521/images/thumb_1200x630_wm_images_6313521_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313521/images/thumb_1200x630_wm_images_6313521_3.jpg"
+      ]
     }
   },
   "6314321": {
@@ -947255,7 +947416,17 @@
       "title": "1 bedroom apartment, 42 м 2 Sofia, Banishora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-16",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6314321/main_image/thumb_1200x630_wm_main_image_6314321_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314321/images/thumb_1200x630_wm_images_6314321_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314321/images/thumb_1200x630_wm_images_6314321_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314321/images/thumb_1200x630_wm_images_6314321_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314321/images/thumb_1200x630_wm_images_6314321_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314321/images/thumb_1200x630_wm_images_6314321_6.jpg"
+      ]
     }
   },
   "6313713": {
@@ -947277,7 +947448,11 @@
       "title": "2 bedroom apartment, 77 м 2 Plovdiv, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6313931": {
@@ -947299,7 +947474,19 @@
       "title": "2 bedroom apartment, 124 м 2 Plovdiv, Komatevsko Shose",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.127189,
+      "lng": 24.716708,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313931/main_image/thumb_1200x630_wm_main_image_6313931_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313931/images/thumb_1200x630_wm_images_6313931_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313931/images/thumb_1200x630_wm_images_6313931_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313931/images/thumb_1200x630_wm_images_6313931_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313931/images/thumb_1200x630_wm_images_6313931_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313931/images/thumb_1200x630_wm_images_6313931_6.jpg"
+      ]
     }
   },
   "6311969": {
@@ -947321,7 +947508,19 @@
       "title": "3 bedroom apartment, 158 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.113205,
+      "lng": 24.727023,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6311969/main_image/thumb_1200x630_wm_main_image_6311969_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6311969/images/thumb_1200x630_wm_images_6311969_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6311969/images/thumb_1200x630_wm_images_6311969_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6311969/images/thumb_1200x630_wm_images_6311969_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6311969/images/thumb_1200x630_wm_images_6311969_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6311969/images/thumb_1200x630_wm_images_6311969_6.jpg"
+      ]
     }
   },
   "6314676": {
@@ -947343,7 +947542,11 @@
       "title": "1 bedroom apartment, 72 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6306453": {
@@ -947365,7 +947568,11 @@
       "title": "2 bedroom apartment, 94 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317184": {
@@ -947387,7 +947594,11 @@
       "title": "1 bedroom apartment, 74 м 2 Plovdiv, Kichuk Paris",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317240": {
@@ -947409,7 +947620,11 @@
       "title": "2 bedroom apartment, 99 м 2 Plovdiv, Karshiaka",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6300068": {
@@ -947431,7 +947646,11 @@
       "title": "2 bedroom apartment, 108 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317224": {
@@ -947453,7 +947672,15 @@
       "title": "Development land, 5558 м 2 Plovdiv, Proslav",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317224/main_image/thumb_1200x630_wm_main_image_6317224_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317224/images/thumb_1200x630_wm_images_6317224_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317224/images/thumb_1200x630_wm_images_6317224_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317224/images/thumb_1200x630_wm_images_6317224_4.jpg"
+      ]
     }
   },
   "6317490": {
@@ -947475,7 +947702,16 @@
       "title": "1 bedroom apartment, 70 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-27",
+      "lat": 42.147762,
+      "lng": 24.789361,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317490/main_image/thumb_1200x630_wm_main_image_6317490_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317490/images/thumb_1200x630_wm_images_6317490_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317490/images/thumb_1200x630_wm_images_6317490_3.jpg"
+      ]
     }
   },
   "6317491": {
@@ -947497,7 +947733,16 @@
       "title": "1 bedroom apartment, 71 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-27",
+      "lat": 42.146326,
+      "lng": 24.787269,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317491/main_image/thumb_1200x630_wm_main_image_6317491_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317491/images/thumb_1200x630_wm_images_6317491_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317491/images/thumb_1200x630_wm_images_6317491_3.jpg"
+      ]
     }
   },
   "5804978": {
@@ -947519,7 +947764,11 @@
       "title": "Development land, 700 м 2 Varna, locality Borovets sauth",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 43.2382945899,
+      "lng": 27.885672702
     }
   },
   "6259272": {
@@ -947541,7 +947790,11 @@
       "title": "Studio/bedsit, 46 м 2 Varna, Park Vladislav Varnenchik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 43.2381443949,
+      "lng": 27.8447581971
     }
   },
   "6312960": {
@@ -947563,7 +947816,16 @@
       "title": "1 bedroom apartment, 42 м 2 Varna, Kolhozen Pazar",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-13",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6312960/main_image/thumb_1200x630_wm_main_image_6312960_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312960/images/thumb_1200x630_wm_images_6312960_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312960/images/thumb_1200x630_wm_images_6312960_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312960/images/thumb_1200x630_wm_images_6312960_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312960/images/thumb_1200x630_wm_images_6312960_5.jpg"
+      ]
     }
   },
   "6316619": {
@@ -947585,7 +947847,19 @@
       "title": "1 bedroom apartment, 41 м 2 Varna, Kolhozen Pazar",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 43.2090465092,
+      "lng": 27.9007022372,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316619/main_image/thumb_1200x630_wm_main_image_6316619_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316619/images/thumb_1200x630_wm_images_6316619_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316619/images/thumb_1200x630_wm_images_6316619_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316619/images/thumb_1200x630_wm_images_6316619_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316619/images/thumb_1200x630_wm_images_6316619_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316619/images/thumb_1200x630_wm_images_6316619_6.jpg"
+      ]
     }
   },
   "6313053": {
@@ -947607,7 +947881,11 @@
       "title": "1 bedroom apartment, 41 м 2 Varna, Kolhozen Pazar",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-14",
+      "lat": 43.211433,
+      "lng": 27.903064
     }
   },
   "6312876": {
@@ -947629,7 +947907,17 @@
       "title": "1 bedroom apartment, 41 м 2 Varna, Kolhozen Pazar",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-13",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6312876/main_image/thumb_1200x630_wm_main_image_6312876_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312876/images/thumb_1200x630_wm_images_6312876_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312876/images/thumb_1200x630_wm_images_6312876_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312876/images/thumb_1200x630_wm_images_6312876_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312876/images/thumb_1200x630_wm_images_6312876_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312876/images/thumb_1200x630_wm_images_6312876_6.jpg"
+      ]
     }
   },
   "6316509": {
@@ -947651,7 +947939,17 @@
       "title": "Development land, 291 м 2 Varna, Vinitsa",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316509/main_image/thumb_1200x630_wm_main_image_6316509_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316509/images/thumb_1200x630_wm_images_6316509_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316509/images/thumb_1200x630_wm_images_6316509_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316509/images/thumb_1200x630_wm_images_6316509_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316509/images/thumb_1200x630_wm_images_6316509_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316509/images/thumb_1200x630_wm_images_6316509_6.jpg"
+      ]
     }
   },
   "6316397": {
@@ -947673,7 +947971,17 @@
       "title": "Studio/bedsit, 61 м 2 Varna, Tsveten",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316397/main_image/thumb_1200x630_wm_main_image_6316397_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316397/images/thumb_1200x630_wm_images_6316397_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316397/images/thumb_1200x630_wm_images_6316397_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316397/images/thumb_1200x630_wm_images_6316397_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316397/images/thumb_1200x630_wm_images_6316397_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316397/images/thumb_1200x630_wm_images_6316397_6.jpg"
+      ]
     }
   },
   "6312842": {
@@ -947695,7 +948003,19 @@
       "title": "1 bedroom apartment, 45 м 2 Varna, Vinitsa",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-13",
+      "lat": 43.2493680749,
+      "lng": 27.9865039291,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6312842/main_image/thumb_1200x630_wm_main_image_6312842_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312842/images/thumb_1200x630_wm_images_6312842_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312842/images/thumb_1200x630_wm_images_6312842_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312842/images/thumb_1200x630_wm_images_6312842_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312842/images/thumb_1200x630_wm_images_6312842_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312842/images/thumb_1200x630_wm_images_6312842_6.jpg"
+      ]
     }
   },
   "6313921": {
@@ -947717,7 +948037,17 @@
       "title": "1 bedroom apartment, 40 м 2 Varna, Tsveten",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-15",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313921/main_image/thumb_1200x630_wm_main_image_6313921_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313921/images/thumb_1200x630_wm_images_6313921_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313921/images/thumb_1200x630_wm_images_6313921_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313921/images/thumb_1200x630_wm_images_6313921_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313921/images/thumb_1200x630_wm_images_6313921_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313921/images/thumb_1200x630_wm_images_6313921_6.jpg"
+      ]
     }
   },
   "6314333": {
@@ -947739,7 +948069,17 @@
       "title": "1 bedroom apartment, 63 м 2 Varna, Troshevo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-17",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6314333/main_image/thumb_1200x630_wm_main_image_6314333_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314333/images/thumb_1200x630_wm_images_6314333_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314333/images/thumb_1200x630_wm_images_6314333_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314333/images/thumb_1200x630_wm_images_6314333_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314333/images/thumb_1200x630_wm_images_6314333_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314333/images/thumb_1200x630_wm_images_6314333_6.jpg"
+      ]
     }
   },
   "5979728": {
@@ -947761,7 +948101,11 @@
       "title": "1 bedroom apartment, 61 м 2 Varna, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 43.2140512144,
+      "lng": 27.9148744992
     }
   },
   "6315242": {
@@ -947783,7 +948127,19 @@
       "title": "2 bedroom apartment, 61 м 2 Varna, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "lat": 43.22634027,
+      "lng": 27.8946205,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6315242/main_image/thumb_1200x630_wm_main_image_6315242_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315242/images/thumb_1200x630_wm_images_6315242_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315242/images/thumb_1200x630_wm_images_6315242_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315242/images/thumb_1200x630_wm_images_6315242_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315242/images/thumb_1200x630_wm_images_6315242_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315242/images/thumb_1200x630_wm_images_6315242_6.jpg"
+      ]
     }
   },
   "6316663": {
@@ -947805,7 +948161,11 @@
       "title": "1 bedroom apartment, 59 м 2 Varna, Briz",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 43.2182334417,
+      "lng": 27.9561007155
     }
   },
   "6315716": {
@@ -947827,7 +948187,19 @@
       "title": "Studio/bedsit, 32 м 2 Varna, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-22",
+      "lat": 42.643321016,
+      "lng": 23.3696324171,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6315716/main_image/thumb_1200x630_wm_main_image_6315716_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315716/images/thumb_1200x630_wm_images_6315716_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315716/images/thumb_1200x630_wm_images_6315716_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315716/images/thumb_1200x630_wm_images_6315716_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315716/images/thumb_1200x630_wm_images_6315716_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6315716/images/thumb_1200x630_wm_images_6315716_6.jpg"
+      ]
     }
   },
   "6316282": {
@@ -947849,7 +948221,19 @@
       "title": "Factory&Industrial, 83 м 2 Varna, Pogrebite",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 43.2067374494,
+      "lng": 27.8992421738,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316282/main_image/thumb_1200x630_wm_main_image_6316282_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316282/images/thumb_1200x630_wm_images_6316282_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316282/images/thumb_1200x630_wm_images_6316282_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316282/images/thumb_1200x630_wm_images_6316282_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316282/images/thumb_1200x630_wm_images_6316282_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316282/images/thumb_1200x630_wm_images_6316282_6.jpg"
+      ]
     }
   },
   "6316524": {
@@ -947871,7 +948255,16 @@
       "title": "1 bedroom apartment, 60 м 2 Varna, Kaysieva Gradina",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316524/main_image/thumb_1200x630_wm_main_image_6316524_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316524/images/thumb_1200x630_wm_images_6316524_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316524/images/thumb_1200x630_wm_images_6316524_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316524/images/thumb_1200x630_wm_images_6316524_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316524/images/thumb_1200x630_wm_images_6316524_5.jpg"
+      ]
     }
   },
   "6316048": {
@@ -947893,7 +948286,19 @@
       "title": "1 bedroom apartment, 74 м 2 Varna, Vinitsa",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-22",
+      "lat": 43.2443592142,
+      "lng": 27.9727388681,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316048/main_image/thumb_1200x630_wm_main_image_6316048_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316048/images/thumb_1200x630_wm_images_6316048_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316048/images/thumb_1200x630_wm_images_6316048_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316048/images/thumb_1200x630_wm_images_6316048_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316048/images/thumb_1200x630_wm_images_6316048_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316048/images/thumb_1200x630_wm_images_6316048_6.jpg"
+      ]
     }
   },
   "6317047": {
@@ -947915,7 +948320,11 @@
       "title": "Garage, 13 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316862": {
@@ -947937,7 +948346,11 @@
       "title": "Shop, 24 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317084": {
@@ -947959,7 +948372,11 @@
       "title": "Studio/bedsit, 35 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317033": {
@@ -947981,7 +948398,11 @@
       "title": "Studio/bedsit, 55 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317145": {
@@ -948003,7 +948424,11 @@
       "title": "Studio/bedsit, 30 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317067": {
@@ -948025,7 +948450,11 @@
       "title": "1 bedroom apartment, 73 м 2 Bourgas, Slaveykov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316776": {
@@ -948047,7 +948476,11 @@
       "title": "Shop, 95 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-24",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316589": {
@@ -948069,7 +948502,11 @@
       "title": "2 bedroom apartment, 90 м 2 Bourgas, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6313844": {
@@ -948091,7 +948528,11 @@
       "title": "1 bedroom apartment, 67 м 2 Bourgas, Sarafovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-15",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6313761": {
@@ -948113,7 +948554,11 @@
       "title": "1 bedroom apartment, 80 м 2 Bourgas, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-15",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6315244": {
@@ -948135,7 +948580,11 @@
       "title": "Development land, 650 м 2 Bourgas, Rudnik",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6315547": {
@@ -948157,7 +948606,11 @@
       "title": "1 bedroom apartment, 117 м 2 Bourgas, Sarafovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-21",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317140": {
@@ -948179,7 +948632,11 @@
       "title": "2 bedroom apartment, 88 м 2 Bourgas, Sarafovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317044": {
@@ -948201,7 +948658,11 @@
       "title": "1 bedroom apartment, 69 м 2 Bourgas, Vazrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6315372": {
@@ -948223,7 +948684,11 @@
       "title": "2 bedroom apartment, 103 м 2 Bourgas, Vetren",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-21",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6312672": {
@@ -948245,7 +948710,11 @@
       "title": "2 bedroom apartment, 90 м 2 Bourgas, Vazrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-13",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6314982": {
@@ -948267,7 +948736,11 @@
       "title": "2 bedroom apartment, 106 м 2 Bourgas, Sarafovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-20",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6312993": {
@@ -948289,7 +948762,18 @@
       "title": "Development land, 6489 м 2 Bourgas, Cherno more",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-13",
+      "lat": 42.52977581,
+      "lng": 27.43537707,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6312993/main_image/thumb_1200x630_wm_main_image_6312993_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312993/images/thumb_1200x630_wm_images_6312993_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312993/images/thumb_1200x630_wm_images_6312993_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312993/images/thumb_1200x630_wm_images_6312993_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6312993/images/thumb_1200x630_wm_images_6312993_5.jpg"
+      ]
     }
   },
   "6315359": {
@@ -948311,7 +948795,11 @@
       "title": "Development land, 1785 м 2 Bourgas, Kraymorie",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-21",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316139": {
@@ -948333,7 +948821,19 @@
       "title": "2 bedroom apartment, 94 м 2 Bourgas, Zornitsa",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-23",
+      "lat": 42.518269,
+      "lng": 27.466325,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316139/main_image/thumb_1200x630_wm_main_image_6316139_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316139/images/thumb_1200x630_wm_images_6316139_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316139/images/thumb_1200x630_wm_images_6316139_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316139/images/thumb_1200x630_wm_images_6316139_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316139/images/thumb_1200x630_wm_images_6316139_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316139/images/thumb_1200x630_wm_images_6316139_6.jpg"
+      ]
     }
   },
   "6313043": {
@@ -948355,7 +948855,17 @@
       "title": "Shop, 66 м 2 Bourgas, Center",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-14",
+      "lat": 42.497192,
+      "lng": 27.473989,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6313043/main_image/thumb_1200x630_wm_main_image_6313043_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313043/images/thumb_1200x630_wm_images_6313043_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313043/images/thumb_1200x630_wm_images_6313043_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6313043/images/thumb_1200x630_wm_images_6313043_4.jpg"
+      ]
     }
   },
   "6309588": {
@@ -948377,7 +948887,12 @@
       "title": "Development land, 522 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309588/main_image/thumb_1200x630_wm_main_image_6309588_1.jpg"
+      ]
     }
   },
   "6309580": {
@@ -948399,7 +948914,16 @@
       "title": "Development land, 579 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309580/main_image/thumb_1200x630_wm_main_image_6309580_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309580/images/thumb_1200x630_wm_images_6309580_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309580/images/thumb_1200x630_wm_images_6309580_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309580/images/thumb_1200x630_wm_images_6309580_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309580/images/thumb_1200x630_wm_images_6309580_5.jpg"
+      ]
     }
   },
   "6309587": {
@@ -948421,7 +948945,12 @@
       "title": "Development land, 3190 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309587/main_image/thumb_1200x630_wm_main_image_6309587_1.jpg"
+      ]
     }
   },
   "5597492": {
@@ -948443,7 +948972,11 @@
       "title": "1 bedroom apartment, 53 м 2 Stara Zagora, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.4281467629,
+      "lng": 25.63121991
     }
   },
   "6309595": {
@@ -948465,7 +948998,17 @@
       "title": "3 bedroom apartment, 86 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309595/main_image/thumb_1200x630_wm_main_image_6309595_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309595/images/thumb_1200x630_wm_images_6309595_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309595/images/thumb_1200x630_wm_images_6309595_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309595/images/thumb_1200x630_wm_images_6309595_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309595/images/thumb_1200x630_wm_images_6309595_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309595/images/thumb_1200x630_wm_images_6309595_6.jpg"
+      ]
     }
   },
   "6317254": {
@@ -948487,7 +949030,11 @@
       "title": "1 bedroom apartment, 62 м 2 Stara Zagora, Zora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317270": {
@@ -948509,7 +949056,11 @@
       "title": "Studio/bedsit, 40 м 2 Stara Zagora, Ayazmoto",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6309585": {
@@ -948531,7 +949082,13 @@
       "title": "1 bedroom apartment, 82 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309585/main_image/thumb_1200x630_wm_main_image_6309585_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309585/images/thumb_1200x630_wm_images_6309585_2.jpg"
+      ]
     }
   },
   "6317080": {
@@ -948553,7 +949110,19 @@
       "title": "2 bedroom apartment, 70 м 2 Stara Zagora, Ayazmoto",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.4329912366,
+      "lng": 25.6280969707,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317080/main_image/thumb_1200x630_wm_main_image_6317080_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317080/images/thumb_1200x630_wm_images_6317080_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317080/images/thumb_1200x630_wm_images_6317080_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317080/images/thumb_1200x630_wm_images_6317080_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317080/images/thumb_1200x630_wm_images_6317080_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317080/images/thumb_1200x630_wm_images_6317080_6.jpg"
+      ]
     }
   },
   "6317093": {
@@ -948575,7 +949144,11 @@
       "title": "2 bedroom apartment, 100 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317088": {
@@ -948597,7 +949170,11 @@
       "title": "2 bedroom apartment, 101 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317069": {
@@ -948619,7 +949196,17 @@
       "title": "2 bedroom apartment, 72 м 2 Stara Zagora, Tri chuchura, Tri Chuchura - Yug",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317069/main_image/thumb_1200x630_wm_main_image_6317069_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317069/images/thumb_1200x630_wm_images_6317069_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317069/images/thumb_1200x630_wm_images_6317069_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317069/images/thumb_1200x630_wm_images_6317069_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317069/images/thumb_1200x630_wm_images_6317069_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317069/images/thumb_1200x630_wm_images_6317069_6.jpg"
+      ]
     }
   },
   "6309583": {
@@ -948641,7 +949228,17 @@
       "title": "2 bedroom apartment, 71 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309583/main_image/thumb_1200x630_wm_main_image_6309583_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309583/images/thumb_1200x630_wm_images_6309583_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309583/images/thumb_1200x630_wm_images_6309583_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309583/images/thumb_1200x630_wm_images_6309583_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309583/images/thumb_1200x630_wm_images_6309583_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309583/images/thumb_1200x630_wm_images_6309583_6.jpg"
+      ]
     }
   },
   "6309584": {
@@ -948663,7 +949260,13 @@
       "title": "2 bedroom apartment, 118 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309584/main_image/thumb_1200x630_wm_main_image_6309584_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309584/images/thumb_1200x630_wm_images_6309584_2.jpg"
+      ]
     }
   },
   "6317267": {
@@ -948685,7 +949288,11 @@
       "title": "2 bedroom apartment, 63 м 2 Stara Zagora, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317095": {
@@ -948707,7 +949314,11 @@
       "title": "3 bedroom apartment, 131 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317160": {
@@ -948729,7 +949340,11 @@
       "title": "1 bedroom apartment, 81 м 2 Stara Zagora, Mupet theatre",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6309579": {
@@ -948751,7 +949366,17 @@
       "title": "4+ bedroom apartment, 106 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309579/main_image/thumb_1200x630_wm_main_image_6309579_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309579/images/thumb_1200x630_wm_images_6309579_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309579/images/thumb_1200x630_wm_images_6309579_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309579/images/thumb_1200x630_wm_images_6309579_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309579/images/thumb_1200x630_wm_images_6309579_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309579/images/thumb_1200x630_wm_images_6309579_6.jpg"
+      ]
     }
   },
   "6317271": {
@@ -948773,7 +949398,11 @@
       "title": "4+ bedroom apartment, 96 м 2 Stara Zagora, Novata Bania",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6309592": {
@@ -948795,7 +949424,17 @@
       "title": "2 bedroom apartment, 90 м 2 Stara Zagora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6309592/main_image/thumb_1200x630_wm_main_image_6309592_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309592/images/thumb_1200x630_wm_images_6309592_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309592/images/thumb_1200x630_wm_images_6309592_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309592/images/thumb_1200x630_wm_images_6309592_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309592/images/thumb_1200x630_wm_images_6309592_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6309592/images/thumb_1200x630_wm_images_6309592_6.jpg"
+      ]
     }
   },
   "6317183": {
@@ -948817,7 +949456,11 @@
       "title": "Floor of a house, 100 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317372": {
@@ -948839,7 +949482,11 @@
       "title": "2 bedroom apartment, 99 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317359": {
@@ -948861,7 +949508,11 @@
       "title": "2 bedroom apartment, 124 м 2 Stara Zagora, Dedov Hotel",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317161": {
@@ -948883,7 +949534,11 @@
       "title": "4+ bedroom apartment, 81 м 2 Stara Zagora, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317197": {
@@ -948905,7 +949560,12 @@
       "title": "Garage, 15 м 2 Shumen, Dobrudja",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317197/main_image/thumb_1200x630_wm_main_image_6317197_1.jpg"
+      ]
     }
   },
   "6317074": {
@@ -948927,7 +949587,14 @@
       "title": "2 bedroom apartment, 94 м 2 Shumen, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317074/main_image/thumb_1200x630_wm_main_image_6317074_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317074/images/thumb_1200x630_wm_images_6317074_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317074/images/thumb_1200x630_wm_images_6317074_3.jpg"
+      ]
     }
   },
   "6317075": {
@@ -948949,7 +949616,14 @@
       "title": "2 bedroom apartment, 93 м 2 Shumen, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317075/main_image/thumb_1200x630_wm_main_image_6317075_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317075/images/thumb_1200x630_wm_images_6317075_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317075/images/thumb_1200x630_wm_images_6317075_3.jpg"
+      ]
     }
   },
   "6317076": {
@@ -948971,7 +949645,14 @@
       "title": "3 bedroom apartment, 113 м 2 Shumen, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317076/main_image/thumb_1200x630_wm_main_image_6317076_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317076/images/thumb_1200x630_wm_images_6317076_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317076/images/thumb_1200x630_wm_images_6317076_3.jpg"
+      ]
     }
   },
   "6317073": {
@@ -948993,7 +949674,17 @@
       "title": "2 bedroom apartment, 115 м 2 Shumen, Dobrudja",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317073/main_image/thumb_1200x630_wm_main_image_6317073_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317073/images/thumb_1200x630_wm_images_6317073_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317073/images/thumb_1200x630_wm_images_6317073_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317073/images/thumb_1200x630_wm_images_6317073_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317073/images/thumb_1200x630_wm_images_6317073_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317073/images/thumb_1200x630_wm_images_6317073_6.jpg"
+      ]
     }
   },
   "5912026": {
@@ -949015,7 +949706,11 @@
       "title": "1 bedroom apartment, 61 м 2 Pernik, Iztok",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316935": {
@@ -949037,7 +949732,16 @@
       "title": "1 bedroom apartment, 74 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316935/main_image/thumb_1200x630_wm_main_image_6316935_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316935/images/thumb_1200x630_wm_images_6316935_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316935/images/thumb_1200x630_wm_images_6316935_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316935/images/thumb_1200x630_wm_images_6316935_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316935/images/thumb_1200x630_wm_images_6316935_5.jpg"
+      ]
     }
   },
   "6316987": {
@@ -949059,7 +949763,14 @@
       "title": "Garage, 18 м 2 Haskovo, Trakiiski",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316987/main_image/thumb_1200x630_wm_main_image_6316987_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316987/images/thumb_1200x630_wm_images_6316987_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316987/images/thumb_1200x630_wm_images_6316987_3.jpg"
+      ]
     }
   },
   "6316912": {
@@ -949081,7 +949792,14 @@
       "title": "Development land, 608 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316912/main_image/thumb_1200x630_wm_main_image_6316912_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316912/images/thumb_1200x630_wm_images_6316912_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316912/images/thumb_1200x630_wm_images_6316912_3.jpg"
+      ]
     }
   },
   "6316963": {
@@ -949103,7 +949821,13 @@
       "title": "Development land, 723 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316963/main_image/thumb_1200x630_wm_main_image_6316963_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316963/images/thumb_1200x630_wm_images_6316963_2.jpg"
+      ]
     }
   },
   "6316956": {
@@ -949125,7 +949849,17 @@
       "title": "Commercial property, 15 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316956/main_image/thumb_1200x630_wm_main_image_6316956_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316956/images/thumb_1200x630_wm_images_6316956_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316956/images/thumb_1200x630_wm_images_6316956_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316956/images/thumb_1200x630_wm_images_6316956_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316956/images/thumb_1200x630_wm_images_6316956_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316956/images/thumb_1200x630_wm_images_6316956_6.jpg"
+      ]
     }
   },
   "6316932": {
@@ -949147,7 +949881,12 @@
       "title": "Development land, 810 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316932/main_image/thumb_1200x630_wm_main_image_6316932_1.jpg"
+      ]
     }
   },
   "6316958": {
@@ -949169,7 +949908,13 @@
       "title": "Development land, 758 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316958/main_image/thumb_1200x630_wm_main_image_6316958_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316958/images/thumb_1200x630_wm_images_6316958_2.jpg"
+      ]
     }
   },
   "6316994": {
@@ -949191,7 +949936,16 @@
       "title": "Development land, 240 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316994/main_image/thumb_1200x630_wm_main_image_6316994_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316994/images/thumb_1200x630_wm_images_6316994_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316994/images/thumb_1200x630_wm_images_6316994_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316994/images/thumb_1200x630_wm_images_6316994_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316994/images/thumb_1200x630_wm_images_6316994_5.jpg"
+      ]
     }
   },
   "6316974": {
@@ -949213,7 +949967,14 @@
       "title": "Development land, 1236 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316974/main_image/thumb_1200x630_wm_main_image_6316974_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316974/images/thumb_1200x630_wm_images_6316974_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316974/images/thumb_1200x630_wm_images_6316974_3.jpg"
+      ]
     }
   },
   "6316951": {
@@ -949235,7 +949996,14 @@
       "title": "Development land, 1172 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316951/main_image/thumb_1200x630_wm_main_image_6316951_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316951/images/thumb_1200x630_wm_images_6316951_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316951/images/thumb_1200x630_wm_images_6316951_3.jpg"
+      ]
     }
   },
   "6316975": {
@@ -949257,7 +950025,17 @@
       "title": "Restaurant, 83 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316975/main_image/thumb_1200x630_wm_main_image_6316975_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316975/images/thumb_1200x630_wm_images_6316975_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316975/images/thumb_1200x630_wm_images_6316975_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316975/images/thumb_1200x630_wm_images_6316975_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316975/images/thumb_1200x630_wm_images_6316975_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316975/images/thumb_1200x630_wm_images_6316975_6.jpg"
+      ]
     }
   },
   "6316927": {
@@ -949279,7 +950057,13 @@
       "title": "Development land, 872 м 2 Haskovo, Bolyarovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316927/main_image/thumb_1200x630_wm_main_image_6316927_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316927/images/thumb_1200x630_wm_images_6316927_2.jpg"
+      ]
     }
   },
   "6317154": {
@@ -949301,7 +950085,11 @@
       "title": "Commercial property, 28 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316909": {
@@ -949323,7 +950111,13 @@
       "title": "Development land, 687 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316909/main_image/thumb_1200x630_wm_main_image_6316909_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316909/images/thumb_1200x630_wm_images_6316909_2.jpg"
+      ]
     }
   },
   "6316965": {
@@ -949345,7 +950139,17 @@
       "title": "Cottage, 24 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316965/main_image/thumb_1200x630_wm_main_image_6316965_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316965/images/thumb_1200x630_wm_images_6316965_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316965/images/thumb_1200x630_wm_images_6316965_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316965/images/thumb_1200x630_wm_images_6316965_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316965/images/thumb_1200x630_wm_images_6316965_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316965/images/thumb_1200x630_wm_images_6316965_6.jpg"
+      ]
     }
   },
   "6316926": {
@@ -949367,7 +950171,17 @@
       "title": "Studio/bedsit, 30 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316926/main_image/thumb_1200x630_wm_main_image_6316926_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316926/images/thumb_1200x630_wm_images_6316926_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316926/images/thumb_1200x630_wm_images_6316926_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316926/images/thumb_1200x630_wm_images_6316926_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316926/images/thumb_1200x630_wm_images_6316926_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316926/images/thumb_1200x630_wm_images_6316926_6.jpg"
+      ]
     }
   },
   "6316910": {
@@ -949389,7 +950203,16 @@
       "title": "Studio/bedsit, 50 м 2 Haskovo, Badema",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316910/main_image/thumb_1200x630_wm_main_image_6316910_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316910/images/thumb_1200x630_wm_images_6316910_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316910/images/thumb_1200x630_wm_images_6316910_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316910/images/thumb_1200x630_wm_images_6316910_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316910/images/thumb_1200x630_wm_images_6316910_5.jpg"
+      ]
     }
   },
   "6316908": {
@@ -949411,7 +950234,13 @@
       "title": "Development land, 913 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316908/main_image/thumb_1200x630_wm_main_image_6316908_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316908/images/thumb_1200x630_wm_images_6316908_2.jpg"
+      ]
     }
   },
   "6316979": {
@@ -949433,7 +950262,13 @@
       "title": "Development land, 451 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316979/main_image/thumb_1200x630_wm_main_image_6316979_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316979/images/thumb_1200x630_wm_images_6316979_2.jpg"
+      ]
     }
   },
   "6316948": {
@@ -949455,7 +950290,17 @@
       "title": "1 bedroom apartment, 64 м 2 Haskovo, Orfei",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316948/main_image/thumb_1200x630_wm_main_image_6316948_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316948/images/thumb_1200x630_wm_images_6316948_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316948/images/thumb_1200x630_wm_images_6316948_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316948/images/thumb_1200x630_wm_images_6316948_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316948/images/thumb_1200x630_wm_images_6316948_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316948/images/thumb_1200x630_wm_images_6316948_6.jpg"
+      ]
     }
   },
   "6317165": {
@@ -949477,7 +950322,13 @@
       "title": "Development land, 1262 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317165/main_image/thumb_1200x630_wm_main_image_6317165_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317165/images/thumb_1200x630_wm_images_6317165_2.jpg"
+      ]
     }
   },
   "6316967": {
@@ -949499,7 +950350,17 @@
       "title": "Cottage, 30 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316967/main_image/thumb_1200x630_wm_main_image_6316967_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316967/images/thumb_1200x630_wm_images_6316967_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316967/images/thumb_1200x630_wm_images_6316967_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316967/images/thumb_1200x630_wm_images_6316967_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316967/images/thumb_1200x630_wm_images_6316967_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316967/images/thumb_1200x630_wm_images_6316967_6.jpg"
+      ]
     }
   },
   "6316998": {
@@ -949521,7 +950382,14 @@
       "title": "House, 70 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316998/main_image/thumb_1200x630_wm_main_image_6316998_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316998/images/thumb_1200x630_wm_images_6316998_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316998/images/thumb_1200x630_wm_images_6316998_3.jpg"
+      ]
     }
   },
   "6316903": {
@@ -949543,7 +950411,16 @@
       "title": "1 bedroom apartment, 61 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316903/main_image/thumb_1200x630_wm_main_image_6316903_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316903/images/thumb_1200x630_wm_images_6316903_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316903/images/thumb_1200x630_wm_images_6316903_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316903/images/thumb_1200x630_wm_images_6316903_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316903/images/thumb_1200x630_wm_images_6316903_5.jpg"
+      ]
     }
   },
   "6317180": {
@@ -949565,7 +950442,17 @@
       "title": "2 bedroom apartment, 87 м 2 Haskovo, Orfei",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317180/main_image/thumb_1200x630_wm_main_image_6317180_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317180/images/thumb_1200x630_wm_images_6317180_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317180/images/thumb_1200x630_wm_images_6317180_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317180/images/thumb_1200x630_wm_images_6317180_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317180/images/thumb_1200x630_wm_images_6317180_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317180/images/thumb_1200x630_wm_images_6317180_6.jpg"
+      ]
     }
   },
   "6316969": {
@@ -949587,7 +950474,14 @@
       "title": "Garage, 60 м 2 Haskovo, Orfei",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316969/main_image/thumb_1200x630_wm_main_image_6316969_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316969/images/thumb_1200x630_wm_images_6316969_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316969/images/thumb_1200x630_wm_images_6316969_3.jpg"
+      ]
     }
   },
   "6316991": {
@@ -949609,7 +950503,13 @@
       "title": "Development land, 1500 м 2 Haskovo, Hisarya",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316991/main_image/thumb_1200x630_wm_main_image_6316991_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316991/images/thumb_1200x630_wm_images_6316991_2.jpg"
+      ]
     }
   },
   "6316992": {
@@ -949631,7 +950531,13 @@
       "title": "Development land, 1697 м 2 Haskovo, Hisarya",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316992/main_image/thumb_1200x630_wm_main_image_6316992_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316992/images/thumb_1200x630_wm_images_6316992_2.jpg"
+      ]
     }
   },
   "6316907": {
@@ -949653,7 +950559,16 @@
       "title": "1 bedroom apartment, 6683 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316907/main_image/thumb_1200x630_wm_main_image_6316907_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316907/images/thumb_1200x630_wm_images_6316907_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316907/images/thumb_1200x630_wm_images_6316907_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316907/images/thumb_1200x630_wm_images_6316907_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316907/images/thumb_1200x630_wm_images_6316907_5.jpg"
+      ]
     }
   },
   "6316911": {
@@ -949675,7 +950590,17 @@
       "title": "1 bedroom apartment, 45 м 2 Haskovo, Trakiiski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316911/main_image/thumb_1200x630_wm_main_image_6316911_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316911/images/thumb_1200x630_wm_images_6316911_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316911/images/thumb_1200x630_wm_images_6316911_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316911/images/thumb_1200x630_wm_images_6316911_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316911/images/thumb_1200x630_wm_images_6316911_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316911/images/thumb_1200x630_wm_images_6316911_6.jpg"
+      ]
     }
   },
   "6316929": {
@@ -949697,7 +950622,17 @@
       "title": "Shop, 26 м 2 Haskovo, Uchilishtni",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316929/main_image/thumb_1200x630_wm_main_image_6316929_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316929/images/thumb_1200x630_wm_images_6316929_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316929/images/thumb_1200x630_wm_images_6316929_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316929/images/thumb_1200x630_wm_images_6316929_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316929/images/thumb_1200x630_wm_images_6316929_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316929/images/thumb_1200x630_wm_images_6316929_6.jpg"
+      ]
     }
   },
   "6316936": {
@@ -949719,7 +950654,17 @@
       "title": "1 bedroom apartment, 62 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316936/main_image/thumb_1200x630_wm_main_image_6316936_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316936/images/thumb_1200x630_wm_images_6316936_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316936/images/thumb_1200x630_wm_images_6316936_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316936/images/thumb_1200x630_wm_images_6316936_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316936/images/thumb_1200x630_wm_images_6316936_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316936/images/thumb_1200x630_wm_images_6316936_6.jpg"
+      ]
     }
   },
   "6316937": {
@@ -949741,7 +950686,17 @@
       "title": "1 bedroom apartment, 62 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316937/main_image/thumb_1200x630_wm_main_image_6316937_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316937/images/thumb_1200x630_wm_images_6316937_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316937/images/thumb_1200x630_wm_images_6316937_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316937/images/thumb_1200x630_wm_images_6316937_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316937/images/thumb_1200x630_wm_images_6316937_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316937/images/thumb_1200x630_wm_images_6316937_6.jpg"
+      ]
     }
   },
   "6316906": {
@@ -949763,7 +950718,16 @@
       "title": "1 bedroom apartment, 70 м 2 Haskovo, Badema",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316906/main_image/thumb_1200x630_wm_main_image_6316906_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316906/images/thumb_1200x630_wm_images_6316906_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316906/images/thumb_1200x630_wm_images_6316906_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316906/images/thumb_1200x630_wm_images_6316906_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316906/images/thumb_1200x630_wm_images_6316906_5.jpg"
+      ]
     }
   },
   "6316931": {
@@ -949785,7 +950749,15 @@
       "title": "1 bedroom apartment, 60 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316931/main_image/thumb_1200x630_wm_main_image_6316931_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316931/images/thumb_1200x630_wm_images_6316931_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316931/images/thumb_1200x630_wm_images_6316931_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316931/images/thumb_1200x630_wm_images_6316931_4.jpg"
+      ]
     }
   },
   "6316925": {
@@ -949807,7 +950779,14 @@
       "title": "1 bedroom apartment, 61 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316925/main_image/thumb_1200x630_wm_main_image_6316925_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316925/images/thumb_1200x630_wm_images_6316925_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316925/images/thumb_1200x630_wm_images_6316925_3.jpg"
+      ]
     }
   },
   "6317172": {
@@ -949829,7 +950808,16 @@
       "title": "2 bedroom apartment, 94 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317172/main_image/thumb_1200x630_wm_main_image_6317172_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317172/images/thumb_1200x630_wm_images_6317172_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317172/images/thumb_1200x630_wm_images_6317172_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317172/images/thumb_1200x630_wm_images_6317172_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317172/images/thumb_1200x630_wm_images_6317172_5.jpg"
+      ]
     }
   },
   "6316955": {
@@ -949851,7 +950839,17 @@
       "title": "1 bedroom apartment, 67 м 2 Haskovo, Lyuben Karavelov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316955/main_image/thumb_1200x630_wm_main_image_6316955_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316955/images/thumb_1200x630_wm_images_6316955_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316955/images/thumb_1200x630_wm_images_6316955_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316955/images/thumb_1200x630_wm_images_6316955_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316955/images/thumb_1200x630_wm_images_6316955_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316955/images/thumb_1200x630_wm_images_6316955_6.jpg"
+      ]
     }
   },
   "6316960": {
@@ -949873,7 +950871,13 @@
       "title": "Development land, 4000 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316960/main_image/thumb_1200x630_wm_main_image_6316960_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316960/images/thumb_1200x630_wm_images_6316960_2.jpg"
+      ]
     }
   },
   "6316972": {
@@ -949895,7 +950899,13 @@
       "title": "Development land, 3500 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316972/main_image/thumb_1200x630_wm_main_image_6316972_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316972/images/thumb_1200x630_wm_images_6316972_2.jpg"
+      ]
     }
   },
   "6316961": {
@@ -949917,7 +950927,17 @@
       "title": "2 bedroom apartment, 85 м 2 Haskovo, Uchilishtni",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316961/main_image/thumb_1200x630_wm_main_image_6316961_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316961/images/thumb_1200x630_wm_images_6316961_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316961/images/thumb_1200x630_wm_images_6316961_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316961/images/thumb_1200x630_wm_images_6316961_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316961/images/thumb_1200x630_wm_images_6316961_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316961/images/thumb_1200x630_wm_images_6316961_6.jpg"
+      ]
     }
   },
   "6316923": {
@@ -949939,7 +950959,16 @@
       "title": "1 bedroom apartment, 57 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316923/main_image/thumb_1200x630_wm_main_image_6316923_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316923/images/thumb_1200x630_wm_images_6316923_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316923/images/thumb_1200x630_wm_images_6316923_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316923/images/thumb_1200x630_wm_images_6316923_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316923/images/thumb_1200x630_wm_images_6316923_5.jpg"
+      ]
     }
   },
   "6316999": {
@@ -949961,7 +950990,17 @@
       "title": "2 bedroom apartment, 79 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316999/main_image/thumb_1200x630_wm_main_image_6316999_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316999/images/thumb_1200x630_wm_images_6316999_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316999/images/thumb_1200x630_wm_images_6316999_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316999/images/thumb_1200x630_wm_images_6316999_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316999/images/thumb_1200x630_wm_images_6316999_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316999/images/thumb_1200x630_wm_images_6316999_6.jpg"
+      ]
     }
   },
   "6316941": {
@@ -949983,7 +951022,16 @@
       "title": "Development land, 1215 м 2 Haskovo, Hisarya",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316941/main_image/thumb_1200x630_wm_main_image_6316941_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316941/images/thumb_1200x630_wm_images_6316941_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316941/images/thumb_1200x630_wm_images_6316941_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316941/images/thumb_1200x630_wm_images_6316941_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316941/images/thumb_1200x630_wm_images_6316941_5.jpg"
+      ]
     }
   },
   "6317016": {
@@ -950005,7 +951053,11 @@
       "title": "1 bedroom apartment, 73 м 2 Haskovo, Orfei",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316913": {
@@ -950027,7 +951079,15 @@
       "title": "1 bedroom apartment, 74 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316913/main_image/thumb_1200x630_wm_main_image_6316913_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316913/images/thumb_1200x630_wm_images_6316913_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316913/images/thumb_1200x630_wm_images_6316913_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316913/images/thumb_1200x630_wm_images_6316913_4.jpg"
+      ]
     }
   },
   "6316918": {
@@ -950049,7 +951109,17 @@
       "title": "1 bedroom apartment, 74 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316918/main_image/thumb_1200x630_wm_main_image_6316918_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316918/images/thumb_1200x630_wm_images_6316918_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316918/images/thumb_1200x630_wm_images_6316918_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316918/images/thumb_1200x630_wm_images_6316918_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316918/images/thumb_1200x630_wm_images_6316918_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316918/images/thumb_1200x630_wm_images_6316918_6.jpg"
+      ]
     }
   },
   "6316924": {
@@ -950071,7 +951141,15 @@
       "title": "1 bedroom apartment, 69 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316924/main_image/thumb_1200x630_wm_main_image_6316924_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316924/images/thumb_1200x630_wm_images_6316924_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316924/images/thumb_1200x630_wm_images_6316924_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316924/images/thumb_1200x630_wm_images_6316924_4.jpg"
+      ]
     }
   },
   "6316962": {
@@ -950093,7 +951171,17 @@
       "title": "Commercial property, 138 м 2 Haskovo, Lyuben Karavelov",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316962/main_image/thumb_1200x630_wm_main_image_6316962_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316962/images/thumb_1200x630_wm_images_6316962_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316962/images/thumb_1200x630_wm_images_6316962_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316962/images/thumb_1200x630_wm_images_6316962_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316962/images/thumb_1200x630_wm_images_6316962_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316962/images/thumb_1200x630_wm_images_6316962_6.jpg"
+      ]
     }
   },
   "6317174": {
@@ -950115,7 +951203,15 @@
       "title": "Agricultural land, 3000 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317174/main_image/thumb_1200x630_wm_main_image_6317174_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317174/images/thumb_1200x630_wm_images_6317174_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317174/images/thumb_1200x630_wm_images_6317174_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317174/images/thumb_1200x630_wm_images_6317174_4.jpg"
+      ]
     }
   },
   "6316983": {
@@ -950137,7 +951233,17 @@
       "title": "1 bedroom apartment, 78 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316983/main_image/thumb_1200x630_wm_main_image_6316983_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316983/images/thumb_1200x630_wm_images_6316983_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316983/images/thumb_1200x630_wm_images_6316983_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316983/images/thumb_1200x630_wm_images_6316983_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316983/images/thumb_1200x630_wm_images_6316983_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316983/images/thumb_1200x630_wm_images_6316983_6.jpg"
+      ]
     }
   },
   "6316920": {
@@ -950159,7 +951265,17 @@
       "title": "1 bedroom apartment, 78 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316920/main_image/thumb_1200x630_wm_main_image_6316920_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316920/images/thumb_1200x630_wm_images_6316920_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316920/images/thumb_1200x630_wm_images_6316920_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316920/images/thumb_1200x630_wm_images_6316920_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316920/images/thumb_1200x630_wm_images_6316920_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316920/images/thumb_1200x630_wm_images_6316920_6.jpg"
+      ]
     }
   },
   "6316914": {
@@ -950181,7 +951297,17 @@
       "title": "2 bedroom apartment, 96 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316914/main_image/thumb_1200x630_wm_main_image_6316914_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316914/images/thumb_1200x630_wm_images_6316914_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316914/images/thumb_1200x630_wm_images_6316914_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316914/images/thumb_1200x630_wm_images_6316914_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316914/images/thumb_1200x630_wm_images_6316914_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316914/images/thumb_1200x630_wm_images_6316914_6.jpg"
+      ]
     }
   },
   "6317157": {
@@ -950203,7 +951329,11 @@
       "title": "1 bedroom apartment, 73 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316942": {
@@ -950225,7 +951355,17 @@
       "title": "2 bedroom apartment, 88 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316942/main_image/thumb_1200x630_wm_main_image_6316942_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316942/images/thumb_1200x630_wm_images_6316942_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316942/images/thumb_1200x630_wm_images_6316942_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316942/images/thumb_1200x630_wm_images_6316942_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316942/images/thumb_1200x630_wm_images_6316942_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316942/images/thumb_1200x630_wm_images_6316942_6.jpg"
+      ]
     }
   },
   "6317167": {
@@ -950247,7 +951387,17 @@
       "title": "2 bedroom apartment, 115 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317167/main_image/thumb_1200x630_wm_main_image_6317167_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317167/images/thumb_1200x630_wm_images_6317167_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317167/images/thumb_1200x630_wm_images_6317167_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317167/images/thumb_1200x630_wm_images_6317167_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317167/images/thumb_1200x630_wm_images_6317167_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317167/images/thumb_1200x630_wm_images_6317167_6.jpg"
+      ]
     }
   },
   "6316982": {
@@ -950269,7 +951419,17 @@
       "title": "4+ bedroom apartment, 120 м 2 Haskovo, Voevodski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316982/main_image/thumb_1200x630_wm_main_image_6316982_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316982/images/thumb_1200x630_wm_images_6316982_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316982/images/thumb_1200x630_wm_images_6316982_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316982/images/thumb_1200x630_wm_images_6316982_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316982/images/thumb_1200x630_wm_images_6316982_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316982/images/thumb_1200x630_wm_images_6316982_6.jpg"
+      ]
     }
   },
   "6316922": {
@@ -950291,7 +951451,17 @@
       "title": "1 bedroom apartment, 65 м 2 Haskovo, Badema",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316922/main_image/thumb_1200x630_wm_main_image_6316922_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316922/images/thumb_1200x630_wm_images_6316922_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316922/images/thumb_1200x630_wm_images_6316922_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316922/images/thumb_1200x630_wm_images_6316922_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316922/images/thumb_1200x630_wm_images_6316922_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316922/images/thumb_1200x630_wm_images_6316922_6.jpg"
+      ]
     }
   },
   "6317182": {
@@ -950313,7 +951483,15 @@
       "title": "1 bedroom apartment, 105 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317182/main_image/thumb_1200x630_wm_main_image_6317182_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317182/images/thumb_1200x630_wm_images_6317182_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317182/images/thumb_1200x630_wm_images_6317182_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317182/images/thumb_1200x630_wm_images_6317182_4.jpg"
+      ]
     }
   },
   "6316915": {
@@ -950335,7 +951513,17 @@
       "title": "4+ bedroom apartment, 120 м 2 Haskovo, Vyzrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316915/main_image/thumb_1200x630_wm_main_image_6316915_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316915/images/thumb_1200x630_wm_images_6316915_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316915/images/thumb_1200x630_wm_images_6316915_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316915/images/thumb_1200x630_wm_images_6316915_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316915/images/thumb_1200x630_wm_images_6316915_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316915/images/thumb_1200x630_wm_images_6316915_6.jpg"
+      ]
     }
   },
   "6316950": {
@@ -950357,7 +951545,16 @@
       "title": "House, 100 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316950/main_image/thumb_1200x630_wm_main_image_6316950_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316950/images/thumb_1200x630_wm_images_6316950_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316950/images/thumb_1200x630_wm_images_6316950_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316950/images/thumb_1200x630_wm_images_6316950_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316950/images/thumb_1200x630_wm_images_6316950_5.jpg"
+      ]
     }
   },
   "6316976": {
@@ -950379,7 +951576,17 @@
       "title": "2 bedroom apartment, 100 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316976/main_image/thumb_1200x630_wm_main_image_6316976_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316976/images/thumb_1200x630_wm_images_6316976_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316976/images/thumb_1200x630_wm_images_6316976_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316976/images/thumb_1200x630_wm_images_6316976_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316976/images/thumb_1200x630_wm_images_6316976_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316976/images/thumb_1200x630_wm_images_6316976_6.jpg"
+      ]
     }
   },
   "6316930": {
@@ -950401,7 +951608,16 @@
       "title": "4+ bedroom apartment, 98 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316930/main_image/thumb_1200x630_wm_main_image_6316930_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316930/images/thumb_1200x630_wm_images_6316930_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316930/images/thumb_1200x630_wm_images_6316930_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316930/images/thumb_1200x630_wm_images_6316930_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316930/images/thumb_1200x630_wm_images_6316930_5.jpg"
+      ]
     }
   },
   "6316947": {
@@ -950423,7 +951639,17 @@
       "title": "2 bedroom apartment, 100 м 2 Haskovo, Mladejki Halm",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316947/main_image/thumb_1200x630_wm_main_image_6316947_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316947/images/thumb_1200x630_wm_images_6316947_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316947/images/thumb_1200x630_wm_images_6316947_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316947/images/thumb_1200x630_wm_images_6316947_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316947/images/thumb_1200x630_wm_images_6316947_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316947/images/thumb_1200x630_wm_images_6316947_6.jpg"
+      ]
     }
   },
   "6316917": {
@@ -950445,7 +951671,17 @@
       "title": "2 bedroom apartment, 104 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316917/main_image/thumb_1200x630_wm_main_image_6316917_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316917/images/thumb_1200x630_wm_images_6316917_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316917/images/thumb_1200x630_wm_images_6316917_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316917/images/thumb_1200x630_wm_images_6316917_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316917/images/thumb_1200x630_wm_images_6316917_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316917/images/thumb_1200x630_wm_images_6316917_6.jpg"
+      ]
     }
   },
   "6316988": {
@@ -950467,7 +951703,17 @@
       "title": "4+ bedroom apartment, 100 м 2 Haskovo, Lyuben Karavelov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316988/main_image/thumb_1200x630_wm_main_image_6316988_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316988/images/thumb_1200x630_wm_images_6316988_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316988/images/thumb_1200x630_wm_images_6316988_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316988/images/thumb_1200x630_wm_images_6316988_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316988/images/thumb_1200x630_wm_images_6316988_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316988/images/thumb_1200x630_wm_images_6316988_6.jpg"
+      ]
     }
   },
   "6316964": {
@@ -950489,7 +951735,16 @@
       "title": "Shop, 125 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316964/main_image/thumb_1200x630_wm_main_image_6316964_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316964/images/thumb_1200x630_wm_images_6316964_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316964/images/thumb_1200x630_wm_images_6316964_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316964/images/thumb_1200x630_wm_images_6316964_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316964/images/thumb_1200x630_wm_images_6316964_5.jpg"
+      ]
     }
   },
   "6316993": {
@@ -950511,7 +951766,17 @@
       "title": "2 bedroom apartment, 84 м 2 Haskovo, Vyzrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316993/main_image/thumb_1200x630_wm_main_image_6316993_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316993/images/thumb_1200x630_wm_images_6316993_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316993/images/thumb_1200x630_wm_images_6316993_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316993/images/thumb_1200x630_wm_images_6316993_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316993/images/thumb_1200x630_wm_images_6316993_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316993/images/thumb_1200x630_wm_images_6316993_6.jpg"
+      ]
     }
   },
   "6316916": {
@@ -950533,7 +951798,17 @@
       "title": "2 bedroom apartment, 121 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316916/main_image/thumb_1200x630_wm_main_image_6316916_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316916/images/thumb_1200x630_wm_images_6316916_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316916/images/thumb_1200x630_wm_images_6316916_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316916/images/thumb_1200x630_wm_images_6316916_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316916/images/thumb_1200x630_wm_images_6316916_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316916/images/thumb_1200x630_wm_images_6316916_6.jpg"
+      ]
     }
   },
   "6316977": {
@@ -950555,7 +951830,13 @@
       "title": "Agricultural land, 4217 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316977/main_image/thumb_1200x630_wm_main_image_6316977_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316977/images/thumb_1200x630_wm_images_6316977_2.jpg"
+      ]
     }
   },
   "6316986": {
@@ -950577,7 +951858,17 @@
       "title": "2 bedroom apartment, 105 м 2 Haskovo, Badema",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316986/main_image/thumb_1200x630_wm_main_image_6316986_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316986/images/thumb_1200x630_wm_images_6316986_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316986/images/thumb_1200x630_wm_images_6316986_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316986/images/thumb_1200x630_wm_images_6316986_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316986/images/thumb_1200x630_wm_images_6316986_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316986/images/thumb_1200x630_wm_images_6316986_6.jpg"
+      ]
     }
   },
   "6317015": {
@@ -950599,7 +951890,11 @@
       "title": "Commercial property, 103 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316905": {
@@ -950621,7 +951916,12 @@
       "title": "House, 140 м 2 Haskovo, Vyzrajdane",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316905/main_image/thumb_1200x630_wm_main_image_6316905_1.jpg"
+      ]
     }
   },
   "6316954": {
@@ -950643,7 +951943,13 @@
       "title": "Development land, 1567 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316954/main_image/thumb_1200x630_wm_main_image_6316954_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316954/images/thumb_1200x630_wm_images_6316954_2.jpg"
+      ]
     }
   },
   "6317170": {
@@ -950665,7 +951971,17 @@
       "title": "2 bedroom apartment, 84 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317170/main_image/thumb_1200x630_wm_main_image_6317170_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317170/images/thumb_1200x630_wm_images_6317170_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317170/images/thumb_1200x630_wm_images_6317170_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317170/images/thumb_1200x630_wm_images_6317170_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317170/images/thumb_1200x630_wm_images_6317170_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317170/images/thumb_1200x630_wm_images_6317170_6.jpg"
+      ]
     }
   },
   "6316938": {
@@ -950687,7 +952003,17 @@
       "title": "4+ bedroom apartment, 90 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316938/main_image/thumb_1200x630_wm_main_image_6316938_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316938/images/thumb_1200x630_wm_images_6316938_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316938/images/thumb_1200x630_wm_images_6316938_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316938/images/thumb_1200x630_wm_images_6316938_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316938/images/thumb_1200x630_wm_images_6316938_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316938/images/thumb_1200x630_wm_images_6316938_6.jpg"
+      ]
     }
   },
   "6316957": {
@@ -950709,7 +952035,17 @@
       "title": "2 bedroom apartment, 101 м 2 Haskovo, Uchilishtni",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316957/main_image/thumb_1200x630_wm_main_image_6316957_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316957/images/thumb_1200x630_wm_images_6316957_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316957/images/thumb_1200x630_wm_images_6316957_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316957/images/thumb_1200x630_wm_images_6316957_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316957/images/thumb_1200x630_wm_images_6316957_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316957/images/thumb_1200x630_wm_images_6316957_6.jpg"
+      ]
     }
   },
   "6317452": {
@@ -950731,7 +952067,17 @@
       "title": "House, 184 м 2 Haskovo, Republika",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317452/main_image/thumb_1200x630_wm_main_image_6317452_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317452/images/thumb_1200x630_wm_images_6317452_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317452/images/thumb_1200x630_wm_images_6317452_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317452/images/thumb_1200x630_wm_images_6317452_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317452/images/thumb_1200x630_wm_images_6317452_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317452/images/thumb_1200x630_wm_images_6317452_6.jpg"
+      ]
     }
   },
   "6316966": {
@@ -950753,7 +952099,17 @@
       "title": "House, 202 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316966/main_image/thumb_1200x630_wm_main_image_6316966_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316966/images/thumb_1200x630_wm_images_6316966_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316966/images/thumb_1200x630_wm_images_6316966_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316966/images/thumb_1200x630_wm_images_6316966_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316966/images/thumb_1200x630_wm_images_6316966_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316966/images/thumb_1200x630_wm_images_6316966_6.jpg"
+      ]
     }
   },
   "6316944": {
@@ -950775,7 +952131,17 @@
       "title": "2 bedroom apartment, 97 м 2 Haskovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316944/main_image/thumb_1200x630_wm_main_image_6316944_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316944/images/thumb_1200x630_wm_images_6316944_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316944/images/thumb_1200x630_wm_images_6316944_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316944/images/thumb_1200x630_wm_images_6316944_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316944/images/thumb_1200x630_wm_images_6316944_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316944/images/thumb_1200x630_wm_images_6316944_6.jpg"
+      ]
     }
   },
   "6317000": {
@@ -950797,7 +952163,17 @@
       "title": "Factory&Industrial, 400 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317000/main_image/thumb_1200x630_wm_main_image_6317000_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317000/images/thumb_1200x630_wm_images_6317000_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317000/images/thumb_1200x630_wm_images_6317000_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317000/images/thumb_1200x630_wm_images_6317000_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317000/images/thumb_1200x630_wm_images_6317000_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317000/images/thumb_1200x630_wm_images_6317000_6.jpg"
+      ]
     }
   },
   "6317002": {
@@ -950819,7 +952195,13 @@
       "title": "Development land, 4895 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317002/main_image/thumb_1200x630_wm_main_image_6317002_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317002/images/thumb_1200x630_wm_images_6317002_2.jpg"
+      ]
     }
   },
   "6316933": {
@@ -950841,7 +952223,13 @@
       "title": "Development land, 1033 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316933/main_image/thumb_1200x630_wm_main_image_6316933_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316933/images/thumb_1200x630_wm_images_6316933_2.jpg"
+      ]
     }
   },
   "6316953": {
@@ -950863,7 +952251,17 @@
       "title": "Restaurant, 58 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316953/main_image/thumb_1200x630_wm_main_image_6316953_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316953/images/thumb_1200x630_wm_images_6316953_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316953/images/thumb_1200x630_wm_images_6316953_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316953/images/thumb_1200x630_wm_images_6316953_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316953/images/thumb_1200x630_wm_images_6316953_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316953/images/thumb_1200x630_wm_images_6316953_6.jpg"
+      ]
     }
   },
   "6316989": {
@@ -950885,7 +952283,17 @@
       "title": "Maisonette, 175 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316989/main_image/thumb_1200x630_wm_main_image_6316989_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316989/images/thumb_1200x630_wm_images_6316989_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316989/images/thumb_1200x630_wm_images_6316989_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316989/images/thumb_1200x630_wm_images_6316989_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316989/images/thumb_1200x630_wm_images_6316989_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316989/images/thumb_1200x630_wm_images_6316989_6.jpg"
+      ]
     }
   },
   "6317004": {
@@ -950907,7 +952315,17 @@
       "title": "2 bedroom apartment, 100 м 2 Haskovo, Voevodski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317004/main_image/thumb_1200x630_wm_main_image_6317004_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317004/images/thumb_1200x630_wm_images_6317004_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317004/images/thumb_1200x630_wm_images_6317004_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317004/images/thumb_1200x630_wm_images_6317004_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317004/images/thumb_1200x630_wm_images_6317004_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317004/images/thumb_1200x630_wm_images_6317004_6.jpg"
+      ]
     }
   },
   "6316939": {
@@ -950929,7 +952347,14 @@
       "title": "Development land, 23300 м 2 Haskovo, Badema",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316939/main_image/thumb_1200x630_wm_main_image_6316939_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316939/images/thumb_1200x630_wm_images_6316939_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316939/images/thumb_1200x630_wm_images_6316939_3.jpg"
+      ]
     }
   },
   "6316968": {
@@ -950951,7 +952376,13 @@
       "title": "Development land, 1599 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316968/main_image/thumb_1200x630_wm_main_image_6316968_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316968/images/thumb_1200x630_wm_images_6316968_2.jpg"
+      ]
     }
   },
   "6317171": {
@@ -950973,7 +952404,15 @@
       "title": "Agricultural land, 4000 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317171/main_image/thumb_1200x630_wm_main_image_6317171_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317171/images/thumb_1200x630_wm_images_6317171_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317171/images/thumb_1200x630_wm_images_6317171_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317171/images/thumb_1200x630_wm_images_6317171_4.jpg"
+      ]
     }
   },
   "6316952": {
@@ -950995,7 +952434,17 @@
       "title": "House, 114 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316952/main_image/thumb_1200x630_wm_main_image_6316952_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316952/images/thumb_1200x630_wm_images_6316952_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316952/images/thumb_1200x630_wm_images_6316952_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316952/images/thumb_1200x630_wm_images_6316952_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316952/images/thumb_1200x630_wm_images_6316952_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316952/images/thumb_1200x630_wm_images_6316952_6.jpg"
+      ]
     }
   },
   "6316943": {
@@ -951017,7 +952466,17 @@
       "title": "House, 150 м 2 Haskovo, Kenana",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316943/main_image/thumb_1200x630_wm_main_image_6316943_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316943/images/thumb_1200x630_wm_images_6316943_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316943/images/thumb_1200x630_wm_images_6316943_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316943/images/thumb_1200x630_wm_images_6316943_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316943/images/thumb_1200x630_wm_images_6316943_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316943/images/thumb_1200x630_wm_images_6316943_6.jpg"
+      ]
     }
   },
   "6317021": {
@@ -951039,7 +952498,11 @@
       "title": "House, 145 м 2 Haskovo, Kuba",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317006": {
@@ -951061,7 +952524,13 @@
       "title": "Development land, 9995 м 2 Haskovo",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317006/main_image/thumb_1200x630_wm_main_image_6317006_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317006/images/thumb_1200x630_wm_images_6317006_2.jpg"
+      ]
     }
   },
   "6317178": {
@@ -951083,7 +952552,17 @@
       "title": "House, 230 м 2 Haskovo, Drujba",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-26",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317178/main_image/thumb_1200x630_wm_main_image_6317178_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317178/images/thumb_1200x630_wm_images_6317178_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317178/images/thumb_1200x630_wm_images_6317178_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317178/images/thumb_1200x630_wm_images_6317178_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317178/images/thumb_1200x630_wm_images_6317178_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317178/images/thumb_1200x630_wm_images_6317178_6.jpg"
+      ]
     }
   }
 }
