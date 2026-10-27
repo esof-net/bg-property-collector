@@ -2193,7 +2193,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -55.9,
     "score": 18
@@ -4371,7 +4371,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -32.2,
     "score": 15
@@ -4720,7 +4720,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -32.5,
     "score": 14
@@ -6259,7 +6259,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": 1799,
     "pct_vs_area_avg": -12.2,
     "score": 10
@@ -11742,7 +11742,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -15.6,
     "score": 8
@@ -14260,7 +14260,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 55,
+    "days_on_market": 56,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -17995,7 +17995,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": 765,
     "pct_vs_area_avg": -15.7,
     "score": 7
@@ -19074,7 +19074,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20203,7 +20203,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -20896,7 +20896,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21023,7 +21023,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21214,7 +21214,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25639,7 +25639,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -25827,7 +25827,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26301,7 +26301,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26554,7 +26554,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27395,7 +27395,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27427,7 +27427,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28829,7 +28829,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29050,7 +29050,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -37902,7 +37902,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 40,
+    "days_on_market": 41,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -48196,7 +48196,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 41,
+    "days_on_market": 42,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49732,7 +49732,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": -8.5,
     "score": 5
@@ -51963,7 +51963,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64349,7 +64349,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72616,7 +72616,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73834,7 +73834,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73865,7 +73865,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73896,7 +73896,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73927,7 +73927,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73958,7 +73958,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73990,7 +73990,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74022,7 +74022,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74054,7 +74054,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74827,6 +74827,134 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 28,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92709",
+    "url": "https://sales.bcpea.org/properties/92709",
+    "photo": null,
+    "price_eur": 199,
+    "sqm": 90,
+    "area": "Китка",
+    "title": "Земеделска земя, Китка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-30T17:00:00+00:00",
+    "category": "land",
+    "_settlement": "Китка",
+    "lat": 43.05327,
+    "lng": 27.7756949,
+    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ДЕРЕ ДЕРМЕН“, с площ от 2.090дка /два декара и деветдесет кв.м./ , четвърта категория, представляваща имот №057003 /нула пет седем нуланула три/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №057004 – нива на Демир Пенов Демиров, имот № 057045- нива насл.на Славка Николова Манчева, имот №057002 – нива насл. на Ана Желева Димова, имот №087001 – нива на Павли Янков Николов, имот №000619 – полски път Кметство Китка, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.57.3 /три седем нула шест осем точка пет седем точка три/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"ДЕРЕ ДЕРМЕН\" с площ от 2090 /две хиляди и деветдесет/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 4 /четвърта/, номер от предходен: 057003 със СЪСЕДИ: ПИ №37068.57.619, 37068.57.1, 37068.57.4, 37068.57.2, 37068.57.45",
+    "detail_checked": true,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-09-30T14:17:34.870514+00:00",
+        "price_eur": 199
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92708",
+    "url": "https://sales.bcpea.org/properties/92708",
+    "photo": null,
+    "price_eur": 544,
+    "sqm": 701,
+    "area": "Китка",
+    "title": "Земеделска земя, Китка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-30T16:57:00+00:00",
+    "category": "land",
+    "_settlement": "Китка",
+    "lat": 43.05327,
+    "lng": 27.7756949,
+    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ДОЛАШМИТЕ“, с площ от 5.701дка /пет декара седемстотин и един кв.м./ , пета категория, представляваща имот №050028 /нула пет нула нула две осем/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №050029 – нива на Пенчо Великов Куртев, имот № 000626- полски път на Кметство Китка, имот №050027 – нива на Стоян Кирилов Илиев, имот №050006 – нива на наследниците на Павли Баев Стойков, имот №050005 – нива на наследниците на Любен Петров Ангелов, имот №050004 – нива на наследниците на Аксе Тасев Йовчев, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.50.28 /три седем нула шест осем точка пет нула точка две осем/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"ДОЛАШМИТЕ\" с площ от 5699 /пет хиляди шестстотин деветдесет и девет/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 5 /пета/, номер от предходен: 050028 със СЪСЕДИ: ПИ №37068.50.5, 37068.50.626, 37068.50.29, 37068.50.27, 37068.50.35, 37068.50.4",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-09-30T14:17:34.870514+00:00",
+        "price_eur": 544
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92707",
+    "url": "https://sales.bcpea.org/properties/92707",
+    "photo": null,
+    "price_eur": 1177,
+    "sqm": 350,
+    "area": "Китка",
+    "title": "Земеделска земя, Китка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-30T16:54:00+00:00",
+    "category": "land",
+    "_settlement": "Китка",
+    "lat": 43.05327,
+    "lng": 27.7756949,
+    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „БОРУНДЖА“, с площ от 12.350дка /дванадесет декара триста и петдесет кв.м./, четвърта категория, представляваща имот № 042019 /нула четири две нула едно девет/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №042020 – нива насл. на Митра Лазарова Петева, имот № 000621- полски път на Кметство Китка, имот №042018 – нива на насл. на Станю Желев Станев, имот №042024 – нива насл.на Иван Иванов Иванов , а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.42.19 /три седем нула шест осем точка четири две точка едно девет/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"БОРУНДЖАК\" с площ от 12348.00 /дванадесет хиляди триста четиридесет и осем/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 4 /ЧЕТВЪРТА/ , номер от предходен: 042019 със СЪСЕДИ: ПИ №37068.42.45, 37068.42.52, 37068.42.18, 37068.42.46, 37068.42.621",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-09-30T14:17:34.870514+00:00",
+        "price_eur": 1177
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92706",
+    "url": "https://sales.bcpea.org/properties/92706",
+    "photo": null,
+    "price_eur": 237,
+    "sqm": 525,
+    "area": "Китка",
+    "title": "Земеделска земя, Китка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-30T16:52:00+00:00",
+    "category": "land",
+    "_settlement": "Китка",
+    "lat": 43.05327,
+    "lng": 27.7756949,
+    "description": "1/6 /една шеста/ ид.ч. от ИЗОСТАВЕНА НИВА, находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ШОРАЛДАК“, с площ от 8.525дка /осем декара петстотин двадесет и пет кв.м./, пета категория, представляваща имот №041019 /нула четири едно нула едно девет/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №041018 – изоставена нива насл. на Панайот Тонев Иванов, имот № 041016- изоставена нива насл.на Йордан Спасов Стоименов, имот №041015 – изоставена нива на насл. на Митко Петров Ангелов, имот №000620 - полски път на Кметство Китка, имот № 041026 из.н.др.причина на НУ „Св.Св.Кирил и Методий“- Китка, имот №041023 изоставена нива на Стоян Георгиев Тодоров, имот №041020 изоставена нива на Община Аврен – остатъчна, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.41.19 /три седем нула шест осем точка четири едно точка едно девет/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на им о та: село Китка, местност \"ШОРАЛДАК\" с площ от 8524.00 /осем хиляди петстотин двадесет и четири/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: Изоставена орна земя, категория: 5 /пета/, номер от предходен: 041019 със СЪСЕДИ: ПИ №37068.41.16, 37068.41.35, 37068.42.620, 37068.41.26, 37068.41.15, 37068.41.18, 37068.41.23",
+    "detail_checked": true,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-09-30T14:17:34.870514+00:00",
+        "price_eur": 237
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77283,134 +77411,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92709",
-    "url": "https://sales.bcpea.org/properties/92709",
-    "photo": null,
-    "price_eur": 199,
-    "sqm": 90,
-    "area": "Китка",
-    "title": "Земеделска земя, Китка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-30T17:00:00+00:00",
-    "category": "land",
-    "_settlement": "Китка",
-    "lat": 43.05327,
-    "lng": 27.7756949,
-    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ДЕРЕ ДЕРМЕН“, с площ от 2.090дка /два декара и деветдесет кв.м./ , четвърта категория, представляваща имот №057003 /нула пет седем нуланула три/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №057004 – нива на Демир Пенов Демиров, имот № 057045- нива насл.на Славка Николова Манчева, имот №057002 – нива насл. на Ана Желева Димова, имот №087001 – нива на Павли Янков Николов, имот №000619 – полски път Кметство Китка, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.57.3 /три седем нула шест осем точка пет седем точка три/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"ДЕРЕ ДЕРМЕН\" с площ от 2090 /две хиляди и деветдесет/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 4 /четвърта/, номер от предходен: 057003 със СЪСЕДИ: ПИ №37068.57.619, 37068.57.1, 37068.57.4, 37068.57.2, 37068.57.45",
-    "detail_checked": true,
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-09-30T14:17:34.870514+00:00",
-        "price_eur": 199
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92708",
-    "url": "https://sales.bcpea.org/properties/92708",
-    "photo": null,
-    "price_eur": 544,
-    "sqm": 701,
-    "area": "Китка",
-    "title": "Земеделска земя, Китка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-30T16:57:00+00:00",
-    "category": "land",
-    "_settlement": "Китка",
-    "lat": 43.05327,
-    "lng": 27.7756949,
-    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ДОЛАШМИТЕ“, с площ от 5.701дка /пет декара седемстотин и един кв.м./ , пета категория, представляваща имот №050028 /нула пет нула нула две осем/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №050029 – нива на Пенчо Великов Куртев, имот № 000626- полски път на Кметство Китка, имот №050027 – нива на Стоян Кирилов Илиев, имот №050006 – нива на наследниците на Павли Баев Стойков, имот №050005 – нива на наследниците на Любен Петров Ангелов, имот №050004 – нива на наследниците на Аксе Тасев Йовчев, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.50.28 /три седем нула шест осем точка пет нула точка две осем/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"ДОЛАШМИТЕ\" с площ от 5699 /пет хиляди шестстотин деветдесет и девет/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 5 /пета/, номер от предходен: 050028 със СЪСЕДИ: ПИ №37068.50.5, 37068.50.626, 37068.50.29, 37068.50.27, 37068.50.35, 37068.50.4",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-09-30T14:17:34.870514+00:00",
-        "price_eur": 544
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92707",
-    "url": "https://sales.bcpea.org/properties/92707",
-    "photo": null,
-    "price_eur": 1177,
-    "sqm": 350,
-    "area": "Китка",
-    "title": "Земеделска земя, Китка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-30T16:54:00+00:00",
-    "category": "land",
-    "_settlement": "Китка",
-    "lat": 43.05327,
-    "lng": 27.7756949,
-    "description": "1/6 /една шеста/ ид.ч. от НИВА находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „БОРУНДЖА“, с площ от 12.350дка /дванадесет декара триста и петдесет кв.м./, четвърта категория, представляваща имот № 042019 /нула четири две нула едно девет/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №042020 – нива насл. на Митра Лазарова Петева, имот № 000621- полски път на Кметство Китка, имот №042018 – нива на насл. на Станю Желев Станев, имот №042024 – нива насл.на Иван Иванов Иванов , а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.42.19 /три седем нула шест осем точка четири две точка едно девет/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на имта: село Китка, местност \"БОРУНДЖАК\" с площ от 12348.00 /дванадесет хиляди триста четиридесет и осем/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: НИВА, категория: 4 /ЧЕТВЪРТА/ , номер от предходен: 042019 със СЪСЕДИ: ПИ №37068.42.45, 37068.42.52, 37068.42.18, 37068.42.46, 37068.42.621",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-09-30T14:17:34.870514+00:00",
-        "price_eur": 1177
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92706",
-    "url": "https://sales.bcpea.org/properties/92706",
-    "photo": null,
-    "price_eur": 237,
-    "sqm": 525,
-    "area": "Китка",
-    "title": "Земеделска земя, Китка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-30T16:52:00+00:00",
-    "category": "land",
-    "_settlement": "Китка",
-    "lat": 43.05327,
-    "lng": 27.7756949,
-    "description": "1/6 /една шеста/ ид.ч. от ИЗОСТАВЕНА НИВА, находяща се в землището на с.Китка, общ.Аврен, обл.Варна, местност „ШОРАЛДАК“, с площ от 8.525дка /осем декара петстотин двадесет и пет кв.м./, пета категория, представляваща имот №041019 /нула четири едно нула едно девет/ по плана за земеразделянето, ЕКНМ 37068, при граници и съседи: имот №041018 – изоставена нива насл. на Панайот Тонев Иванов, имот № 041016- изоставена нива насл.на Йордан Спасов Стоименов, имот №041015 – изоставена нива на насл. на Митко Петров Ангелов, имот №000620 - полски път на Кметство Китка, имот № 041026 из.н.др.причина на НУ „Св.Св.Кирил и Методий“- Китка, имот №041023 изоставена нива на Стоян Георгиев Тодоров, имот №041020 изоставена нива на Община Аврен – остатъчна, а съгласно кадастралната карта и кадастралните регистри на с. Китка, общ.Аврен, обл.Варна, представляващ ПОЗЕМЛЕН ИМОТ с идентификатор 37068.41.19 /три седем нула шест осем точка четири едно точка едно девет/, одобрени със Заповед №РД-18-191/24.01.2018г. на Изпълнителен директор на АГКК. Адрес на им о та: село Китка, местност \"ШОРАЛДАК\" с площ от 8524.00 /осем хиляди петстотин двадесет и четири/ кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: Изоставена орна земя, категория: 5 /пета/, номер от предходен: 041019 със СЪСЕДИ: ПИ №37068.41.16, 37068.41.35, 37068.42.620, 37068.41.26, 37068.41.15, 37068.41.18, 37068.41.23",
-    "detail_checked": true,
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-09-30T14:17:34.870514+00:00",
-        "price_eur": 237
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
     "id": "bcpea_92692",
     "url": "https://sales.bcpea.org/properties/92692",
     "photo": "https://sales.bcpea.org/upload/92692/462159/viber_image_2026-09-30_15-27-56-922.jpg?w=270&h=270",
@@ -78552,7 +78552,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78584,7 +78584,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78616,7 +78616,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78648,7 +78648,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80177,7 +80177,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80209,7 +80209,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80241,7 +80241,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80273,7 +80273,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80305,7 +80305,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80337,7 +80337,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80369,7 +80369,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81728,7 +81728,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81770,7 +81770,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81802,7 +81802,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81834,7 +81834,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81866,7 +81866,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81898,7 +81898,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81930,7 +81930,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81962,7 +81962,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82010,7 +82010,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82042,7 +82042,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82074,7 +82074,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83387,6 +83387,105 @@
     "days_on_market": 20,
     "area_avg_price_per_sqm": 258,
     "pct_vs_area_avg": -74.0,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92916",
+    "url": "https://sales.bcpea.org/properties/92916",
+    "photo": "https://sales.bcpea.org/upload/92916/463010/IMG_1577.jpeg?w=270&h=270",
+    "price_eur": 112320,
+    "sqm": 999,
+    "area": "Иваняне",
+    "title": "Земеделска земя, Иваняне",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T17:08:00+00:00",
+    "category": "land",
+    "_settlement": "Иваняне",
+    "lat": 42.7044907,
+    "lng": 23.1689744,
+    "description": "Долуподписаният Стефан Петров, Частен съдебен изпълнител, рег. № 921 на Камарата на частните съдебни изпълнители, с район на действие района на Софийски градски съд, на основание чл. 487 и сл. от ГПК изнасям на ПУБЛИЧНА ПРОДАН следния недвижим имот, описан с протокол от 25.06.2026 г., собственост на ВЕНЦИСЛАВ ГРИГОРОВ КИРИЛОВ, НИКОЛАЙ ГРИГОРОВ КИРИЛОВ, ЙОРДАНКА ИВАНОВА СТЕФАНОВА и ЕЛЕНА СТЕФАНОВА СТЕФАНОВА, а именно: 1/2 ид. ч от Поземлен имот с идентификатор 32216.2347.35 (тридесет и две хиляди двеста и шестнадесет, точка, две хиляди триста четиридесет и седем, точка тридесет и пет) по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-12 от 17.01.2012г. на изпълнителния директор на АГКК, с адрес с. Иваняне, район Банкя, м. „Биволярник“ , с площ по скица от 3999 /три хиляди деветстотин деветдесет и девет/ кв. м. , с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , при съседи по скица: поземлен имот с идентификатор 32216.2348.100, поземлен имот с идентификатор 32216.2347.130, поземлен имот с идентификатор 32216.2347.37, поземлен имот с идентификатор 32216.2347.17, поземлен имот с идентификатор 32216.2347.16 и поземлен имот с идентификатор 32216.2348.46; с номер по предходен план: 074035, стар идентификатор: няма; Върху изнесения на публична продан имот има следните вписани тежести: Вписана искова молба в Служба по вписванията – гр. София с вх. рег. № 16808/11.03.2024г., том 3, Акт №293/2024г., дв, вх. рег. № 16577/11.03.2024г., Отбелязване на вписани искови молби в Служба по вписванията – гр. София с вх. рег. № 34944/08.05.2026г., том 26, Акт № 146/2026г., дв. вх. рег. № 34518/08.05.2026г., Наложена възбрана, вписана в Служба по вписванията – гр. София с вх. № 42508/ 02.06.2026г., том 9, Акт № 263/ 2026г., дв. вх. рег. № 41978/02.06.2026г. ЦЕНАТА, ОТ КОЯТО ЗАПОЧВА ПРОДАНТА НА ИМОТА Е В РАЗМЕР НА 112 320,00 € (сто и дванадесет хиляди триста и двадесет евро).. Проданта ще се проведе в канцеларията на Софийски районен съд, с адрес: гр. София, бул. „Цар Борис III“ № 54, на 13.11.2026 г. в началото на работния ден, като започва на 12.10.2026 г. и завършва на 12.11.2026 г.- 17.00 часа. Недвижимият имот може да бъде преглеждан след предварителна уговорка с пазача. За пазач на имота е определен ВЕНЦИСЛАВ ГРИГОРОВ КИРИЛОВ, тел 0878655519. Задатъкът в размер на 10 на сто от началната цена се внася предварително по сметка на Частен съдебен изпълнител Стефан Петров, рег. № 921 при Юробанк България АД, IBAN BG78BPBI79421021527604, BIC код BPBIBGSF, по изп. дело № 20239210400409. Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Софийски районен съд, което се отразява във входящия регистър / при условията на чл. 489 ал. 4 и 5 от ГПК/. На 13.11.2026 г. в началото на работния ден в сградата на Софийски районен съд в гр. София, бул. „Цар Борис III“ № 54 ще се състави протокол и ще бъде обявен купувач от частния съдебен изпълнител /чл. 492 ал. 1 ГПК/. Ако при обявяване на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък ще се пристъпи към устно наддаване със стъпка в размер на един задатък /чл. 492, ал. 2 от ГПК/.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92916/463010/IMG_1577.jpeg"
+    ],
+    "price_per_sqm": 112,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 112320
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92915",
+    "url": "https://sales.bcpea.org/properties/92915",
+    "photo": null,
+    "price_eur": 1632,
+    "sqm": 997,
+    "area": "Кърпачево",
+    "title": "Земеделска земя, Кърпачево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T17:04:00+00:00",
+    "category": "land",
+    "_settlement": "Кърпачево",
+    "lat": 43.22453,
+    "lng": 25.00748,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40943.23.25 /четири нула девет четири три точка две три точка две пет/, по кадастралната карта и кадастралните регистри на с. Кърпачево, общ. Летница, обл. Ловеч, одобрени със Заповед № РД-18- 65 / 01 .11.2007 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, адрес на поземления имот: с. Кърпачево , общ. Летница, обл. Ловеч, местност „АРПАЛЪКА“, площ: 3997 кв.м , трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята при неполивни условия: 8 , предишен идентификатор: няма , номер от предходен план: 023025 , при граници и съседи на имота: 40943.23.24, 40943.23.3, 40943.23.92, 40943.23.26. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20268790401334 Лице за контакт в кантората – Нели Христова, тел. 068 699 460 вътрешен 123 e-mail: hristova_n@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 1632
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_92914",
+    "url": "https://sales.bcpea.org/properties/92914",
+    "photo": null,
+    "price_eur": 1104,
+    "sqm": 4,
+    "area": "Кърпачево",
+    "title": "Земеделска земя, Кърпачево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T17:02:00+00:00",
+    "category": "land",
+    "_settlement": "Кърпачево",
+    "lat": 43.22453,
+    "lng": 25.00748,
+    "description": "5. ПОЗЕМЛЕН ИМОТ с идентификатор 40943.48.42 /четири нула девет четири три точка четири осем точка четири две/, по кадастралната карта и кадастралните регистри на с. Кърпачево, общ. Летница, обл. Ловеч, одобрени със Заповед № РД-18- 65/01.11.2007 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, адрес на поземления имот: с. Кърпачево, общ. Летница, обл. Ловеч, местност „ДОЛНИТЕ ЛОЗЯ“, площ: 2004 кв.м, трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята при неполивни условия: 5 , предишен идентификатор: няма , номер от предходен план: 048042, при граници и съседи на имота: 40943.48.105, 40943.48.5, 40943.48.41, 40943.48.43. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20268790401334 Лице за контакт в кантората – Нели Христова, тел. 068 699 460 вътрешен 123 e-mail: hristova_n@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 276,
+    "price_history": [
+      {
+        "date": "2026-10-07T14:59:49.486107+00:00",
+        "price_eur": 1104
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 3
   },
   {
@@ -84860,105 +84959,6 @@
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1978,
     "pct_vs_area_avg": 57.5,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92916",
-    "url": "https://sales.bcpea.org/properties/92916",
-    "photo": "https://sales.bcpea.org/upload/92916/463010/IMG_1577.jpeg?w=270&h=270",
-    "price_eur": 112320,
-    "sqm": 999,
-    "area": "Иваняне",
-    "title": "Земеделска земя, Иваняне",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T17:08:00+00:00",
-    "category": "land",
-    "_settlement": "Иваняне",
-    "lat": 42.7044907,
-    "lng": 23.1689744,
-    "description": "Долуподписаният Стефан Петров, Частен съдебен изпълнител, рег. № 921 на Камарата на частните съдебни изпълнители, с район на действие района на Софийски градски съд, на основание чл. 487 и сл. от ГПК изнасям на ПУБЛИЧНА ПРОДАН следния недвижим имот, описан с протокол от 25.06.2026 г., собственост на ВЕНЦИСЛАВ ГРИГОРОВ КИРИЛОВ, НИКОЛАЙ ГРИГОРОВ КИРИЛОВ, ЙОРДАНКА ИВАНОВА СТЕФАНОВА и ЕЛЕНА СТЕФАНОВА СТЕФАНОВА, а именно: 1/2 ид. ч от Поземлен имот с идентификатор 32216.2347.35 (тридесет и две хиляди двеста и шестнадесет, точка, две хиляди триста четиридесет и седем, точка тридесет и пет) по кадастралната карта и кадастралните регистри, одобрени със Заповед РД-18-12 от 17.01.2012г. на изпълнителния директор на АГКК, с адрес с. Иваняне, район Банкя, м. „Биволярник“ , с площ по скица от 3999 /три хиляди деветстотин деветдесет и девет/ кв. м. , с трайно предназначение на територията: земеделска, с начин на трайно ползване: нива , при съседи по скица: поземлен имот с идентификатор 32216.2348.100, поземлен имот с идентификатор 32216.2347.130, поземлен имот с идентификатор 32216.2347.37, поземлен имот с идентификатор 32216.2347.17, поземлен имот с идентификатор 32216.2347.16 и поземлен имот с идентификатор 32216.2348.46; с номер по предходен план: 074035, стар идентификатор: няма; Върху изнесения на публична продан имот има следните вписани тежести: Вписана искова молба в Служба по вписванията – гр. София с вх. рег. № 16808/11.03.2024г., том 3, Акт №293/2024г., дв, вх. рег. № 16577/11.03.2024г., Отбелязване на вписани искови молби в Служба по вписванията – гр. София с вх. рег. № 34944/08.05.2026г., том 26, Акт № 146/2026г., дв. вх. рег. № 34518/08.05.2026г., Наложена възбрана, вписана в Служба по вписванията – гр. София с вх. № 42508/ 02.06.2026г., том 9, Акт № 263/ 2026г., дв. вх. рег. № 41978/02.06.2026г. ЦЕНАТА, ОТ КОЯТО ЗАПОЧВА ПРОДАНТА НА ИМОТА Е В РАЗМЕР НА 112 320,00 € (сто и дванадесет хиляди триста и двадесет евро).. Проданта ще се проведе в канцеларията на Софийски районен съд, с адрес: гр. София, бул. „Цар Борис III“ № 54, на 13.11.2026 г. в началото на работния ден, като започва на 12.10.2026 г. и завършва на 12.11.2026 г.- 17.00 часа. Недвижимият имот може да бъде преглеждан след предварителна уговорка с пазача. За пазач на имота е определен ВЕНЦИСЛАВ ГРИГОРОВ КИРИЛОВ, тел 0878655519. Задатъкът в размер на 10 на сто от началната цена се внася предварително по сметка на Частен съдебен изпълнител Стефан Петров, рег. № 921 при Юробанк България АД, IBAN BG78BPBI79421021527604, BIC код BPBIBGSF, по изп. дело № 20239210400409. Всеки наддавач посочва предложената от него цена с цифри и думи, и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в канцеларията на Софийски районен съд, което се отразява във входящия регистър / при условията на чл. 489 ал. 4 и 5 от ГПК/. На 13.11.2026 г. в началото на работния ден в сградата на Софийски районен съд в гр. София, бул. „Цар Борис III“ № 54 ще се състави протокол и ще бъде обявен купувач от частния съдебен изпълнител /чл. 492 ал. 1 ГПК/. Ако при обявяване на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък ще се пристъпи към устно наддаване със стъпка в размер на един задатък /чл. 492, ал. 2 от ГПК/.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92916/463010/IMG_1577.jpeg"
-    ],
-    "price_per_sqm": 112,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 112320
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92915",
-    "url": "https://sales.bcpea.org/properties/92915",
-    "photo": null,
-    "price_eur": 1632,
-    "sqm": 997,
-    "area": "Кърпачево",
-    "title": "Земеделска земя, Кърпачево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T17:04:00+00:00",
-    "category": "land",
-    "_settlement": "Кърпачево",
-    "lat": 43.22453,
-    "lng": 25.00748,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40943.23.25 /четири нула девет четири три точка две три точка две пет/, по кадастралната карта и кадастралните регистри на с. Кърпачево, общ. Летница, обл. Ловеч, одобрени със Заповед № РД-18- 65 / 01 .11.2007 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК , последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, адрес на поземления имот: с. Кърпачево , общ. Летница, обл. Ловеч, местност „АРПАЛЪКА“, площ: 3997 кв.м , трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята при неполивни условия: 8 , предишен идентификатор: няма , номер от предходен план: 023025 , при граници и съседи на имота: 40943.23.24, 40943.23.3, 40943.23.92, 40943.23.26. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20268790401334 Лице за контакт в кантората – Нели Христова, тел. 068 699 460 вътрешен 123 e-mail: hristova_n@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 1632
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92914",
-    "url": "https://sales.bcpea.org/properties/92914",
-    "photo": null,
-    "price_eur": 1104,
-    "sqm": 4,
-    "area": "Кърпачево",
-    "title": "Земеделска земя, Кърпачево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T17:02:00+00:00",
-    "category": "land",
-    "_settlement": "Кърпачево",
-    "lat": 43.22453,
-    "lng": 25.00748,
-    "description": "5. ПОЗЕМЛЕН ИМОТ с идентификатор 40943.48.42 /четири нула девет четири три точка четири осем точка четири две/, по кадастралната карта и кадастралните регистри на с. Кърпачево, общ. Летница, обл. Ловеч, одобрени със Заповед № РД-18- 65/01.11.2007 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, адрес на поземления имот: с. Кърпачево, общ. Летница, обл. Ловеч, местност „ДОЛНИТЕ ЛОЗЯ“, площ: 2004 кв.м, трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята при неполивни условия: 5 , предишен идентификатор: няма , номер от предходен план: 048042, при граници и съседи на имота: 40943.48.105, 40943.48.5, 40943.48.41, 40943.48.43. Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20268790401334 Лице за контакт в кантората – Нели Христова, тел. 068 699 460 вътрешен 123 e-mail: hristova_n@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 276,
-    "price_history": [
-      {
-        "date": "2026-10-07T14:59:49.486107+00:00",
-        "price_eur": 1104
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 2
   },
   {
@@ -87612,7 +87612,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87644,7 +87644,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87676,7 +87676,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87708,7 +87708,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87740,7 +87740,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87772,7 +87772,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89785,7 +89785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -89821,7 +89821,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96743,7 +96743,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -96983,7 +96983,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -97984,7 +97984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98023,7 +98023,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98061,7 +98061,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102101,7 +102101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102133,7 +102133,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102165,7 +102165,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102197,7 +102197,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103953,6 +103953,99 @@
     "score": 1
   },
   {
+    "id": "bcpea_93562",
+    "url": "https://sales.bcpea.org/properties/93562",
+    "photo": "https://sales.bcpea.org/upload/93562/290872/IMG_9957.JPG?w=270&h=270",
+    "price_eur": 177201,
+    "sqm": 563,
+    "area": "Левски",
+    "title": "Производствен имот, Левски",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T17:05:00+00:00",
+    "category": "apartment",
+    "_settlement": "Левски",
+    "lat": 43.3597306,
+    "lng": 25.1422144,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул. \"Ресен\" №15, тел.064/806 778, 0879 125 174; e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 113/2023г. с Изх. №64010/ 23.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 18.12.2026г . до 17.00 часа на 18.01.2027г . , в сградата на СЪДЕБНАТА ПАЛАТА, град Левски, на бул.”България”№58, ще се проведе публична продажба след определяне на нова начална цена, приключваща в края на работното време на последния ден на следния недвижим имот собственост на “ШАВАРНА БИОПАРК” ООД , представлявано от управителите Александър Иванов Гутев и Илиян Димитров Илиев, заедно и поотделно, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, находящ се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Адрес на поземления имот: град Левски, местност „Шаварна“, с площ от 15 563 кв.м. /петнадесет хиляди петстотин шестдесет и три квадратни метра/, трайно предназначение на територията: урбанизирана, с начин на трайно ползване: за друг вид производствен, складов обект, предишен идентификатор: няма, номер от предходен план: 000374 /нула, нула, нула, триста седемдесет и четири/, при съседни поземлени имоти с идентификатори: 43236.350.360, 43236.350.2, 43236.350.506, 43236.350.704, 43236.350.348, имотът попада в следните зони на ограничение: няма данни, ВЕДНО с находящите се в имота сгради, а именно: СГРАДА с идентификатор 43236.350.374.1 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, едно/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 173 кв.м. /сто седемдесет и три квадратни метра/, брой етажи: 2 /два/, брой самостоятелни обекти в сградата: няма данни, с предназначение: административна, делова сграда , предишен идентификатор: няма, СГРАДА с идентификатор 43236.350.374.2 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, две/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 614 кв.м. /шестстотин и четиринадесет квадратни метра/, брой етажи: 1 /един/, брой самостоятелни обекти в сградата: няма данни, с предназначение: промишлена сграда , предишен идентификатор: няма, ВЕДНО със съществуващи рибарници за отглеждане на риба – 9 /девет/ броя – конструкции от циментови басейни, перила и метални съоръжения и всички подобрения и приращения в имота, както и СГРАДА с идентификатор 43236.350.374.3 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, три/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 8 кв.м. /осем квадратни метра/, брой етажи: 1/един/, брой самостоятелни обекти в сградата: няма данни, с предназначение: сграда за енергопроизводство, предишен идентификатор: няма, ведно с енергийно оборудване – трансформатор тип Т/М 250/20, №208440/2015, диспечерско наименование „БКТП 95, Левски“ и дисп. CEO № PL 7110. Сграда за енергопроизводство е изградена на основание сключен договор №1201943116/17.09.2015г., за присъединяване към разпределителната ел.мрежа на обект на „Шаварна Биопарк“ООД. Имотът се намира южно от гр.Левски, в местността „Шаварна“. До района има асфалтов път, като последните 100 м., са полски път, който достига до източната част на имота. Парцелът е застроен с две сгради и девет броя водни басейни. СГРАДА с идентификатор 43236.350.374.1 е със застроена площ 173 кв.м. Конструкцията е стоманобетонна, гредова скелетна, развита на фундаментна плоча, оградни стени от тухлен зид, покривната конструкция е метална, като е развита върху етажната стоманобетнова плоча. На първия етаж са развити обслужващи помещения- офис, битова стая, складове, санитарен възел. До втория етаж се стига по метална външна стълба, завършваща с пасарелка по дължина на цялата сграда. На етажа са развити четири еднотипни стаи за обитаване със самостоятелни санитарни възли и кухненски боксове. Сградата е топлоизолирана. Дограма - PVC със стъклопакет. Врати-алуминиеви, подови настилки-гранитогрес. СГРАДА с идентификатор 43236.350.374.2, със застроена площ 614 кв.м., с предназначение- Цех за преработка на риба. Сградата е едноетажна, с ниво на терена и 9 входа. В сградата на кота 0 са разположени са следните помещения: вход за суровина, хладилник за суровина 0-2 'C хладилна камера -18'C , хладилна камера -18'C - СЖП, отстраняване на транспортна опаковка, миялно за транспортирани касети и корита, отцеждане транспортни касети и корита, дефрострация, отцеждане втр.посуда, работна зала за първична обработка, измиване на контейнери СПЖ, помешение за осоляване, миялно втр.посуда, съблекалня-душ- 2 бр., предверие, таолетни- 2 бр., работна зала машинна обработка, съгранение подправки, технологична зала, помещение за обезсоляване и окачване, камера 0-4 'C , въздушно охлаждане, термично помещение, опаковъчно, зала за почивка, шокова камера, съхранение опаковки, дзървесина, технолог, сгъване на кашони, хладилна камера -18'C , готови продукти пакетажно, съхранение на кашони, хладилник суровина 0-2 'C , готова продукция, експедиция, пласмент, абонатна станция, ел.табло, агрегат. СГРАДА 43236.350.374.3 е с площ 8 кв.м., и се явява трафопост БКПП 95 -типово изпълнение. Трафопостът е с електрооборудване и е действащ. Западно от сградите са изградени девет броя водни басейни с обща площ от 9930 кв.м. Басейните са предназначени за следлюпилно подрастване на риба. Конструкцията е монолитна стоманобетонна. Средната дълбочина е 1.40 м. В средната част на басейните е изработена метална пасарелка за обслужване. - при първоначална цена – 177 200,80 евро без ДДС / сто седемдесет и седем хиляди и двеста евро и осемдесет евроцента/, в това число стойност на земя без прилежащ терен – 5 246.96 евро , съответстваща на 3020 кв.м., в това число стойност на сграда с идентификатор 43236.350.374.3 - трафопост с енергийно оборудване - 11 693.60 евро - ДДС се дължи върху сумата от 5 246.96 евро - стойност на земя без прилежащ терен, съответстваща на 3020 кв.м. - ДДС се дължи върху сумата от 11 693.60 евро , стойност на сграда с идентификатор 43236.350.374.3 - трафопост с енергийно оборудване. “ ШАВАРНА БИОПАРК” ООД , е с регистрация по ЗДДС от 24.01.2013г. Данъчната оценка на имота, съгласно удостоверение на МДТ при Община Левски , е в размер на 225 560.30 евро / левова равностойност 441 157.60 лева. Публичната продан на поземления имот без прилежащи я към сградата терен, е облагаема доставка съгласно чл.2 от ЗДДС, във връзка с чл.131 от ЗДДС и върху крайната му цена следва да се начисли ДДС. Публичната продан на самостоятелно обособените обекти, /без трафопост с енергийно оборудване/, описани в обявлението и прилежащия терен е освободена доставка по смисъла на чл.45 от ЗДДС и върху крайната й цена няма да се начислява ДДС. Тежести за имота: Вписана договорна ипотека том 1 , акт №23/2016г ., п одновяване/новиране на договорна ипотека под том 1, акт №137/2026г., в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД и в писана възбрана том 1 , акт №12/2023г ., в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД, по изп.дело №20238150400113 на ЧСИ Татяна Кирилова, за поземлен имот с идентификатор 43236.350.374, сграда с идентификатор 43236.350.374.1 и сграда с идентификатор 43236.350.374.2, съгласно удостоверения за тежести с Изх.№26/27/28/22.02.2023г., издадени от АВ Имотен регистър. Вписана възбрана том 1 , акт №12/2023г. , в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД, по изп.дело №20238150400113 на ЧСИ Татяна Кирилова, за сграда с идентификатор 43236.350.374.3, съгласно удостоверение за тежести с Изх.№29/22.02.2023г. издадено от АВ Имотен регистър. Вписана възбрана том 1 , акт №156/2024г. по обезпечителна заповед от 18.10.2024г. по ч.гр.д.№11561/2024г., по описа на СГС в полза на „ЕЛЕКТРОРАЗПРЕДЕЛИТЕЛНИ МРЕЖИ ЗАПАД“ЕАД. Вписана възбрана том 1 , акт №31/07.02.2025г. , по изп.дело №20249060401480 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП. Вписана възбрана том 1 , акт №35/07.02.2025г ., по изп.дело №210979457/2021г. на ТД на НАП, офис Плевен, в полза на ТД на НАП Плевен, Вписана възбрана том 1 , акт №126/30.04.2025г. , по изп.дело №20259060400462 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП. Вписана възбрана том 1 , акт №148/14.05.2026г. , по изп.дело №20269060400433 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП, съгласно справка Имотен регистър към дата 23.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Левски , на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14ч. до 16ч. в град Левски, на горепосочения адрес, след предварителна уговорка с кантората на чси Кирилова. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело №20238150400113 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в Районен съд Левски, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. /чл. 489, ал. 5 ГПК/. Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, Районен съд-Левски , деловодство на Съдебно Изпълнителна Служба, което се отразява във входящ регистър. На 19.01.2027 год. в 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, град Левски, Съдебно изпълнителна служба, в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 23.10.2026г. Частен съдебен изпълнител: ...............................",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93562/290872/IMG_9957.JPG",
+      "https://sales.bcpea.org/upload/93562/290873/IMG_0001.JPG",
+      "https://sales.bcpea.org/upload/93562/290874/IMG_0002.JPG",
+      "https://sales.bcpea.org/upload/93562/290877/IMG_0004.JPG",
+      "https://sales.bcpea.org/upload/93562/290878/IMG_0009.JPG",
+      "https://sales.bcpea.org/upload/93562/290880/IMG_9958.JPG",
+      "https://sales.bcpea.org/upload/93562/290881/IMG_9959.JPG",
+      "https://sales.bcpea.org/upload/93562/290882/IMG_9960.JPG",
+      "https://sales.bcpea.org/upload/93562/290883/IMG_9963.JPG",
+      "https://sales.bcpea.org/upload/93562/290884/IMG_9964.JPG",
+      "https://sales.bcpea.org/upload/93562/290886/IMG_9966.JPG",
+      "https://sales.bcpea.org/upload/93562/290889/IMG_9969.JPG",
+      "https://sales.bcpea.org/upload/93562/290890/IMG_9970.JPG",
+      "https://sales.bcpea.org/upload/93562/290893/IMG_9973.JPG",
+      "https://sales.bcpea.org/upload/93562/290895/IMG_9975.JPG",
+      "https://sales.bcpea.org/upload/93562/290896/IMG_9976.JPG",
+      "https://sales.bcpea.org/upload/93562/290897/IMG_9977.JPG",
+      "https://sales.bcpea.org/upload/93562/290898/IMG_9978.JPG",
+      "https://sales.bcpea.org/upload/93562/290902/IMG_9987.JPG",
+      "https://sales.bcpea.org/upload/93562/290903/IMG_9988.JPG",
+      "https://sales.bcpea.org/upload/93562/290904/IMG_9989.JPG",
+      "https://sales.bcpea.org/upload/93562/290906/IMG_9990.JPG",
+      "https://sales.bcpea.org/upload/93562/290907/IMG_9991.JPG",
+      "https://sales.bcpea.org/upload/93562/290908/IMG_9992.JPG",
+      "https://sales.bcpea.org/upload/93562/290911/IMG_9995.JPG",
+      "https://sales.bcpea.org/upload/93562/290913/IMG_9997.JPG",
+      "https://sales.bcpea.org/upload/93562/290914/IMG_9998.JPG"
+    ],
+    "price_per_sqm": 315,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 177201
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93561",
+    "url": "https://sales.bcpea.org/properties/93561",
+    "photo": "https://sales.bcpea.org/upload/93561/465694/0-02-05-153605f0b2dc5370075e703841a999f58bb30a407ccee18d1ae543cfe276e635_cdb8ce20eca886a5.jpg?w=270&h=270",
+    "price_eur": 22023,
+    "sqm": 503,
+    "area": "Горичево",
+    "title": "Земеделски имот, Горичево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-23T16:52:00+00:00",
+    "category": "apartment",
+    "_settlement": "Горичево",
+    "lat": 43.85049,
+    "lng": 26.44845,
+    "description": "1/2 идеална част от: Поземлен имот с идентификатор 16105.22.16 /шестнадесет хиляди сто и пет точка двадесет и две точка шестнадесет/ по кадастралната карта и кадастралните регистри на село Горичево, общ. Кубрат, обл. Разград, одобрени със Заповед РД-18-421/19.06.2019 г. / 19.06.2019г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, находящ се в местност КЬОКЛУК на село Горичево, общ. Кубрат, обл. Разград, с площ: 6503 кв.м. /шест хиляди петстотин и три/, с трайно предназначение на територията: Земеделска и начин на трайно ползване: За стопански двор, категория на земята: 3/трета/, при граници и съседи: 16105.22.32, 16105.22.20, 16105.22.34, 16105.22.29, 16105.22.15, ведно с построената в имота Сграда с идентификатор 16105.22.16.1 /шестнадесет хиляди сто и пет точка двадесет и две точка шестнадесет точка едно/, със застроена площ 1032 кв.м. / хиляда тридесет и два/ кв. м, брой етажи 1/един/, предназначение: Селскостопанска сграда.",
+    "detail_checked": true,
+    "price_per_sqm": 44,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:10:16.586601+00:00",
+        "price_eur": 22023
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93560",
     "url": "https://sales.bcpea.org/properties/93560",
     "photo": "https://sales.bcpea.org/upload/93560/465690/0-02-05-aea25b3fb58219796ca8bff94ff8e8848979fd6a84451dc8c890202d25e60f60_572bf95e89951448.jpg?w=270&h=270",
@@ -105151,99 +105244,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93562",
-    "url": "https://sales.bcpea.org/properties/93562",
-    "photo": "https://sales.bcpea.org/upload/93562/290872/IMG_9957.JPG?w=270&h=270",
-    "price_eur": 177201,
-    "sqm": 563,
-    "area": "Левски",
-    "title": "Производствен имот, Левски",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T17:05:00+00:00",
-    "category": "apartment",
-    "_settlement": "Левски",
-    "lat": 43.3597306,
-    "lng": 25.1422144,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул. \"Ресен\" №15, тел.064/806 778, 0879 125 174; e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 113/2023г. с Изх. №64010/ 23.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 18.12.2026г . до 17.00 часа на 18.01.2027г . , в сградата на СЪДЕБНАТА ПАЛАТА, град Левски, на бул.”България”№58, ще се проведе публична продажба след определяне на нова начална цена, приключваща в края на работното време на последния ден на следния недвижим имот собственост на “ШАВАРНА БИОПАРК” ООД , представлявано от управителите Александър Иванов Гутев и Илиян Димитров Илиев, заедно и поотделно, а именно: ПОЗЕМЛЕН ИМОТ с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, находящ се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Адрес на поземления имот: град Левски, местност „Шаварна“, с площ от 15 563 кв.м. /петнадесет хиляди петстотин шестдесет и три квадратни метра/, трайно предназначение на територията: урбанизирана, с начин на трайно ползване: за друг вид производствен, складов обект, предишен идентификатор: няма, номер от предходен план: 000374 /нула, нула, нула, триста седемдесет и четири/, при съседни поземлени имоти с идентификатори: 43236.350.360, 43236.350.2, 43236.350.506, 43236.350.704, 43236.350.348, имотът попада в следните зони на ограничение: няма данни, ВЕДНО с находящите се в имота сгради, а именно: СГРАДА с идентификатор 43236.350.374.1 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, едно/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 173 кв.м. /сто седемдесет и три квадратни метра/, брой етажи: 2 /два/, брой самостоятелни обекти в сградата: няма данни, с предназначение: административна, делова сграда , предишен идентификатор: няма, СГРАДА с идентификатор 43236.350.374.2 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, две/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 614 кв.м. /шестстотин и четиринадесет квадратни метра/, брой етажи: 1 /един/, брой самостоятелни обекти в сградата: няма данни, с предназначение: промишлена сграда , предишен идентификатор: няма, ВЕДНО със съществуващи рибарници за отглеждане на риба – 9 /девет/ броя – конструкции от циментови басейни, перила и метални съоръжения и всички подобрения и приращения в имота, както и СГРАДА с идентификатор 43236.350.374.3 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири, точка, три/, находяща се в град Левски, община Левски, област Плевен, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД – 18 – 2/23.01.2007г., на Изпълнителен Директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, адрес на сградата: град Левски, местност „Шаварна“. Сградата е разположена в поземлен имот с идентификатор 43236.350.374 /четиридесет и три хиляди двеста тридесет и шест, точка, триста и петдесет, точка, триста седемдесет и четири/, със застроена площ от 8 кв.м. /осем квадратни метра/, брой етажи: 1/един/, брой самостоятелни обекти в сградата: няма данни, с предназначение: сграда за енергопроизводство, предишен идентификатор: няма, ведно с енергийно оборудване – трансформатор тип Т/М 250/20, №208440/2015, диспечерско наименование „БКТП 95, Левски“ и дисп. CEO № PL 7110. Сграда за енергопроизводство е изградена на основание сключен договор №1201943116/17.09.2015г., за присъединяване към разпределителната ел.мрежа на обект на „Шаварна Биопарк“ООД. Имотът се намира южно от гр.Левски, в местността „Шаварна“. До района има асфалтов път, като последните 100 м., са полски път, който достига до източната част на имота. Парцелът е застроен с две сгради и девет броя водни басейни. СГРАДА с идентификатор 43236.350.374.1 е със застроена площ 173 кв.м. Конструкцията е стоманобетонна, гредова скелетна, развита на фундаментна плоча, оградни стени от тухлен зид, покривната конструкция е метална, като е развита върху етажната стоманобетнова плоча. На първия етаж са развити обслужващи помещения- офис, битова стая, складове, санитарен възел. До втория етаж се стига по метална външна стълба, завършваща с пасарелка по дължина на цялата сграда. На етажа са развити четири еднотипни стаи за обитаване със самостоятелни санитарни възли и кухненски боксове. Сградата е топлоизолирана. Дограма - PVC със стъклопакет. Врати-алуминиеви, подови настилки-гранитогрес. СГРАДА с идентификатор 43236.350.374.2, със застроена площ 614 кв.м., с предназначение- Цех за преработка на риба. Сградата е едноетажна, с ниво на терена и 9 входа. В сградата на кота 0 са разположени са следните помещения: вход за суровина, хладилник за суровина 0-2 'C хладилна камера -18'C , хладилна камера -18'C - СЖП, отстраняване на транспортна опаковка, миялно за транспортирани касети и корита, отцеждане транспортни касети и корита, дефрострация, отцеждане втр.посуда, работна зала за първична обработка, измиване на контейнери СПЖ, помешение за осоляване, миялно втр.посуда, съблекалня-душ- 2 бр., предверие, таолетни- 2 бр., работна зала машинна обработка, съгранение подправки, технологична зала, помещение за обезсоляване и окачване, камера 0-4 'C , въздушно охлаждане, термично помещение, опаковъчно, зала за почивка, шокова камера, съхранение опаковки, дзървесина, технолог, сгъване на кашони, хладилна камера -18'C , готови продукти пакетажно, съхранение на кашони, хладилник суровина 0-2 'C , готова продукция, експедиция, пласмент, абонатна станция, ел.табло, агрегат. СГРАДА 43236.350.374.3 е с площ 8 кв.м., и се явява трафопост БКПП 95 -типово изпълнение. Трафопостът е с електрооборудване и е действащ. Западно от сградите са изградени девет броя водни басейни с обща площ от 9930 кв.м. Басейните са предназначени за следлюпилно подрастване на риба. Конструкцията е монолитна стоманобетонна. Средната дълбочина е 1.40 м. В средната част на басейните е изработена метална пасарелка за обслужване. - при първоначална цена – 177 200,80 евро без ДДС / сто седемдесет и седем хиляди и двеста евро и осемдесет евроцента/, в това число стойност на земя без прилежащ терен – 5 246.96 евро , съответстваща на 3020 кв.м., в това число стойност на сграда с идентификатор 43236.350.374.3 - трафопост с енергийно оборудване - 11 693.60 евро - ДДС се дължи върху сумата от 5 246.96 евро - стойност на земя без прилежащ терен, съответстваща на 3020 кв.м. - ДДС се дължи върху сумата от 11 693.60 евро , стойност на сграда с идентификатор 43236.350.374.3 - трафопост с енергийно оборудване. “ ШАВАРНА БИОПАРК” ООД , е с регистрация по ЗДДС от 24.01.2013г. Данъчната оценка на имота, съгласно удостоверение на МДТ при Община Левски , е в размер на 225 560.30 евро / левова равностойност 441 157.60 лева. Публичната продан на поземления имот без прилежащи я към сградата терен, е облагаема доставка съгласно чл.2 от ЗДДС, във връзка с чл.131 от ЗДДС и върху крайната му цена следва да се начисли ДДС. Публичната продан на самостоятелно обособените обекти, /без трафопост с енергийно оборудване/, описани в обявлението и прилежащия терен е освободена доставка по смисъла на чл.45 от ЗДДС и върху крайната й цена няма да се начислява ДДС. Тежести за имота: Вписана договорна ипотека том 1 , акт №23/2016г ., п одновяване/новиране на договорна ипотека под том 1, акт №137/2026г., в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД и в писана възбрана том 1 , акт №12/2023г ., в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД, по изп.дело №20238150400113 на ЧСИ Татяна Кирилова, за поземлен имот с идентификатор 43236.350.374, сграда с идентификатор 43236.350.374.1 и сграда с идентификатор 43236.350.374.2, съгласно удостоверения за тежести с Изх.№26/27/28/22.02.2023г., издадени от АВ Имотен регистър. Вписана възбрана том 1 , акт №12/2023г. , в полза на „ББР МИКРОФИНАНСИРАНЕ“ ЕАД, по изп.дело №20238150400113 на ЧСИ Татяна Кирилова, за сграда с идентификатор 43236.350.374.3, съгласно удостоверение за тежести с Изх.№29/22.02.2023г. издадено от АВ Имотен регистър. Вписана възбрана том 1 , акт №156/2024г. по обезпечителна заповед от 18.10.2024г. по ч.гр.д.№11561/2024г., по описа на СГС в полза на „ЕЛЕКТРОРАЗПРЕДЕЛИТЕЛНИ МРЕЖИ ЗАПАД“ЕАД. Вписана възбрана том 1 , акт №31/07.02.2025г. , по изп.дело №20249060401480 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП. Вписана възбрана том 1 , акт №35/07.02.2025г ., по изп.дело №210979457/2021г. на ТД на НАП, офис Плевен, в полза на ТД на НАП Плевен, Вписана възбрана том 1 , акт №126/30.04.2025г. , по изп.дело №20259060400462 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП. Вписана възбрана том 1 , акт №148/14.05.2026г. , по изп.дело №20269060400433 по описа на ЧСИ В.Стоянов в полза на Община Левски и ТД на НАП, съгласно справка Имотен регистър към дата 23.10.2026г. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Левски , на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14ч. до 16ч. в град Левски, на горепосочения адрес, след предварителна уговорка с кантората на чси Кирилова. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело №20238150400113 Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в Районен съд Левски, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. /чл. 489, ал. 5 ГПК/. Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. Предложенията се подават в сградата на СЪДЕБНАТА ПАЛАТА, Районен съд-Левски , деловодство на Съдебно Изпълнителна Служба, което се отразява във входящ регистър. На 19.01.2027 год. в 13.30ч., в сградата на СЪДЕБНАТА ПАЛАТА, град Левски, Съдебно изпълнителна служба, в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 23.10.2026г. Частен съдебен изпълнител: ...............................",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93562/290872/IMG_9957.JPG",
-      "https://sales.bcpea.org/upload/93562/290873/IMG_0001.JPG",
-      "https://sales.bcpea.org/upload/93562/290874/IMG_0002.JPG",
-      "https://sales.bcpea.org/upload/93562/290877/IMG_0004.JPG",
-      "https://sales.bcpea.org/upload/93562/290878/IMG_0009.JPG",
-      "https://sales.bcpea.org/upload/93562/290880/IMG_9958.JPG",
-      "https://sales.bcpea.org/upload/93562/290881/IMG_9959.JPG",
-      "https://sales.bcpea.org/upload/93562/290882/IMG_9960.JPG",
-      "https://sales.bcpea.org/upload/93562/290883/IMG_9963.JPG",
-      "https://sales.bcpea.org/upload/93562/290884/IMG_9964.JPG",
-      "https://sales.bcpea.org/upload/93562/290886/IMG_9966.JPG",
-      "https://sales.bcpea.org/upload/93562/290889/IMG_9969.JPG",
-      "https://sales.bcpea.org/upload/93562/290890/IMG_9970.JPG",
-      "https://sales.bcpea.org/upload/93562/290893/IMG_9973.JPG",
-      "https://sales.bcpea.org/upload/93562/290895/IMG_9975.JPG",
-      "https://sales.bcpea.org/upload/93562/290896/IMG_9976.JPG",
-      "https://sales.bcpea.org/upload/93562/290897/IMG_9977.JPG",
-      "https://sales.bcpea.org/upload/93562/290898/IMG_9978.JPG",
-      "https://sales.bcpea.org/upload/93562/290902/IMG_9987.JPG",
-      "https://sales.bcpea.org/upload/93562/290903/IMG_9988.JPG",
-      "https://sales.bcpea.org/upload/93562/290904/IMG_9989.JPG",
-      "https://sales.bcpea.org/upload/93562/290906/IMG_9990.JPG",
-      "https://sales.bcpea.org/upload/93562/290907/IMG_9991.JPG",
-      "https://sales.bcpea.org/upload/93562/290908/IMG_9992.JPG",
-      "https://sales.bcpea.org/upload/93562/290911/IMG_9995.JPG",
-      "https://sales.bcpea.org/upload/93562/290913/IMG_9997.JPG",
-      "https://sales.bcpea.org/upload/93562/290914/IMG_9998.JPG"
-    ],
-    "price_per_sqm": 315,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 177201
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93561",
-    "url": "https://sales.bcpea.org/properties/93561",
-    "photo": "https://sales.bcpea.org/upload/93561/465694/0-02-05-153605f0b2dc5370075e703841a999f58bb30a407ccee18d1ae543cfe276e635_cdb8ce20eca886a5.jpg?w=270&h=270",
-    "price_eur": 22023,
-    "sqm": 503,
-    "area": "Горичево",
-    "title": "Земеделски имот, Горичево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-23T16:52:00+00:00",
-    "category": "apartment",
-    "_settlement": "Горичево",
-    "lat": 43.85049,
-    "lng": 26.44845,
-    "description": "1/2 идеална част от: Поземлен имот с идентификатор 16105.22.16 /шестнадесет хиляди сто и пет точка двадесет и две точка шестнадесет/ по кадастралната карта и кадастралните регистри на село Горичево, общ. Кубрат, обл. Разград, одобрени със Заповед РД-18-421/19.06.2019 г. / 19.06.2019г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, находящ се в местност КЬОКЛУК на село Горичево, общ. Кубрат, обл. Разград, с площ: 6503 кв.м. /шест хиляди петстотин и три/, с трайно предназначение на територията: Земеделска и начин на трайно ползване: За стопански двор, категория на земята: 3/трета/, при граници и съседи: 16105.22.32, 16105.22.20, 16105.22.34, 16105.22.29, 16105.22.15, ведно с построената в имота Сграда с идентификатор 16105.22.16.1 /шестнадесет хиляди сто и пет точка двадесет и две точка шестнадесет точка едно/, със застроена площ 1032 кв.м. / хиляда тридесет и два/ кв. м, брой етажи 1/един/, предназначение: Селскостопанска сграда.",
-    "detail_checked": true,
-    "price_per_sqm": 44,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:10:16.586601+00:00",
-        "price_eur": 22023
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93558",
     "url": "https://sales.bcpea.org/properties/93558",
     "photo": "https://sales.bcpea.org/upload/93558/465620/Екранна снимка (25).png?w=270&h=270",
@@ -105659,7 +105659,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -105691,7 +105691,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
