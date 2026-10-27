@@ -379,8 +379,8 @@
     "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1939,
-    "pct_vs_area_avg": 11.1,
+    "area_avg_price_per_sqm": 2051,
+    "pct_vs_area_avg": 5.0,
     "score": 34
   },
   {
@@ -743,8 +743,8 @@
     "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": -21.1,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -20.8,
     "score": 25
   },
   {
@@ -923,8 +923,8 @@
     "days_on_market": 49,
     "source_status": "removed",
     "removed_at": "2026-10-13T16:01:53.859248+00:00",
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": -28.2,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -27.9,
     "score": 23
   },
   {
@@ -1592,6 +1592,38 @@
     "score": 21
   },
   {
+    "id": "imotibg_514385",
+    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-514385.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69a1852d01185_69a1856f88a18.jpg",
+    "price_eur": 76000,
+    "sqm": 1243,
+    "area": "с.Цигов чарк",
+    "city": "Пазарджик област",
+    "title": "Парцел, с.Цигов чарк",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Оферта 78580 Парцел в регулация с сменен статут септември 2025г. в цената има включени 113кв.м идеални части от пътя уникална гледка и панарома към язовир Батак намира се на курорта Цигов чарк Преди контра стената на втора линия от асфлатовия път около много нови къщи за повече инфромация и огледи на посочения телефон 0897010001 - Костадинов Имоти",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 61,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 76000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 63,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 96,
+    "pct_vs_area_avg": -36.8,
+    "score": 21
+  },
+  {
     "id": "imotibg_513517",
     "url": "https://imoti.bg/продажби/парцел/шумен/дивдядово-513517.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_68f713e01bccc_68f8a4547282e.jpeg",
@@ -1891,8 +1923,8 @@
     "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": -35.2,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -34.9,
     "score": 20
   },
   {
@@ -2516,7 +2548,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
@@ -2964,7 +2996,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 500,
@@ -3191,8 +3223,8 @@
     "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": -23.4,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -23.1,
     "score": 16
   },
   {
@@ -3580,38 +3612,6 @@
     "score": 15
   },
   {
-    "id": "imotibg_515830",
-    "url": "https://imoti.bg/продажби/паркомясто/пловдив/смирненски-515830.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
-    "price_eur": 20000,
-    "sqm": 15,
-    "area": "Смирненски",
-    "city": "Пловдив",
-    "title": "Паркомясто, Смирненски",
-    "portal": "imoti.bg",
-    "lat": 42.1316822,
-    "lng": 24.7076363,
-    "description": "Продаваме паркомясто №2 намиращо се на бул. Пещерско Шосе 100 гр. Пловдив, кв Христо Смирненски",
-    "site_posted_at": null,
-    "category": "garage",
-    "category_confidence": "high",
-    "price_per_sqm": 1333,
-    "price_history": [
-      {
-        "date": "2026-09-05T14:45:08.819179+00:00",
-        "price_eur": 20000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 52,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": -23.6,
-    "score": 15
-  },
-  {
     "id": "imotibg_515738",
     "url": "https://imoti.bg/продажби/къща/бургас-област/грсредец-515738.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -3967,8 +3967,8 @@
     "days_on_market": 52,
     "source_status": "removed",
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 2.9,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 3.6,
     "score": 14
   },
   {
@@ -4065,6 +4065,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1197,
     "pct_vs_area_avg": -18.1,
+    "score": 14
+  },
+  {
+    "id": "imotibg_515830",
+    "url": "https://imoti.bg/продажби/паркомясто/пловдив/смирненски-515830.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 20000,
+    "sqm": 15,
+    "area": "Смирненски",
+    "city": "Пловдив",
+    "title": "Паркомясто, Смирненски",
+    "portal": "imoti.bg",
+    "lat": 42.1316822,
+    "lng": 24.7076363,
+    "description": "Продаваме паркомясто №2 намиращо се на бул. Пещерско Шосе 100 гр. Пловдив, кв Христо Смирненски",
+    "site_posted_at": null,
+    "category": "garage",
+    "category_confidence": "high",
+    "price_per_sqm": 1333,
+    "price_history": [
+      {
+        "date": "2026-09-05T14:45:08.819179+00:00",
+        "price_eur": 20000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 52,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -23.0,
     "score": 14
   },
   {
@@ -4879,8 +4911,8 @@
     "days_on_market": 31,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": 45.2,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": 45.8,
     "score": 12
   },
   {
@@ -5491,8 +5523,8 @@
     "days_on_market": 59,
     "source_status": "removed",
     "removed_at": "2026-10-23T03:08:21.317197+00:00",
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": -9.2,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -8.5,
     "score": 10
   },
   {
@@ -12067,8 +12099,8 @@
     "days_on_market": 41,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": -9.8,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -9.1,
     "score": 8
   },
   {
@@ -14367,7 +14399,7 @@
     "portal": "imoti.bg",
     "lat": 42.6278965,
     "lng": 27.3949388,
-    "description": "Отличен парцел за инвестиция – м. Брода, близо до Бургас и минералните бани.\r\n\r\nПредлагаме за продажба земеделска земя (нива) с площ 27 000 кв.м (27 дка), разположена в землището на гр. Бургас, местност „Брода“, в близост до кв. Банево и Бургаските минерални бани.\r\n\r\nИмотът се намира на около 1,5 км от Бургаските минерални бани, около 3 км от центъра на гр. Ветрен, на около 17 км от центъра на гр. Бургас, в район с добър потенциал и развиваща се инфраструктура.\r\n\r\nПарцeлът е с удобен и равен терен, подходящ както за земеделско ползване, така и за дългосрочна инвестиция.\r\nПрез имота преминава електропровод 20 kV, което е предимство при разглеждане на проекти, свързани с енергийна или друга инвестиционна дейност (след съответните процедури и разрешителни).\r\n\r\nХарактеристики: трайно предназначение: земеделска земя, начин на трайно ползване: нива, категория на земята: 9, добър достъп, до около 1 км от път с трайна настилка, без сгради.\r\n\r\nИмотът е подходящ за: инвеститори, арендатори, дългосрочно планиране и развитие.\r\n\r\nВъзможност за договаряне при сериозен интерес.\r\nНива на скица: 981\r\n\r\nЦена 89 000 €\r\n\r\nInformation in English, Russian and Dutch by request. Excellent Investment Land Plot – Broda Area, near Burgas and the Mineral Baths. Отличный инвестиционный участок – м. Брода, рядом с Бургасом и минеральными банями. Uitstekend investeringsperceel – regio Broda, nabij Burgas en de mineraalbaden.",
+    "description": "Отличен парцел за инвестиция – м. Брода, близо до Бургас и минералните бани.\r\n\r\nПредлагаме за продажба земеделска земя (нива) с площ 27 000 кв.м (27 дка), разположена в землището на гр. Бургас, местност „Брода“, в близост до кв. Банево и Бургаските минерални бани.\r\n\r\nИмотът се намира на около 1,5 км от Бургаските минерални бани, около 3 км от центъра на гр. Ветрен, на около 17 км от центъра на гр. Бургас, в район с добър потенциал и развиваща се инфраструктура.\r\n\r\nПарцeлът е с удобен и равен терен, подходящ както за земеделско ползване, така и за дългосрочна инвестиция.\r\nПрез имота преминава електропровод 20 kV, което е предимство при разглеждане на проекти, свързани с енергийна или друга инвестиционна дейност (след съответните процедури и разрешителни).\r\n\r\nХарактеристики: трайно предназначение: земеделска земя, начин на трайно ползване: нива, категория на земята: 9, добър достъп, до около 1 км от път с трайна настилка, без сгради.\r\n\r\nИмотът е подходящ за: инвеститори, арендатори, дългосрочно планиране и развитие. Имота ще бъде скоро в регулация! \r\n\r\nВъзможност за договаряне при сериозен интерес.\r\nНива на скица: 981\r\n\r\nЦена 288 000 €\r\n\r\nInformation in English, Russian and Dutch by request. Excellent Investment Land Plot – Broda Area, near Burgas and the Mineral Baths. Отличный инвестиционный участок – м. Брода, рядом с Бургасом и минеральными банями. Uitstekend investeringsperceel – regio Broda, nabij Burgas en de mineraalbaden.",
     "site_posted_at": null,
     "category": "land",
     "category_confidence": "high",
@@ -17623,8 +17655,8 @@
     "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 10.4,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 11.2,
     "score": 7
   },
   {
@@ -17979,8 +18011,8 @@
     "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 2.1,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 2.8,
     "score": 7
   },
   {
@@ -19592,38 +19624,6 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 12,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514385",
-    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-514385.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69a1852d01185_69a1856f88a18.jpg",
-    "price_eur": 76000,
-    "sqm": 1243,
-    "area": "с.Цигов чарк",
-    "city": "Пазарджик област",
-    "title": "Парцел, с.Цигов чарк",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Оферта 78580 Парцел в регулация с сменен статут септември 2025г. в цената има включени 113кв.м идеални части от пътя уникална гледка и панарома към язовир Батак намира се на курорта Цигов чарк Преди контра стената на втора линия от асфлатовия път около много нови къщи за повече инфромация и огледи на посочения телефон 0897010001 - Костадинов Имоти",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 61,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 76000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 63,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 61,
     "pct_vs_area_avg": 0.0,
     "score": 7
   },
@@ -23623,8 +23623,8 @@
     "days_on_market": 51,
     "source_status": "removed",
     "removed_at": "2026-10-15T18:41:08.183236+00:00",
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": 19.4,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": 19.9,
     "score": 6
   },
   {
@@ -23975,8 +23975,8 @@
     "days_on_market": 50,
     "source_status": "removed",
     "removed_at": "2026-10-14T19:12:11.780111+00:00",
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 23.2,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 24.1,
     "score": 6
   },
   {
@@ -24135,8 +24135,8 @@
     "days_on_market": 51,
     "source_status": "removed",
     "removed_at": "2026-10-15T18:41:08.183236+00:00",
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": -0.5,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 0.3,
     "score": 6
   },
   {
@@ -26244,83 +26244,11 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 40,
     "pct_vs_area_avg": -3.8,
-    "score": 5
-  },
-  {
-    "id": "imotibg_515993",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-4-515993.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6abd522a16dc2_6abd538c00d0c.jpeg",
-    "price_eur": 178000,
-    "sqm": 96,
-    "area": "Люлин 4",
-    "city": "София",
-    "title": "Тристаен апартамент, Люлин 4",
-    "portal": "imoti.bg",
-    "lat": 42.7210556,
-    "lng": 23.5292354,
-    "description": "ТРИСТАЕН В ЛЮЛИН 4 • АКТ 16 • ОТ СОБСТВЕНИК • БЕЗ КОМИСИОНА\r\n\r\nПродава се тристаен апартамент в нова жилищна сграда с Акт 16, находяща се в гр. София, ж.к. Люлин 4, бул. „Добринова скала“ №44.\r\n\r\nОбща площ: 96 кв.м\r\nЗастроена площ: 82,29 кв.м\r\nЕтаж: 2 от 5\r\nИзложение: южно\r\nЦена: 178 000 € (1 854.17 €/кв.м)\r\n\r\nАпартаментът е с функционално разпределение: входно антре, дневна с кухненски бокс, две спални, всяка със собствен дрешник, тераса и баня с тоалетна.\r\n\r\nЖилището се предава на шпакловка и замазка, с PVC дограма REHAU.\r\n\r\nСградата е с Акт 16, асансьор и отлично завършени общи части. Използвани са съвременни материали, включително HPL плоскости по фасадата и гранитогрес в общите части.\r\n\r\nИма възможност за закупуване на подземно паркомясто на цена 20 000 €. \r\n\r\nЗа информация и огледи:\r\nИвайло Андреев – 088 700 2000",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1854,
-    "price_history": [
-      {
-        "date": "2026-09-30T20:01:51.490934+00:00",
-        "price_eur": 168000
-      },
-      {
-        "date": "2026-10-15T18:41:08.183236+00:00",
-        "price_eur": 178000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": -6.0,
-    "days_on_market": 26,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1939,
-    "pct_vs_area_avg": -4.4,
-    "score": 5
-  },
-  {
-    "id": "imotibg_515994",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-4-515994.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6abd541b0a2a9_6abd54f36bd38.jpeg",
-    "price_eur": 199000,
-    "sqm": 110,
-    "area": "Люлин 4",
-    "city": "София",
-    "title": "Тристаен апартамент, Люлин 4",
-    "portal": "imoti.bg",
-    "lat": 42.7210556,
-    "lng": 23.5292354,
-    "description": "ТРИСТАЕН 110 КВ.М В ЛЮЛИН 4 • АКТ 16 • БЕЗ КОМИСИОНА\r\n\r\n\r\nПродава се тристаен апартамент в нова жилищна сграда с Акт 16, находяща се в гр. София, ж.к. Люлин 4, бул. „Добринова скала“ №44.\r\n\r\nОбща площ: 110 кв.м\r\nЗастроена площ: 94 кв.\r\nЕтаж: 2 от 5\r\nИзложение: югоизточно\r\nЦена: 199 000 € (1 809.10 €/кв.м)\r\n\r\nРазпределението включва входно антре, дневна с трапезария и кухненски бокс, две самостоятелни спални, дрешник, две тераси, баня с тоалетна и отделна втора тоалетна.\r\n\r\nЖилището се предава на шпакловка и замазка, с PVC дограма REHAU.\r\n\r\nСградата е с Акт 16, асансьор и отлично завършени общи части. Фасадата и общите пространства са изпълнени със съвременни материали.\r\n\r\nИма възможност за закупуване на подземно паркомясто на цена 20 000 €.\r\n\r\n\r\nЗа информация и огледи:\r\nИвайло Андреев – 088 700 2000",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1809,
-    "price_history": [
-      {
-        "date": "2026-09-30T20:01:51.490934+00:00",
-        "price_eur": 192500
-      },
-      {
-        "date": "2026-10-15T18:41:08.183236+00:00",
-        "price_eur": 199000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": -3.4,
-    "days_on_market": 26,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1939,
-    "pct_vs_area_avg": -6.7,
     "score": 5
   },
   {
@@ -28568,6 +28496,86 @@
     "score": 4
   },
   {
+    "id": "imotibg_515993",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-4-515993.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6abd522a16dc2_6abd538c00d0c.jpeg",
+    "price_eur": 192000,
+    "sqm": 96,
+    "area": "Люлин 4",
+    "city": "София",
+    "title": "Тристаен апартамент, Люлин 4",
+    "portal": "imoti.bg",
+    "lat": 42.7210556,
+    "lng": 23.5292354,
+    "description": "ТРИСТАЕН В ЛЮЛИН 4 • АКТ 16 • ОТ СОБСТВЕНИК • БЕЗ КОМИСИОНА\r\n\r\nПродава се тристаен апартамент в нова жилищна сграда с Акт 16, находяща се в гр. София, ж.к. Люлин 4, бул. „Добринова скала“ №44.\r\n\r\nОбща площ: 96 кв.м\r\nЗастроена площ: 82,29 кв.м\r\nЕтаж: 2 от 5\r\nИзложение: южно\r\nЦена: 192 000 € (2000 €/кв.м)\r\n\r\nАпартаментът е с функционално разпределение: входно антре, дневна с кухненски бокс, две спални, всяка със собствен дрешник, тераса и баня с тоалетна.\r\n\r\nЖилището се предава на шпакловка и замазка, с PVC дограма REHAU.\r\n\r\nСградата е с Акт 16, асансьор и отлично завършени общи части. Използвани са съвременни материали, включително HPL плоскости по фасадата и гранитогрес в общите части.\r\n\r\nИма възможност за закупуване на подземно паркомясто на цена 20 000 €. \r\n\r\nЗа информация и огледи:\r\nИвайло Андреев – 088 700 2000",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2000,
+    "price_history": [
+      {
+        "date": "2026-09-30T20:01:51.490934+00:00",
+        "price_eur": 168000
+      },
+      {
+        "date": "2026-10-15T18:41:08.183236+00:00",
+        "price_eur": 178000
+      },
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 192000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": -14.3,
+    "days_on_market": 26,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2051,
+    "pct_vs_area_avg": -2.5,
+    "score": 4
+  },
+  {
+    "id": "imotibg_515994",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-4-515994.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6abd541b0a2a9_6abd54f36bd38.jpeg",
+    "price_eur": 220000,
+    "sqm": 110,
+    "area": "Люлин 4",
+    "city": "София",
+    "title": "Тристаен апартамент, Люлин 4",
+    "portal": "imoti.bg",
+    "lat": 42.7210556,
+    "lng": 23.5292354,
+    "description": "ТРИСТАЕН 110 КВ.М В ЛЮЛИН 4 • АКТ 16 • БЕЗ КОМИСИОНА\r\n\r\n\r\nПродава се тристаен апартамент в нова жилищна сграда с Акт 16, находяща се в гр. София, ж.к. Люлин 4, бул. „Добринова скала“ №44.\r\n\r\nОбща площ: 110 кв.м\r\nЗастроена площ: 94 кв.\r\nЕтаж: 2 от 5\r\nИзложение: югоизточно\r\nЦена: 220 000 € (2000 € /кв.м)\r\n\r\nРазпределението включва входно антре, дневна с трапезария и кухненски бокс, две самостоятелни спални, дрешник, две тераси, баня с тоалетна и отделна втора тоалетна.\r\n\r\nЖилището се предава на шпакловка и замазка, с PVC дограма REHAU.\r\n\r\nСградата е с Акт 16, асансьор и отлично завършени общи части. Фасадата и общите пространства са изпълнени със съвременни материали.\r\n\r\nИма възможност за закупуване на подземно паркомясто на цена 20 000 €.\r\n\r\n\r\nЗа информация и огледи:\r\nИвайло Андреев – 088 700 2000",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2000,
+    "price_history": [
+      {
+        "date": "2026-09-30T20:01:51.490934+00:00",
+        "price_eur": 192500
+      },
+      {
+        "date": "2026-10-15T18:41:08.183236+00:00",
+        "price_eur": 199000
+      },
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 220000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": -14.3,
+    "days_on_market": 26,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2051,
+    "pct_vs_area_avg": -2.5,
+    "score": 4
+  },
+  {
     "id": "imotibg_515992",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пазарджик-област/грвелинград-515992.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6abd3b5192133_6abd3c6440a3d.jpeg",
@@ -28723,8 +28731,8 @@
     "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": -7.5,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -6.8,
     "score": 4
   },
   {
@@ -29776,7 +29784,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 122,
@@ -30448,11 +30456,43 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 651,
     "pct_vs_area_avg": -7.8,
+    "score": 3
+  },
+  {
+    "id": "imotibg_516169",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/смирненски-516169.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae0720a326ab_6ae0728533c0a.jpg",
+    "price_eur": 69990,
+    "sqm": 44,
+    "area": "Смирненски",
+    "city": "Пловдив",
+    "title": "Двустаен апартамент, Смирненски",
+    "portal": "imoti.bg",
+    "lat": 42.1316822,
+    "lng": 24.7076363,
+    "description": "Продавам  д в у с т а е н  апартамент \r\n в гр.П л о в д и в   кв.С м и р н е н с к и  \r\nв близост до Математическата  гимназия и   к о м п л е к с",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1591,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 69990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -8.1,
     "score": 3
   },
   {
@@ -31059,8 +31099,8 @@
     "days_on_market": 19,
     "source_status": "removed",
     "removed_at": "2026-09-13T20:26:24.946171+00:00",
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": 18.4,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": 18.9,
     "score": 2
   },
   {
@@ -31344,7 +31384,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2200,
@@ -31539,8 +31579,8 @@
     "days_on_market": 20,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 6.1,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 6.9,
     "score": 2
   },
   {
@@ -31571,8 +31611,8 @@
     "days_on_market": 20,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1745,
-    "pct_vs_area_avg": 5.9,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": 6.7,
     "score": 2
   },
   {
@@ -31632,7 +31672,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 810,
@@ -31664,7 +31704,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -31696,7 +31736,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1267,
@@ -31728,7 +31768,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 5068,
@@ -31792,7 +31832,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1708,
@@ -33560,6 +33600,38 @@
     "score": 1
   },
   {
+    "id": "imotibg_516172",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-516172.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae0904dd72db_6ae0911d6cdef.jpg",
+    "price_eur": 110000,
+    "sqm": 70,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Тристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Продаваме тристаен апартамент в кв. Кючук Париж, който се намира близо до НАП\r\nАпартамента е напълно обзаведен с всички мебели и ел. уреди и е подходящ, както за живеене, така и за отдаване под наем.\r\nСъстои се от 3 непреходни стая - просторен хол, отделна трапезария и кухня, спалня, 2 тераси и санитарен възел\r\nЧистата площ на апартамента е 70кв.м., като към него има и изба с тоалетна - 6 кв.м.\r\nСитуиран на 3-ри етаж от 5 етажна монолитна кооперация с асансьор.\r\nОказваме пълно съдействие за банково кредитиране при най-добри условия и цялостна юридическа проверка на имотите, които предлагаме!\r\nЗа повече информация или оглед, обадете се на посочените телефони: 089 945 0421/088 606 2313.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1571,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 110000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -3.4,
+    "score": 1
+  },
+  {
     "id": "imotibg_515921",
     "url": "https://imoti.bg/продажби/етаж-от-къща/кюстендил/център-515921.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aafd908c045a_6aafdccacc039.jpg",
@@ -34797,7 +34869,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2558,
@@ -34861,7 +34933,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2182,
@@ -34992,8 +35064,40 @@
     "days_on_market": 0,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1633,
-    "pct_vs_area_avg": 24.9,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": 25.5,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516170",
+    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-516170.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae082ab6e71d_6ae082d535651.jpg",
+    "price_eur": 66000,
+    "sqm": 500,
+    "area": "с.Цигов чарк",
+    "city": "Пазарджик област",
+    "title": "Парцел, с.Цигов чарк",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Оферта 84239 Парцел в регулация на брега на язовира с готово Вик и прекаран водопровод изградена септична яма направен фондамент и проект за къща с разрешение за строеж и целия имот е ограден с нова красива ограда намира се срещу ски влек Цигов чарк на топ локация с ограничен достъп и уникална панорама за повече информация и огледи на посочения телефон - 0897010001 - Костадинов Имоти",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 132,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 66000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 96,
+    "pct_vs_area_avg": 36.8,
     "score": 0
   }
 ]
