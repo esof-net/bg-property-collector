@@ -712,6 +712,42 @@
     "score": 26
   },
   {
+    "id": "imotibg_514541",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/кючук-париж-514541.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69c14132631a4_69c1416a6f41e.jpg",
+    "price_eur": 123600,
+    "sqm": 96,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Двустаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Оферта 63435 - ПАРКОМЯСТО в ЦЕНАТА !!! ГОТОВА СГРАДА !!! Предлагаме Ви просторен и светъл двустаен апартамент + ПАРКОМЯСТО в нова сграда в бързоразвиващ се район с отлични комуникации и удобен транспорт към центъра на града.  Жилището се състои от просторна дневна 26кв.м. с трапезария и кухненска част, една самостоятелни спалня 16кв.м., баня с тоалетна и две панорамни тераси. Към апартамента има избено помещение-6.5 кв.м. Апартаментът впечатлява с чисти, светли помещения и удобно разпределение, съчетаващо функционалност и уют. Жилището е подходящо както за семейно обитаване, така и за инвестиция, благодарение на отличната локация, модерната сграда и добрата организация на пространствата.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1288,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 127700
+      },
+      {
+        "date": "2026-10-02T14:17:00.141489+00:00",
+        "price_eur": 123600
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 3.2,
+    "days_on_market": 63,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": -21.1,
+    "score": 25
+  },
+  {
     "id": "imotibg_515742",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/русе/дружба-1-515742.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a8804336cc8c_6a8804719efb0.jpeg",
@@ -746,42 +782,6 @@
     "area_avg_price_per_sqm": 1154,
     "pct_vs_area_avg": -14.5,
     "score": 25
-  },
-  {
-    "id": "imotibg_514541",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/кючук-париж-514541.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69c14132631a4_69c1416a6f41e.jpg",
-    "price_eur": 123600,
-    "sqm": 96,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Двустаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Оферта 63435 - ПАРКОМЯСТО в ЦЕНАТА !!! ГОТОВА СГРАДА !!! Предлагаме Ви просторен и светъл двустаен апартамент + ПАРКОМЯСТО в нова сграда в бързоразвиващ се район с отлични комуникации и удобен транспорт към центъра на града.  Жилището се състои от просторна дневна 26кв.м. с трапезария и кухненска част, една самостоятелни спалня 16кв.м., баня с тоалетна и две панорамни тераси. Към апартамента има избено помещение-6.5 кв.м. Апартаментът впечатлява с чисти, светли помещения и удобно разпределение, съчетаващо функционалност и уют. Жилището е подходящо както за семейно обитаване, така и за инвестиция, благодарение на отличната локация, модерната сграда и добрата организация на пространствата.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1288,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 127700
-      },
-      {
-        "date": "2026-10-02T14:17:00.141489+00:00",
-        "price_eur": 123600
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 3.2,
-    "days_on_market": 63,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": -18.2,
-    "score": 24
   },
   {
     "id": "imotibg_515658",
@@ -892,6 +892,42 @@
     "score": 23
   },
   {
+    "id": "imotibg_513427",
+    "url": "https://imoti.bg/продажби/магазин/пловдив/кючук-париж-513427.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_68ecb15f62d15_68ecb18e1ec5c.jpg",
+    "price_eur": 110160,
+    "sqm": 94,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Магазин, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Оферта 68023: Предлагаме ви магазин в нова сграда с Акт 16, разположена на главна оживена улица в близост до ритейл парк и оживено кръстовище. Магазинът е с голяма витрина и възможност за реклама с квадратура 34.00 кв. на партерно ниво + 60.0-кв.м. на сутеренно ниво. Помещението е подходящо за всякакъв вид търговска дейност, Представителство , Мини Маркет -офиси като на Speedy, Ekont и др. Предлагаме също така съдействие за банково кредитиране от водещите банки при преференциални условия !!!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
+    "site_posted_at": null,
+    "category": "shop",
+    "category_confidence": "high",
+    "price_per_sqm": 1172,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 110500
+      },
+      {
+        "date": "2026-09-10T14:27:02.166362+00:00",
+        "price_eur": 110160
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 0.3,
+    "days_on_market": 49,
+    "source_status": "removed",
+    "removed_at": "2026-10-13T16:01:53.859248+00:00",
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": -28.2,
+    "score": 23
+  },
+  {
     "id": "imotibg_515388",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/варна/младост-515388.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a5496c26bd31_6a54990cd1e8b.png",
@@ -993,42 +1029,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1945,
     "pct_vs_area_avg": -48.9,
-    "score": 22
-  },
-  {
-    "id": "imotibg_513427",
-    "url": "https://imoti.bg/продажби/магазин/пловдив/кючук-париж-513427.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_68ecb15f62d15_68ecb18e1ec5c.jpg",
-    "price_eur": 110160,
-    "sqm": 94,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Магазин, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Оферта 68023: Предлагаме ви магазин в нова сграда с Акт 16, разположена на главна оживена улица в близост до ритейл парк и оживено кръстовище. Магазинът е с голяма витрина и възможност за реклама с квадратура 34.00 кв. на партерно ниво + 60.0-кв.м. на сутеренно ниво. Помещението е подходящо за всякакъв вид търговска дейност, Представителство , Мини Маркет -офиси като на Speedy, Ekont и др. Предлагаме също така съдействие за банково кредитиране от водещите банки при преференциални условия !!!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
-    "site_posted_at": null,
-    "category": "shop",
-    "category_confidence": "high",
-    "price_per_sqm": 1172,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 110500
-      },
-      {
-        "date": "2026-09-10T14:27:02.166362+00:00",
-        "price_eur": 110160
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 0.3,
-    "days_on_market": 49,
-    "source_status": "removed",
-    "removed_at": "2026-10-13T16:01:53.859248+00:00",
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": -25.6,
     "score": 22
   },
   {
@@ -1864,6 +1864,38 @@
     "score": 20
   },
   {
+    "id": "imotibg_515157",
+    "url": "https://imoti.bg/продажби/парцел/пловдив/кючук-париж-515157.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a2e74f5e83c0_6a2e7555f1fce.jpg",
+    "price_eur": 220000,
+    "sqm": 208,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Парцел, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Дворното място е застлано с чакъл и е подходящо за склад или паркинг, както и за нов строеж - директен достъп до градска улица, в съседство с къщи и кооперации (в регулация), с прокарани ток и вода. Намира се на ул. Николай Коперник 5, Пловдив",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 1058,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 220000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 63,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": -35.2,
+    "score": 20
+  },
+  {
     "id": "imotibg_514696",
     "url": "https://imoti.bg/продажби/парцел/варна/магистр-хемус-514696.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69d7acd6aa9c3_69d7ad6eba365.jpg",
@@ -1961,38 +1993,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 462,
     "pct_vs_area_avg": -71.9,
-    "score": 19
-  },
-  {
-    "id": "imotibg_515157",
-    "url": "https://imoti.bg/продажби/парцел/пловдив/кючук-париж-515157.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a2e74f5e83c0_6a2e7555f1fce.jpg",
-    "price_eur": 220000,
-    "sqm": 208,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Парцел, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Дворното място е застлано с чакъл и е подходящо за склад или паркинг, както и за нов строеж - директен достъп до градска улица, в съседство с къщи и кооперации (в регулация), с прокарани ток и вода. Намира се на ул. Николай Коперник 5, Пловдив",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 1058,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 220000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 63,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": -32.8,
     "score": 19
   },
   {
@@ -3132,6 +3132,38 @@
     "score": 16
   },
   {
+    "id": "imotibg_515223",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/кючук-париж-515223.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a3933c0616e7_6ad0874fe50e1.jpg",
+    "price_eur": 170000,
+    "sqm": 136,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Четиристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Оферта 54964: Предлагаме ви просторен многостаен апартамент с големи панорамни тераси и ЮГОИЗТОЧНО изложение в малка сграда в близост до парк и училище Димитър Талев. Жилището се състои от просторна и светла южна дневна с трапезария и кухненски бокс, две големи спални с площ от 16 и 18 кв.м., коридор, баня с тоалетна и четвърта малка стая, която може да се обособи като отделна кухня или трета спалня. В близост има разкошен парк, детска градина, училище, болница, супермаркет и удобен транспорт. Свободни паркоместа в двора на цени от 16 000 евро. Възможност за покупка чрез банков кредит. Агенцията разполага с ключ за имота!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1250,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 170000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 63,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": -23.4,
+    "score": 16
+  },
+  {
     "id": "imotibg_514284",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/център-514284.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_698dda0fde7c6_698ddb218df37.jpg",
@@ -3773,38 +3805,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1674,
     "pct_vs_area_avg": 30.2,
-    "score": 15
-  },
-  {
-    "id": "imotibg_515223",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/кючук-париж-515223.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a3933c0616e7_6ad0874fe50e1.jpg",
-    "price_eur": 170000,
-    "sqm": 136,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Четиристаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Оферта 54964: Предлагаме ви просторен многостаен апартамент с големи панорамни тераси и ЮГОИЗТОЧНО изложение в малка сграда в близост до парк и училище Димитър Талев. Жилището се състои от просторна и светла южна дневна с трапезария и кухненски бокс, две големи спални с площ от 16 и 18 кв.м., коридор, баня с тоалетна и четвърта малка стая, която може да се обособи като отделна кухня или трета спалня. В близост има разкошен парк, детска градина, училище, болница, супермаркет и удобен транспорт. Свободни паркоместа в двора на цени от 16 000 евро. Възможност за покупка чрез банков кредит. Агенцията разполага с ключ за имота!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1250,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 170000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 63,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": -20.6,
     "score": 15
   },
   {
@@ -4879,8 +4879,8 @@
     "days_on_market": 31,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": 50.6,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": 45.2,
     "score": 12
   },
   {
@@ -23556,7 +23556,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 852,
@@ -23623,8 +23623,8 @@
     "days_on_market": 51,
     "source_status": "removed",
     "removed_at": "2026-10-15T18:41:08.183236+00:00",
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": 23.8,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": 19.4,
     "score": 6
   },
   {
@@ -30995,8 +30995,8 @@
     "days_on_market": 19,
     "source_status": "removed",
     "removed_at": "2026-09-13T20:26:24.946171+00:00",
-    "area_avg_price_per_sqm": 1575,
-    "pct_vs_area_avg": 22.8,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": 18.4,
     "score": 2
   },
   {
@@ -34962,6 +34962,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1291,
     "pct_vs_area_avg": 39.0,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516166",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/кючук-париж-516166.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae04c10537e7_6ae04c59d9272.jpg",
+    "price_eur": 102000,
+    "sqm": 50,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Двустаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Продавам двустаен напълно обзаведен монолитен апартамент в КИЧУК ПАРИЖ до НАП и ВУСИ. \r\nСитуиран на ет. 4 непоследен в 6 - етажна кооперация с асансьор. \r\nМоже да се нанесете и заживеете или да отдадете апартамента под наем! \r\nЧистата площ на апартамента е 50кв.м а към имота има изба 14кв.м. \r\nОказваме пълно съдействие за банково кредитиране при най-добри условия и цялостна юридическа проверка на имотите, които предлагаме! \r\nЗа повече информация или оглед се обадете на посочените телефони!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2040,
+    "price_history": [
+      {
+        "date": "2026-10-27T09:14:59.306398+00:00",
+        "price_eur": 102000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1633,
+    "pct_vs_area_avg": 24.9,
     "score": 0
   }
 ]
