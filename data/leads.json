@@ -640,7 +640,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 15.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2940,
@@ -16666,7 +16666,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2385,
@@ -26087,6 +26087,39 @@
     "score": 20
   },
   {
+    "id": "6250428",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/dyrvenica/tristaen/6250428/?sid=icNBCK&page=5",
+    "photo": "https://www.imoti.net/web/files/obiavi/6250428/main_image/thumb_280x210_1-apartamenti-studentski-rad.jpg?ver=1793070307",
+    "price_eur": 231216,
+    "sqm": 96,
+    "area": "Darvenitsa",
+    "city": "София",
+    "title": "2 bedroom apartment, 96 м 2 Sofia, Darvenitsa",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 2408,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 244800
+      },
+      {
+        "date": "2026-10-23T03:14:36.088801+00:00",
+        "price_eur": 231216
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 5.5,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2264,
+    "pct_vs_area_avg": 6.4,
+    "score": 20
+  },
+  {
     "id": "6175262",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/shumen/shumen-centyr-/tristaen/6175262/?sid=gEb389&page=11",
     "photo": "https://www.imoti.net/web/files/obiavi/6175262/main_image/thumb_280x210_main_image_6175262_1.jpg?ver=1793070811",
@@ -33752,39 +33785,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1562,
     "pct_vs_area_avg": -34.7,
-    "score": 19
-  },
-  {
-    "id": "6250428",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/dyrvenica/tristaen/6250428/?sid=icNBCK&page=5",
-    "photo": "https://www.imoti.net/web/files/obiavi/6250428/main_image/thumb_280x210_1-apartamenti-studentski-rad.jpg?ver=1793070307",
-    "price_eur": 231216,
-    "sqm": 96,
-    "area": "Darvenitsa",
-    "city": "София",
-    "title": "2 bedroom apartment, 96 м 2 Sofia, Darvenitsa",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 2408,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 244800
-      },
-      {
-        "date": "2026-10-23T03:14:36.088801+00:00",
-        "price_eur": 231216
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 5.5,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2264,
-    "pct_vs_area_avg": 6.4,
     "score": 19
   },
   {
@@ -48127,7 +48127,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1529,
@@ -50056,7 +50056,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": -1.2,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2940,
@@ -206223,7 +206223,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2517,
@@ -283870,7 +283870,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 4830,
