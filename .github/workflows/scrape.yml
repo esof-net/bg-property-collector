@@ -145,6 +145,18 @@ jobs:
         timeout-minutes: 10
         continue-on-error: true
 
+      # Precomputes data/home_stats.json + data/area_index.json (the Home
+      # page's counts and the area dropdown) from the data/leads_*.json(.gz)
+      # files on disk, so the browser doesn't have to download every listing
+      # to render Home. Must run BEFORE the commit step below so the files
+      # land in the same commit as the data they describe. Purely local (no
+      # network, no secrets); continue-on-error so a failure here can never
+      # block committing the scraped data - index.html falls back to its old
+      # full load when the file is missing or stale.
+      - run: python build_home_stats.py
+        timeout-minutes: 10
+        continue-on-error: true
+
       # The concurrency group above only serializes runs of this workflow
       # against each other - it does nothing about a push landing on main
       # through a completely different path (a PR merge) while a long

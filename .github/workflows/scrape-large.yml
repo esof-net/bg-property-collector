@@ -90,6 +90,13 @@ jobs:
         timeout-minutes: 30
         continue-on-error: true
 
+      # See scrape.yml: precomputes the Home page's data/home_stats.json +
+      # data/area_index.json before the commit step so they ship with this
+      # run's data. Local-only and non-blocking.
+      - run: python build_home_stats.py
+        timeout-minutes: 10
+        continue-on-error: true
+
       # See scrape.yml for why this falls back instead of just failing on
       # conflict: a run here can easily take 2+ hours, long enough for a
       # real content conflict against main to be likely, not a rare edge
