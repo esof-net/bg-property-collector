@@ -24367,8 +24367,8 @@
     "days_on_market": 55,
     "source_status": "removed",
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
-    "area_avg_price_per_sqm": 2300,
-    "pct_vs_area_avg": 0.0,
+    "area_avg_price_per_sqm": 2193,
+    "pct_vs_area_avg": 4.9,
     "score": 6
   },
   {
@@ -33029,6 +33029,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1156,
     "pct_vs_area_avg": -4.8,
+    "score": 2
+  },
+  {
+    "id": "imotibg_516179",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/надежда-4-516179.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae20de8baa7a_6ae20f7116b2a.jpg",
+    "price_eur": 169000,
+    "sqm": 81,
+    "area": "Надежда 4",
+    "city": "София",
+    "title": "Тристаен апартамент, Надежда 4",
+    "portal": "imoti.bg",
+    "lat": 42.7352717,
+    "lng": 23.3006661,
+    "description": "- цената е обект на договаряне\r\n- паркет и мозайка\r\n- новодоставена дограма\r\n- нуждае се от освежителен ремонт",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2086,
+    "price_history": [
+      {
+        "date": "2026-10-28T20:58:10.337160+00:00",
+        "price_eur": 169000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2193,
+    "pct_vs_area_avg": -4.9,
     "score": 2
   },
   {
