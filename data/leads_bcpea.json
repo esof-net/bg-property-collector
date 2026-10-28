@@ -2130,7 +2130,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -55.9,
     "score": 18
@@ -4389,7 +4389,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 1270,
     "pct_vs_area_avg": -32.2,
     "score": 15
@@ -4736,9 +4736,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 42,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 41,
     "area_avg_price_per_sqm": 2161,
     "pct_vs_area_avg": -24.9,
     "score": 14
@@ -4849,7 +4849,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 19,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": -32.4,
     "score": 14
@@ -6365,7 +6365,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": 1799,
     "pct_vs_area_avg": -12.2,
     "score": 10
@@ -11910,7 +11910,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 19,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": -15.5,
     "score": 8
@@ -12012,6 +12012,38 @@
     "days_on_market": 20,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": -16.7,
+    "score": 8
+  },
+  {
+    "id": "bcpea_93156",
+    "url": "https://sales.bcpea.org/properties/93156",
+    "photo": null,
+    "price_eur": 38695,
+    "sqm": 60,
+    "area": "Ямбол",
+    "title": "Двустаен апартамент, Ямбол",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-13T17:05:00+00:00",
+    "category": "apartment",
+    "_settlement": "Ямбол",
+    "lat": 42.311889,
+    "lng": 26.5636852,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд,обявявам на заинтересованите, че съгл.чл.487 и сл. ГПК от 03.11.2026 г. до 03.12.2026 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело № 20248780401673, в сградата на РС-Ямбол, като на 04.12.2026г .    от 09.00 часа в зала №5 на ЯРС ще бъдат отворени наддавателните предложения за закупуването на недвижими имоти с цел  удовлетворяване вземането на взискателя УНИКРЕДИТ БУЛБАНК АД, а именно: АПАРТАМЕНТ № 13, находящ се в гр. Ямбол, ж.к. „Златен рог” бл.11, вх.А, ет.5, представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 87374.560.24.37.13 по кадастралната карта и кадастралните регистри на гр. Ямбол, който самостоятелен обект попада в сграда № 37, построена в поземлен имот с идентификатор  № 87374.560.24,  брой нива на обекта: едно, със застроена площ от 59.25 кв.м., състоящ се от две стаи, кухня, коридор и сервизни помещения, заедно с прилежащото ИЗБЕНО ПОМЕЩЕНИЕ № 13 с площ от 3.73 кв.м., както и 1.45 % идеални части от общите части на сградата и съответните идеални части от отстъпеното право на строеж върху терена, - Цената, от която ще започне проданта, съгл. чл. 485 ГПК е в размер на 38 695 евро.  /тридесет и осем хиляди шестстотин деветдесет и пет евро/. Имотът е собственост на ИВАН ДИМИТРОВ СЪБЕВ . Тежести за имота: възбрана в полза на взискателя, вписана в Сл Вп Ямбол на 08.01.2025 г.,възбрана в полза на Агенция за контрол на просрочени задължения, вписана в Сл Вп Ямбол на 21.11.2023 г.,  възбрана в полза на Банка ДСК ЕАД, вписана в Сл Вп Ямбол на 09.03.2021 г. За участие в наддаването се внася задатък 10% от обявената начална цена по банкова сметка на ЧСИ Ирина Христова в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF, IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Ямбол, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто , са недействителни. Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 03.11.2026 г . -17,00ч. Гр.Ямбол, 13.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 645,
+    "price_history": [
+      {
+        "date": "2026-10-13T16:04:27.453684+00:00",
+        "price_eur": 38695
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 15,
+    "area_avg_price_per_sqm": 765,
+    "pct_vs_area_avg": -15.7,
     "score": 8
   },
   {
@@ -15998,9 +16030,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 56,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 55,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -18330,38 +18362,6 @@
     "score": 7
   },
   {
-    "id": "bcpea_93156",
-    "url": "https://sales.bcpea.org/properties/93156",
-    "photo": null,
-    "price_eur": 38695,
-    "sqm": 60,
-    "area": "Ямбол",
-    "title": "Двустаен апартамент, Ямбол",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-13T17:05:00+00:00",
-    "category": "apartment",
-    "_settlement": "Ямбол",
-    "lat": 42.311889,
-    "lng": 26.5636852,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд,обявявам на заинтересованите, че съгл.чл.487 и сл. ГПК от 03.11.2026 г. до 03.12.2026 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело № 20248780401673, в сградата на РС-Ямбол, като на 04.12.2026г .    от 09.00 часа в зала №5 на ЯРС ще бъдат отворени наддавателните предложения за закупуването на недвижими имоти с цел  удовлетворяване вземането на взискателя УНИКРЕДИТ БУЛБАНК АД, а именно: АПАРТАМЕНТ № 13, находящ се в гр. Ямбол, ж.к. „Златен рог” бл.11, вх.А, ет.5, представляващ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 87374.560.24.37.13 по кадастралната карта и кадастралните регистри на гр. Ямбол, който самостоятелен обект попада в сграда № 37, построена в поземлен имот с идентификатор  № 87374.560.24,  брой нива на обекта: едно, със застроена площ от 59.25 кв.м., състоящ се от две стаи, кухня, коридор и сервизни помещения, заедно с прилежащото ИЗБЕНО ПОМЕЩЕНИЕ № 13 с площ от 3.73 кв.м., както и 1.45 % идеални части от общите части на сградата и съответните идеални части от отстъпеното право на строеж върху терена, - Цената, от която ще започне проданта, съгл. чл. 485 ГПК е в размер на 38 695 евро.  /тридесет и осем хиляди шестстотин деветдесет и пет евро/. Имотът е собственост на ИВАН ДИМИТРОВ СЪБЕВ . Тежести за имота: възбрана в полза на взискателя, вписана в Сл Вп Ямбол на 08.01.2025 г.,възбрана в полза на Агенция за контрол на просрочени задължения, вписана в Сл Вп Ямбол на 21.11.2023 г.,  възбрана в полза на Банка ДСК ЕАД, вписана в Сл Вп Ямбол на 09.03.2021 г. За участие в наддаването се внася задатък 10% от обявената начална цена по банкова сметка на ЧСИ Ирина Христова в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF, IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Ямбол, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто , са недействителни. Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 03.11.2026 г . -17,00ч. Гр.Ямбол, 13.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 645,
-    "price_history": [
-      {
-        "date": "2026-10-13T16:04:27.453684+00:00",
-        "price_eur": 38695
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 14,
-    "area_avg_price_per_sqm": 765,
-    "pct_vs_area_avg": -15.7,
-    "score": 7
-  },
-  {
     "id": "bcpea_93210",
     "url": "https://sales.bcpea.org/properties/93210",
     "photo": "https://sales.bcpea.org/upload/93210/464454/1.JPG?w=270&h=270",
@@ -20628,7 +20628,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21289,7 +21289,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21416,7 +21416,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21607,7 +21607,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23036,9 +23036,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 49,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23408,9 +23408,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 47,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 46,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": 63.2,
     "score": 6
@@ -26096,7 +26096,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26284,7 +26284,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26758,7 +26758,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27043,7 +27043,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27852,7 +27852,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27884,7 +27884,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28256,9 +28256,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 44,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 43,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": 143.6,
     "score": 6
@@ -28567,9 +28567,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 44,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 43,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": 143.6,
     "score": 6
@@ -29381,7 +29381,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29602,7 +29602,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -31432,6 +31432,43 @@
     "source_status": "removed",
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 38,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 5
+  },
+  {
+    "id": "bcpea_92535",
+    "url": "https://sales.bcpea.org/properties/92535",
+    "photo": "https://sales.bcpea.org/upload/92535/461456/viber_изображение_2026-02-11_14-46-09-442.jpg?w=270&h=270",
+    "price_eur": 18000,
+    "sqm": 54,
+    "area": "Горна Василица",
+    "title": "Къща с парцел, Горна Василица",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-23T16:55:00+00:00",
+    "category": "land",
+    "_settlement": "Горна Василица",
+    "lat": null,
+    "lng": null,
+    "description": "НЕДВИЖИМ ИМОТ , находящ се в землището на село Горна Василица, община Костенец, област София, а именно – Дворно място от 644  квадратни метра, заедно с построените в него къща и стопанствена сграда, находящи се в махала Гледжова, с. Горна Василица, Софийска област и образуващо парцел V-257  на квартал 24  по плана на махала Гледжова, урегулиран от 630   квадратни метра, при неуредени регулационни сметки, при съседи: улица от три страни и Кирил Йонов, който имот съгласно кадастралната карта и кадастралните регистри на село Горна Василица, община Костенец, област София, одобрени със Заповед № РД-18-139/05.08.2022г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК представлява ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР 18561.502.257 / ; Адрес на поземления имот: село Горна Василица, улица „Христо Ботев“; Площ по скица: 658 кв.м. ; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско  застрояване /до 10м./;   Номер по предходен план: 257, квартал 24; Съседи: 18561.502.175, 18561.502.256, 18561.502.255, 18561.502.194, заедно с построената в поземления имот СГРАДА С ИДЕНТИФИКАТОР 18561.502.257.1  , със застроена площ от 54 кв.м.  ; Брой етажи: 1 /един/; Предназначение: Жилищна сграда, еднофамилна.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92535/461456/viber_изображение_2026-02-11_14-46-09-442.jpg",
+      "https://sales.bcpea.org/upload/92535/461458/viber_изображение_2026-02-11_14-46-09-746.jpg",
+      "https://sales.bcpea.org/upload/92535/461460/viber_изображение_2026-02-11_14-46-09-471.jpg"
+    ],
+    "price_per_sqm": 333,
+    "price_history": [
+      {
+        "date": "2026-09-25T10:01:57.552701+00:00",
+        "price_eur": 18000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 35,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -40803,9 +40840,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 5
@@ -40991,9 +41028,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 5
@@ -42149,6 +42186,42 @@
     "score": 5
   },
   {
+    "id": "bcpea_92536",
+    "url": "https://sales.bcpea.org/properties/92536",
+    "photo": "https://sales.bcpea.org/upload/92536/461463/DSC00795.JPG?w=270&h=270",
+    "price_eur": 695,
+    "sqm": 28,
+    "area": "Синдел",
+    "title": "Гараж, Синдел",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-23T17:25:00+00:00",
+    "category": "apartment",
+    "_settlement": "Синдел",
+    "lat": null,
+    "lng": null,
+    "description": "1/2 /една втора/ ид. ч. от ГАРАЖ с площ 28 / двадесет и осем/ кв. метра, находящ се в УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № III - 200 / трети - двеста/, в квартал 27 /двадесет и седем/ по действащия план на село Синдел, община Аврен, област Варна, находящ се в село Синдел , община Аврен, община Варна, ул. Зюмбюл № 4 / четири/, целият с площ 896 / осемстотин деветдесет и шест/ кв. метра., а съгласно приложената скица - с площ 960 / деветстотин и шестдесет/ кв. м, при граници: улица , УПИ № IV-199; УПИ № V-201; УПИ № II-203 и улица.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92536/461463/DSC00795.JPG",
+      "https://sales.bcpea.org/upload/92536/461464/DSC00796.JPG"
+    ],
+    "price_per_sqm": 25,
+    "price_history": [
+      {
+        "date": "2026-09-25T10:01:57.552701+00:00",
+        "price_eur": 695
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 35,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 5
+  },
+  {
     "id": "bcpea_90709",
     "url": "https://sales.bcpea.org/properties/90709",
     "photo": "https://sales.bcpea.org/upload/90709/453648/IMG_20250606_111003.jpg?w=270&h=270",
@@ -42206,38 +42279,6 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 42,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 5
-  },
-  {
-    "id": "bcpea_92530",
-    "url": "https://sales.bcpea.org/properties/92530",
-    "photo": null,
-    "price_eur": 27230,
-    "sqm": 120,
-    "area": "Горно Пещене",
-    "title": "Други, Горно Пещене",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-23T15:40:00+00:00",
-    "category": "apartment",
-    "_settlement": "Горно Пещене",
-    "lat": 43.27791,
-    "lng": 23.70822,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16897.163.2 / шестнадесет хиляди осемстотин деветдесет и седем точка сто шестдесет и три точка две/, находящ се в село Горно Пещене, общ. Враца, обл. Враца ; По кадастралната карта и кадастралните регистри, одобрени със Заповед РД – 18 – 941/ 17.04.2018 Г. на Изпълнителен директор на АГКК ; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение ; Адрес на поземления имот: село Горно Пещене, местност Копана могила ; Площ от 34 120 кв.м.; Трайно предназначение на територията: Урбанизирана ; Начин на трайно ползване: За електроенергийно производство ; Предишен идентификатор: няма ; Номер по предходен план: 163002 ; Съседи: 16897.163.6, 16897.163.3, 16897.132.100, 16897.163.1, 16897.163.7 , описание по кадастрална скица, а описание по акт за собственост е както следва: Поземлен имот с номер 163002 (сто шестдесет и три, нула, нула, две) в землището на село Горно Пещене с ЕКАТТЕ 16897, Община Враца, с площ на имота от 34.120 /тридесет и четири декара сто и двадесет квадратни метра/ дка. Начин на трайно ползване: производство на ел. енергия , категория на земята при неполивни условия – четвърта , в местността „КОПАНА МОГИЛА” при граници и съседи имоти с номера: 163001, 000007, 163006, 163003, 028100 – по СКИЦА № К04380/24.08.2017г., издадена от ОСЗ Враца, а по документ за собственост представляващ: Поземлен имот с начин на трайно ползване: ПАСИЩЕ, МЕРА, находяща се в землището на с. Горно Пещене, Община Враца, Област Враца с ЕКАТТЕ 16897, с площ от 34.120 дка в местността „КОПАНА МОГИЛА”, категория на земята при неполивни условия: четвърта, имот № 163002, при граници и съседи: имоти 163001, 000007, 163006, 163003 и 028100.",
-    "detail_checked": true,
-    "price_per_sqm": 227,
-    "price_history": [
-      {
-        "date": "2026-09-23T12:43:07.670313+00:00",
-        "price_eur": 27230
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 35,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -42698,9 +42739,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -90.6,
     "score": 5
@@ -43944,9 +43985,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": 796.3,
     "score": 5
@@ -46390,9 +46431,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -89.6,
     "score": 5
@@ -47161,9 +47202,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": -92.1,
     "score": 5
@@ -50317,7 +50358,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 19,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": -8.4,
     "score": 5
@@ -51581,9 +51622,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 37,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 2052,
     "pct_vs_area_avg": 40.6,
     "score": 4
@@ -52547,43 +52588,6 @@
     "drop_pct": 0.0,
     "source_status": "removed",
     "removed_at": "2026-09-23T12:43:07.670313+00:00",
-    "days_on_market": 34,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 4
-  },
-  {
-    "id": "bcpea_92535",
-    "url": "https://sales.bcpea.org/properties/92535",
-    "photo": "https://sales.bcpea.org/upload/92535/461456/viber_изображение_2026-02-11_14-46-09-442.jpg?w=270&h=270",
-    "price_eur": 18000,
-    "sqm": 54,
-    "area": "Горна Василица",
-    "title": "Къща с парцел, Горна Василица",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-23T16:55:00+00:00",
-    "category": "land",
-    "_settlement": "Горна Василица",
-    "lat": null,
-    "lng": null,
-    "description": "НЕДВИЖИМ ИМОТ , находящ се в землището на село Горна Василица, община Костенец, област София, а именно – Дворно място от 644  квадратни метра, заедно с построените в него къща и стопанствена сграда, находящи се в махала Гледжова, с. Горна Василица, Софийска област и образуващо парцел V-257  на квартал 24  по плана на махала Гледжова, урегулиран от 630   квадратни метра, при неуредени регулационни сметки, при съседи: улица от три страни и Кирил Йонов, който имот съгласно кадастралната карта и кадастралните регистри на село Горна Василица, община Костенец, област София, одобрени със Заповед № РД-18-139/05.08.2022г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК представлява ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР 18561.502.257 / ; Адрес на поземления имот: село Горна Василица, улица „Христо Ботев“; Площ по скица: 658 кв.м. ; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: Ниско  застрояване /до 10м./;   Номер по предходен план: 257, квартал 24; Съседи: 18561.502.175, 18561.502.256, 18561.502.255, 18561.502.194, заедно с построената в поземления имот СГРАДА С ИДЕНТИФИКАТОР 18561.502.257.1  , със застроена площ от 54 кв.м.  ; Брой етажи: 1 /един/; Предназначение: Жилищна сграда, еднофамилна.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92535/461456/viber_изображение_2026-02-11_14-46-09-442.jpg",
-      "https://sales.bcpea.org/upload/92535/461458/viber_изображение_2026-02-11_14-46-09-746.jpg",
-      "https://sales.bcpea.org/upload/92535/461460/viber_изображение_2026-02-11_14-46-09-471.jpg"
-    ],
-    "price_per_sqm": 333,
-    "price_history": [
-      {
-        "date": "2026-09-25T10:01:57.552701+00:00",
-        "price_eur": 18000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
     "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
@@ -54329,9 +54333,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 33,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -60499,9 +60503,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 33,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -64811,42 +64815,6 @@
     "score": 4
   },
   {
-    "id": "bcpea_92536",
-    "url": "https://sales.bcpea.org/properties/92536",
-    "photo": "https://sales.bcpea.org/upload/92536/461463/DSC00795.JPG?w=270&h=270",
-    "price_eur": 695,
-    "sqm": 28,
-    "area": "Синдел",
-    "title": "Гараж, Синдел",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-23T17:25:00+00:00",
-    "category": "apartment",
-    "_settlement": "Синдел",
-    "lat": null,
-    "lng": null,
-    "description": "1/2 /една втора/ ид. ч. от ГАРАЖ с площ 28 / двадесет и осем/ кв. метра, находящ се в УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № III - 200 / трети - двеста/, в квартал 27 /двадесет и седем/ по действащия план на село Синдел, община Аврен, област Варна, находящ се в село Синдел , община Аврен, община Варна, ул. Зюмбюл № 4 / четири/, целият с площ 896 / осемстотин деветдесет и шест/ кв. метра., а съгласно приложената скица - с площ 960 / деветстотин и шестдесет/ кв. м, при граници: улица , УПИ № IV-199; УПИ № V-201; УПИ № II-203 и улица.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92536/461463/DSC00795.JPG",
-      "https://sales.bcpea.org/upload/92536/461464/DSC00796.JPG"
-    ],
-    "price_per_sqm": 25,
-    "price_history": [
-      {
-        "date": "2026-09-25T10:01:57.552701+00:00",
-        "price_eur": 695
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 34,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 4
-  },
-  {
     "id": "bcpea_92497",
     "url": "https://sales.bcpea.org/properties/92497",
     "photo": null,
@@ -64874,6 +64842,38 @@
     "source_status": "removed",
     "removed_at": "2026-10-22T20:54:11.759656+00:00",
     "days_on_market": 31,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92530",
+    "url": "https://sales.bcpea.org/properties/92530",
+    "photo": null,
+    "price_eur": 27230,
+    "sqm": 120,
+    "area": "Горно Пещене",
+    "title": "Други, Горно Пещене",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-23T15:40:00+00:00",
+    "category": "apartment",
+    "_settlement": "Горно Пещене",
+    "lat": 43.27791,
+    "lng": 23.70822,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 16897.163.2 / шестнадесет хиляди осемстотин деветдесет и седем точка сто шестдесет и три точка две/, находящ се в село Горно Пещене, общ. Враца, обл. Враца ; По кадастралната карта и кадастралните регистри, одобрени със Заповед РД – 18 – 941/ 17.04.2018 Г. на Изпълнителен директор на АГКК ; Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение ; Адрес на поземления имот: село Горно Пещене, местност Копана могила ; Площ от 34 120 кв.м.; Трайно предназначение на територията: Урбанизирана ; Начин на трайно ползване: За електроенергийно производство ; Предишен идентификатор: няма ; Номер по предходен план: 163002 ; Съседи: 16897.163.6, 16897.163.3, 16897.132.100, 16897.163.1, 16897.163.7 , описание по кадастрална скица, а описание по акт за собственост е както следва: Поземлен имот с номер 163002 (сто шестдесет и три, нула, нула, две) в землището на село Горно Пещене с ЕКАТТЕ 16897, Община Враца, с площ на имота от 34.120 /тридесет и четири декара сто и двадесет квадратни метра/ дка. Начин на трайно ползване: производство на ел. енергия , категория на земята при неполивни условия – четвърта , в местността „КОПАНА МОГИЛА” при граници и съседи имоти с номера: 163001, 000007, 163006, 163003, 028100 – по СКИЦА № К04380/24.08.2017г., издадена от ОСЗ Враца, а по документ за собственост представляващ: Поземлен имот с начин на трайно ползване: ПАСИЩЕ, МЕРА, находяща се в землището на с. Горно Пещене, Община Враца, Област Враца с ЕКАТТЕ 16897, с площ от 34.120 дка в местността „КОПАНА МОГИЛА”, категория на земята при неполивни условия: четвърта, имот № 163002, при граници и съседи: имоти 163001, 000007, 163006, 163003 и 028100.",
+    "detail_checked": true,
+    "price_per_sqm": 227,
+    "price_history": [
+      {
+        "date": "2026-09-23T12:43:07.670313+00:00",
+        "price_eur": 27230
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -70598,9 +70598,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 34,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -70886,9 +70886,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 33,
+    "source_status": "removed",
+    "removed_at": "2026-10-27T20:56:39.415868+00:00",
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -72852,7 +72852,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74070,7 +74070,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74101,7 +74101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74132,7 +74132,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74163,7 +74163,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74194,7 +74194,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74226,7 +74226,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74258,7 +74258,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75094,7 +75094,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75126,7 +75126,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75158,7 +75158,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75190,7 +75190,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78745,7 +78745,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78777,7 +78777,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78809,7 +78809,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -78841,7 +78841,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80370,7 +80370,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80402,7 +80402,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80434,7 +80434,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80466,7 +80466,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80498,7 +80498,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80530,7 +80530,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -80562,7 +80562,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81962,7 +81962,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82004,7 +82004,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82036,7 +82036,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82068,7 +82068,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82100,7 +82100,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82132,7 +82132,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82164,7 +82164,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82196,7 +82196,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82244,7 +82244,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82276,7 +82276,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83653,7 +83653,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83685,7 +83685,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83717,7 +83717,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87848,7 +87848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87880,7 +87880,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87912,7 +87912,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87944,7 +87944,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -87976,7 +87976,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -88008,7 +88008,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90021,7 +90021,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96358,6 +96358,57 @@
     "score": 2
   },
   {
+    "id": "bcpea_93290",
+    "url": "https://sales.bcpea.org/properties/93290",
+    "photo": "https://sales.bcpea.org/upload/93290/256079/IMG_20221031_113252_1.jpg?w=270&h=270",
+    "price_eur": 8720,
+    "sqm": 700,
+    "area": "Въбел",
+    "title": "Газстанция, Въбел",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-16T16:50:00+00:00",
+    "category": "apartment",
+    "_settlement": "Въбел",
+    "lat": 43.656904,
+    "lng": 24.8995856,
+    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778, e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1733/2017г. с Изх. №  62276/ 16.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 14.11.2026г . до 17.00 часа на 14.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в град Никопол, пл.”Европа”№14 , ще се проведе публична продажба след определяне на нова начална цена, приключваща в края на работното време на последния ден на следния недвижим имот и движими вещи и съоръжения, трайно прикрепени в имота, собственост на „НАЙДЕНОВ ОЙЛ 51“ ЕООД, представлявано от управителя Цоню Андреев Найденов, като правоприемник на дейността на „ЕТ РАДИ 86– Цоню Найденов“ - заличен търговец, а именно: УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № I – 557 /първи римско - петстотин петдесет и седем арабско/, в квартал 72 а /седемдесет и две буква „ а“/ , по плана на село Въбел , община Никопол, област Плевен, целият с площ от 2 700 кв.м. /две хиляди и седемстотин квадратни метра/, при съседи на поземления имот: улица, от две страни зелени площи, частен имот №570, и при съседи съгласно скица №60/14.03.2018г. издадена от Община Никопол -улица, зелени площи, имот №559, ЗАЕДНО с построената в урегулирания поземлен имот СГРАДА , със застроена площ от 24,00 кв.м. /двадесет и четири квадратни метра/, представляваща МОДУЛНА ГАЗСТАНЦИЯ И НАФТОСТАНЦИЯ, съгласно разрешение за ползване на обект №66/10.10.2007г. на началник на РДНСК – Плевен, с всички подобрения направени в имота, както и РЕЗЕРВОАР нефтопродукти 8 куб.м. - комплект, ГОРИВОКОЛОНКА Waka Verde A 50 №81972, Навеси за горивоколонки- 2 бр. с обща площ от 10,00 кв.м. и Електронна система с фискална памет EKAFP “Елит Елеганс“, РЕЗЕРВОАР пропан-бутан 10 куб.м. с помпен агрегат, газоколонка . - при първоначална цена – 8720.00 евро без ДДС /осем хиляди седемстотин и двадесет евро/, от които за земя 3888 евро, за сгради и подобрения 1384 евро, за технологично оборудване 3448 евро. Данъчната оценка за имота е в размер на 3883.30 евро / 7595.07 лева, съгласно удостоверение и справка на МДТ при Община Никопол. „НАЙДЕНОВ ОЙЛ 51“ ЕООД е с регистрация по ЗДДС от 12.05.2004г., и върху достигнатата при публичната продан стойност на имота ще се начисли ДДС. Тежести за имота: Договорна ипотека том 1, акт №23/2003г., в полза на „Уникредит Булбанк“ АД; Анекс том 1, акт 229/2004г., към договор за банков кредит от 04.09.2003г.; Вписана договорна ипотека том 1, акт №33/2006г., с подновяване/новиране том 1, акт №18/2016г., в полза на „Уникредит Булбанк“ АД; Договорна ипотека том 1, акт 55/2006г. в полза на „Уникредит Булбанк“ АД; Договорна ипотека том 1, акт 56/2007г. в полза на „Уникредит Булбанк“ АД, Договор за цесия от 11.12.2023г., вписан под том 1, акт 1 от 17.01.2024г., Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., промяна на взискател по ипотека; Договорна ипотека том 1, акт 57/2007г. в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., промяна на взискател по ипотека; Учредяване на договорна ипотека том 1, акт 39/2017г., в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., промяна на взискател по ипотека; Учредяване на договорна ипотека том 1, акт 40/2017г., в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., промяна на взискател по ипотека; Възбрана том 1, акт №12/2018г., в полза на „Уникредит Булбанк“ АД по изп.дело №20178150401733/17г. Договор за цесия от 11.12.2023г., вписан под том 1, акт 1 от 17.01.2024г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер, съгласно удостоверение за тежести на АВ имотен регистър и справка Имотен регистър към дата 16.10.2026г. Тежести за движими вещи: Договор за особен залог върху движими вещи, от 11.08.2010г., вписан в ЦРОЗ под №2010081800162 на 18.08.2010г., подновяване на вписването под №2015081401284 , подновяване на вписването под №2020071702194, в полза на „Уникредит Булбанк“ АД; Договор за цесия от 11.12.2023г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Вписване в ЦРОЗ под № 20240624102447. Договор за цесия от 13.02.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер. Вписване в ЦРОЗ под №20240625142255. Подновяване на първоначално вписване на договор за залог №2010081800162, подновяване под №20250715143705, заложен кредитор „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Никопол, ет.1, регистратура на съда, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч. на посочен адрес в с.Въбел, при управителя Цоню Найденов. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 2017815040 1733. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в Районен съд Никопол, в деловодството на СИС при РС-Никопол, ет.1, регистратура на съда, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. На 15.12. 2026 год. в 13.00ч., в сградата на СЪДЕБНАТА ПАЛАТА, в град Никопол, в съдебна зала, на етаж 3, в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 16.10.2026г. Частен съдебен изпълнител: .............................",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93290/256079/IMG_20221031_113252_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256080/IMG_20221031_112930_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256081/IMG_20221031_112948_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256082/IMG_20221031_112954_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256083/IMG_20221031_113002_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256084/IMG_20221031_113016_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256085/IMG_20221031_113031_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256086/IMG_20221031_113043_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256087/IMG_20221031_113051_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256088/IMG_20221031_113056_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256089/IMG_20221031_113119_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256090/IMG_20221031_113149_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256091/IMG_20221031_113151_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256092/IMG_20221031_113158_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256093/IMG_20221031_113201_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256094/IMG_20221031_113217_1.jpg",
+      "https://sales.bcpea.org/upload/93290/256095/IMG_20221031_113245_1.jpg"
+    ],
+    "price_per_sqm": 12,
+    "price_history": [
+      {
+        "date": "2026-10-16T18:37:23.780364+00:00",
+        "price_eur": 8720
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93289",
     "url": "https://sales.bcpea.org/properties/93289",
     "photo": "https://sales.bcpea.org/upload/93289/454499/DSCN3948.JPG?w=270&h=270",
@@ -97167,57 +97218,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93290",
-    "url": "https://sales.bcpea.org/properties/93290",
-    "photo": "https://sales.bcpea.org/upload/93290/256079/IMG_20221031_113252_1.jpg?w=270&h=270",
-    "price_eur": 8720,
-    "sqm": 700,
-    "area": "Въбел",
-    "title": "Газстанция, Въбел",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-16T16:50:00+00:00",
-    "category": "apartment",
-    "_settlement": "Въбел",
-    "lat": 43.656904,
-    "lng": 24.8995856,
-    "description": "РЕПУБЛИКА БЪЛГАРИЯ КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ Татяна Кирилова, с район на действие ОС-Плевен, рег.№815 на КЧСИ, адрес на кантората: гр.Плевен, ул.”Ресен”№15, ет.1, тел.:064/806 778, e mail:kantora815@gmail.com О Б Я В Л Е Н И Е ПО ИД № 1733/2017г. с Изх. №  62276/ 16.10.2026г. Подписаната Татяна Кирилова, ЧСИ с район на действие ОС-Плевен, рег.№815 на КЧСИ, обявявам на интересуващите се, че от 14.11.2026г . до 17.00 часа на 14.12.2026г . , в сградата на СЪДЕБНАТА ПАЛАТА, в град Никопол, пл.”Европа”№14 , ще се проведе публична продажба след определяне на нова начална цена, приключваща в края на работното време на последния ден на следния недвижим имот и движими вещи и съоръжения, трайно прикрепени в имота, собственост на „НАЙДЕНОВ ОЙЛ 51“ ЕООД, представлявано от управителя Цоню Андреев Найденов, като правоприемник на дейността на „ЕТ РАДИ 86– Цоню Найденов“ - заличен търговец, а именно: УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ № I – 557 /първи римско - петстотин петдесет и седем арабско/, в квартал 72 а /седемдесет и две буква „ а“/ , по плана на село Въбел , община Никопол, област Плевен, целият с площ от 2 700 кв.м. /две хиляди и седемстотин квадратни метра/, при съседи на поземления имот: улица, от две страни зелени площи, частен имот №570, и при съседи съгласно скица №60/14.03.2018г. издадена от Община Никопол -улица, зелени площи, имот №559, ЗАЕДНО с построената в урегулирания поземлен имот СГРАДА , със застроена площ от 24,00 кв.м. /двадесет и четири квадратни метра/, представляваща МОДУЛНА ГАЗСТАНЦИЯ И НАФТОСТАНЦИЯ, съгласно разрешение за ползване на обект №66/10.10.2007г. на началник на РДНСК – Плевен, с всички подобрения направени в имота, както и РЕЗЕРВОАР нефтопродукти 8 куб.м. - комплект, ГОРИВОКОЛОНКА Waka Verde A 50 №81972, Навеси за горивоколонки- 2 бр. с обща площ от 10,00 кв.м. и Електронна система с фискална памет EKAFP “Елит Елеганс“, РЕЗЕРВОАР пропан-бутан 10 куб.м. с помпен агрегат, газоколонка . - при първоначална цена – 8720.00 евро без ДДС /осем хиляди седемстотин и двадесет евро/, от които за земя 3888 евро, за сгради и подобрения 1384 евро, за технологично оборудване 3448 евро. Данъчната оценка за имота е в размер на 3883.30 евро / 7595.07 лева, съгласно удостоверение и справка на МДТ при Община Никопол. „НАЙДЕНОВ ОЙЛ 51“ ЕООД е с регистрация по ЗДДС от 12.05.2004г., и върху достигнатата при публичната продан стойност на имота ще се начисли ДДС. Тежести за имота: Договорна ипотека том 1, акт №23/2003г., в полза на „Уникредит Булбанк“ АД; Анекс том 1, акт 229/2004г., към договор за банков кредит от 04.09.2003г.; Вписана договорна ипотека том 1, акт №33/2006г., с подновяване/новиране том 1, акт №18/2016г., в полза на „Уникредит Булбанк“ АД; Договорна ипотека том 1, акт 55/2006г. в полза на „Уникредит Булбанк“ АД; Договорна ипотека том 1, акт 56/2007г. в полза на „Уникредит Булбанк“ АД, Договор за цесия от 11.12.2023г., вписан под том 1, акт 1 от 17.01.2024г., Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., промяна на взискател по ипотека; Договорна ипотека том 1, акт 57/2007г. в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., промяна на взискател по ипотека; Учредяване на договорна ипотека том 1, акт 39/2017г., в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., промяна на взискател по ипотека; Учредяване на договорна ипотека том 1, акт 40/2017г., в полза на „Уникредит Булбанк“ АД, Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., промяна на взискател по ипотека; Възбрана том 1, акт №12/2018г., в полза на „Уникредит Булбанк“ АД по изп.дело №20178150401733/17г. Договор за цесия от 11.12.2023г., вписан под том 1, акт 1 от 17.01.2024г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия от 11.12.2023г., вписан под том 1, акт 2 от 17.01.2024г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия вписан под том 1, акт 5 от 18.03.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер. Договор за цесия вписан под том 1, акт 6 от 18.03.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер, съгласно удостоверение за тежести на АВ имотен регистър и справка Имотен регистър към дата 16.10.2026г. Тежести за движими вещи: Договор за особен залог върху движими вещи, от 11.08.2010г., вписан в ЦРОЗ под №2010081800162 на 18.08.2010г., подновяване на вписването под №2015081401284 , подновяване на вписването под №2020071702194, в полза на „Уникредит Булбанк“ АД; Договор за цесия от 11.12.2023г., сключен между „Уникредит Булбанк“ АД, като цедент и „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цесионер. Вписване в ЦРОЗ под № 20240624102447. Договор за цесия от 13.02.2024г., сключен между „ДИ СИ ЕЙ МЕНИДЖМЪНТ“ АД, като цедент и „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД, като цесионер. Вписване в ЦРОЗ под №20240625142255. Подновяване на първоначално вписване на договор за залог №2010081800162, подновяване под №20250715143705, заложен кредитор „ДИПЛАН ПРОПЪРТИ МЕНИДЖМЪНТ“ АД. Интересуващите се от имота могат да се явят в канцеларията ми всеки присъствен ден и час, за да прегледат книжата. Книжата за проданта се държат в деловодството на СИС при РС-Никопол, ет.1, регистратура на съда, на разположение на всеки, който се интересува от имота. Всички желаещи да прегледат имота могат да сторят това всеки вторник и четвъртък от 14 ч. до 16 ч. на посочен адрес в с.Въбел, при управителя Цоню Найденов. За участие в наддаването по сметка на съдебния изпълнител се внася задатъкът 10 на сто върху началната цена съгласно чл.489, ал.1 от ГПК по сметка в „ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА“ АД, IBAN:BG66 CECB 9790 50D4 5129 00, BIC: CECBBGSF -титуляр ЧСИ Татяна Кирилова, по изп.дело № 2017815040 1733. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в Районен съд Никопол, в деловодството на СИС при РС-Никопол, ет.1, регистратура на съда, което се отразява във входящ регистър /чл. 489, ал. 4 ГПК/. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най късно в този срок. /чл. 489, ал. 5 ГПК/.Наддавателни предложения от лица, които нямат право за вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. /чл. 489, ал. 6 ГПК/. На 15.12. 2026 год. в 13.00ч., в сградата на СЪДЕБНАТА ПАЛАТА, в град Никопол, в съдебна зала, на етаж 3, в присъствието на явилите се наддавачи, ще съставя протокол и обявява купувача. Ако при обявяването на купувача някой от явилите се наддавачи устно предложи цена, по-висока с размера на един задатък, съдебният изпълнител отразява предложението в протокола и след като наддавачът го подпише, съдебният изпълнител пита три пъти има ли желаещи да предложат по висока цена с размера на още един задатък. Ако постъпи предложение, то се отразява в протокола и наддавачът го подписва. След изчерпване на предложенията за купувач на имота се обявява този наддавач който е предложил най-висока цена. гр.Плевен, 16.10.2026г. Частен съдебен изпълнител: .............................",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93290/256079/IMG_20221031_113252_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256080/IMG_20221031_112930_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256081/IMG_20221031_112948_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256082/IMG_20221031_112954_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256083/IMG_20221031_113002_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256084/IMG_20221031_113016_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256085/IMG_20221031_113031_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256086/IMG_20221031_113043_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256087/IMG_20221031_113051_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256088/IMG_20221031_113056_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256089/IMG_20221031_113119_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256090/IMG_20221031_113149_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256091/IMG_20221031_113151_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256092/IMG_20221031_113158_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256093/IMG_20221031_113201_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256094/IMG_20221031_113217_1.jpg",
-      "https://sales.bcpea.org/upload/93290/256095/IMG_20221031_113245_1.jpg"
-    ],
-    "price_per_sqm": 12,
-    "price_history": [
-      {
-        "date": "2026-10-16T18:37:23.780364+00:00",
-        "price_eur": 8720
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
     "id": "bcpea_93516",
     "url": "https://sales.bcpea.org/properties/93516",
     "photo": "https://sales.bcpea.org/upload/93516/465458/Screenshot_20260715_165705_Cadastre Map.jpg?w=270&h=270",
@@ -97306,7 +97306,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98307,7 +98307,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98346,7 +98346,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98384,7 +98384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102424,7 +102424,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102456,7 +102456,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102488,7 +102488,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104495,7 +104495,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104527,7 +104527,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105982,7 +105982,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -106014,7 +106014,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -107082,7 +107082,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -108941,7 +108941,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -108978,7 +108978,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109016,7 +109016,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109048,7 +109048,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109084,7 +109084,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109120,7 +109120,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109151,7 +109151,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": -61.4,
     "score": 0
