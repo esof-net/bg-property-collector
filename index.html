@@ -2118,6 +2118,24 @@
   @media (max-width: 560px) { .toast { max-width: none; } }
   .toast.show { opacity: 1; transform: translateY(0); }
 
+  /* Status of the on-demand full listings download (see bulkStatusState() in
+     JS): a small fixed bar, same ink/brass look as a toast, bottom-left clear
+     of the sidebar. [hidden] by default; a Retry button after a failure. */
+  .bulk-status {
+    position: fixed; bottom: 24px; left: 248px; z-index: 3900; max-width: 360px;
+    display: flex; align-items: center; gap: 12px;
+    background: var(--ink); color: var(--ivory); font-family: var(--font-sans);
+    font-size: 13px; font-weight: 500; padding: 12px 18px; border-radius: 6px;
+    box-shadow: 0 4px 20px rgba(27,36,52,0.28); border-left: 3px solid var(--brass);
+  }
+  .bulk-status[hidden] { display: none; }
+  @media (max-width: 900px) { .bulk-status { left: 16px; right: 16px; max-width: none; bottom: 80px; } }
+  .bulk-retry-btn {
+    font: inherit; font-weight: 600; cursor: pointer; padding: 2px 12px; border-radius: 4px;
+    background: transparent; color: var(--brass-deep); border: 1px solid currentColor;
+  }
+  .bulk-status .bulk-retry-btn { color: var(--ivory); }
+
   /* Branded "no photo" placeholder - one consistent brass/ivory glyph
      (a simple stylized house-key mark, CSS/SVG only, no image asset)
      everywhere a listing has no real photo, replacing the old generic
@@ -3304,6 +3322,7 @@
 <!-- Toast/snackbar container - see showToast() in JS. Empty by default;
      populated/cleared entirely from JS, never server-rendered. -->
 <div id="toastContainer" aria-live="polite"></div>
+<div id="bulkStatus" class="bulk-status" role="status" aria-live="polite" hidden></div>
 
 <!-- Photo gallery lightbox (listing detail page) - see openLightbox() and
      friends in JS. One shared overlay reused for every listing rather than
@@ -3573,6 +3592,24 @@ let homeChart = null;
 // MERGED_LISTINGS at least once - see render()'s own guard and the "Fast
 // first-paint path" section above loadData() (backlog item 6, core slice 2).
 let BULK_READY = false;
+// Precomputed Home aggregates (data/home_stats.json, written by
+// build_home_stats.py after every scrape) - lets Home render its counts and
+// Browse tiles without the full MERGED_LISTINGS download. null until fetched,
+// or if the file is missing/stale (Home then falls back to counting
+// MERGED_LISTINGS after ensureBulkLoaded(), i.e. the previous behavior).
+let HOME_STATS = null;
+// Single-listing rows fetched by id (detail page opened before the bulk load
+// finished) - see fetchListingRowById().
+const LISTING_LOOKUP = {};
+// Memoized bulk load: the full merged_listings download now starts the first
+// time something that genuinely needs every row asks for it (Dashboard,
+// Lead Generators, Comparables, Market, Deal calc, a listing's detail page, a
+// Leads view the server-side page query can't express) - not at page load.
+let bulkLoadPromise = null;
+const BULK_SECTIONS = new Set(['dashboard', 'leadgen', 'comparables', 'market', 'dealcalc']);
+// True once the Leads grid has been rendered at least once (it is no longer
+// rendered at page load - see showSection()).
+let leadsRendered = false;
 
 // --- Preferences (docs/property-filter-spec.md section 9; docs/backlog.md
 // item 19) - small settings that configure how already-shipped features
@@ -3665,10 +3702,12 @@ function refreshAfterPreferenceChange() {
     // who edits a threshold from Preferences and then navigates to
     // Dashboard would see stale pre-edit badges until some unrelated
     // event happened to re-render it.
-    render();
-    renderHome();
     renderDashboard();
   }
+  // Re-fetch the Leads page on screen so badges follow the new thresholds.
+  if (leadsRendered) render();
+  // Home's hot-deals tile depends on the threshold, from rows or from stats.
+  if (BULK_READY || HOME_STATS) renderHome();
   const m = location.hash.match(/^#\/listing\/(.+)$/);
   if (m && document.getElementById('section-listing').classList.contains('active')) showListingDetail(decodeURIComponent(m[1]));
 }
@@ -3833,7 +3872,39 @@ function updateCompareButtonsFor(id) {
 // shared by the compare bar, the compare modal, and the recently-viewed
 // strip below, all three of which only ever store bare ids.
 function findListingByIdAnywhere(id) {
-  return MERGED_LISTINGS.find(x => x.id === id) || null;
+  return MERGED_LISTINGS.find(x => x.id === id) || LISTING_LOOKUP[id] || null;
+}
+
+// Fetches just the given ids (a handful: recently viewed, a deep-linked
+// listing) into LISTING_LOOKUP with the same narrow column list the bulk load
+// uses, so Home's Recently viewed strip and a directly opened listing don't
+// need the full download. Same missing-column retry as every other
+// merged_listings select here. Resolves with the rows it fetched.
+async function fetchListingRowsByIds(ids) {
+  const wanted = ids.filter(id => id && !MERGED_LISTINGS.some(x => x.id === id) && !LISTING_LOOKUP[id]);
+  if (wanted.length === 0) return [];
+  let columns = withoutMissingColumns('merged_listings', MERGED_LISTINGS_BULK_COLUMNS);
+  try {
+    let data, error;
+    for (;;) {
+      ({ data, error } = await sb.from('merged_listings').select(columns).in('id', wanted));
+      if (!error) break;
+      const stripped = stripMissingSelectColumn('merged_listings', columns, error.message);
+      if (stripped === null) throw error;
+      columns = stripped;
+    }
+    const rows = (data || []).map(enrichListingRow);
+    rows.forEach(r => { LISTING_LOOKUP[r.id] = r; });
+    return rows;
+  } catch (e) {
+    console.warn('Could not fetch listings by id', e);
+    return [];
+  }
+}
+
+// Home's Recently viewed strip: fetch only those ids, then repaint it.
+function refreshRecentlyViewedRows() {
+  return fetchListingRowsByIds(RECENTLY_VIEWED_IDS).then(rows => { if (rows.length) renderRecentlyViewedStrip(); });
 }
 
 function renderCompareBar() {
@@ -4218,7 +4289,7 @@ const PIPELINE_LISTING_COLUMNS =
 async function refreshPipelineListingsCache() {
   const dealIds = Object.keys(PIPELINE_DEALS);
   if (dealIds.length === 0) { PIPELINE_LISTINGS_CACHE = {}; return; }
-  let columns = PIPELINE_LISTING_COLUMNS;
+  let columns = withoutMissingColumns('merged_listings', PIPELINE_LISTING_COLUMNS);
   try {
     let data, error;
     while (true) {
@@ -4556,11 +4627,15 @@ function renderTypeFilters() {
   const grid = document.getElementById('typeFilterGrid');
   if (!grid) return;
   const counts = Object.fromEntries(TYPE_FILTER_BUCKETS.map(b => [b.key, 0]));
-  MERGED_LISTINGS.forEach(l => {
-    if (l.portal === 'sales.bcpea.org') counts.auction++;
-    const bucket = typeFilterBucket(l);
-    if (bucket) counts[bucket]++;
-  });
+  if (HOME_STATS && HOME_STATS.typeCounts) {
+    Object.assign(counts, HOME_STATS.typeCounts);
+  } else {
+    MERGED_LISTINGS.forEach(l => {
+      if (l.portal === 'sales.bcpea.org') counts.auction++;
+      const bucket = typeFilterBucket(l);
+      if (bucket) counts[bucket]++;
+    });
+  }
   grid.innerHTML = TYPE_FILTER_BUCKETS.map(b => `
     <button class="type-filter-btn${activeTypeFilter === b.key ? ' active' : ''}" data-type-filter="${b.key}">
       <span class="type-filter-icon">${b.icon}</span>
@@ -4814,11 +4889,16 @@ function renderCityTabs() {
   if (!row) return;
   const counts = Object.fromEntries(BG_CITIES.map(c => [c.key, 0]));
   let othersCount = 0;
-  MERGED_LISTINGS.forEach(l => {
-    const key = listingCityKey(l);
-    if (key) counts[key]++;
-    else othersCount++;
-  });
+  if (HOME_STATS && HOME_STATS.cityCounts) {
+    BG_CITIES.forEach(c => { counts[c.key] = HOME_STATS.cityCounts[c.key] || 0; });
+    othersCount = HOME_STATS.cityCounts.others || 0;
+  } else {
+    MERGED_LISTINGS.forEach(l => {
+      const key = listingCityKey(l);
+      if (key) counts[key]++;
+      else othersCount++;
+    });
+  }
   row.innerHTML = BG_CITIES.map((c, i) => cityTileHtml(c, counts[c.key], activeCityFilter === c.key, i)).join('')
     + cityTileHtml({ key: 'others', label: 'Others', photo: 'assets/city-photos/others.jpg' }, othersCount, activeCityFilter === 'others', BG_CITIES.length);
 }
@@ -5359,11 +5439,16 @@ function renderOblastTabs() {
   if (!row) return;
   const counts = Object.fromEntries(BG_OBLASTS.map(o => [o.key, 0]));
   let othersCount = 0;
-  MERGED_LISTINGS.forEach(l => {
-    const key = listingOblastKey(l);
-    if (key) counts[key]++;
-    else othersCount++;
-  });
+  if (HOME_STATS && HOME_STATS.oblastCounts) {
+    BG_OBLASTS.forEach(o => { counts[o.key] = HOME_STATS.oblastCounts[o.key] || 0; });
+    othersCount = HOME_STATS.oblastCounts.others || 0;
+  } else {
+    MERGED_LISTINGS.forEach(l => {
+      const key = listingOblastKey(l);
+      if (key) counts[key]++;
+      else othersCount++;
+    });
+  }
   row.innerHTML = BG_OBLASTS.map((o, i) => oblastTileHtml(o, counts[o.key], activeOblastFilter === o.key, i)).join('')
     + oblastTileHtml({ key: 'others', label: 'Others' }, othersCount, activeOblastFilter === 'others', BG_OBLASTS.length);
 }
@@ -6226,7 +6311,21 @@ function stripMissingSelectColumn(table, columns, errorMessage) {
   console.warn(`${table} is missing column '${col}' on the live Supabase table (pending manual ` +
     `schema.sql migration, see docs/decisions.md) - stripping it from this query's column list ` +
     `and retrying so this isn't blocked on that migration landing.`);
+  MISSING_SELECT_COLUMNS.add(`${table}.${col}`);
   return cols.filter(c => c !== col).join(',');
+}
+
+// Columns this page load has already learned are absent from the live table
+// (filled in by stripMissingSelectColumn() above). Every query builds its
+// select list through withoutMissingColumns(), so the failed-then-retried
+// request happens once per page load instead of once per page / by-id fetch /
+// bulk shard. Deliberately not persisted: after the migration lands, the next
+// page load simply stops failing.
+const MISSING_SELECT_COLUMNS = new Set();
+
+function withoutMissingColumns(table, columns) {
+  if (MISSING_SELECT_COLUMNS.size === 0) return columns;
+  return columns.split(',').filter(c => !MISSING_SELECT_COLUMNS.has(`${table}.${c}`)).join(',');
 }
 
 // How many id-range shards fetchAllRows() pages through concurrently
@@ -6314,25 +6413,60 @@ function hexIdPartitionBoundaries(count) {
   return boundaries; // length count + 1; shard i covers [boundaries[i], boundaries[i+1])
 }
 
-async function fetchAllRows(table, columns) {
-  const batchSize = 1000;
+// Interactive Leads page requests (leadsPageRequestsInFlight, defined with the
+// fast path below) take priority over this background download: a bulk worker
+// waits - for at most maxMs, so a stuck counter can never stall it - while one
+// is in flight, instead of adding to the load on a database that is already slow.
+async function waitWhileLeadsBusy(maxMs = 10000) {
+  if (typeof leadsPageRequestsInFlight === 'undefined') return;
+  const until = Date.now() + maxMs;
+  while (leadsPageRequestsInFlight > 0 && Date.now() < until) {
+    await new Promise(resolve => setTimeout(resolve, 200));
+  }
+}
+
+// `progress` ({ shardStates, sawTimeout }) is owned by the caller and may be
+// passed to a LATER call after this one threw: every page already downloaded
+// and every shard's keyset cursor is then kept, so a retry resumes where the
+// failed attempt stopped instead of re-downloading the table. `sawTimeout`
+// (a 57014 was seen) makes later work run at lower concurrency.
+async function fetchAllRows(table, columns, progress = {}) {
+  // Rows per request. Starts at the PostgREST cap; a shard that hits a
+  // statement timeout (57014) halves its own size (down to pageMin) for the
+  // retry and the pages after it - a request's cost scales with the rows it
+  // returns, so smaller pages fit under the timeout when the database is slow.
+  // After pageGrowAfter consecutive successful pages the size doubles again
+  // (up to pageMax), so a burst of timeouts that had nothing to do with page
+  // size doesn't leave the rest of the download at many times the requests.
+  // The size lives on the shard's `state`, so a later attempt keeps it.
+  const pageMax = 1000;
+  const pageMin = 250;
+  const pageGrowAfter = 8;
   const maxRetries = 3;
-  let select = columns || '*'; // shared across every shard below, see fetchPartition()'s comment
+  let select = columns ? withoutMissingColumns(table, columns) : '*'; // shared across every shard below, see fetchPartition()'s comment
 
   // One shard's own keyset-pagination loop, confined to [lowerBound,
   // upperBound) - identical in shape (and safety properties: no OFFSET,
   // no depth penalty) to this file's original single-stream loop, just
   // additionally bounded above so it never reads past its own slice of
   // the id space.
-  async function fetchPartition(lowerBound, upperBound) {
-    const rows = [];
-    let cursor = null;
-    let done = false;
-    while (!done) {
+  //
+  // `state` ({ rows, cursor, done }) lives with the CALLER, not inside this
+  // function, so a shard that throws after exhausting its retries still
+  // leaves every page it already fetched (and the keyset cursor to continue
+  // from) intact - see the recovery path at the bottom of fetchAllRows().
+  // rows/cursor are only ever advanced together, after a page has fully
+  // succeeded, so a resumed call can never skip or repeat a row.
+  async function fetchPartition(lowerBound, upperBound, state = { rows: [], cursor: null, done: false }) {
+    while (!state.done) {
       let transientAttempts = 0;
       let data;
+      let pageSize;
       while (true) {
-        let query = sb.from(table).select(select).order('id').limit(batchSize);
+        await waitWhileLeadsBusy();
+        const cursor = state.cursor;
+        pageSize = state.pageSize || (state.pageSize = pageMax);
+        let query = sb.from(table).select(select).order('id').limit(pageSize);
         // `select` is read fresh on every attempt (not captured once per
         // shard), so a column stripped by a DIFFERENT concurrently-running
         // shard is picked up here too, not just by later pages of this
@@ -6350,40 +6484,94 @@ async function fetchAllRows(table, columns) {
 
         const { data: d, error } = await query;
         if (!error) { data = d; break; }
+        if (error.code === '57014') {
+          // statement timeout: the database is struggling - fewer concurrent workers (see the pool below) and smaller pages
+          progress.sawTimeout = true;
+          state.pageSize = Math.max(pageMin, Math.floor(pageSize / 2));
+          state.okStreak = 0;
+        }
 
         const stripped = stripMissingSelectColumn(table, select, error.message);
         if (stripped !== null) { select = stripped; continue; }
 
         transientAttempts++;
         if (transientAttempts >= maxRetries) throw error;
-        await new Promise(resolve => setTimeout(resolve, 500 * transientAttempts));
+        // Exponential backoff with jitter (500ms, 1s, ... +0-250ms), not a
+        // fixed linear step: the 4 shards - and every other visitor's 4
+        // shards - all hit a timeout at about the same moment when the
+        // database is struggling, and retrying in lockstep just re-creates
+        // the same burst that caused it.
+        const backoffMs = 500 * 2 ** (transientAttempts - 1) + Math.random() * 250;
+        await new Promise(resolve => setTimeout(resolve, backoffMs));
       }
 
-      rows.push(...data);
-      if (data.length < batchSize) {
-        done = true;
+      state.rows.push(...data);
+      state.okStreak = (state.okStreak || 0) + 1;
+      if (state.pageSize < pageMax && state.okStreak >= pageGrowAfter) {
+        state.pageSize = Math.min(pageMax, state.pageSize * 2);
+        state.okStreak = 0;
+      }
+      if (data.length < pageSize) {
+        state.done = true;
       } else {
-        cursor = data[data.length - 1].id;
+        state.cursor = data[data.length - 1].id;
       }
     }
-    return rows;
+    return state.rows;
   }
 
   const boundaries = hexIdPartitionBoundaries(FETCH_ALL_ROWS_CONCURRENCY);
-  // Promise.all over exactly FETCH_ALL_ROWS_CONCURRENCY shards, each with
-  // at most one request in flight at a time internally - this IS the
-  // concurrency bound (never more than FETCH_ALL_ROWS_CONCURRENCY requests
-  // in flight at once), not a separate pool on top of it.
+  const shardCount = boundaries.length - 1;
+  // Reused from an earlier failed attempt when the caller passes the same
+  // `progress` object back in (finished shards are skipped, unfinished ones
+  // continue from their cursor).
+  const shardStates = progress.shardStates ||
+    (progress.shardStates = Array.from({ length: shardCount }, () => ({ rows: [], cursor: null, done: false })));
+  // At most FETCH_ALL_ROWS_CONCURRENCY requests in flight (each shard has one
+  // at a time) - a small worker pool over the unfinished shards, so a failed
+  // attempt's leftovers can be resumed at lower concurrency. A statement
+  // timeout (progress.sawTimeout) retires every worker past the second the
+  // next time it looks for work: whatever is making the database slow is the
+  // last thing to pile onto. Failures are collected, not thrown: one shard
+  // failing must not abandon the others' completed work.
+  const failures = [];
+  const pending = shardStates.map((s, i) => i).filter(i => !shardStates[i].done);
+  let nextPending = 0;
+  async function worker(workerIndex) {
+    while (nextPending < pending.length) {
+      if (progress.sawTimeout && workerIndex >= 2) return;
+      const i = pending[nextPending++];
+      try {
+        await fetchPartition(boundaries[i], boundaries[i + 1], shardStates[i]);
+      } catch (reason) {
+        failures.push({ i, reason });
+      }
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(FETCH_ALL_ROWS_CONCURRENCY, pending.length) }, (_, w) => worker(w)));
+  const failedShards = failures.map(f => f.i);
+  const settled = [];
+  failures.forEach(f => { settled[f.i] = { status: 'rejected', reason: f.reason }; });
+
   try {
-    const shardResults = await Promise.all(
-      boundaries.slice(0, -1).map((lowerBound, i) => fetchPartition(lowerBound, boundaries[i + 1]))
-    );
+    // Resume ONLY the shards that failed, one at a time (not concurrently -
+    // whatever just overloaded the server is the last thing to pile onto),
+    // each from the keyset cursor it had already reached, with a fresh
+    // retry budget. Every page already downloaded - by this shard and by
+    // every healthy one - is kept: a single timeout used to cost a full
+    // re-download of the entire table (~250 more requests, which itself
+    // made further timeouts more likely).
+    for (const i of failedShards) {
+      console.warn(`fetchAllRows: shard ${i} failed after exhausting its retries - resuming just that shard ` +
+        `from its saved cursor (${shardStates[i].rows.length} rows already kept), not restarting the table.`, settled[i].reason);
+      await fetchPartition(boundaries[i], boundaries[i + 1], shardStates[i]);
+    }
     // Shards are disjoint, contiguous, ascending sub-ranges of the id
     // keyspace and each one's own rows are already id-ascending
     // (`.order('id')` per page) - concatenating shard 0, 1, ..., N-1 in
     // order reproduces exactly the same id-ascending sequence the original
     // single-cursor sequential fetch produced, not just "some" order.
-    return shardResults.flat();
+    return shardStates.flatMap(s => s.rows);
   } catch (shardError) {
     // Safety net (backlog item 72 - live production regression right after
     // item 71 shipped: the site started showing "Could not load listings
@@ -6406,8 +6594,18 @@ async function fetchAllRows(table, columns) {
     // also fails, the failure is a real, non-concurrency-related problem
     // (e.g. the table itself being unreachable) and should propagate to
     // loadData()'s own catch exactly as it always did before item 71.
-    console.error(`fetchAllRows: a concurrent shard failed after exhausting its own retries - ` +
-      `falling back to the single-stream sequential fetch instead of failing the whole page load.`, shardError);
+    //
+    // Not for a statement timeout, though: that is the database failing to
+    // answer, and re-downloading the entire table sequentially (~250 more
+    // requests, discarding every page already kept) only piles more work onto
+    // it. The error propagates instead; the pages already downloaded stay in
+    // `progress` so the caller's next attempt resumes from them.
+    if (shardError && shardError.code === '57014') {
+      console.error('fetchAllRows: statement timeout while resuming - giving up for now, keeping the pages already downloaded.', shardError);
+      throw shardError;
+    }
+    console.error(`fetchAllRows: resuming the failed shard(s) from their saved cursors also failed - ` +
+      `last resort: falling back to the single-stream sequential fetch instead of failing the whole page load.`, shardError);
     return await fetchPartition(null, null);
   }
 }
@@ -6538,6 +6736,23 @@ const LISTINGS_CACHE_KEY = 'bulk';
 // entirely), short enough that a real price/status change is never stale
 // for more than part of one working session.
 const LISTINGS_CACHE_TTL_MS = 45 * 60 * 1000;
+// Stale-while-revalidate window: a cache entry older than the TTL above but
+// younger than this is still painted from immediately (loadData() then
+// refreshes it in the background) instead of blocking the visitor on the
+// full ~250-request fetch. 6 hours is the scrape/sync cadence the subtitle
+// already promises ("auto-updates every 6 hours"), so data inside this
+// window is never older than one update cycle.
+const LISTINGS_CACHE_STALE_OK_MS = 6 * 60 * 60 * 1000;
+// Cross-tab lock (Web Locks API): only one tab at a time runs the bulk
+// fetch; a tab waiting behind it re-reads the IndexedDB cache the first one
+// just wrote instead of downloading the same table again.
+const BULK_LOAD_LOCK_NAME = 'imotenradar-bulk-load';
+
+function listingsCacheYoungerThan(cached, maxAgeMs) {
+  return !!cached && Array.isArray(cached.rows) && cached.rows.length > 0 &&
+    cached.columns === MERGED_LISTINGS_BULK_COLUMNS &&
+    (Date.now() - cached.cachedAt) < maxAgeMs;
+}
 
 function openListingsCacheDb() {
   return new Promise((resolve, reject) => {
@@ -6553,14 +6768,56 @@ function openListingsCacheDb() {
   });
 }
 
+// Cache layout (v2): the rows are stored as LISTINGS_CACHE_CHUNKS separate
+// records plus a small meta record. The previous layout was ONE ~170MB record,
+// written after the page already looked finished; a refresh in those seconds,
+// or a quota/size failure, silently left IndexedDB empty. Chunks are written one
+// transaction at a time (the main thread gets a breather between them), and the
+// meta record goes in LAST, so a half-written cache is never read as complete.
+const LISTINGS_CACHE_CHUNKS = 16;
+const LISTINGS_CACHE_META_KEY = 'v2:meta';
+const listingsCacheChunkKey = (i) => `v2:chunk:${i}`;
+
+function splitIntoChunks(rows, chunkCount) {
+  const size = Math.max(1, Math.ceil(rows.length / chunkCount));
+  const chunks = [];
+  for (let i = 0; i < rows.length; i += size) chunks.push(rows.slice(i, i + size));
+  return chunks;
+}
+
+// Reassembles a cache entry from its meta record and chunks; null (a cache
+// miss) when anything is missing or the row count doesn't add up.
+function joinCacheChunks(meta, chunks) {
+  if (!meta || !Number.isInteger(meta.chunkCount) || meta.chunkCount <= 0) return null;
+  if (!Array.isArray(chunks) || chunks.length !== meta.chunkCount || chunks.some(c => !Array.isArray(c))) return null;
+  const rows = chunks.flat();
+  if (rows.length !== meta.rowCount) return null;
+  return { rows, cachedAt: meta.cachedAt, columns: meta.columns };
+}
+
 async function readListingsCache() {
   try {
     const db = await openListingsCacheDb();
     return await new Promise((resolve, reject) => {
       const tx = db.transaction(LISTINGS_CACHE_STORE, 'readonly');
-      const req = tx.objectStore(LISTINGS_CACHE_STORE).get(LISTINGS_CACHE_KEY);
-      req.onsuccess = () => resolve(req.result || null);
-      req.onerror = () => reject(req.error);
+      const store = tx.objectStore(LISTINGS_CACHE_STORE);
+      tx.onabort = () => reject(tx.error || new Error('cache read aborted'));
+      const metaReq = store.get(LISTINGS_CACHE_META_KEY);
+      metaReq.onerror = () => reject(metaReq.error);
+      metaReq.onsuccess = () => {
+        const meta = metaReq.result;
+        if (!meta || !Number.isInteger(meta.chunkCount) || meta.chunkCount <= 0) { resolve(null); return; }
+        const chunks = new Array(meta.chunkCount);
+        let remaining = meta.chunkCount;
+        for (let i = 0; i < meta.chunkCount; i++) {
+          const req = store.get(listingsCacheChunkKey(i));
+          req.onerror = () => reject(req.error);
+          req.onsuccess = () => {
+            chunks[i] = req.result;
+            if (--remaining === 0) resolve(joinCacheChunks(meta, chunks));
+          };
+        }
+      };
     });
   } catch (e) {
     // Private browsing, disabled storage, a corrupt DB, etc. - never fatal,
@@ -6571,23 +6828,80 @@ async function readListingsCache() {
   }
 }
 
-// Fire-and-forget from loadData() - a slow or failed cache write should
-// never block or break rendering the page the user is actually waiting on.
+// One IndexedDB write/delete in its own transaction. Settles on complete,
+// error AND abort (a quota failure arrives as an abort) - without the abort
+// case a failed write never settled, and the Web Lock held by the bulk load
+// was never released.
+function listingsCacheTx(db, work) {
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(LISTINGS_CACHE_STORE, 'readwrite');
+    tx.oncomplete = () => resolve();
+    tx.onerror = () => reject(tx.error);
+    tx.onabort = () => reject(tx.error || new Error('cache write aborted'));
+    work(tx.objectStore(LISTINGS_CACHE_STORE));
+  });
+}
+
+// Started after the rows are already in use (see fetchBulkRowsDeduped()) - a
+// slow or failed cache write never blocks or breaks the page. Logs what
+// happened either way, so an empty cache is explainable from the console.
 async function writeListingsCache(rows) {
+  const startedAt = Date.now();
   try {
+    await new Promise(resolve => setTimeout(resolve, 0)); // let the page paint first
     const db = await openListingsCacheDb();
-    await new Promise((resolve, reject) => {
-      const tx = db.transaction(LISTINGS_CACHE_STORE, 'readwrite');
-      tx.objectStore(LISTINGS_CACHE_STORE).put(
-        { rows, cachedAt: Date.now(), columns: MERGED_LISTINGS_BULK_COLUMNS },
-        LISTINGS_CACHE_KEY
-      );
-      tx.oncomplete = () => resolve();
-      tx.onerror = () => reject(tx.error);
+    // Invalidate first (the old single-record layout too, which is no longer
+    // read and is ~170MB), so no reader can pair an old meta with new chunks.
+    await listingsCacheTx(db, store => { store.delete(LISTINGS_CACHE_KEY); store.delete(LISTINGS_CACHE_META_KEY); });
+    const chunks = splitIntoChunks(rows, LISTINGS_CACHE_CHUNKS);
+    for (let i = 0; i < chunks.length; i++) {
+      await listingsCacheTx(db, store => { store.put(chunks[i], listingsCacheChunkKey(i)); });
+      await new Promise(resolve => setTimeout(resolve, 0));
+    }
+    await listingsCacheTx(db, store => {
+      store.put({ chunkCount: chunks.length, rowCount: rows.length, cachedAt: Date.now(), columns: MERGED_LISTINGS_BULK_COLUMNS }, LISTINGS_CACHE_META_KEY);
     });
+    console.info(`Saved ${rows.length} listings to the local cache (${chunks.length} chunks, ${((Date.now() - startedAt) / 1000).toFixed(1)}s)`);
   } catch (e) {
-    console.warn('Listings cache write failed, continuing without it', e);
+    console.warn(`Listings cache write failed (${e && e.name ? e.name + ': ' : ''}${e && e.message ? e.message : e}) - continuing without it`, e);
   }
+}
+
+// Network side of the bulk load, deduplicated across tabs. Resolves with
+// { rows, fromCache } as soon as rows are available - it does NOT make the
+// caller wait for the IndexedDB write, but the lock is held until that write
+// finishes, so a tab queued behind this one finds the cache populated.
+// Browsers without navigator.locks just run fn() directly, i.e. exactly the
+// previous behavior.
+// Shard state of the in-progress (or last failed) bulk download - see fetchAllRows().
+let bulkProgress = { shardStates: null, sawTimeout: false };
+
+function fetchBulkRowsDeduped() {
+  return new Promise((resolve, reject) => {
+    const work = async () => {
+      const again = await readListingsCache();
+      if (listingsCacheYoungerThan(again, LISTINGS_CACHE_TTL_MS)) {
+        resolve({ rows: again.rows, fromCache: true });
+        return;
+      }
+      let rows;
+      try {
+        // bulkProgress survives a failed attempt, so the next one resumes
+        // from the shard cursors instead of re-downloading from row 0.
+        rows = await fetchAllRows('merged_listings', MERGED_LISTINGS_BULK_COLUMNS, bulkProgress);
+      } catch (e) {
+        reject(e);
+        return;
+      }
+      bulkProgress = { shardStates: null, sawTimeout: false };
+      resolve({ rows, fromCache: false });
+      await writeListingsCache(rows); // never throws - see its own try/catch
+    };
+    const run = (typeof navigator !== 'undefined' && navigator.locks && navigator.locks.request)
+      ? navigator.locks.request(BULK_LOAD_LOCK_NAME, work)
+      : work();
+    run.catch(reject);
+  });
 }
 
 // --- Fast first-paint path for the primary listings grid (backlog item 6, ---
@@ -6800,6 +7114,9 @@ const FAST_PATH_SORT_COLUMNS = {
   'drops-desc': { column: 'price_drop_count', ascending: false },
   'vsavg-asc': { column: 'pct_vs_area_avg', ascending: true },
   'score-desc': { column: 'score', ascending: false },
+  // "Only with photos" is folded into this sort (see readFilterState()): the
+  // photo filter is translated server-side and the client orders it by score.
+  'photos-first': { column: 'score', ascending: false },
 };
 
 // Returned by buildFastListingsQuery() when a predicate combination has no
@@ -6829,7 +7146,7 @@ function enrichListingRow(m) {
 // pattern to an arbitrary sort column (docs/decisions.md's slice 2 design).
 // Never `count: 'exact'` - the documented live 57014 statement_timeout
 // landmine on this exact table (see fetchAllRows()'s neighbor comment).
-function buildFastListingsQuery(filters, cursor, select) {
+function buildFastListingsQuery(filters, cursor, select, phase, limit) {
   const sortCfg = FAST_PATH_SORT_COLUMNS[filters.sortBy];
   if (!sortCfg) return unsupportedFastPath('sort'); // recent-drop-desc
 
@@ -6898,62 +7215,150 @@ function buildFastListingsQuery(filters, cursor, select) {
   // filters.type === 'other': no server-side predicate (see big comment
   // above) - client-side re-check only.
 
-  query = query.order(sortCfg.column, { ascending: sortCfg.ascending, nullsFirst: false }).order('id', { ascending: true });
-
-  if (cursor) {
-    if (cursor.sortValue === null) {
-      // Already inside the trailing "column IS NULL" group (nullsFirst:
-      // false puts every null-column row after every non-null one,
-      // regardless of sort direction) - every remaining row is also null,
-      // so the only real ordering left is the id tiebreaker.
-      query = query.is(sortCfg.column, null).gt('id', cursor.id);
-    } else {
-      const v = cursor.sortValue;
-      const cmp = sortCfg.ascending ? 'gt' : 'lt';
-      // "Strictly past cursor" OR "in the null group" (always after any
-      // non-null value, both directions, given nullsFirst:false) OR
-      // "tied on the sort column, but past cursor on id".
-      query = query.or(`${sortCfg.column}.${cmp}.${v},${sortCfg.column}.is.null,and(${sortCfg.column}.eq.${v},id.gt.${cursor.id})`);
-    }
+  // The keyset "next page" condition used to be ONE query with
+  //   col > v OR col IS NULL OR (col = v AND id > X)
+  // which Postgres usually can't answer from an index (an OR across three
+  // shapes), so page 2+ sorted nearly the whole table and timed out (57014)
+  // while page 1 - no OR - was fine. It is now split into the three disjoint
+  // row sets it described, each a plain index-friendly range, which
+  // fetchFastListingsPage() runs and stitches back together in the same order
+  // (tied rows past the cursor id, then rows strictly beyond the sort value,
+  // then the null-sort-value group - exactly the old result order). `phase`:
+  //   'first'      no cursor: the normal ordered query
+  //   'tie'        col = v AND id > cursor.id, ordered by id
+  //   'beyond'     col strictly past v, ordered like the full sort
+  //   'nulls'      col IS NULL, ordered by id (the trailing null group)
+  //   'nulls-after' col IS NULL AND id > cursor.id (cursor already in that group)
+  if (phase === 'tie') {
+    query = query.eq(sortCfg.column, cursor.sortValue).gt('id', cursor.id).order('id', { ascending: true });
+  } else if (phase === 'nulls-after') {
+    // nullsFirst:false puts every null-column row after every non-null one,
+    // regardless of sort direction - everything left is null, so only the id
+    // tiebreaker orders it.
+    query = query.is(sortCfg.column, null).gt('id', cursor.id).order('id', { ascending: true });
+  } else if (phase === 'nulls') {
+    query = query.is(sortCfg.column, null).order('id', { ascending: true });
+  } else if (phase === 'beyond') {
+    query = (sortCfg.ascending ? query.gt(sortCfg.column, cursor.sortValue) : query.lt(sortCfg.column, cursor.sortValue))
+      .order(sortCfg.column, { ascending: sortCfg.ascending, nullsFirst: false }).order('id', { ascending: true });
+  } else {
+    query = query.order(sortCfg.column, { ascending: sortCfg.ascending, nullsFirst: false }).order('id', { ascending: true });
   }
 
   // +1 lookahead row: tells the caller whether a next page exists without
   // ever needing count:'exact' or count:'estimated' (neither is used
   // anywhere in this fast path).
-  query = query.limit(PAGE_SIZE + 1);
+  query = query.limit(limit || PAGE_SIZE + 1);
 
   return { ok: true, query, sortCfg, select };
 }
 
-// Executes buildFastListingsQuery()'s query, with the exact same
-// missing-select-column detect/strip/retry pattern fetchAllRows() already
-// uses above (stripMissingSelectColumn()) - safe to reuse as-is here: it
-// only ever narrows the SELECT list (e.g. first_seen_at not migrated
-// yet), never a filter predicate, so it can't silently change which rows
-// match. Any OTHER error (a filter predicate naming a not-yet-migrated
-// column like area_key, a network failure, a malformed or() string) is
-// NOT retried - the whole fast path is abandoned for this render instead,
-// per the big comment above.
-async function fetchFastListingsPage(filters, cursor) {
-  let select = MERGED_LISTINGS_BULK_COLUMNS;
-  const maxRetries = 3; // bounded the same way as stripMissingSelectColumn() itself: stripping
-  // a column makes the exact same match impossible next time, so this can fire at most once
-  // per distinct column actually present in `select` - never unbounded.
-  for (let attempt = 0; attempt < maxRetries; attempt++) {
-    const built = buildFastListingsQuery(filters, cursor, select);
+// Fetches one page (PAGE_SIZE + 1 lookahead rows): a single query for the
+// first page, or the cursor's sub-queries stitched together for a later one
+// (see buildFastListingsQuery()). Each runs through runFastPhase() below -
+// the missing-select-column strip/retry fetchAllRows() also uses, plus one
+// retry of a transient failure. Any other error (a filter predicate naming a
+// not-yet-migrated column like area_key, a malformed or() string) abandons
+// the fast path for this render, per the big comment above.
+async function fetchFastListingsPage(filters, cursor, signal) {
+  const ctx = { select: MERGED_LISTINGS_BULK_COLUMNS }; // shared by the sub-queries below, see runFastPhase()
+  const phases = fastPathPhases(cursor);
+  const full = PAGE_SIZE + 1;
+  if (phases.length === 1) {
+    return runFastPhase(filters, cursor, phases[0], full, signal, ctx);
+  }
+  // A next page is three disjoint row sets in a fixed order (see
+  // buildFastListingsQuery()): tied rows past the cursor id, then rows
+  // strictly beyond the cursor value, then the null group. The first two are
+  // independent, so they run together; the null group is only asked for when
+  // those two did not already fill the page.
+  const [tie, beyond] = await Promise.all([
+    runFastPhase(filters, cursor, 'tie', full, signal, ctx),
+    runFastPhase(filters, cursor, 'beyond', full, signal, ctx),
+  ]);
+  if (!tie.ok) return tie;
+  if (!beyond.ok) return beyond;
+  let rows = tie.rows.concat(beyond.rows).slice(0, full);
+  if (rows.length < full) {
+    const nulls = await runFastPhase(filters, cursor, 'nulls', full - rows.length, signal, ctx);
+    if (!nulls.ok) return nulls;
+    rows = rows.concat(nulls.rows);
+  }
+  return { ok: true, rows, sortCfg: tie.sortCfg };
+}
+
+// Leads page requests currently in flight: the background full download (see
+// fetchAllRows()) waits while this is above zero, so an interactive page isn't
+// competing with hundreds of bulk requests at a database that is already slow.
+let leadsPageRequestsInFlight = 0;
+async function fetchFastPageCounted(filters, cursor, signal) {
+  leadsPageRequestsInFlight++;
+  try {
+    return await fetchFastListingsPage(filters, cursor, signal);
+  } finally {
+    leadsPageRequestsInFlight--;
+  }
+}
+
+// Which cursor sub-queries make up one page - see buildFastListingsQuery().
+function fastPathPhases(cursor) {
+  if (!cursor) return ['first'];
+  return cursor.sortValue === null ? ['nulls-after'] : ['tie', 'beyond', 'nulls'];
+}
+
+// How many times a transient failure of a page query is retried (1s, 2s) before
+// the Retry button is shown.
+const FAST_PATH_TRANSIENT_RETRIES = 2;
+
+// A failure worth a retry: a statement timeout (57014), connection-level
+// trouble, or a network error - not a bad predicate or a missing column.
+function isTransientQueryError(error) {
+  if (!error) return false;
+  const code = String(error.code || '');
+  if (code === '57014' || /^(53|08|57P)/.test(code) || /^PGRST00[0-3]$/.test(code)) return true;
+  return /failed to fetch|network|timeout|timed out|\b50[0-4]\b/i.test(String(error.message || ''));
+}
+
+// One sub-query of a page, with the missing-select-column strip/retry
+// (stripMissingSelectColumn(): only ever narrows the SELECT list, so it can't
+// change which rows match) and ONE retry of a transient failure after a
+// second. Any other error - a filter predicate naming a not-yet-migrated
+// column like area_key, a malformed or() string - abandons the fast path for
+// this render instead of silently dropping a filter. The failure result
+// carries the error's code/message so the caller can tell a flaky query
+// (show a retry) from a view the server can't express (load everything).
+async function runFastPhase(filters, cursor, phase, limit, signal, ctx) {
+  let transientRetries = 0;
+  // Bounded: each strip removes one real column from a short fixed list, plus
+  // at most FAST_PATH_TRANSIENT_RETRIES retries of a transient failure.
+  for (let attempt = 0; attempt < 6; attempt++) {
+    ctx.select = withoutMissingColumns('merged_listings', ctx.select);
+    const usedSelect = ctx.select;
+    const built = buildFastListingsQuery(filters, cursor, usedSelect, phase, limit);
     if (!built.ok) return built;
     try {
-      const { data, error } = await built.query;
+      // supabase-js reports an aborted request as a returned `error` (not a
+      // throw) - check the signal itself rather than parsing that message.
+      // The caller only aborts a request it has already superseded, so the
+      // result is dropped there; this just keeps it from being logged or
+      // retried as if it were a real query failure.
+      const { data, error, status } = signal ? await built.query.abortSignal(signal) : await built.query;
+      if (signal && signal.aborted) return unsupportedFastPath('aborted');
       if (!error) return { ok: true, rows: data || [], sortCfg: built.sortCfg };
-      const stripped = stripMissingSelectColumn('merged_listings', select, error.message);
-      if (stripped === null) return unsupportedFastPath('query-error'); // not a select-column issue - a filter predicate
-      // (e.g. area_key not yet live) or something else - abandon the fast path rather than
-      // silently drop a filter and return unfiltered rows.
-      select = stripped;
-      // loop and retry with the narrowed select() - same shape as fetchAllRows()'s own retry.
+      const stripped = stripMissingSelectColumn('merged_listings', usedSelect, error.message);
+      if (stripped !== null) { ctx.select = stripped; continue; }
+      if (ctx.select !== usedSelect) continue; // a sibling sub-query already narrowed the list - just retry with it
+      if (transientRetries < FAST_PATH_TRANSIENT_RETRIES && isTransientQueryError(error)) {
+        transientRetries++;
+        // 1s, then 2s: the failure is usually a database that is momentarily busy.
+        await new Promise(resolve => setTimeout(resolve, 1000 * transientRetries));
+        if (signal && signal.aborted) return unsupportedFastPath('aborted');
+        continue;
+      }
+      return { ...unsupportedFastPath('query-error'), code: error.code || null, status: status || null, message: error.message || '' };
     } catch (e) {
-      console.warn('Fast listings page fetch failed, falling back to the background bulk load', e);
-      return unsupportedFastPath('exception');
+      console.warn('Fast listings page fetch failed', e);
+      return { ...unsupportedFastPath('exception'), message: String(e && e.message || e) };
     }
   }
   return unsupportedFastPath('query-error');
@@ -6996,44 +7401,22 @@ async function loadData() {
     // (e.g. a future deploy that narrows/widens MERGED_LISTINGS_BULK_
     // COLUMNS) is treated as a miss rather than fed into code expecting a
     // different shape.
+    //
+    // Two cache tiers (see LISTINGS_CACHE_STALE_OK_MS): younger than the TTL
+    // is used as-is; between the TTL and the stale window it is painted from
+    // immediately and refreshed in the background afterwards (end of this
+    // function) rather than making the visitor wait on a full re-download.
+    // A miss goes through fetchBulkRowsDeduped(), which also makes sure
+    // several open tabs share one download instead of each doing their own.
     const cached = await readListingsCache();
-    const cacheIsFresh = !!cached && Array.isArray(cached.rows) && cached.rows.length > 0 &&
-      cached.columns === MERGED_LISTINGS_BULK_COLUMNS &&
-      (Date.now() - cached.cachedAt) < LISTINGS_CACHE_TTL_MS;
+    const cacheIsFresh = listingsCacheYoungerThan(cached, LISTINGS_CACHE_TTL_MS);
+    const cacheIsStaleButUsable = !cacheIsFresh && listingsCacheYoungerThan(cached, LISTINGS_CACHE_STALE_OK_MS);
 
-    const mergedRows = cacheIsFresh
+    const mergedRows = (cacheIsFresh || cacheIsStaleButUsable)
       ? cached.rows
-      : await fetchAllRows('merged_listings', MERGED_LISTINGS_BULK_COLUMNS);
+      : (await fetchBulkRowsDeduped()).rows;
 
-    if (!cacheIsFresh) writeListingsCache(mergedRows); // fire-and-forget
-
-    MERGED_LISTINGS = mergedRows.map(enrichListingRow);
-    // From here on, render() (called a few lines below, and by every filter/
-    // pagination interaction from now on) takes its normal, unchanged,
-    // full-array client-side-filtered path instead of the fast/server path
-    // above - see render()'s own BULK_READY guard. Set BEFORE that call so
-    // this very own loadData() render() picks up the switch.
-    BULK_READY = true;
-
-    const totalSourceCount = mergedRows.reduce((sum, m) => sum + (m.member_count || 1), 0);
-    const countsByPortal = {};
-    mergedRows.forEach(m => {
-      (m.member_portals || []).forEach(p => { countsByPortal[p] = (countsByPortal[p] || 0) + 1; });
-    });
-    PORTAL_COUNTS = {};
-    PORTAL_ORDER.forEach(p => { PORTAL_COUNTS[p] = countsByPortal[p] || 0; });
-
-    const duplicatesMerged = totalSourceCount - MERGED_LISTINGS.length;
-    const subtitleText =
-      `${fmt(MERGED_LISTINGS.length)} unique listings` +
-      (duplicatesMerged > 0 ? ` (${fmt(duplicatesMerged)} duplicates merged across sites)` : '') +
-      ` (${Object.entries(PORTAL_COUNTS).map(([p, c]) => `${c} ${p}`).join(', ')}) · auto-updates every 6 hours`;
-    document.getElementById('subtitle').textContent = subtitleText;
-    // Home hero's own subtitle line (docs/backlog.md item 67) - same text
-    // as the shared masthead's #subtitle above, just rendered inside the
-    // Home page body instead, since that masthead is hidden while Home is
-    // active (see header.home-compact).
-    document.getElementById('homeHeroSubtitle').textContent = subtitleText;
+    applyMergedRows(mergedRows);
     populateAreaFilter();
     populateLeadGenNeighborhoods();
     populateComparablesFilters();
@@ -7044,7 +7427,8 @@ async function loadData() {
     // already resolved by the time a 200k+-row bulk load finishes.
     await pipelineListingsReady;
     renderDashboard();
-    render();
+    // Leads is paged from the server; only a view that needs the full set is repainted.
+    if (leadsViewNeedsFullSet(readFilterState())) render();
 
     // Direct/deep link to a listing (e.g. '#/listing/abc' opened fresh,
     // possibly shared) - MERGED_LISTINGS wasn't populated yet when the
@@ -7053,12 +7437,223 @@ async function loadData() {
     // page's very first navigation, not a new one on top of it - the
     // initial history.replaceState() call already gave this entry the
     // matching {type:'listing', ...} state, tab included.
+    // Skipped when the detail page is already open on that listing (it is
+    // opened at startup from a by-id fetch, see the startup block) - re-opening
+    // here would reset the radius/tab state; swapDetailToBulkRow() upgrades it.
     const m = location.hash.match(/^#\/listing\/(.+)$/);
-    if (m) showListingDetail(decodeURIComponent(m[1]), { push: false, tab: (history.state && history.state.type === 'listing' && history.state.tab) || 'details' });
+    if (m && currentDetailListingId !== decodeURIComponent(m[1])) showListingDetail(decodeURIComponent(m[1]), { push: false, tab: (history.state && history.state.type === 'listing' && history.state.tab) || 'details' });
+
+    if (cacheIsStaleButUsable) refreshBulkListingsInBackground();
   } catch (e) {
-    document.getElementById('subtitle').textContent = 'Could not load listings data.';
-    document.getElementById('homeHeroSubtitle').textContent = 'Could not load listings data.';
+    // Home keeps its precomputed numbers if it has them; only the other
+    // sections lack data then.
+    if (!HOME_STATS) {
+      document.getElementById('subtitle').textContent = 'Could not load listings data.';
+      document.getElementById('homeHeroSubtitle').textContent = 'Could not load listings data.';
+    }
     console.error(e);
+    throw e;
+  }
+}
+
+// --- Status of the on-demand full listings download -----------------------
+// The download can take a while or fail, so the page says what is happening:
+// #bulkStatus (a small fixed bar) shows progress and, after a failure, a Retry;
+// parts of a section that need listings show listingsPendingHtml() instead of
+// looking empty. Both Retry buttons share the .bulk-retry-btn click handler.
+function bulkStatusState() {
+  if (BULK_READY) return { state: 'hidden' };
+  if (bulkLoadPromise) {
+    // Rows downloaded so far over the total Home already knows (HOME_STATS).
+    const total = HOME_STATS ? HOME_STATS.uniqueCount : 0;
+    const rows = (bulkProgress.shardStates || []).reduce((n, st) => n + st.rows.length, 0);
+    return { state: 'loading', percent: total > 0 ? Math.min(99, Math.floor(100 * rows / total)) : null };
+  }
+  if (bulkLastError) return { state: 'failed' };
+  return { state: 'hidden' };
+}
+
+function renderBulkStatus() {
+  const el = document.getElementById('bulkStatus');
+  if (!el) return;
+  const st = bulkStatusState();
+  if (st.state === 'hidden') {
+    el.hidden = true;
+    el.innerHTML = '';
+    return;
+  }
+  el.hidden = false;
+  el.innerHTML = st.state === 'loading'
+    ? `<span>Loading all listings…${st.percent === null ? '' : ` ${st.percent}%`}</span>`
+    : '<span>Couldn\'t load all listings.</span><button type="button" class="bulk-retry-btn">Retry</button>';
+}
+
+// Placeholder for a part of a page that needs listings that aren't loaded.
+function listingsPendingHtml() {
+  return bulkStatusState().state === 'failed'
+    ? '<p class="pl-empty-inline">Couldn\'t load listings. <button type="button" class="bulk-retry-btn">Retry</button></p>'
+    : '<p class="pl-empty-inline">Loading listings…</p>';
+}
+
+let bulkStatusTimer = null;
+function startBulkStatusPolling() {
+  renderBulkStatus();
+  if (bulkStatusTimer) return;
+  bulkStatusTimer = setInterval(() => {
+    renderBulkStatus();
+    if (!bulkLoadPromise) { clearInterval(bulkStatusTimer); bulkStatusTimer = null; }
+  }, 500);
+}
+
+function activeSectionName() {
+  const active = document.querySelector('.page.active');
+  return active ? active.id.replace('section-', '') : '';
+}
+
+// The full download finished: re-run the section on screen so it draws with real data.
+function rerunActiveBulkSection() {
+  const name = activeSectionName();
+  if (BULK_SECTIONS.has(name)) showSection(name, { push: false, scroll: false }); // no scroll jump while the user is reading
+}
+
+// The download failed (or a Retry restarted it): redraw the placeholders only.
+// Not showSection() - that would ask for the download again.
+function refreshActiveBulkSection() {
+  const name = activeSectionName();
+  if (name === 'dashboard') renderDashboard();
+  else if (name === 'leadgen') renderLeadGenGallery();
+}
+
+document.addEventListener('click', (e) => {
+  if (e.target.closest && e.target.closest('.bulk-retry-btn')) ensureBulkLoaded({ manual: true }).catch(() => {});
+});
+
+// Starts the full merged_listings download the first time something needs
+// every row, and returns the same promise to every later caller. A failure
+// clears the memo so the next request can retry. Resolves once MERGED_LISTINGS
+// is populated and the bulk-dependent surfaces have rendered (loadData()).
+//
+// After a failure the next AUTOMATIC request is refused for
+// BULK_RETRY_COOLDOWN_MS (it rejects with the same error, no network): a
+// failed download used to be restarted by every further click, each one
+// another ~250 requests at a database that had just failed to answer. A user
+// action that says "retry" passes { manual: true } and always goes through
+// (resuming from the pages already downloaded, see fetchAllRows()).
+const BULK_RETRY_COOLDOWN_MS = 60 * 1000;
+let bulkLastFailureAt = 0;
+let bulkLastError = null;
+function ensureBulkLoaded({ manual = false } = {}) {
+  if (BULK_READY) return Promise.resolve();
+  if (!bulkLoadPromise) {
+    if (!manual && bulkLastError && Date.now() - bulkLastFailureAt < BULK_RETRY_COOLDOWN_MS) {
+      return Promise.reject(bulkLastError);
+    }
+    bulkLastError = null;
+    bulkLoadPromise = loadData().catch(e => {
+      bulkLoadPromise = null;
+      bulkLastFailureAt = Date.now();
+      bulkLastError = e;
+      throw e;
+    });
+    // Whoever asked, the page reflects the outcome: progress while it runs,
+    // the active section redrawn with real data on success, or its
+    // placeholders switched to "couldn't load - Retry" on failure.
+    bulkLoadPromise.then(
+      () => { renderBulkStatus(); rerunActiveBulkSection(); },
+      () => { renderBulkStatus(); refreshActiveBulkSection(); }
+    );
+    startBulkStatusPolling();
+    if (manual) refreshActiveBulkSection(); // a Retry flips "couldn't load" back to "loading"
+  }
+  return bulkLoadPromise;
+}
+
+// Puts a freshly loaded (or cached) bulk row set into the app's global state
+// and updates the subtitle/portal counts. Deliberately does NOT call the
+// populate*() helpers: those append <option>/checkbox elements and are only
+// safe to run once, from loadData()'s initial pass - this function is also
+// what the background refresh below re-runs.
+function applyMergedRows(mergedRows) {
+  MERGED_LISTINGS = mergedRows.map(enrichListingRow);
+  // From here on, render() (called by loadData() right after this, and by
+  // every filter/pagination interaction from now on) takes its normal,
+  // unchanged, full-array client-side-filtered path instead of the fast/
+  // server path - see render()'s own BULK_READY guard. Set BEFORE that call
+  // so loadData()'s own render() picks up the switch.
+  BULK_READY = true;
+
+  // The precomputed Home stats (when loaded) own the Home totals/portal counts
+  // - they are exact for the latest scrape, and keeping them stops the Home
+  // numbers from shifting when the bulk rows (possibly a few hours of cache
+  // behind) arrive. Without them, count from the rows as before.
+  if (HOME_STATS) return;
+  const totalSourceCount = mergedRows.reduce((sum, m) => sum + (m.member_count || 1), 0);
+  const countsByPortal = {};
+  mergedRows.forEach(m => {
+    (m.member_portals || []).forEach(p => { countsByPortal[p] = (countsByPortal[p] || 0) + 1; });
+  });
+  PORTAL_COUNTS = {};
+  PORTAL_ORDER.forEach(p => { PORTAL_COUNTS[p] = countsByPortal[p] || 0; });
+  renderListingsSubtitle(MERGED_LISTINGS.length, totalSourceCount);
+}
+
+// Masthead + Home hero subtitle, from PORTAL_COUNTS and the two totals.
+function renderListingsSubtitle(uniqueCount, sourceCount) {
+  const duplicatesMerged = sourceCount - uniqueCount;
+  const subtitleText =
+    `${fmt(uniqueCount)} unique listings` +
+    (duplicatesMerged > 0 ? ` (${fmt(duplicatesMerged)} duplicates merged across sites)` : '') +
+    ` (${Object.entries(PORTAL_COUNTS).map(([p, c]) => `${c} ${p}`).join(', ')}) · auto-updates every 6 hours`;
+  document.getElementById('subtitle').textContent = subtitleText;
+  // Home hero's own subtitle line (docs/backlog.md item 67) - same text
+  // as the shared masthead's #subtitle above, just rendered inside the
+  // Home page body instead, since that masthead is hidden while Home is
+  // active (see header.home-compact).
+  document.getElementById('homeHeroSubtitle').textContent = subtitleText;
+}
+
+// Fetches data/home_stats.json and paints Home from it. Returns true when the
+// stats were used. A missing/stale/malformed file is not an error: Home then
+// falls back to the bulk load, exactly as before this file existed.
+async function loadHomeStats() {
+  try {
+    const res = await fetch('data/home_stats.json', { cache: 'no-cache' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const stats = await res.json();
+    const fresh = stats && stats.schemaVersion === 1 && stats.uniqueCount > 0 && stats.portalCounts && stats.cityCounts &&
+      stats.oblastCounts && stats.typeCounts && stats.notSoldScoreHistogram &&
+      (Date.now() - Date.parse(stats.generatedAt)) < HOME_STATS_MAX_AGE_MS;
+    if (!fresh) throw new Error('home_stats.json is malformed or older than ' + (HOME_STATS_MAX_AGE_MS / 3600000) + 'h');
+    HOME_STATS = stats;
+    PORTAL_COUNTS = {};
+    PORTAL_ORDER.forEach(p => { PORTAL_COUNTS[p] = stats.portalCounts[p] || 0; });
+    renderListingsSubtitle(stats.uniqueCount, stats.sourceCount);
+    renderHome();
+    return true;
+  } catch (e) {
+    console.warn('Home stats unavailable - loading the full listings instead', e);
+    ensureBulkLoaded();
+    return false;
+  }
+}
+
+// Wider than the 6h scrape cadence so a single missed scrape doesn't push
+// every visitor onto the full download; beyond it the numbers are untrusted.
+const HOME_STATS_MAX_AGE_MS = 48 * 60 * 60 * 1000;
+
+// Second half of the stale-while-revalidate tier: the page is already
+// showing the (<6h old) cached rows, so a failure here is not worth
+// surfacing - the visitor keeps what they have, and the next load tries again.
+async function refreshBulkListingsInBackground() {
+  try {
+    const { rows } = await fetchBulkRowsDeduped();
+    applyMergedRows(rows);
+    renderHome();
+    renderDashboard();
+    // Leads is paged from the server; only a view that needs the full set is repainted.
+    if (leadsViewNeedsFullSet(readFilterState())) render();
+  } catch (e) {
+    console.warn('Background listings refresh failed - keeping the cached data already on screen', e);
   }
 }
 
@@ -7166,14 +7761,40 @@ function areaKeyGroups() {
   return groups;
 }
 
-function populateAreaFilter() {
+// Idempotent (rebuilds everything after the "All areas" placeholder and keeps
+// the current selection): it can now run twice - once from data/area_index.json
+// when Leads opens (loadAreaIndex()), once more from the bulk rows.
+function populateAreaFilter(groups) {
   const select = document.getElementById('areaFilter');
-  areaKeyGroups().forEach(({ key, label }) => {
+  const selected = select.value;
+  while (select.options.length > 1) select.remove(1);
+  (groups || areaKeyGroups()).forEach(({ key, label }) => {
     const opt = document.createElement('option');
     opt.value = key;
     opt.textContent = label;
     select.appendChild(opt);
   });
+  select.value = selected;
+}
+
+// Fills the Leads area dropdown from the precomputed data/area_index.json so it
+// works without the bulk load. Best-effort: on any failure the dropdown just
+// stays empty until the bulk rows arrive.
+let areaIndexLoaded = false;
+async function loadAreaIndex() {
+  if (areaIndexLoaded || BULK_READY) return;
+  areaIndexLoaded = true;
+  try {
+    const res = await fetch('data/area_index.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const index = await res.json();
+    if (!index || index.schemaVersion !== 1 || !Array.isArray(index.areas)) throw new Error('unexpected area_index.json shape');
+    if (BULK_READY) return; // the bulk rows got here first and already populated it
+    populateAreaFilter(index.areas.slice().sort((a, b) => a.label.localeCompare(b.label, 'bg')));
+  } catch (e) {
+    areaIndexLoaded = false;
+    console.warn('Area index unavailable - the area filter fills in once all listings load', e);
+  }
 }
 
 // --- Standalone Comparables nav section ----------------------------------
@@ -7296,6 +7917,13 @@ function comparablesAnchorPoint(cityKey, areaKey) {
 }
 
 function runComparablesSearch() {
+  if (!BULK_READY) {
+    // The search scans every listing; with none loaded it would report "no
+    // comparables" - wrong, not just empty. The status bar shows progress.
+    showToast('Listings are still loading - try again in a moment.');
+    ensureBulkLoaded().catch(() => {});
+    return;
+  }
   const cityKey = document.getElementById('cmpCity').value;
   const areaKey = document.getElementById('cmpArea').value;
   const radiusKm = parseFloat(document.getElementById('cmpRadiusKm').value) || 0;
@@ -7985,7 +8613,11 @@ function sortedFilteredLeadGenerators() {
   return rows;
 }
 
+// True once the gallery has been drawn with real match counts (listings loaded).
+let leadgenGalleryDrawnWithData = false;
+
 function renderLeadGenGallery() {
+  leadgenGalleryDrawnWithData = BULK_READY;
   const grid = document.getElementById('leadgenGrid');
   document.getElementById('leadgenCount').textContent =
     `${LEAD_GENERATORS.length} of ${LEAD_GEN_MAX} lead generators used`;
@@ -8031,12 +8663,12 @@ function renderLeadGenGallery() {
       <div class="leadgen-card">
         <div class="leadgen-card-body">
           <div class="leadgen-badge-row">
-            <span class="leadgen-badge leadgen-badge-total" title="Current matches, sold listings excluded">${fmt(counts.total)} match${counts.total === 1 ? '' : 'es'}</span>
-            ${PREFERENCES.notifications.showNewBadges ? `<span class="leadgen-badge leadgen-badge-new" title="Matches first seen since you last checked this generator">${fmt(counts.fresh)} new</span>` : ''}
+            <span class="leadgen-badge leadgen-badge-total" title="Current matches, sold listings excluded">${BULK_READY ? `${fmt(counts.total)} match${counts.total === 1 ? '' : 'es'}` : '… matches'}</span>
+            ${PREFERENCES.notifications.showNewBadges ? `<span class="leadgen-badge leadgen-badge-new" title="Matches first seen since you last checked this generator">${BULK_READY ? fmt(counts.fresh) : '…'} new</span>` : ''}
           </div>
           <h3>${escapeHtml(gen.name)}</h3>
           ${lines.map(l => `<p class="leadgen-summary-line">${escapeHtml(l)}</p>`).join('')}
-          ${counts.unmapped > 0 ? `<p class="leadgen-summary-line" title="Listings in the same province as this search that are missing exact map coordinates, so they couldn't be tested against the radius/area - not counted in the match total above, shown so a low count isn't mistaken for 'nothing here'">+${fmt(counts.unmapped)} more nearby without exact coordinates (not counted)</p>` : ''}
+          ${BULK_READY && counts.unmapped > 0 ? `<p class="leadgen-summary-line" title="Listings in the same province as this search that are missing exact map coordinates, so they couldn't be tested against the radius/area - not counted in the match total above, shown so a low count isn't mistaken for 'nothing here'">+${fmt(counts.unmapped)} more nearby without exact coordinates (not counted)</p>` : ''}
           <div id="leadgenMap-${gen.id}" class="leadgen-mini-map"></div>
           <div class="leadgen-type-row">
             <span class="leadgen-type-badge leadgen-saletype-badge">${saleTypeLabel}</span>
@@ -8965,9 +9597,14 @@ function removeTag(tagId) {
 function renderHome() {
   // Matches renderDashboard()'s Hottest Deals filter - a sold listing isn't
   // an actionable hot deal anymore, however high its frozen score is.
-  const hot = MERGED_LISTINGS.filter(l => l.status !== 'sold' && l.score >= HOT_SCORE_THRESHOLD).length;
+  // From the precomputed stats when present (the histogram holds the
+  // not-sold listings per score, so the user's own hot threshold still
+  // applies); otherwise counted from the loaded rows.
+  const hot = HOME_STATS
+    ? Object.entries(HOME_STATS.notSoldScoreHistogram || {}).reduce((n, [score, c]) => (Number(score) >= HOT_SCORE_THRESHOLD ? n + c : n), 0)
+    : MERGED_LISTINGS.filter(l => l.status !== 'sold' && l.score >= HOT_SCORE_THRESHOLD).length;
   const stats = [
-    { value: fmt(MERGED_LISTINGS.length), label: 'Total listings' },
+    { value: fmt(HOME_STATS ? HOME_STATS.uniqueCount : MERGED_LISTINGS.length), label: 'Total listings' },
     { value: fmt(hot), label: '🔥 Hot deals' },
     { value: fmt(Object.keys(PORTAL_COUNTS).length), label: 'Portals tracked' },
   ];
@@ -9071,8 +9708,8 @@ function renderDashLeadgenInbox() {
   el.innerHTML = rows.map(({ gen, counts }) => `
     <button type="button" class="dash-inbox-row" data-inbox-check-id="${gen.id}">
       <span class="dash-inbox-name">${escapeHtml(gen.name)}</span>
-      <span class="leadgen-badge leadgen-badge-total">${fmt(counts.total)}</span>
-      ${PREFERENCES.notifications.showNewBadges ? `<span class="leadgen-badge leadgen-badge-new">${fmt(counts.fresh)} new</span>` : ''}
+      <span class="leadgen-badge leadgen-badge-total">${BULK_READY ? fmt(counts.total) : '…'}</span>
+      ${PREFERENCES.notifications.showNewBadges ? `<span class="leadgen-badge leadgen-badge-new">${BULK_READY ? fmt(counts.fresh) : '…'} new</span>` : ''}
     </button>
   `).join('');
   el.querySelectorAll('[data-inbox-check-id]').forEach(btn => btn.addEventListener('click', () => checkLeads(btn.dataset.inboxCheckId)));
@@ -9187,7 +9824,7 @@ function renderDashboardDigest() {
   // showing "nothing changed" here before that would be actively wrong,
   // not just empty, so wait rather than render a false negative.
   if (MERGED_LISTINGS.length === 0) {
-    body.innerHTML = '<p class="pl-empty-inline">Loading…</p>';
+    body.innerHTML = listingsPendingHtml();
     return;
   }
   const digest = computeDashboardDigest();
@@ -9240,10 +9877,15 @@ function renderDashboard() {
 
   // A sold listing can't be acted on anymore, so it has no business in a
   // "hottest deals right now" ranking even if its frozen score is high.
-  const top = [...MERGED_LISTINGS].filter(l => l.status !== 'sold').sort((a, b) => b.score - a.score).slice(0, 6);
   const hotGrid = document.getElementById('hotGrid');
   hotGrid.innerHTML = '';
-  top.forEach(l => hotGrid.appendChild(createListingCard(l)));
+  if (!BULK_READY) {
+    // No listings yet: say so (loading, or failed with a Retry) instead of an empty box.
+    hotGrid.innerHTML = listingsPendingHtml();
+  } else {
+    const top = [...MERGED_LISTINGS].filter(l => l.status !== 'sold').sort((a, b) => b.score - a.score).slice(0, 6);
+    top.forEach(l => hotGrid.appendChild(createListingCard(l)));
+  }
 
   // Resolved against MERGED_LISTINGS by id on every render rather than
   // storing a snapshot, so a saved listing's price/badges/etc. stay live;
@@ -9258,6 +9900,12 @@ function renderDashboard() {
   const savedGrid = document.getElementById('savedGrid');
   const savedEmpty = document.getElementById('savedEmpty');
   savedGrid.innerHTML = '';
+  if (!BULK_READY && SAVED_LISTING_IDS.length > 0) {
+    // Saved ids exist but their rows haven't loaded: not "nothing saved".
+    savedEmpty.style.display = 'none';
+    savedGrid.innerHTML = listingsPendingHtml();
+    return;
+  }
   savedEmpty.style.display = saved.length === 0 ? 'block' : 'none';
   saved.forEach(l => savedGrid.appendChild(createListingCard(l)));
 }
@@ -9599,7 +10247,9 @@ function buildListingsCsv(listings) {
 function exportFilteredListingsCsv() {
   const note = document.getElementById('exportCsvNote');
   if (!BULK_READY) {
-    if (note) note.textContent = 'Still loading the full dataset - try again in a moment.';
+    // The export needs every matching row, not just the visible page.
+    ensureBulkLoaded().catch(() => {});
+    if (note) note.textContent = 'Loading the full dataset - try again in a moment.';
     return;
   }
   const listings = getCurrentFilteredSortedListings();
@@ -9621,18 +10271,33 @@ function exportFilteredListingsCsv() {
   if (note) note.textContent = `Exported ${fmt(listings.length)} listing${listings.length === 1 ? '' : 's'}.`;
 }
 
+// A Leads view that needs the full listing set while it isn't loaded: start the
+// download (the status bar shows progress; loadData() re-renders Leads when it
+// lands) and say so in the grid instead of showing nothing.
+function renderFullSetPending() {
+  // Whatever fast-path request is still in flight must not paint over this.
+  fastRequestToken++;
+  if (fastAbortController) fastAbortController.abort();
+  document.getElementById('grid').innerHTML = '';
+  const empty = document.getElementById('empty');
+  empty.innerHTML = `This view needs all listings. ${listingsPendingHtml()}`;
+  empty.style.display = 'block';
+  document.getElementById('count').textContent = 'Loading…';
+  document.getElementById('countCaveat').style.display = 'none';
+  setPaginationHtml('');
+  ensureBulkLoaded().catch(() => {});
+}
+
 function render() {
+  leadsRendered = true;
   const filters = readFilterState();
 
-  // Fast first-paint path (backlog item 6, core slice 2): until the
-  // background bulk load has populated MERGED_LISTINGS at least once,
-  // filtering it client-side would just show "0 listings" - fire the
-  // small server-side query instead and paint from that. Every future
-  // call to render() (any filter/sort/pagination change) keeps routing
-  // here until BULK_READY flips, at which point loadData()'s own trailing
-  // render() call (and every one after it) falls straight through to the
-  // unchanged logic below instead.
-  if (!BULK_READY) { renderFastPage(filters); return; }
+  // Leads is paged from the server on every page change, whether or not the
+  // full download (which serves the OTHER sections) has finished - switching
+  // between the two used to blank or reset the grid. Only the views the
+  // server can't page (leadsViewNeedsFullSet()) use the in-memory path below.
+  if (!leadsViewNeedsFullSet(filters)) { renderFastPage(filters); return; }
+  if (!BULK_READY) { renderFullSetPending(); return; }
 
   let filtered = MERGED_LISTINGS.filter(l => matchesAllFilters(l, filters));
 
@@ -9762,19 +10427,44 @@ function renderFromStart() {
 // logic) picks up and keeps showing that same page number, since
 // currentPage is threaded through unchanged either way.
 let fastCursorStack = [null]; // fastCursorStack[i] = cursor used to fetch page i+1
+let fastPageOffsets = [0]; // fastPageOffsets[i] = matching listings shown on pages before page i+1 (for "Showing X-Y")
 let fastPageIndex = 0; // 0-based; last page actually painted from a successful fetch
 let fastFilterSignature = null; // filters snapshot the current fastPageIndex was fetched under
 let fastLastRawRows = []; // raw (pre-enrichment, pre-re-check) rows from the last successful
 // fetch - the only correct source for the NEXT cursor (must be in the server's own sort
 // order, not the client re-sorted/re-filtered display order - see renderFastPage() below).
 let fastHasNext = false;
+let fastLastPaintedRows = []; // the enriched, re-checked rows currently on screen - repainted when a Prev/Next fetch fails
 let fastRequestToken = 0; // guards a slow, superseded fetch from painting over a newer one
+let fastAbortController = null; // cancels the superseded fetch itself, not just its paint - see renderFastPage()
+// While the bulk load runs, every keystroke in a filter input reaches
+// renderFastPage() (the inputs are wired straight to render()), and each one
+// used to fire its own merged_listings query - the search box's
+// title/area ilike is the slowest and most timeout-prone of them. A filter
+// change now waits for this long without a newer change before querying.
+const FAST_PATH_DEBOUNCE_MS = 300;
+// A page whose client-side re-check (rooms, area, some lead generator criteria
+// - things the server can't filter) leaves fewer than PAGE_SIZE matches is
+// topped up from the following server pages, at most this many extra requests.
+const FAST_PATH_FILL_MAX_EXTRA = 4;
 
 // A small, plain, JSON-serializable snapshot (readFilterState()'s own
 // return value - activeLeadGenerator is a plain saved object too), so a
 // straightforward JSON.stringify is a perfectly good change-detector here.
 function computeFilterSignature(filters) {
   return JSON.stringify(filters);
+}
+
+// The few Leads views the server can't page - the "Most recently reduced" sort
+// (needs the last price-drop date inside the price_history jsonb) and radius/
+// polygon Lead Generators (distance maths over every row) - read the full
+// listing set instead (loaded on demand, paged in memory). Every other view is
+// paged from the server on every page change, whether or not that set is
+// loaded. Mirrors the 'sort' / 'leadgen-geo' bail-outs of buildFastListingsQuery().
+function leadsViewNeedsFullSet(filters) {
+  if (!FAST_PATH_SORT_COLUMNS[filters.sortBy]) return true;
+  const area = filters.activeLeadGenerator && filters.activeLeadGenerator.area;
+  return !!(area && (area.mode === 'radius' || area.mode === 'polygon'));
 }
 
 // No numbered-page buttons here (unlike buildPaginationHtml() above) - a
@@ -9852,6 +10542,13 @@ async function renderFastPage(filters) {
       // kept only so this can never throw.
       cursor = (lastRaw && sortCfg) ? { sortValue: lastRaw[sortCfg.column] ?? null, id: lastRaw.id } : null;
     }
+  } else if (currentPage === fastPageIndex + 1) {
+    // The page already on screen, again (a preference change, a Retry, a
+    // re-render): re-fetch it from the cursor it was fetched with - not
+    // "reset to page 1".
+    resetting = false;
+    targetIndex = fastPageIndex;
+    cursor = fastCursorStack[targetIndex] ?? null;
   } else if (currentPage === fastPageIndex) {
     // Prev: one page back - always already cached, since you can only
     // reach it by having come from there.
@@ -9879,11 +10576,28 @@ async function renderFastPage(filters) {
   renderSkeletonGrid(grid);
 
   const token = ++fastRequestToken;
-  const result = await fetchFastListingsPage(filters, cursor);
+  // Cancel whatever request the previous render() call left in flight - it
+  // is superseded either way (its response would be dropped by the token
+  // check below), so there's no reason to let it keep running server-side.
+  if (fastAbortController) fastAbortController.abort();
+  const controller = fastAbortController = new AbortController();
+
+  // Debounce only a FILTER change (signature differs from what's on screen,
+  // i.e. typing/slider/dropdown input) - never the very first paint
+  // (fastFilterSignature still null) or Prev/Next pagination, which are
+  // single deliberate clicks and should respond immediately.
+  if (fastFilterSignature !== null && signature !== fastFilterSignature) {
+    await new Promise(resolve => setTimeout(resolve, FAST_PATH_DEBOUNCE_MS));
+    if (token !== fastRequestToken) return; // a newer change arrived while waiting - it owns the query now
+  }
+  // Leads pages always come from the server, whether or not the full download
+  // has finished - the download only serves the other sections.
+  const result = await fetchFastPageCounted(filters, cursor, controller.signal);
   if (token !== fastRequestToken) return; // superseded by a newer render() call - drop this response
 
   const empty = document.getElementById('empty');
   const countEl = document.getElementById('count');
+  document.getElementById('countCaveat').style.display = 'none'; // only the in-memory views show it
 
   if (!result.ok) {
     // No safe fast-path translation for this exact predicate combination
@@ -9895,33 +10609,100 @@ async function renderFastPage(filters) {
     // reset back to whatever was last actually, successfully painted, so
     // it can't drift from reality.
     currentPage = fastPageIndex + 1;
+    // A query that merely FAILED (timeout, 5xx, network - already retried
+    // once) is not a reason to download the whole table: that is ~250 more
+    // requests aimed at a database that just failed to answer one, and it
+    // used to be started by every failed page and every further Next click.
+    // Keep what was on screen, say so, and let the user retry this page.
+    if (result.reason === 'query-error' || result.reason === 'exception') {
+      const retryPage = targetIndex + 1;
+      const sameView = fastFilterSignature === signature; // a Prev/Next, not a filter change
+      grid.innerHTML = '';
+      if (sameView) fastLastPaintedRows.forEach(l => grid.appendChild(createListingCard(l)));
+      const detail = [result.code, result.status ? `HTTP ${result.status}` : null].filter(Boolean).map(x => escapeHtml(String(x))).join(', ');
+      empty.innerHTML = `Couldn't load this page${detail ? ` (${detail})` : ''}. ` +
+        `<button type="button" id="fastRetryBtn">Retry</button>`;
+      empty.style.display = 'block';
+      document.getElementById('fastRetryBtn').addEventListener('click', () => { currentPage = retryPage; render(); });
+      setPaginationHtml(sameView ? buildFastPaginationHtml(fastPageIndex + 1, fastHasNext) : '');
+      if (!sameView) countEl.textContent = '';
+      return;
+    }
     grid.innerHTML = '';
     empty.textContent = 'Loading full results for this view…';
     empty.style.display = 'block';
     setPaginationHtml(fastFilterSignature === signature ? buildFastPaginationHtml(fastPageIndex + 1, fastHasNext) : '');
     countEl.textContent = 'Loading…';
+    // The bulk load no longer runs at startup, so nothing is "already in
+    // flight" to paint this view - start it now (a no-op if it is running).
+    // loadData()'s trailing render() then paints the real result.
+    if (result.reason !== 'aborted') {
+      const startBulk = (manual) => ensureBulkLoaded({ manual }).catch(() => {
+        // The download failed (already resumed/retried inside) - offer a
+        // manual retry rather than restarting it behind the user's back.
+        empty.innerHTML = 'Could not load all listings for this view. <button type="button" id="bulkRetryBtn">Retry</button>';
+        countEl.textContent = '';
+        document.getElementById('bulkRetryBtn').addEventListener('click', () => {
+          empty.textContent = 'Loading full results for this view…';
+          countEl.textContent = 'Loading…';
+          startBulk(true);
+        });
+      });
+      startBulk(false);
+    }
     return;
   }
 
+  // Gather this page: the raw rows the server returned, re-checked client-side
+  // (see the big comment above loadData() - the exact same matchesAllFilters()/
+  // sortComparator() as the in-memory path, which is what makes the server-side
+  // predicate translation safe to be best-effort: it can only ever remove a
+  // row here, never show one that doesn't really match).
+  const sortCfg = FAST_PATH_SORT_COLUMNS[filters.sortBy];
+  let hasNext = result.rows.length > PAGE_SIZE; // the +1 lookahead row (buildFastListingsQuery()) told us
+  let consumed = result.rows.slice(0, PAGE_SIZE); // raw rows this page has used up
+  const pageRows = consumed.map(enrichListingRow).filter(l => matchesAllFilters(l, filters));
+  // The re-check can leave the page short (rooms/area/lead-generator criteria
+  // aren't filterable server-side): top it up from the following server pages,
+  // using only as many raw rows as needed so Next continues right after them.
+  for (let extra = 0; pageRows.length < PAGE_SIZE && hasNext && extra < FAST_PATH_FILL_MAX_EXTRA; extra++) {
+    const last = consumed[consumed.length - 1];
+    const more = await fetchFastPageCounted(filters, { sortValue: last[sortCfg.column] ?? null, id: last.id }, controller.signal);
+    if (token !== fastRequestToken) return;
+    if (!more.ok) break; // keep the partial page; Next continues from the last row used
+    const take = more.rows.slice(0, PAGE_SIZE);
+    let used = 0;
+    for (const row of take) {
+      used++;
+      const l = enrichListingRow(row);
+      if (matchesAllFilters(l, filters)) {
+        pageRows.push(l);
+        if (pageRows.length === PAGE_SIZE) break;
+      }
+    }
+    consumed = consumed.concat(take.slice(0, used));
+    hasNext = used < take.length || more.rows.length > PAGE_SIZE;
+  }
+
   // Commit - this fetch succeeded, so this is now the real current state.
+  const leavingOffset = fastPageOffsets[fastPageIndex] || 0;
+  const leavingCount = fastLastPaintedRows.length;
   fastFilterSignature = signature;
-  if (resetting) fastCursorStack = [null];
-  else if (targetIndex === fastCursorStack.length) fastCursorStack.push(cursor);
+  if (resetting) {
+    fastCursorStack = [null];
+    fastPageOffsets = [0];
+  } else {
+    if (targetIndex === fastCursorStack.length) fastCursorStack.push(cursor);
+    if (targetIndex === fastPageIndex + 1) fastPageOffsets[targetIndex] = leavingOffset + leavingCount;
+  }
   fastPageIndex = targetIndex;
   currentPage = targetIndex + 1;
-  fastHasNext = result.rows.length > PAGE_SIZE; // the +1 lookahead row (buildFastListingsQuery()) told us
-  fastLastRawRows = result.rows.slice(0, PAGE_SIZE);
-
-  // Mandatory client-side re-check (see the big comment above loadData()) -
-  // the exact same predicate/sort the slow path uses (matchesAllFilters()/
-  // sortComparator(), not a reimplementation), just run over this small
-  // fetched batch instead of the full array. This is what makes the
-  // server-side predicate translation above safe to be best-effort: it can
-  // only ever remove a row here, never show one that doesn't really match.
-  const pageRows = fastLastRawRows.map(enrichListingRow).filter(l => matchesAllFilters(l, filters));
+  fastHasNext = hasNext;
+  fastLastRawRows = consumed;
   pageRows.sort(sortComparator(filters.sortBy));
 
   CURRENT_RESULT_IDS = pageRows.map(l => l.id);
+  fastLastPaintedRows = pageRows; // repainted if the NEXT page's fetch fails, see the !result.ok branch above
   grid.innerHTML = '';
 
   if (pageRows.length === 0) {
@@ -9931,27 +10712,28 @@ async function renderFastPage(filters) {
     // filter every row out of THIS page while real matches still exist
     // further along; only the slow path's full-array scan can say "zero"
     // for certain.
+    // With nothing further to fetch (no next page) the empty page IS the
+    // answer: the server predicate is a superset of the real filter, so no
+    // match can be hiding anywhere else.
     empty.textContent = fastHasNext
-      ? 'No matches on this page yet - keep going or wait for the full results to load.'
-      : 'No listings found yet for these filters - still loading the full list to confirm.';
+      ? 'No matches on this page - use Next to keep looking.'
+      : (fastPageIndex > 0
+        ? 'No further matches - use Prev to go back.'
+        : 'No listings match these filters. Try widening your price range or clearing a filter.');
     empty.style.display = 'block';
     setPaginationHtml(buildFastPaginationHtml(fastPageIndex + 1, fastHasNext));
-    countEl.textContent = 'Loading…';
+    countEl.textContent = fastHasNext ? 'Searching…' : (fastPageIndex > 0 ? '' : '0 listings');
     return;
   }
 
   empty.style.display = 'none';
-  const pageStart = fastPageIndex * PAGE_SIZE;
+  const pageStart = fastPageOffsets[fastPageIndex] || 0;
   const atLeast = pageStart + pageRows.length;
-  // Never count:'exact' (or 'estimated' - unverified against this
-  // project's live PostgREST config, per docs/decisions.md) - an
-  // immediate, honest lower-bound figure instead, silently upgraded to an
-  // exact count the moment the background bulk load resolves and the slow
-  // path's own render() call (loadData()'s trailing call, or any filter/
-  // pagination interaction after that) overwrites this element the normal
-  // way (unchanged existing code below).
+  // Never count:'exact' (or 'estimated' - unverified against this project's
+  // live PostgREST config, per docs/decisions.md): an honest lower bound
+  // ("N+") while more pages exist, the exact figure on the last page.
   countEl.textContent = `Showing ${fmt(pageStart + 1)}-${fmt(atLeast)} of ` +
-    `${fastHasNext ? fmt(atLeast) + '+' : fmt(atLeast)} listings (loading full count…)`;
+    `${fastHasNext ? fmt(atLeast) + '+' : fmt(atLeast)} listings`;
   setPaginationHtml(buildFastPaginationHtml(fastPageIndex + 1, fastHasNext));
   pageRows.forEach(l => grid.appendChild(createListingCard(l)));
 }
@@ -12398,8 +13180,13 @@ function currentResultPosition(id) {
 }
 
 function showListingDetail(id, { push = true, tab = 'details' } = {}) {
-  const merged = MERGED_LISTINGS.find(x => x.id === id);
-  if (!merged) return;
+  const merged = MERGED_LISTINGS.find(x => x.id === id) || LISTING_LOOKUP[id];
+  if (!merged) {
+    // Not loaded (the full download only starts on demand now): fetch just
+    // this row by id, then open it. A second miss means the id doesn't exist.
+    fetchListingRowsByIds([id]).then(rows => { if (rows.length) showListingDetail(id, { push, tab }); });
+    return;
+  }
   // Backlog item 3 ("Recently viewed" strip) - tracked on every real open,
   // not just navigation via the strip itself, so it reflects everywhere a
   // listing gets opened from (grid, Pipeline, Dashboard, a direct link).
@@ -12527,12 +13314,12 @@ function showListingDetail(id, { push = true, tab = 'details' } = {}) {
   // and after that migration lands instead of being blocked on its timing.
   if (merged._detailFieldsFetched !== true) {
     merged._detailFieldsFetched = true;
-    let detailColumns =
+    let detailColumns = withoutMissingColumns('merged_listings',
       'description,photos,price_history,' +
       'property_type_raw,construction_type,built_year,completion_status,' +
       'floor_number,floor_qualifier,features,has_elevator,furnished,' +
       'has_central_heating,agency_name,agency_website,' +
-      'coords_checked,specs_checked,detail_checked';
+      'coords_checked,specs_checked,detail_checked');
     (async () => {
       let data = null;
       // Bounded the same way fetchAllRows() already relies on
@@ -12562,9 +13349,28 @@ function showListingDetail(id, { push = true, tab = 'details' } = {}) {
       if (location.hash === '#/listing/' + id) renderListingDetail(merged);
     })().catch(e => console.error('Failed to load description/photos/price_history/specs for', id, e));
   }
+
+  // The page above is already usable from this one row; similar listings,
+  // area averages and prev/next read the full set, so start that download now
+  // (a no-op when it is already loaded) and upgrade the page when it lands.
+  if (!BULK_READY) ensureBulkLoaded().then(() => swapDetailToBulkRow(id)).catch(() => {});
 }
 
-function showSection(name, { push = true } = {}) {
+// Called when the bulk rows arrive while a listing opened from a by-id fetch
+// is on screen: moves whatever that row had loaded since (description, photos,
+// sources, ...) onto the bulk row and re-renders, so the detail page now sees
+// the full dataset.
+function swapDetailToBulkRow(id) {
+  if (currentDetailListingId !== id) return;
+  const full = MERGED_LISTINGS.find(x => x.id === id);
+  const prev = LISTING_LOOKUP[id];
+  if (!full || !prev || full === prev) return;
+  Object.keys(prev).forEach(k => { if (full[k] == null || k[0] === '_') full[k] = prev[k]; });
+  delete LISTING_LOOKUP[id];
+  renderListingDetail(full);
+}
+
+function showSection(name, { push = true, scroll = true } = {}) {
   document.querySelectorAll('.page').forEach(el => el.classList.remove('active'));
   document.getElementById('section-' + name).classList.add('active');
   document.querySelectorAll('.nav-item').forEach(el => el.classList.toggle('active', el.dataset.section === name));
@@ -12585,12 +13391,34 @@ function showSection(name, { push = true } = {}) {
     const hash = name === 'home' ? '' : ('#/section/' + name);
     history.pushState({ type: 'section', name }, '', window.location.pathname + window.location.search + hash);
   }
+  if (name === 'leads') {
+    loadAreaIndex();
+    // Deferred a tick so applyCityFilter()/applyTypeFilter()/... - which call
+    // showSection('leads') and then render() themselves - don't fire two
+    // identical page queries; render() sets leadsRendered.
+    setTimeout(() => { if (!leadsRendered) render(); }, 0);
+  }
+  // These sections read every listing, so the full download starts the first
+  // time one is opened (not at page load) - but the section is drawn right
+  // away with whatever it can show without listings (its local data), never
+  // left blank waiting on a download that may fail. Each section marks the
+  // parts that need listings as loading/failed (see listingsPendingHtml()),
+  // #bulkStatus shows progress and a Retry, and when the rows arrive
+  // ensureBulkLoaded() re-runs the active section through this function.
+  if (BULK_SECTIONS.has(name) && !BULK_READY) ensureBulkLoaded().catch(() => {});
   if (name === 'home') {
     renderRecentlyViewedStrip();
   } else if (name === 'market') {
-    if (!marketHubInitialized) { initMarketDataHub(); marketHubInitialized = true; }
+    // The hub is entirely listing-driven: set it up once the rows exist (the
+    // status bar says why it is empty until then).
+    if (!BULK_READY) { /* shell only */ }
+    else if (!marketHubInitialized) { initMarketDataHub(); marketHubInitialized = true; }
     else { renderActiveMarketTab(); }
   } else if (name === 'leadgen') {
+    // Match counts come from the loaded rows: the gallery drawn at startup (or
+    // while loading) shows "…" for them, so repaint once they exist - but not
+    // on every later visit (that would rescan every listing per generator).
+    if (!BULK_READY || !leadgenGalleryDrawnWithData) renderLeadGenGallery();
     renderLeadgenMiniMaps();
   } else if (name === 'dashboard') {
     renderDashboard();
@@ -12613,7 +13441,7 @@ function showSection(name, { push = true } = {}) {
   } else if (name === 'dealcalc') {
     renderDealCalcSection();
   }
-  window.scrollTo({ top: 0, behavior: 'instant' });
+  if (scroll) window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 document.querySelectorAll('.nav-item').forEach(btn => {
@@ -12791,8 +13619,10 @@ document.getElementById('compareModalClearBtn').addEventListener('click', () => 
 // by refetching data, just by re-driving the same render functions that a
 // normal click would.
 function restoreListingState(id, tab) {
-  const merged = MERGED_LISTINGS.find(x => x.id === id);
-  if (!merged) { showSection('leads', { push: false }); return; }
+  const merged = MERGED_LISTINGS.find(x => x.id === id) || LISTING_LOOKUP[id];
+  // Not loaded yet (popstate to a listing before the full download): let
+  // showListingDetail() fetch the row by id.
+  if (!merged) { showListingDetail(id, { push: false, tab }); return; }
   if (currentDetailListingId === id && document.getElementById('section-listing').classList.contains('active')) {
     // Same listing already on screen - just move the tab, in place, rather
     // than re-running showListingDetail() and losing radius/map-layer/BTL
@@ -13725,14 +14555,20 @@ maybeImportSharedLeadGenerator();
 const pipelineListingsReady = refreshPipelineListingsCache();
 
 setGreeting();
-// Fires the primary grid's fast first-paint query immediately (backlog
-// item 6, core slice 2 - see the big comment above loadData()), in
-// parallel with loadData()'s own much larger bulk fetch right below -
-// render() itself checks BULK_READY and routes to the fast/server path
-// for as long as that bulk fetch (or a fresh IndexedDB cache read) hasn't
-// resolved yet.
-render();
-loadData();
+// Startup only fetches what Home shows: the precomputed counts
+// (data/home_stats.json - falls back to the full load if it is unavailable)
+// and the handful of recently viewed rows by id. The full merged_listings
+// download starts on demand (ensureBulkLoaded()), and the Leads grid renders
+// its first server-side page when that section is first opened (showSection()).
+loadHomeStats();
+refreshRecentlyViewedRows();
+const startupListingMatch = location.hash.match(/^#\/listing\/(.+)$/);
+if (startupListingMatch) {
+  showListingDetail(decodeURIComponent(startupListingMatch[1]), {
+    push: false,
+    tab: (history.state && history.state.type === 'listing' && history.state.tab) || 'details',
+  });
+}
 </script>
 
 </body>
