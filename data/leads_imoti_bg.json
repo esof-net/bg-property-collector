@@ -556,7 +556,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 27.4,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -2456,6 +2456,42 @@
     "score": 18
   },
   {
+    "id": "imotibg_515934",
+    "url": "https://imoti.bg/продажби/къща/сливен-област/срадецки-515934.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab2887653819_6ab28968429c3.png",
+    "price_eur": 54000,
+    "sqm": 1360,
+    "area": "с.Радецки",
+    "city": "Сливен област",
+    "title": "Къща, с.Радецки",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "ПРОДАВАМ напълно реновиран имот .\r\n\r\nПредлагам напълно готов за живеене имот в с. Радецки, общ. Нова Загора.\r\n\r\nКъщата е реновирана основно, с направени всички ключови подобрения:\r\n\r\nвъншна топлоизолация\r\n\r\n6‑камерна PVC дограма\r\n\r\nламинат в стаите\r\n\r\nсъвременна баня\r\n\r\nготова кухня, подменена ел. и ВиК инсталация, 2 климатика ,голям\r\n\r\nнавес\r\n\r\nкладенец\r\n\r\nдвор 1360 кв.м - изравнен и засят с детелина (ниска поддръжка, винаги зелен)\r\n\r\nИмотът е поддържан, чист, подреден и готов за нанасяне . Възможен коментар на цената в разумни граници! ВЪЗМОЖНО Е И ЗАМЯНА ЗА ИМОТ РАВНОСТОЕН В ПЛАНИНА КАТО СЕ ПРЕДПОЧИТА ГАБРОВСКИ БАЛКАН. При бърза сделка е възможно договаряне до 49500 €.\r\nСамо сериозни предложения.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 40,
+    "price_history": [
+      {
+        "date": "2026-09-22T18:16:14.653743+00:00",
+        "price_eur": 58000
+      },
+      {
+        "date": "2026-10-14T13:43:40.360558+00:00",
+        "price_eur": 54000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 6.9,
+    "days_on_market": 36,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 26,
+    "pct_vs_area_avg": 50.9,
+    "score": 18
+  },
+  {
     "id": "imotibg_515543",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/кърджали/студен-кладенец-515543.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a68b7adb6542_6a68bb3e1a08f.jpg",
@@ -2789,42 +2825,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
-    "score": 17
-  },
-  {
-    "id": "imotibg_515934",
-    "url": "https://imoti.bg/продажби/къща/сливен-област/срадецки-515934.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab2887653819_6ab28968429c3.png",
-    "price_eur": 54000,
-    "sqm": 1360,
-    "area": "с.Радецки",
-    "city": "Сливен област",
-    "title": "Къща, с.Радецки",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "ПРОДАВАМ напълно реновиран имот .\r\n\r\nПредлагам напълно готов за живеене имот в с. Радецки, общ. Нова Загора.\r\n\r\nКъщата е реновирана основно, с направени всички ключови подобрения:\r\n\r\nвъншна топлоизолация\r\n\r\n6‑камерна PVC дограма\r\n\r\nламинат в стаите\r\n\r\nсъвременна баня\r\n\r\nготова кухня, подменена ел. и ВиК инсталация, 2 климатика ,голям\r\n\r\nнавес\r\n\r\nкладенец\r\n\r\nдвор 1360 кв.м - изравнен и засят с детелина (ниска поддръжка, винаги зелен)\r\n\r\nИмотът е поддържан, чист, подреден и готов за нанасяне . Възможен коментар на цената в разумни граници! ВЪЗМОЖНО Е И ЗАМЯНА ЗА ИМОТ РАВНОСТОЕН В ПЛАНИНА КАТО СЕ ПРЕДПОЧИТА ГАБРОВСКИ БАЛКАН. При бърза сделка е възможно договаряне до 49500 €.\r\nСамо сериозни предложения.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 40,
-    "price_history": [
-      {
-        "date": "2026-09-22T18:16:14.653743+00:00",
-        "price_eur": 58000
-      },
-      {
-        "date": "2026-10-14T13:43:40.360558+00:00",
-        "price_eur": 54000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 6.9,
-    "days_on_market": 35,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 26,
-    "pct_vs_area_avg": 50.9,
     "score": 17
   },
   {
@@ -27148,7 +27148,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 57,
@@ -28776,6 +28776,38 @@
     "score": 4
   },
   {
+    "id": "imotibg_516009",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/добрич/център-516009.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ac10ac4236b9_6ac10bb2b67f6.jpg",
+    "price_eur": 54000,
+    "sqm": 44,
+    "area": "Център",
+    "city": "Добрич",
+    "title": "Едностаен апартамент, Център",
+    "portal": "imoti.bg",
+    "lat": 43.5699059,
+    "lng": 27.8334233,
+    "description": "Едностаен в центъра на Добрич. Южен, среден, саниран, с голяма остъклена тераса, обзаведен, с 5 кв. м таван. Доълнително килер на етажа с право на ползване. Готов за нанасяне или за лек козметичен ремонт.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1227,
+    "price_history": [
+      {
+        "date": "2026-10-03T18:06:23.471173+00:00",
+        "price_eur": 54000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 25,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1253,
+    "pct_vs_area_avg": -2.1,
+    "score": 4
+  },
+  {
     "id": "imotibg_516020",
     "url": "https://imoti.bg/продажби/четиристаен-апартамент/велико-търново/център-516020.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ac3d33d2a5fc_6ac3d4b1a1362.jpg",
@@ -29792,7 +29824,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2186,
@@ -30344,38 +30376,6 @@
     "score": 3
   },
   {
-    "id": "imotibg_516009",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/добрич/център-516009.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ac10ac4236b9_6ac10bb2b67f6.jpg",
-    "price_eur": 54000,
-    "sqm": 44,
-    "area": "Център",
-    "city": "Добрич",
-    "title": "Едностаен апартамент, Център",
-    "portal": "imoti.bg",
-    "lat": 43.5699059,
-    "lng": 27.8334233,
-    "description": "Едностаен в центъра на Добрич. Южен, среден, саниран, с голяма остъклена тераса, обзаведен, с 5 кв. м таван. Доълнително килер на етажа с право на ползване. Готов за нанасяне или за лек козметичен ремонт.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1227,
-    "price_history": [
-      {
-        "date": "2026-10-03T18:06:23.471173+00:00",
-        "price_eur": 54000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 24,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1253,
-    "pct_vs_area_avg": -2.1,
-    "score": 3
-  },
-  {
     "id": "imotibg_516010",
     "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас/ккслънчев-бряг-516010.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ac21896cbe3f_6ac21988bfd46.jpg",
@@ -30432,7 +30432,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1385,
@@ -33312,7 +33312,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1589,
@@ -33344,7 +33344,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 13,
@@ -33376,7 +33376,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1591,
