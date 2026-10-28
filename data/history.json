@@ -160081,7 +160081,17 @@
       "title": "House, 137 м 2 Plovdiv, Komatevo",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-28",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6287138/main_image/thumb_1200x630_wm_main_image_6287138_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_6.jpg"
+      ]
     }
   },
   "6305346": {
@@ -365893,7 +365903,13 @@
       "title": "2 bedroom apartment, 109 м 2 Sofia, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-28",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6248463/main_image/thumb_1200x630_wm_main_image_6248463_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248463/images/thumb_1200x630_wm_images_6248463_2.jpg"
+      ]
     }
   },
   "6289353": {
@@ -511164,7 +511180,11 @@
       "title": "1 bedroom apartment, 70 м 2 Sofia, Zaharna Fabrika",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-28",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6200926": {

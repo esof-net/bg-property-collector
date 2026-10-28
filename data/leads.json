@@ -77320,38 +77320,6 @@
     "score": 15
   },
   {
-    "id": "6287138",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/komatevo/kashta/6287138/?sid=huZFPB&page=175",
-    "photo": "https://www.imoti.net/web/files/obiavi/6287138/main_image/thumb_280x210_main_image_6287138_1.jpg?ver=1790066031",
-    "price_eur": 327000,
-    "sqm": 137,
-    "area": "Komatevo",
-    "city": "Пловдив",
-    "title": "House, 137 м 2 Plovdiv, Komatevo",
-    "portal": "imoti.net",
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 2387,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 339000
-      },
-      {
-        "date": "2026-09-18T05:39:23.185228+00:00",
-        "price_eur": 327000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 3.5,
-    "days_on_market": 27,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T10:42:15.510956+00:00",
-    "area_avg_price_per_sqm": 1098,
-    "pct_vs_area_avg": 117.5,
-    "score": 15
-  },
-  {
     "id": "6231476",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/cveten/chetiristaen/6231476/?sid=hOOTsy&page=1",
     "photo": "https://www.imoti.net/web/files/obiavi/6231476/main_image/thumb_280x210_100.jpg?ver=1793070506",
@@ -127435,6 +127403,48 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2110,
     "pct_vs_area_avg": -30.9,
+    "score": 12
+  },
+  {
+    "id": "6287138",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/komatevo/kashta/6287138/?sid=huZFPB&page=175",
+    "photo": "https://www.imoti.net/web/files/obiavi/6287138/main_image/thumb_280x210_main_image_6287138_1.jpg?ver=1790066031",
+    "price_eur": 327000,
+    "sqm": 137,
+    "area": "Komatevo",
+    "city": "Пловдив",
+    "title": "House, 137 м 2 Plovdiv, Komatevo",
+    "portal": "imoti.net",
+    "category": "house",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-28",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6287138/main_image/thumb_1200x630_wm_main_image_6287138_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6287138/images/thumb_1200x630_wm_images_6287138_6.jpg"
+    ],
+    "price_per_sqm": 2387,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 339000
+      },
+      {
+        "date": "2026-09-18T05:39:23.185228+00:00",
+        "price_eur": 327000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 3.5,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T10:42:15.510956+00:00",
+    "area_avg_price_per_sqm": 1098,
+    "pct_vs_area_avg": 117.5,
     "score": 12
   },
   {
@@ -178168,34 +178178,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1563,
     "pct_vs_area_avg": -16.7,
-    "score": 10
-  },
-  {
-    "id": "6255481",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/zaharna-fabrika/dvustaen/6255481/?sid=icNBCK&page=37",
-    "photo": "https://www.imoti.net/web/files/obiavi/6255481/main_image/thumb_280x210_viber-izobrajenie-2026-05-14-11-50-24-333.jpg?ver=1790089330",
-    "price_eur": 141000,
-    "sqm": 70,
-    "area": "Zaharna Fabrika",
-    "city": "София",
-    "title": "1 bedroom apartment, 70 м 2 Sofia, Zaharna Fabrika",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2014,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 141000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 31,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T17:27:37.267664+00:00",
-    "area_avg_price_per_sqm": 2456,
-    "pct_vs_area_avg": -18.0,
     "score": 10
   },
   {
@@ -278031,34 +278013,6 @@
     "score": 7
   },
   {
-    "id": "6248463",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/mladost-4/tristaen/6248463/?sid=icNBCK&page=194",
-    "photo": "https://www.imoti.net/web/files/obiavi/6248463/main_image/thumb_280x210_main_image_6248463_1.jpg?ver=1790065560",
-    "price_eur": 256768,
-    "sqm": 109,
-    "area": "Mladost",
-    "city": "София",
-    "title": "2 bedroom apartment, 109 м 2 Sofia, Mladost",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2356,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 256768
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 30,
-    "source_status": "removed",
-    "removed_at": "2026-09-22T10:42:15.510956+00:00",
-    "area_avg_price_per_sqm": 2649,
-    "pct_vs_area_avg": -11.1,
-    "score": 7
-  },
-  {
     "id": "6252266",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/manastirski-livadi/garaj/6252266/?sid=icNBCK&page=13",
     "photo": "https://www.imoti.net/web/files/obiavi/6252266/main_image/thumb_280x210_main_image_6252266_1.jpg?ver=1792984007",
@@ -285768,6 +285722,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1331,
     "pct_vs_area_avg": -90.7,
+    "score": 7
+  },
+  {
+    "id": "6255481",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/zaharna-fabrika/dvustaen/6255481/?sid=icNBCK&page=37",
+    "photo": "https://www.imoti.net/web/files/obiavi/6255481/main_image/thumb_280x210_viber-izobrajenie-2026-05-14-11-50-24-333.jpg?ver=1790089330",
+    "price_eur": 141000,
+    "sqm": 70,
+    "area": "Zaharna Fabrika",
+    "city": "София",
+    "title": "1 bedroom apartment, 70 м 2 Sofia, Zaharna Fabrika",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-28",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2014,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 141000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T17:27:37.267664+00:00",
+    "area_avg_price_per_sqm": 2456,
+    "pct_vs_area_avg": -18.0,
     "score": 7
   },
   {
@@ -462059,6 +462045,40 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 2030,
     "pct_vs_area_avg": 24.0,
+    "score": 4
+  },
+  {
+    "id": "6248463",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/mladost-4/tristaen/6248463/?sid=icNBCK&page=194",
+    "photo": "https://www.imoti.net/web/files/obiavi/6248463/main_image/thumb_280x210_main_image_6248463_1.jpg?ver=1790065560",
+    "price_eur": 256768,
+    "sqm": 109,
+    "area": "Mladost",
+    "city": "София",
+    "title": "2 bedroom apartment, 109 м 2 Sofia, Mladost",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-28",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6248463/main_image/thumb_1200x630_wm_main_image_6248463_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248463/images/thumb_1200x630_wm_images_6248463_2.jpg"
+    ],
+    "price_per_sqm": 2356,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 256768
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-22T10:42:15.510956+00:00",
+    "area_avg_price_per_sqm": 2649,
+    "pct_vs_area_avg": -11.1,
     "score": 4
   },
   {
