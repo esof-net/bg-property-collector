@@ -4887,7 +4887,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 19,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": 1976,
     "pct_vs_area_avg": -30.7,
     "score": 14
@@ -8011,7 +8011,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 7025,
     "pct_vs_area_avg": -17.0,
     "score": 9
@@ -81770,7 +81770,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 7025,
     "pct_vs_area_avg": -97.8,
     "score": 3
@@ -86714,6 +86714,38 @@
     "score": 3
   },
   {
+    "id": "bcpea_92998",
+    "url": "https://sales.bcpea.org/properties/92998",
+    "photo": null,
+    "price_eur": 5294,
+    "sqm": 590,
+    "area": "Детелина",
+    "title": "Парцел с къща, Детелина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-08T18:57:00+00:00",
+    "category": "land",
+    "_settlement": "Детелина",
+    "lat": null,
+    "lng": null,
+    "description": "1/2 /една втора/ идеални части от НЕДВИЖИМ ИМОТ находящ се в село Детелина, община Карнобат, област Бургас, а именно: 1180/ 1400 ид.части кв.метра /хиляда сто и осемдесет върху хиляда и четиристотин идеални части квадратни метра/ от ДВОРНО МЯСТО с площ от 1400 кв.метра /хиляда и четиристотин квадратни метра/, образуващо УПИ / урегулиран поземлен имот IV-71/ четвърти за планоснимачен номер седемдесет и първи/, в квартал 9 /девети/, съгласно действащия застроителен и регулационен /подробен устройствен/ план на село Детелина, при граници : изток-улица, запад-УПИ III-71 /трети за пл. № 71/ , север- улица, юг- УПИ V-725 /пети за пл. № 72/, заедно с построената в това дворно място МАСИВНА ЖИЛИЩНА СГРАДА със застроена площ 52,00 кв.метра /петдесет и два/ и избено помещение с полезна площ 10,00 кв.метра, както и всички подобрения в имота.",
+    "detail_checked": true,
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-10-09T01:39:53.122597+00:00",
+        "price_eur": 5294
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
     "id": "bcpea_91601",
     "url": "https://sales.bcpea.org/properties/91601",
     "photo": null,
@@ -87778,38 +87810,6 @@
       {
         "date": "2026-10-09T01:39:53.122597+00:00",
         "price_eur": 104000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_92998",
-    "url": "https://sales.bcpea.org/properties/92998",
-    "photo": null,
-    "price_eur": 5294,
-    "sqm": 590,
-    "area": "Детелина",
-    "title": "Парцел с къща, Детелина",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-08T18:57:00+00:00",
-    "category": "land",
-    "_settlement": "Детелина",
-    "lat": null,
-    "lng": null,
-    "description": "1/2 /една втора/ идеални части от НЕДВИЖИМ ИМОТ находящ се в село Детелина, община Карнобат, област Бургас, а именно: 1180/ 1400 ид.части кв.метра /хиляда сто и осемдесет върху хиляда и четиристотин идеални части квадратни метра/ от ДВОРНО МЯСТО с площ от 1400 кв.метра /хиляда и четиристотин квадратни метра/, образуващо УПИ / урегулиран поземлен имот IV-71/ четвърти за планоснимачен номер седемдесет и първи/, в квартал 9 /девети/, съгласно действащия застроителен и регулационен /подробен устройствен/ план на село Детелина, при граници : изток-улица, запад-УПИ III-71 /трети за пл. № 71/ , север- улица, юг- УПИ V-725 /пети за пл. № 72/, заедно с построената в това дворно място МАСИВНА ЖИЛИЩНА СГРАДА със застроена площ 52,00 кв.метра /петдесет и два/ и избено помещение с полезна площ 10,00 кв.метра, както и всички подобрения в имота.",
-    "detail_checked": true,
-    "price_per_sqm": 9,
-    "price_history": [
-      {
-        "date": "2026-10-09T01:39:53.122597+00:00",
-        "price_eur": 5294
       }
     ],
     "price_drop_count": 0,
@@ -97257,7 +97257,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
