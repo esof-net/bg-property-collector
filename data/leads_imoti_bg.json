@@ -592,7 +592,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 27.4,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -2660,7 +2660,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 6.9,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
@@ -27228,7 +27228,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 57,
@@ -28712,6 +28712,38 @@
     "score": 4
   },
   {
+    "id": "imotibg_515971",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/враждебна-515971.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab918a9822a1_6ab91d5edc25d.jpg",
+    "price_eur": 191491,
+    "sqm": 67,
+    "area": "Враждебна",
+    "city": "София",
+    "title": "Двустаен апартамент, Враждебна",
+    "portal": "imoti.bg",
+    "lat": 42.6955647,
+    "lng": 23.4142083,
+    "description": "Продава се двустаен апартамент в бутикова сграда на ул. „Никола Крушки Чолака“ 18, София. Сградата се намира срещу продължението на Южния парк, район 4, на около 10–15 минути пеша от Paradise Center и метростанция „Витоша“.\r\n\r\nАпартаментът е на 3-ти етаж от 4, със северно изложение и обща площ 67,19 кв.м, от които 60,63 кв.м идеални части. Разпределението включва входно антре с коридор, дневна, спалня, баня с тоалетна и тераса. Предвидено е подово отопление.\r\n\r\nИмотът е на етап груб строеж, преди Акт 14. Очакваното разрешение за ползване е през януари 2027 г.\r\n\r\nЦена: 191 491 € (2 850 €/кв.м).\r\n\r\nИма възможност за закупуване на подземен гараж с площ 25 кв.м на цена 49 000 €. Гаражът не е задължителен към апартамента.\r\n\r\nЗа информация и оглед: Юлиана Костова — 0886 616 333",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2858,
+    "price_history": [
+      {
+        "date": "2026-09-27T18:48:06.103955+00:00",
+        "price_eur": 191491
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 32,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2186,
+    "pct_vs_area_avg": 30.8,
+    "score": 4
+  },
+  {
     "id": "imotibg_515984",
     "url": "https://imoti.bg/продажби/къща/софия-област/салдомировци-515984.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6abbc77466603_6abbc8d2ed011.jpeg",
@@ -29168,7 +29200,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1253,
@@ -30008,38 +30040,6 @@
     "score": 3
   },
   {
-    "id": "imotibg_515971",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/враждебна-515971.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab918a9822a1_6ab91d5edc25d.jpg",
-    "price_eur": 191491,
-    "sqm": 67,
-    "area": "Враждебна",
-    "city": "София",
-    "title": "Двустаен апартамент, Враждебна",
-    "portal": "imoti.bg",
-    "lat": 42.6955647,
-    "lng": 23.4142083,
-    "description": "Продава се двустаен апартамент в бутикова сграда на ул. „Никола Крушки Чолака“ 18, София. Сградата се намира срещу продължението на Южния парк, район 4, на около 10–15 минути пеша от Paradise Center и метростанция „Витоша“.\r\n\r\nАпартаментът е на 3-ти етаж от 4, със северно изложение и обща площ 67,19 кв.м, от които 60,63 кв.м идеални части. Разпределението включва входно антре с коридор, дневна, спалня, баня с тоалетна и тераса. Предвидено е подово отопление.\r\n\r\nИмотът е на етап груб строеж, преди Акт 14. Очакваното разрешение за ползване е през януари 2027 г.\r\n\r\nЦена: 191 491 € (2 850 €/кв.м).\r\n\r\nИма възможност за закупуване на подземен гараж с площ 25 кв.м на цена 49 000 €. Гаражът не е задължителен към апартамента.\r\n\r\nЗа информация и оглед: Юлиана Костова — 0886 616 333",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2858,
-    "price_history": [
-      {
-        "date": "2026-09-27T18:48:06.103955+00:00",
-        "price_eur": 191491
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 31,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2186,
-    "pct_vs_area_avg": 30.8,
-    "score": 3
-  },
-  {
     "id": "imotibg_515973",
     "url": "https://imoti.bg/продажби/парцел/пазарджик-област/спаталеница-515973.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aba09d8580ca_6aba0a3ea9168.jpeg",
@@ -30384,7 +30384,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1385,
@@ -32984,6 +32984,70 @@
     "score": 2
   },
   {
+    "id": "imotibg_270659",
+    "url": "https://imoti.bg/продажби/търговско-помещение/варна/младост-270659.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ad0d15ec48d2_6ad0d15ec7347.jpg",
+    "price_eur": 995000,
+    "sqm": 480,
+    "area": "Младост",
+    "city": "Варна",
+    "title": "Търговско помещение, Младост",
+    "portal": "imoti.bg",
+    "lat": 43.2240158,
+    "lng": 27.8866856,
+    "description": "Помещение на партерно ниво със застроена площ 421кв.м. в сграда с разрешение за експлоатация /Акт 16/.Състои  се от просторна зала  осигуряващи дневна светлина.Изложение изток,юг,запад.\r\nКъм помещението има две санитарни помещения.Височината е 3,40 м..\r\nИмота се намира в сграда с  магазини , аптеки, лекарски кабинети , мед.център и др.\r\nОфиса се издава по БДС.",
+    "site_posted_at": null,
+    "category": "shop",
+    "category_confidence": "low",
+    "price_per_sqm": 2073,
+    "price_history": [
+      {
+        "date": "2026-10-15T18:41:08.183236+00:00",
+        "price_eur": 995000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 14,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1589,
+    "pct_vs_area_avg": 30.5,
+    "score": 2
+  },
+  {
+    "id": "imotibg_516092",
+    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/скалугерово-516092.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ad0e430cc0f6_6ad0e4934fd36.jpg",
+    "price_eur": 277069,
+    "sqm": 21313,
+    "area": "с.Калугерово",
+    "city": "Пазарджик област",
+    "title": "Парцел, с.Калугерово",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Два  поземлени имота, бивша машинна станция 13380 кв.м. и 7933 кв.м., общо 21 313 кв.м. Парцелите са съседни  граничещи с река  и със  възможност за обединяване при необходимост.\r\nКатегория на земята: 0\r\nЦена 13 € кв.м. Не се дължи ДДС.\r\nИмотът се намира   на изключително стратегическо място –  с. Калугерово, обл. Пазарджикна, на автомагистрала „Тракия“,  на 80 км от София и 60 км от Пловдив, само  на  минути от АМ „Тракия“ – бърза връзка за София, Пловдив, Бургас и границата с Турция.\r\nПодходящ за всякакво промишлено строителство, логистична база, автокъща, търговско представителство, инвестиция, соларен парк.\r\nОт собственик, 0876555815",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 13,
+    "price_history": [
+      {
+        "date": "2026-10-15T18:41:08.183236+00:00",
+        "price_eur": 277069
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 14,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 13,
+    "pct_vs_area_avg": 0.0,
+    "score": 2
+  },
+  {
     "id": "imotibg_157121",
     "url": "https://imoti.bg/продажби/парцел/варна/галата-157121.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_626049b087b7a_626049b088f34.jpg",
@@ -33336,70 +33400,6 @@
     "score": 1
   },
   {
-    "id": "imotibg_270659",
-    "url": "https://imoti.bg/продажби/търговско-помещение/варна/младост-270659.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ad0d15ec48d2_6ad0d15ec7347.jpg",
-    "price_eur": 995000,
-    "sqm": 480,
-    "area": "Младост",
-    "city": "Варна",
-    "title": "Търговско помещение, Младост",
-    "portal": "imoti.bg",
-    "lat": 43.2240158,
-    "lng": 27.8866856,
-    "description": "Помещение на партерно ниво със застроена площ 421кв.м. в сграда с разрешение за експлоатация /Акт 16/.Състои  се от просторна зала  осигуряващи дневна светлина.Изложение изток,юг,запад.\r\nКъм помещението има две санитарни помещения.Височината е 3,40 м..\r\nИмота се намира в сграда с  магазини , аптеки, лекарски кабинети , мед.център и др.\r\nОфиса се издава по БДС.",
-    "site_posted_at": null,
-    "category": "shop",
-    "category_confidence": "low",
-    "price_per_sqm": 2073,
-    "price_history": [
-      {
-        "date": "2026-10-15T18:41:08.183236+00:00",
-        "price_eur": 995000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 13,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 30.5,
-    "score": 1
-  },
-  {
-    "id": "imotibg_516092",
-    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/скалугерово-516092.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ad0e430cc0f6_6ad0e4934fd36.jpg",
-    "price_eur": 277069,
-    "sqm": 21313,
-    "area": "с.Калугерово",
-    "city": "Пазарджик област",
-    "title": "Парцел, с.Калугерово",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Два  поземлени имота, бивша машинна станция 13380 кв.м. и 7933 кв.м., общо 21 313 кв.м. Парцелите са съседни  граничещи с река  и със  възможност за обединяване при необходимост.\r\nКатегория на земята: 0\r\nЦена 13 € кв.м. Не се дължи ДДС.\r\nИмотът се намира   на изключително стратегическо място –  с. Калугерово, обл. Пазарджикна, на автомагистрала „Тракия“,  на 80 км от София и 60 км от Пловдив, само  на  минути от АМ „Тракия“ – бърза връзка за София, Пловдив, Бургас и границата с Турция.\r\nПодходящ за всякакво промишлено строителство, логистична база, автокъща, търговско представителство, инвестиция, соларен парк.\r\nОт собственик, 0876555815",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 13,
-    "price_history": [
-      {
-        "date": "2026-10-15T18:41:08.183236+00:00",
-        "price_eur": 277069
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 13,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 13,
-    "pct_vs_area_avg": 0.0,
-    "score": 1
-  },
-  {
     "id": "imotibg_267833",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/аспарухово-267833.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ad1e44a670e6_6ad1e44a7fed4.jpg",
@@ -33456,7 +33456,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1591,
