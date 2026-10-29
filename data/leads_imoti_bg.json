@@ -32,7 +32,7 @@
     ],
     "price_drop_count": 2,
     "drop_pct": 22.1,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3836,
@@ -264,7 +264,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 17.5,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 823,
@@ -376,7 +376,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 20.1,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2051,
@@ -1648,7 +1648,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 2.4,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3205,
@@ -2016,7 +2016,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3836,
@@ -3024,7 +3024,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 3.2,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3741,
@@ -3412,7 +3412,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3238,
@@ -3604,7 +3604,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3836,
@@ -3764,7 +3764,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3238,
@@ -4120,7 +4120,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3238,
@@ -4840,7 +4840,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": -3.2,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2245,
@@ -4872,7 +4872,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3027,
@@ -5296,7 +5296,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3238,
@@ -5392,7 +5392,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 5068,
@@ -5680,7 +5680,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2245,
@@ -5880,6 +5880,38 @@
     "score": 10
   },
   {
+    "id": "imotibg_513847",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/борово-513847.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69304bad4e45f_69304bf8cf458.jpg",
+    "price_eur": 165000,
+    "sqm": 61,
+    "area": "Борово",
+    "city": "София",
+    "title": "Двустаен апартамент, Борово",
+    "portal": "imoti.bg",
+    "lat": 42.668776,
+    "lng": 23.2892574,
+    "description": "Предлагаме за продажба двустаен апартамент в поддържана сграда. Жилището е с южно изложение и се състои от коридор, кухня, хол, самостоятелна стая, баня и две тераси. Възможност за преустройство. За ремонт. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1614176",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2705,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 165000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2858,
+    "pct_vs_area_avg": -5.3,
+    "score": 10
+  },
+  {
     "id": "imotibg_101652",
     "url": "https://imoti.bg/продажби/офис/варна/идеален-център-101652.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_627a3dfc1584f_627a3dfc179bd.jpg",
@@ -5936,7 +5968,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2245,
@@ -6000,7 +6032,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2858,
@@ -6102,6 +6134,38 @@
     "area_avg_price_per_sqm": 1674,
     "pct_vs_area_avg": -25.3,
     "score": 10
+  },
+  {
+    "id": "imotibg_514016",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/гоце-делчев-514016.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_695fadb8d3348_695fadf7e40e2.jpg",
+    "price_eur": 245000,
+    "sqm": 76,
+    "area": "Гоце Делчев",
+    "city": "София",
+    "title": "Тристаен апартамент, Гоце Делчев",
+    "portal": "imoti.bg",
+    "lat": 42.6879161,
+    "lng": 23.3380531,
+    "description": "Предлагаме слънчев тристаен апартамент в близост до парк, търговски обекти, удобни транспортни връзки. Поддържана сграда. Жилището се състои от коридор, кухня, хол с преход към една стая, втора самостоятелна стая, баня с тоалетна, килер и две тераси. Нуждае се от ремонт. Прилежащо мазе. Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1699408",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3224,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 245000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3311,
+    "pct_vs_area_avg": -2.6,
+    "score": 9
   },
   {
     "id": "imotibg_513909",
@@ -6360,38 +6424,6 @@
     "score": 9
   },
   {
-    "id": "imotibg_513847",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/борово-513847.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69304bad4e45f_69304bf8cf458.jpg",
-    "price_eur": 165000,
-    "sqm": 61,
-    "area": "Борово",
-    "city": "София",
-    "title": "Двустаен апартамент, Борово",
-    "portal": "imoti.bg",
-    "lat": 42.668776,
-    "lng": 23.2892574,
-    "description": "Предлагаме за продажба двустаен апартамент в поддържана сграда. Жилището е с южно изложение и се състои от коридор, кухня, хол, самостоятелна стая, баня и две тераси. Възможност за преустройство. За ремонт. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1614176",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2705,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 165000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2858,
-    "pct_vs_area_avg": -5.3,
-    "score": 9
-  },
-  {
     "id": "imotibg_270139",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/трошево-270139.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aa40692999a7_6aa406929f67c.jpg",
@@ -6544,7 +6576,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2129,
@@ -6576,7 +6608,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3836,
@@ -6710,6 +6742,38 @@
     "area_avg_price_per_sqm": 2356,
     "pct_vs_area_avg": -20.3,
     "score": 9
+  },
+  {
+    "id": "imotibg_514182",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/дружба-2-514182.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_697fc79a669e2_697fc8781a143.jpg",
+    "price_eur": 120000,
+    "sqm": 45,
+    "area": "Дружба 2",
+    "city": "София",
+    "title": "Едностаен апартамент, Дружба 2",
+    "portal": "imoti.bg",
+    "lat": 42.6484263,
+    "lng": 23.4077938,
+    "description": "Изключително комуникативна локация, разположена в непосредствена близост до вече изграден модерен комплекс в ж.к. Дружба 2, на ул. „Обиколна“. Районът се отличава с бърз достъп, отлична инфраструктура и нарастващ интерес, което го прави отличен избор както за лично ползване, така и за инвестиция.\r\n\r\n\r\n\r\n???? За повече информация и огледи – свържете се с мен на: 088 274 25 86",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2667,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 120000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2667,
+    "pct_vs_area_avg": 0.0,
+    "score": 8
   },
   {
     "id": "imotibg_514274",
@@ -6904,38 +6968,6 @@
     "score": 8
   },
   {
-    "id": "imotibg_514016",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/гоце-делчев-514016.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_695fadb8d3348_695fadf7e40e2.jpg",
-    "price_eur": 245000,
-    "sqm": 76,
-    "area": "Гоце Делчев",
-    "city": "София",
-    "title": "Тристаен апартамент, Гоце Делчев",
-    "portal": "imoti.bg",
-    "lat": 42.6879161,
-    "lng": 23.3380531,
-    "description": "Предлагаме слънчев тристаен апартамент в близост до парк, търговски обекти, удобни транспортни връзки. Поддържана сграда. Жилището се състои от коридор, кухня, хол с преход към една стая, втора самостоятелна стая, баня с тоалетна, килер и две тераси. Нуждае се от ремонт. Прилежащо мазе. Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1699408",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3224,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 245000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3311,
-    "pct_vs_area_avg": -2.6,
-    "score": 8
-  },
-  {
     "id": "imotibg_513929",
     "url": "https://imoti.bg/продажби/парцел/пловдив/индустриална-зона-юг-513929.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6944096d4988c_69440bb26e5ea.jpg",
@@ -7033,6 +7065,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 8
+  },
+  {
+    "id": "imotibg_515353",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-3-515353.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a4e7c1c60aa8_6a4e7c9f72116.jpg",
+    "price_eur": 179700,
+    "sqm": 95,
+    "area": "Люлин 3",
+    "city": "София",
+    "title": "Тристаен апартамент, Люлин 3",
+    "portal": "imoti.bg",
+    "lat": 42.7206956,
+    "lng": 23.529316,
+    "description": "ОТЛИЧЕН. ПРОСТОРЕН. ЕПК. ДО МЕТРО. СТРАХОТНА ПАНОРАМА!\r\nСъстои се от :\r\nКухня\r\nГолям хол\r\nДве спални\r\nДва балкона, единия е 11кв.м с излаз от хола и трапезарията и още един- 4кв.м. с излаз от едната спалня.\r\nБаня с тоалетна ,отделно тоалетна\r\nТаванско помещение.\r\nАпартамента е обзаведен, има и пиано.\r\nПросторно и слънчево жилище. Панорама...\r\nНамира се на много комуникативно място...0878648872, 0888085007",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1892,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 179700
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1892,
+    "pct_vs_area_avg": 0.0,
     "score": 8
   },
   {
@@ -7260,6 +7324,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_515583",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/зона-б-19-515583.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a6ee45346b08_6a6ee5d536174.png",
+    "price_eur": 369900,
+    "sqm": 137,
+    "area": "Зона Б 19",
+    "city": "София",
+    "title": "Тристаен апартамент, Зона Б 19",
+    "portal": "imoti.bg",
+    "lat": 42.6980072,
+    "lng": 23.2990189,
+    "description": "Гр София Продава се Тристаен апартамент 137 м2 в етап на стоеж от доказан строителен предприемач с над 30 г опит в строителството! Апартамента се намира до спирката на метрото 'Константин Величков' с отлично разпределение в нова сграда /висок клас на изпълнение/. Ново тухлено жилище състоящо се от входно антре с просторна дневна с кухненски бокс и трапезарна част, две хубави спални 2 бани с тоалетна, склад и тераса подходящ за отдих в летните вечери. Жилището се продава на шпакловка и замазка, но има възможност да бъде и завъшено до ключ,от фирмата . Сградата е с модерна визия, разполага с безшумен асансьор и луксозни общи части и с 3 апартамента на етаж. Отопление Тец . Към апартамента има възможност за закопуване на гараж или паркомясто Района е изключително комуникативен, улицата е тиха с излаз на бул Стамболийски и бул Тодор Александров ,на 200 м. спирка на метрото, пазар 'Димитър Петков', множество магазини, училища, детски градини, пешеходно разстояние до МОЛ София.и църквата Света Неделя \r\nсграда нова е тухлена \r\n\r\nлуксозни общи части\r\n\r\nвисок клас на изпълнение\r\n\r\nбутиково строителство\r\nметростанция 'Константин Величков' \r\n\r\nпазар 'Димитър Петков \r\n\r\nпешеходно разстояние МОЛ София\r\n\r\nвъзможност за довършителни дейности на апартамента от строителя по желание на бъдещите собственици цената на имота е 369900",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2700,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 369900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2700,
+    "pct_vs_area_avg": 0.0,
+    "score": 8
+  },
+  {
     "id": "imotibg_515469",
     "url": "https://imoti.bg/продажби/парцел/софия-област/грнови-искър-515469.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a5ced481ee51_6a5cede7f0824.jpg",
@@ -7353,6 +7449,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514967",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/лагера-514967.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a0af99727ecf_6a0af9d6140df.jpg",
+    "price_eur": 170000,
+    "sqm": 44,
+    "area": "Лагера",
+    "city": "София",
+    "title": "Едностаен апартамент, Лагера",
+    "portal": "imoti.bg",
+    "lat": 42.5116283,
+    "lng": 23.3646251,
+    "description": "Предлагаме едностаен апартамент на тихо място. Поддържана сграда. Жилището е с южно изложение и се състои от коридор, кухня, стая, баня и тераса. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1845591",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3864,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 170000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3205,
+    "pct_vs_area_avg": 20.5,
     "score": 8
   },
   {
@@ -7832,7 +7960,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2858,
@@ -8324,6 +8452,70 @@
     "score": 8
   },
   {
+    "id": "imotibg_514730",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/манастирски-ливади-514730.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69df9255ef08d_69df929887426.jpg",
+    "price_eur": 280000,
+    "sqm": 62,
+    "area": "Манастирски Ливади",
+    "city": "София",
+    "title": "Двустаен апартамент, Манастирски Ливади",
+    "portal": "imoti.bg",
+    "lat": 42.6616709,
+    "lng": 23.2795633,
+    "description": "Предлагаме двустаен апартамент в близост търговски обекти, удобни транспортни комуникации. Нова газифицирана сграда с акт 16. Жилището е със застроена площ 53 кв.м и се състои от дневна с кухненска част, стая, баня, мокро помещение и тераса. Продава се с наличното поръчково обзавеждане. Възможност за допълнително закупуване на подземно паркомясто 40 000е. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1761639",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 4516,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 280000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3238,
+    "pct_vs_area_avg": 39.5,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514725",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бели-брези-514725.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69df6c326781c_69df6c60b042e.jpg",
+    "price_eur": 299000,
+    "sqm": 88,
+    "area": "Бели Брези",
+    "city": "София",
+    "title": "Двустаен апартамент, Бели Брези",
+    "portal": "imoti.bg",
+    "lat": 42.6774558,
+    "lng": 23.2910815,
+    "description": "Двустаен апартамент в район с ежедневни удобства. Нова сграда. Жилището се състои от коридор, дневна с кухненска част, стая, баня и тераса. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1541897",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3398,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 299000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3027,
+    "pct_vs_area_avg": 12.3,
+    "score": 8
+  },
+  {
     "id": "imotibg_514347",
     "url": "https://imoti.bg/продажби/парцел/благоевград/струмско-514347.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_699ac37c69279_699ac6859afb1.jpg",
@@ -8548,6 +8740,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_514728",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/център-514728.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69df85a8b95bf_69df8676b0f1c.jpg",
+    "price_eur": 355000,
+    "sqm": 70,
+    "area": "Център",
+    "city": "София",
+    "title": "Двустаен апартамент, Център",
+    "portal": "imoti.bg",
+    "lat": 42.69679,
+    "lng": 23.3208549,
+    "description": "Жилището е след основен дизайнерски луксозен ремонт с висококачествени материали. След ремонта в жилището не е живяно изобщо. В топ центъра на София, ул. Стефан Караджа до Гранд хотел София и Народния театър. 67 м2, преходен, две входни врати на жилището, кухненски остров с барплот, ет. 5 от 6, Тец, асансьор. Жилището разполага с мазе и таван. Само за крайни клиенти. Разполагаме с ключ !!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 5071,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 355000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3836,
+    "pct_vs_area_avg": 32.2,
+    "score": 8
+  },
+  {
     "id": "imotibg_515535",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/младост-515535.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a68a931308fe_6a68a9e5f026e.png",
@@ -8612,6 +8836,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_513236",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/манастирски-ливади-513236.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_68cd5e901e7f0_68cd5eca5b5d7.jpg",
+    "price_eur": 429000,
+    "sqm": 112,
+    "area": "Манастирски Ливади",
+    "city": "София",
+    "title": "Тристаен апартамент, Манастирски Ливади",
+    "portal": "imoti.bg",
+    "lat": 42.6616709,
+    "lng": 23.2795633,
+    "description": "Предлагаме тристаен апартамент в нова кооперация с двор. Жилището е със застроена площ 100 кв.м и се състои от коридор, просторен хол с кухненски бокс, две стаи, баня с тоалетна, тоалетна и три тераси. Продава се с обзавеждане. Прилежащо мазе. Възможност за покупка на подземно паркомясто. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1059232",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3830,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 429000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3238,
+    "pct_vs_area_avg": 18.3,
+    "score": 8
+  },
+  {
     "id": "imotibg_513920",
     "url": "https://imoti.bg/продажби/парцел/пловдив-област/скрумово-513920.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6942ab364fee3_6942ab74367dc.jpg",
@@ -8673,6 +8929,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 3340,
     "pct_vs_area_avg": -99.6,
+    "score": 8
+  },
+  {
+    "id": "imotibg_512571",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/гоце-делчев-512571.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_686bd04d650cf_686bd094095d4.jpg",
+    "price_eur": 190000,
+    "sqm": 57,
+    "area": "Гоце Делчев",
+    "city": "София",
+    "title": "Двустаен апартамент, Гоце Делчев",
+    "portal": "imoti.bg",
+    "lat": 42.6879161,
+    "lng": 23.3380531,
+    "description": "Предлагаме двустаен апартамент в близост удобни транспортни комуникации, търговски обекти, парк. Поддържани общи части. Жилището се състои от коридор, кухня, две стаи, баня с тоалетна, складово помещение и тераса. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1225254",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3333,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 190000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3311,
+    "pct_vs_area_avg": 0.7,
     "score": 8
   },
   {
@@ -8804,6 +9092,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_515341",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/витоша-515341.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a4d395ba7fd5_6a4d3a5b27559.jpg",
+    "price_eur": 229900,
+    "sqm": 82,
+    "area": "Витоша",
+    "city": "София",
+    "title": "Тристаен апартамент, Витоша",
+    "portal": "imoti.bg",
+    "lat": 42.6167377,
+    "lng": 23.2742293,
+    "description": "3-стаен апартамент със 104 кв.м собствен двор + гараж | Интериорен проект | Без посредник\r\n\r\nДом с усещане за къща, създаден с мисъл за бъдещето.\r\n\r\nПродаваме директно от собственик тристаен апартамент с 104,16 кв.м собствен двор и самостоятелен гараж в бутиковия комплекс „Семирамида – Витоша“.\r\nТова не е просто покупка",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2804,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 229900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2804,
+    "pct_vs_area_avg": 0.0,
+    "score": 8
+  },
+  {
     "id": "imotibg_514201",
     "url": "https://imoti.bg/продажби/заведение/софия/център-514201.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -8833,6 +9153,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 3836,
     "pct_vs_area_avg": -96.1,
+    "score": 8
+  },
+  {
+    "id": "imotibg_515165",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-515165.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a2ffc3a52ad0_6a2ffc70c023d.jpg",
+    "price_eur": 180000,
+    "sqm": 74,
+    "area": "Овча Купел",
+    "city": "София",
+    "title": "Двустаен апартамент, Овча Купел",
+    "portal": "imoti.bg",
+    "lat": 42.6774732,
+    "lng": 23.2052117,
+    "description": "Двустаен апартамент в нова сграда с акт 16. Намира се в близост до НБУ и ежедневни удобства. Предлаганият имот е със застроена площ 59.92 кв.м и се състои от коридор, дневна с кухненска част, стая, баня и тераса. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1476557",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2432,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 180000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2245,
+    "pct_vs_area_avg": 8.3,
     "score": 8
   },
   {
@@ -9284,6 +9636,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_514700",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/хаджи-димитър-514700.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69db4e1648af3_69db4f77c2a18.jpg",
+    "price_eur": 145000,
+    "sqm": 65,
+    "area": "Хаджи Димитър",
+    "city": "София",
+    "title": "Двустаен апартамент, Хаджи Димитър",
+    "portal": "imoti.bg",
+    "lat": 42.7025457,
+    "lng": 23.3522642,
+    "description": "Продавам двустаен апартамент в град София",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2231,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 145000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2231,
+    "pct_vs_area_avg": 0.0,
+    "score": 8
+  },
+  {
     "id": "imotibg_514848",
     "url": "https://imoti.bg/продажби/парцел/софия-област/спетърч-514848.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -9540,6 +9924,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_512896",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/център-512896.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6893704fa6c84_6893708e09750.jpg",
+    "price_eur": 440000,
+    "sqm": 85,
+    "area": "Център",
+    "city": "София",
+    "title": "Двустаен апартамент, Център",
+    "portal": "imoti.bg",
+    "lat": 42.69679,
+    "lng": 23.3208549,
+    "description": "Двустаен южен апартамент до НДК. Самостоятелен на етаж първи над партер в поддържана сграда. Жилището се състои от коридор, кухня, просторен хол с ветстибюл, стая, баня с тоалетна и две тераси. Възможност за преустройство. След основен ремонт с подменени инсталации, дограма. Прилежащи две мазета. Местоположението на сградата позволява лесно да достигнете до множество услуги, без да се налага да мислите за използването на автомобил. Предвид локацията е отличен както за инвестиция, така и за основно жилище. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1160034",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 5176,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 440000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3836,
+    "pct_vs_area_avg": 34.9,
+    "score": 8
+  },
+  {
     "id": "imotibg_511821",
     "url": "https://imoti.bg/продажби/парцел/софия-област/сбелопопци-511821.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_67f0ddabe0c32_6a8829efb96cd.jpg",
@@ -9633,6 +10049,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 634,
     "pct_vs_area_avg": 94.0,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514710",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/толстой-514710.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69dd48f5bb994_69dd49879ab3a.jpg",
+    "price_eur": 178000,
+    "sqm": 68,
+    "area": "Толстой",
+    "city": "София",
+    "title": "Тристаен апартамент, Толстой",
+    "portal": "imoti.bg",
+    "lat": 42.7264159,
+    "lng": 23.3100462,
+    "description": "Намира се в кв Толстой, на много комуникативно място. Две детски градини, две училища и метро станция Хан Кубрат! На 5мин от централна гара с кола. \r\nНемски панел 68кв., от 70те г. Ремонтиран изцяло, югоизток, Състои се от кухня,хол, детска, килер, баня, тоалетна и балкон.Шпакловка, дограма, изциклен паркет, гранитогрес, нова баня, обзаведен! \r\nУсвоена терасата в кухнята, саниран, ТЕЦ, климатик. \r\nУсвоена терасата в кухнята, саниран, ТЕЦ,\r\nклиматик. \r\nДограма ПВЦ \r\nНови радиатори, алуминиеви.\r\nПлочки гранитогрес \r\nИзциклен Дъбов паркет \r\nГипсокартон, окачен таван в кухнята\r\nНов покрив на блока и асансьор.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2618,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 178000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2618,
+    "pct_vs_area_avg": 0.0,
     "score": 8
   },
   {
@@ -9953,6 +10401,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 154,
     "pct_vs_area_avg": -85.7,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514212",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/манастирски-ливади-514212.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6984736050bb4_6984739e59d75.jpg",
+    "price_eur": 390000,
+    "sqm": 118,
+    "area": "Манастирски Ливади",
+    "city": "София",
+    "title": "Тристаен апартамент, Манастирски Ливади",
+    "portal": "imoti.bg",
+    "lat": 42.6616709,
+    "lng": 23.2795633,
+    "description": "Търсите имот с панорамни гледки към Витоша - имаме предложение. Разположен на 7-ми последен етаж в модерна тухлена сграда, завършена през 2023 г. \r\n⬆️Жилището е със застроена площ около 100 кв.м. разпределени в коридор, дневна с кухненска част, две стаи, баня с тоалетна, тоалетна и две тераси. \r\n⬆️Апартаментът е напълно завършен и обзаведен с вкус и внимание към детайла. Готови сте да се нанесете веднага! \r\n⬆️Локацията е просто перфектна! Манастирски Ливади е един от най-желаните квартали в София, предлагащ спокойствие, зелени площи и същевременно бърз достъп до всички основни артерии на града, магазини, ресторанти и детска градина.\r\n⬆️Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1687732",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3305,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 390000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3238,
+    "pct_vs_area_avg": 2.1,
     "score": 8
   },
   {
@@ -10532,6 +11012,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_514278",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/манастирски-ливади-514278.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_698c96b196dc6_698c96f419c2d.jpg",
+    "price_eur": 215990,
+    "sqm": 64,
+    "area": "Манастирски Ливади",
+    "city": "София",
+    "title": "Двустаен апартамент, Манастирски Ливади",
+    "portal": "imoti.bg",
+    "lat": 42.6616709,
+    "lng": 23.2795633,
+    "description": "✅ Едно атрактивно предложение за инвестиция в полите на Витоша. \r\nХарактеристики:\r\n- застроена площ 53 кв.м\r\n- дневна с кухненска част\r\n- стая\r\n- баня с тоалетна\r\n- тераса\r\n- южно изложение\r\n- прилежащо мазе\r\n- нови мебели и електроуреди\r\n ✅Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1709767",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3375,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 215990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3238,
+    "pct_vs_area_avg": 4.2,
+    "score": 8
+  },
+  {
     "id": "imotibg_513693",
     "url": "https://imoti.bg/продажби/нива/пловдив-област/скалековец-513693.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6915ebe805cf0_6915ec1e9fb97.jpg",
@@ -10920,6 +11432,70 @@
     "score": 8
   },
   {
+    "id": "imotibg_513704",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бояна-513704.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69173ed75d486_69173f0ca4b2a.jpg",
+    "price_eur": 210000,
+    "sqm": 67,
+    "area": "Бояна",
+    "city": "София",
+    "title": "Двустаен апартамент, Бояна",
+    "portal": "imoti.bg",
+    "lat": 42.6421644,
+    "lng": 23.2664852,
+    "description": "Предлагаме двустайно ателие на тихо място. В близост търговски обекти, удобни транспортни комуникации. Нова газифицирана сграда с акт 16. Жилището е със застроена площ около 40 кв.м и се състои от дневна с кухненска част, стая, баня. Статут ателие. В цената са включени вътрешно паркомясто преустроено на офис около 22 кв.м и външно паркомясто 18 кв.м. Агенцията работи с лицензиран кредитен посредник за избор на най-подходящ банков продукт, без допълнително оскъпяване. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 100272",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3134,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 210000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2867,
+    "pct_vs_area_avg": 9.3,
+    "score": 8
+  },
+  {
+    "id": "imotibg_511640",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-511640.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_67dadcb8438d5_67dadcf450941.jpg",
+    "price_eur": 219900,
+    "sqm": 87,
+    "area": "Овча Купел",
+    "city": "София",
+    "title": "Двустаен апартамент, Овча Купел",
+    "portal": "imoti.bg",
+    "lat": 42.6774732,
+    "lng": 23.2052117,
+    "description": "Предлагаме двустаен апартамент на тихо място. Нова сграда с акт 16. Жилището е със застроена площ 70 кв.м и се състои от коридор, дневна с кухненска част, стая, баня и тераса. Статут ателие. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1052944",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2528,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 219900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2245,
+    "pct_vs_area_avg": 12.6,
+    "score": 8
+  },
+  {
     "id": "imotibg_267244",
     "url": "https://imoti.bg/продажби/парцел/варна-област/с-звездица-267244.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_686cee7bd2228_6a311f1a3af0c.jpg",
@@ -10981,6 +11557,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 89,
     "pct_vs_area_avg": 426.7,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514165",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/княжево-514165.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_697b5c637ffc5_697b5ca0e2135.jpg",
+    "price_eur": 213000,
+    "sqm": 68,
+    "area": "Княжево",
+    "city": "София",
+    "title": "Двустаен апартамент, Княжево",
+    "portal": "imoti.bg",
+    "lat": 42.6586899,
+    "lng": 23.2404891,
+    "description": "✅Този апартамент е перфектен избор за млади семейства, двойки или хора, които търсят своето кътче в динамичния градски живот, но ценят спокойствието и уюта. Бърз достъп до планината и основни пътни артерии.\r\n✅Жилището е на втори етаж в тухлена кооперация без асансьор. Разпределение коридор, кухня, хол, стая, баня, тоалетна, мокро помещение. Вътрешно, санирано. Прилежащи мазета. Свободно паркиране. ✅Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1736530",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3132,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 213000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2200,
+    "pct_vs_area_avg": 42.4,
     "score": 8
   },
   {
@@ -11976,6 +12584,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_514310",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/гоце-делчев-514310.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69933066586bd_69933148ac15b.jpg",
+    "price_eur": 297000,
+    "sqm": 88,
+    "area": "Гоце Делчев",
+    "city": "София",
+    "title": "Двустаен апартамент, Гоце Делчев",
+    "portal": "imoti.bg",
+    "lat": 42.6879161,
+    "lng": 23.3380531,
+    "description": "✅ Ако търсите модерна, комфортна реалност, способна да ви предложи всички най-добри удобства, ние имаме идеалното решение за вас! \r\nХарактеристики на имота:\r\n- нова сграда\r\n- застроена площ 70 кв.м\r\n- югозападно изложение\r\n- просторна дневна с кухненска част\r\n- стая\r\n- обширна баня с тоалетна\r\n- тераса\r\nПродава се с мебели и електроуреди.\r\n✅ Към апартамента има подземно паркомясто с топла връзка.\r\n✅ Това представлява допълнителна добавена стойност за тези, които търсят жилищно решение на високо ниво.\r\n✅ Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1730738",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 3375,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 297000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 3311,
+    "pct_vs_area_avg": 1.9,
+    "score": 8
+  },
+  {
     "id": "imotibg_181105",
     "url": "https://imoti.bg/продажби/парцел/варна/галата-181105.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6360f2da8abba_6360f2da8c4be.jpg",
@@ -12296,6 +12936,38 @@
     "score": 8
   },
   {
+    "id": "imotibg_514072",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-1-514072.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_696a314cab1e8_696a318f40c9e.jpg",
+    "price_eur": 180000,
+    "sqm": 66,
+    "area": "Овча Купел 1",
+    "city": "София",
+    "title": "Двустаен апартамент, Овча Купел 1",
+    "portal": "imoti.bg",
+    "lat": 42.6828931,
+    "lng": 23.2490811,
+    "description": "Просторен двустаен апартамент в близост метростанция, търговски обекти. Поддържана сграда. Жилището се състои от коридор, кухня, хол, стая, баня с тоалетна и две тераси. Прилежащо мазе. ✅Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. \r\n✅Референтен номер 1705300",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2727,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 180000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2408,
+    "pct_vs_area_avg": 13.2,
+    "score": 8
+  },
+  {
     "id": "imotibg_514338",
     "url": "https://imoti.bg/продажби/нива/пазарджик/запад-514338.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69985aaa2f514_69985b2237c65.jpeg",
@@ -12357,6 +13029,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1770,
     "pct_vs_area_avg": -98.3,
+    "score": 8
+  },
+  {
+    "id": "imotibg_514073",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бъкстон-514073.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_696a354b47d53_696a35c2a56dc.jpg",
+    "price_eur": 179000,
+    "sqm": 66,
+    "area": "Бъкстон",
+    "city": "София",
+    "title": "Двустаен апартамент, Бъкстон",
+    "portal": "imoti.bg",
+    "lat": 42.6730192,
+    "lng": 23.2779464,
+    "description": "Двустаен апартамент в санирана сграда. Жилището се състои от коридор, кухня, хол, стая, баня и две тераси. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1627431",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2712,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 179000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2608,
+    "pct_vs_area_avg": 4.0,
     "score": 8
   },
   {
@@ -12518,38 +13222,6 @@
     "area_avg_price_per_sqm": 2484,
     "pct_vs_area_avg": -19.5,
     "score": 8
-  },
-  {
-    "id": "imotibg_514182",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/дружба-2-514182.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_697fc79a669e2_697fc8781a143.jpg",
-    "price_eur": 120000,
-    "sqm": 45,
-    "area": "Дружба 2",
-    "city": "София",
-    "title": "Едностаен апартамент, Дружба 2",
-    "portal": "imoti.bg",
-    "lat": 42.6484263,
-    "lng": 23.4077938,
-    "description": "Изключително комуникативна локация, разположена в непосредствена близост до вече изграден модерен комплекс в ж.к. Дружба 2, на ул. „Обиколна“. Районът се отличава с бърз достъп, отлична инфраструктура и нарастващ интерес, което го прави отличен избор както за лично ползване, така и за инвестиция.\r\n\r\n\r\n\r\n???? За повече информация и огледи – свържете се с мен на: 088 274 25 86",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2667,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 120000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2667,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
   },
   {
     "id": "imotibg_515403",
@@ -13000,38 +13672,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_515353",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/люлин-3-515353.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a4e7c1c60aa8_6a4e7c9f72116.jpg",
-    "price_eur": 179700,
-    "sqm": 95,
-    "area": "Люлин 3",
-    "city": "София",
-    "title": "Тристаен апартамент, Люлин 3",
-    "portal": "imoti.bg",
-    "lat": 42.7206956,
-    "lng": 23.529316,
-    "description": "ОТЛИЧЕН. ПРОСТОРЕН. ЕПК. ДО МЕТРО. СТРАХОТНА ПАНОРАМА!\r\nСъстои се от :\r\nКухня\r\nГолям хол\r\nДве спални\r\nДва балкона, единия е 11кв.м с излаз от хола и трапезарията и още един- 4кв.м. с излаз от едната спалня.\r\nБаня с тоалетна ,отделно тоалетна\r\nТаванско помещение.\r\nАпартамента е обзаведен, има и пиано.\r\nПросторно и слънчево жилище. Панорама...\r\nНамира се на много комуникативно място...0878648872, 0888085007",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1892,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 179700
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1892,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
     "id": "imotibg_515390",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/русе/ялта-515390.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a54b062974b6_6a54b0c5a3799.jpg",
@@ -13384,38 +14024,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_515583",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/зона-б-19-515583.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a6ee45346b08_6a6ee5d536174.png",
-    "price_eur": 369900,
-    "sqm": 137,
-    "area": "Зона Б 19",
-    "city": "София",
-    "title": "Тристаен апартамент, Зона Б 19",
-    "portal": "imoti.bg",
-    "lat": 42.6980072,
-    "lng": 23.2990189,
-    "description": "Гр София Продава се Тристаен апартамент 137 м2 в етап на стоеж от доказан строителен предприемач с над 30 г опит в строителството! Апартамента се намира до спирката на метрото 'Константин Величков' с отлично разпределение в нова сграда /висок клас на изпълнение/. Ново тухлено жилище състоящо се от входно антре с просторна дневна с кухненски бокс и трапезарна част, две хубави спални 2 бани с тоалетна, склад и тераса подходящ за отдих в летните вечери. Жилището се продава на шпакловка и замазка, но има възможност да бъде и завъшено до ключ,от фирмата . Сградата е с модерна визия, разполага с безшумен асансьор и луксозни общи части и с 3 апартамента на етаж. Отопление Тец . Към апартамента има възможност за закопуване на гараж или паркомясто Района е изключително комуникативен, улицата е тиха с излаз на бул Стамболийски и бул Тодор Александров ,на 200 м. спирка на метрото, пазар 'Димитър Петков', множество магазини, училища, детски градини, пешеходно разстояние до МОЛ София.и църквата Света Неделя \r\nсграда нова е тухлена \r\n\r\nлуксозни общи части\r\n\r\nвисок клас на изпълнение\r\n\r\nбутиково строителство\r\nметростанция 'Константин Величков' \r\n\r\nпазар 'Димитър Петков \r\n\r\nпешеходно разстояние МОЛ София\r\n\r\nвъзможност за довършителни дейности на апартамента от строителя по желание на бъдещите собственици цената на имота е 369900",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2700,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 369900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2700,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
     "id": "imotibg_70355",
     "url": "https://imoti.bg/продажби/парцел/варна-област/с-константиново-70355.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_627a5cafdcf84_627a5cafdeb67.jpg",
@@ -13513,38 +14121,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1075,
     "pct_vs_area_avg": 14.9,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514967",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/лагера-514967.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a0af99727ecf_6a0af9d6140df.jpg",
-    "price_eur": 170000,
-    "sqm": 44,
-    "area": "Лагера",
-    "city": "София",
-    "title": "Едностаен апартамент, Лагера",
-    "portal": "imoti.bg",
-    "lat": 42.5116283,
-    "lng": 23.3646251,
-    "description": "Предлагаме едностаен апартамент на тихо място. Поддържана сграда. Жилището е с южно изложение и се състои от коридор, кухня, стая, баня и тераса. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1845591",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3864,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 170000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3205,
-    "pct_vs_area_avg": 20.5,
     "score": 7
   },
   {
@@ -14872,70 +15448,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514730",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/манастирски-ливади-514730.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69df9255ef08d_69df929887426.jpg",
-    "price_eur": 280000,
-    "sqm": 62,
-    "area": "Манастирски Ливади",
-    "city": "София",
-    "title": "Двустаен апартамент, Манастирски Ливади",
-    "portal": "imoti.bg",
-    "lat": 42.6616709,
-    "lng": 23.2795633,
-    "description": "Предлагаме двустаен апартамент в близост търговски обекти, удобни транспортни комуникации. Нова газифицирана сграда с акт 16. Жилището е със застроена площ 53 кв.м и се състои от дневна с кухненска част, стая, баня, мокро помещение и тераса. Продава се с наличното поръчково обзавеждане. Възможност за допълнително закупуване на подземно паркомясто 40 000е. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1761639",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 4516,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 280000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3238,
-    "pct_vs_area_avg": 39.5,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514725",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бели-брези-514725.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69df6c326781c_69df6c60b042e.jpg",
-    "price_eur": 299000,
-    "sqm": 88,
-    "area": "Бели Брези",
-    "city": "София",
-    "title": "Двустаен апартамент, Бели Брези",
-    "portal": "imoti.bg",
-    "lat": 42.6774558,
-    "lng": 23.2910815,
-    "description": "Двустаен апартамент в район с ежедневни удобства. Нова сграда. Жилището се състои от коридор, дневна с кухненска част, стая, баня и тераса. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1541897",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3398,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 299000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3027,
-    "pct_vs_area_avg": 12.3,
-    "score": 7
-  },
-  {
     "id": "imotibg_514001",
     "url": "https://imoti.bg/продажби/парцел/хасково-област/сщит-514001.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_695e2517499d5_695e25406e1f2.jpg",
@@ -15124,7 +15636,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3205,
@@ -15196,38 +15708,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514728",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/център-514728.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69df85a8b95bf_69df8676b0f1c.jpg",
-    "price_eur": 355000,
-    "sqm": 70,
-    "area": "Център",
-    "city": "София",
-    "title": "Двустаен апартамент, Център",
-    "portal": "imoti.bg",
-    "lat": 42.69679,
-    "lng": 23.3208549,
-    "description": "Жилището е след основен дизайнерски луксозен ремонт с висококачествени материали. След ремонта в жилището не е живяно изобщо. В топ центъра на София, ул. Стефан Караджа до Гранд хотел София и Народния театър. 67 м2, преходен, две входни врати на жилището, кухненски остров с барплот, ет. 5 от 6, Тец, асансьор. Жилището разполага с мазе и таван. Само за крайни клиенти. Разполагаме с ключ !!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 5071,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 355000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3836,
-    "pct_vs_area_avg": 32.2,
-    "score": 7
-  },
-  {
     "id": "imotibg_515404",
     "url": "https://imoti.bg/продажби/четиристаен-апартамент/русе/родина-1-515404.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a54c4912891f_6a54c52fdf60a.jpg",
@@ -15289,38 +15769,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 294,
     "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_513236",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/манастирски-ливади-513236.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_68cd5e901e7f0_68cd5eca5b5d7.jpg",
-    "price_eur": 429000,
-    "sqm": 112,
-    "area": "Манастирски Ливади",
-    "city": "София",
-    "title": "Тристаен апартамент, Манастирски Ливади",
-    "portal": "imoti.bg",
-    "lat": 42.6616709,
-    "lng": 23.2795633,
-    "description": "Предлагаме тристаен апартамент в нова кооперация с двор. Жилището е със застроена площ 100 кв.м и се състои от коридор, просторен хол с кухненски бокс, две стаи, баня с тоалетна, тоалетна и три тераси. Продава се с обзавеждане. Прилежащо мазе. Възможност за покупка на подземно паркомясто. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1059232",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3830,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 429000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3238,
-    "pct_vs_area_avg": 18.3,
     "score": 7
   },
   {
@@ -15609,38 +16057,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 420,
     "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_512571",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/гоце-делчев-512571.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_686bd04d650cf_686bd094095d4.jpg",
-    "price_eur": 190000,
-    "sqm": 57,
-    "area": "Гоце Делчев",
-    "city": "София",
-    "title": "Двустаен апартамент, Гоце Делчев",
-    "portal": "imoti.bg",
-    "lat": 42.6879161,
-    "lng": 23.3380531,
-    "description": "Предлагаме двустаен апартамент в близост удобни транспортни комуникации, търговски обекти, парк. Поддържани общи части. Жилището се състои от коридор, кухня, две стаи, баня с тоалетна, складово помещение и тераса. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1225254",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3333,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 190000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3311,
-    "pct_vs_area_avg": 0.7,
     "score": 7
   },
   {
@@ -15964,38 +16380,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_515341",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/витоша-515341.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a4d395ba7fd5_6a4d3a5b27559.jpg",
-    "price_eur": 229900,
-    "sqm": 82,
-    "area": "Витоша",
-    "city": "София",
-    "title": "Тристаен апартамент, Витоша",
-    "portal": "imoti.bg",
-    "lat": 42.6167377,
-    "lng": 23.2742293,
-    "description": "3-стаен апартамент със 104 кв.м собствен двор + гараж | Интериорен проект | Без посредник\r\n\r\nДом с усещане за къща, създаден с мисъл за бъдещето.\r\n\r\nПродаваме директно от собственик тристаен апартамент с 104,16 кв.м собствен двор и самостоятелен гараж в бутиковия комплекс „Семирамида – Витоша“.\r\nТова не е просто покупка",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2804,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 229900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2804,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
     "id": "imotibg_514889",
     "url": "https://imoti.bg/продажби/нива/кюстендил-област/сграмаждано-514889.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69fe49130e1bd_69fe4a854b181.png",
@@ -16121,38 +16505,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1170,
     "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_515165",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-515165.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a2ffc3a52ad0_6a2ffc70c023d.jpg",
-    "price_eur": 180000,
-    "sqm": 74,
-    "area": "Овча Купел",
-    "city": "София",
-    "title": "Двустаен апартамент, Овча Купел",
-    "portal": "imoti.bg",
-    "lat": 42.6774732,
-    "lng": 23.2052117,
-    "description": "Двустаен апартамент в нова сграда с акт 16. Намира се в близост до НБУ и ежедневни удобства. Предлаганият имот е със застроена площ 59.92 кв.м и се състои от коридор, дневна с кухненска част, стая, баня и тераса. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1476557",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2432,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 180000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2245,
-    "pct_vs_area_avg": 8.3,
     "score": 7
   },
   {
@@ -16700,38 +17052,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514700",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/хаджи-димитър-514700.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69db4e1648af3_69db4f77c2a18.jpg",
-    "price_eur": 145000,
-    "sqm": 65,
-    "area": "Хаджи Димитър",
-    "city": "София",
-    "title": "Двустаен апартамент, Хаджи Димитър",
-    "portal": "imoti.bg",
-    "lat": 42.7025457,
-    "lng": 23.3522642,
-    "description": "Продавам двустаен апартамент в град София",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2231,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 145000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2231,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
     "id": "imotibg_515603",
     "url": "https://imoti.bg/продажби/гараж/софия/гео-милев-515603.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a71cbcce6a2d_6a71cca6621cb.jpg",
@@ -17020,38 +17340,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_512896",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/център-512896.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6893704fa6c84_6893708e09750.jpg",
-    "price_eur": 440000,
-    "sqm": 85,
-    "area": "Център",
-    "city": "София",
-    "title": "Двустаен апартамент, Център",
-    "portal": "imoti.bg",
-    "lat": 42.69679,
-    "lng": 23.3208549,
-    "description": "Двустаен южен апартамент до НДК. Самостоятелен на етаж първи над партер в поддържана сграда. Жилището се състои от коридор, кухня, просторен хол с ветстибюл, стая, баня с тоалетна и две тераси. Възможност за преустройство. След основен ремонт с подменени инсталации, дограма. Прилежащи две мазета. Местоположението на сградата позволява лесно да достигнете до множество услуги, без да се налага да мислите за използването на автомобил. Предвид локацията е отличен както за инвестиция, така и за основно жилище. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1160034",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 5176,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 440000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3836,
-    "pct_vs_area_avg": 34.9,
-    "score": 7
-  },
-  {
     "id": "imotibg_515592",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/беломорски-остромила-515592.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a706bdde9194_6aaba08fe5da8.jpg",
@@ -17112,38 +17400,6 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 325,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514710",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/толстой-514710.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69dd48f5bb994_69dd49879ab3a.jpg",
-    "price_eur": 178000,
-    "sqm": 68,
-    "area": "Толстой",
-    "city": "София",
-    "title": "Тристаен апартамент, Толстой",
-    "portal": "imoti.bg",
-    "lat": 42.7264159,
-    "lng": 23.3100462,
-    "description": "Намира се в кв Толстой, на много комуникативно място. Две детски градини, две училища и метро станция Хан Кубрат! На 5мин от централна гара с кола. \r\nНемски панел 68кв., от 70те г. Ремонтиран изцяло, югоизток, Състои се от кухня,хол, детска, килер, баня, тоалетна и балкон.Шпакловка, дограма, изциклен паркет, гранитогрес, нова баня, обзаведен! \r\nУсвоена терасата в кухнята, саниран, ТЕЦ, климатик. \r\nУсвоена терасата в кухнята, саниран, ТЕЦ,\r\nклиматик. \r\nДограма ПВЦ \r\nНови радиатори, алуминиеви.\r\nПлочки гранитогрес \r\nИзциклен Дъбов паркет \r\nГипсокартон, окачен таван в кухнята\r\nНов покрив на блока и асансьор.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2618,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 178000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2618,
     "pct_vs_area_avg": 0.0,
     "score": 7
   },
@@ -17657,38 +17913,6 @@
     "removed_at": "2026-10-27T20:54:34.002296+00:00",
     "area_avg_price_per_sqm": 2588,
     "pct_vs_area_avg": 8.2,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514212",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/манастирски-ливади-514212.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6984736050bb4_6984739e59d75.jpg",
-    "price_eur": 390000,
-    "sqm": 118,
-    "area": "Манастирски Ливади",
-    "city": "София",
-    "title": "Тристаен апартамент, Манастирски Ливади",
-    "portal": "imoti.bg",
-    "lat": 42.6616709,
-    "lng": 23.2795633,
-    "description": "Търсите имот с панорамни гледки към Витоша - имаме предложение. Разположен на 7-ми последен етаж в модерна тухлена сграда, завършена през 2023 г. \r\n⬆️Жилището е със застроена площ около 100 кв.м. разпределени в коридор, дневна с кухненска част, две стаи, баня с тоалетна, тоалетна и две тераси. \r\n⬆️Апартаментът е напълно завършен и обзаведен с вкус и внимание към детайла. Готови сте да се нанесете веднага! \r\n⬆️Локацията е просто перфектна! Манастирски Ливади е един от най-желаните квартали в София, предлагащ спокойствие, зелени площи и същевременно бърз достъп до всички основни артерии на града, магазини, ресторанти и детска градина.\r\n⬆️Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1687732",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3305,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 390000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3238,
-    "pct_vs_area_avg": 2.1,
     "score": 7
   },
   {
@@ -19248,38 +19472,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514278",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/манастирски-ливади-514278.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_698c96b196dc6_698c96f419c2d.jpg",
-    "price_eur": 215990,
-    "sqm": 64,
-    "area": "Манастирски Ливади",
-    "city": "София",
-    "title": "Двустаен апартамент, Манастирски Ливади",
-    "portal": "imoti.bg",
-    "lat": 42.6616709,
-    "lng": 23.2795633,
-    "description": "✅ Едно атрактивно предложение за инвестиция в полите на Витоша. \r\nХарактеристики:\r\n- застроена площ 53 кв.м\r\n- дневна с кухненска част\r\n- стая\r\n- баня с тоалетна\r\n- тераса\r\n- южно изложение\r\n- прилежащо мазе\r\n- нови мебели и електроуреди\r\n ✅Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1709767",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3375,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 215990
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3238,
-    "pct_vs_area_avg": 4.2,
-    "score": 7
-  },
-  {
     "id": "imotibg_513782",
     "url": "https://imoti.bg/продажби/къща/кюстендил-област/сдворище-513782.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6926c2981ab88_6926c2fe75b49.jpg",
@@ -19568,70 +19760,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_513704",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бояна-513704.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69173ed75d486_69173f0ca4b2a.jpg",
-    "price_eur": 210000,
-    "sqm": 67,
-    "area": "Бояна",
-    "city": "София",
-    "title": "Двустаен апартамент, Бояна",
-    "portal": "imoti.bg",
-    "lat": 42.6421644,
-    "lng": 23.2664852,
-    "description": "Предлагаме двустайно ателие на тихо място. В близост търговски обекти, удобни транспортни комуникации. Нова газифицирана сграда с акт 16. Жилището е със застроена площ около 40 кв.м и се състои от дневна с кухненска част, стая, баня. Статут ателие. В цената са включени вътрешно паркомясто преустроено на офис около 22 кв.м и външно паркомясто 18 кв.м. Агенцията работи с лицензиран кредитен посредник за избор на най-подходящ банков продукт, без допълнително оскъпяване. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 100272",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3134,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 210000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2867,
-    "pct_vs_area_avg": 9.3,
-    "score": 7
-  },
-  {
-    "id": "imotibg_511640",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-511640.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_67dadcb8438d5_67dadcf450941.jpg",
-    "price_eur": 219900,
-    "sqm": 87,
-    "area": "Овча Купел",
-    "city": "София",
-    "title": "Двустаен апартамент, Овча Купел",
-    "portal": "imoti.bg",
-    "lat": 42.6774732,
-    "lng": 23.2052117,
-    "description": "Предлагаме двустаен апартамент на тихо място. Нова сграда с акт 16. Жилището е със застроена площ 70 кв.м и се състои от коридор, дневна с кухненска част, стая, баня и тераса. Статут ателие. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1052944",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2528,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 219900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2245,
-    "pct_vs_area_avg": 12.6,
-    "score": 7
-  },
-  {
     "id": "imotibg_514635",
     "url": "https://imoti.bg/продажби/парцел/кюстендил/капия-514635.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69ce356753c36_69ce35cda6296.jpg",
@@ -19789,38 +19917,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 48,
     "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514165",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/княжево-514165.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_697b5c637ffc5_697b5ca0e2135.jpg",
-    "price_eur": 213000,
-    "sqm": 68,
-    "area": "Княжево",
-    "city": "София",
-    "title": "Двустаен апартамент, Княжево",
-    "portal": "imoti.bg",
-    "lat": 42.6586899,
-    "lng": 23.2404891,
-    "description": "✅Този апартамент е перфектен избор за млади семейства, двойки или хора, които търсят своето кътче в динамичния градски живот, но ценят спокойствието и уюта. Бърз достъп до планината и основни пътни артерии.\r\n✅Жилището е на втори етаж в тухлена кооперация без асансьор. Разпределение коридор, кухня, хол, стая, баня, тоалетна, мокро помещение. Вътрешно, санирано. Прилежащи мазета. Свободно паркиране. ✅Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1736530",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3132,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 213000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2200,
-    "pct_vs_area_avg": 42.4,
     "score": 7
   },
   {
@@ -22000,38 +22096,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514310",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/гоце-делчев-514310.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69933066586bd_69933148ac15b.jpg",
-    "price_eur": 297000,
-    "sqm": 88,
-    "area": "Гоце Делчев",
-    "city": "София",
-    "title": "Двустаен апартамент, Гоце Делчев",
-    "portal": "imoti.bg",
-    "lat": 42.6879161,
-    "lng": 23.3380531,
-    "description": "✅ Ако търсите модерна, комфортна реалност, способна да ви предложи всички най-добри удобства, ние имаме идеалното решение за вас! \r\nХарактеристики на имота:\r\n- нова сграда\r\n- застроена площ 70 кв.м\r\n- югозападно изложение\r\n- просторна дневна с кухненска част\r\n- стая\r\n- обширна баня с тоалетна\r\n- тераса\r\nПродава се с мебели и електроуреди.\r\n✅ Към апартамента има подземно паркомясто с топла връзка.\r\n✅ Това представлява допълнителна добавена стойност за тези, които търсят жилищно решение на високо ниво.\r\n✅ Работим с комисионна, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1730738",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 3375,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 297000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3311,
-    "pct_vs_area_avg": 1.9,
-    "score": 7
-  },
-  {
     "id": "imotibg_514838",
     "url": "https://imoti.bg/продажби/парцел/варна/мт-франга-дере-514838.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -22260,38 +22324,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_514072",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/овча-купел-1-514072.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_696a314cab1e8_696a318f40c9e.jpg",
-    "price_eur": 180000,
-    "sqm": 66,
-    "area": "Овча Купел 1",
-    "city": "София",
-    "title": "Двустаен апартамент, Овча Купел 1",
-    "portal": "imoti.bg",
-    "lat": 42.6828931,
-    "lng": 23.2490811,
-    "description": "Просторен двустаен апартамент в близост метростанция, търговски обекти. Поддържана сграда. Жилището се състои от коридор, кухня, хол, стая, баня с тоалетна и две тераси. Прилежащо мазе. ✅Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. \r\n✅Референтен номер 1705300",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2727,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 180000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2408,
-    "pct_vs_area_avg": 13.2,
-    "score": 7
-  },
-  {
     "id": "imotibg_514281",
     "url": "https://imoti.bg/продажби/нива/благоевград-област/с-садово-514281.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_698d9ef96786d_698da0dabcc19.png",
@@ -22513,38 +22545,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 641,
     "pct_vs_area_avg": 33.2,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514073",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/бъкстон-514073.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_696a354b47d53_696a35c2a56dc.jpg",
-    "price_eur": 179000,
-    "sqm": 66,
-    "area": "Бъкстон",
-    "city": "София",
-    "title": "Двустаен апартамент, Бъкстон",
-    "portal": "imoti.bg",
-    "lat": 42.6730192,
-    "lng": 23.2779464,
-    "description": "Двустаен апартамент в санирана сграда. Жилището се състои от коридор, кухня, хол, стая, баня и две тераси. Прилежащо мазе. Нуждае се от ремонт. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. За директни клиенти. Референтен номер 1627431",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2712,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 179000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2608,
-    "pct_vs_area_avg": 4.0,
     "score": 7
   },
   {
@@ -26988,7 +26988,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 353,
@@ -28048,7 +28048,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2245,
@@ -28240,7 +28240,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2200,
