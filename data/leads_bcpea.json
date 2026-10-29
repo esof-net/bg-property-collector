@@ -5531,7 +5531,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 1898,
     "pct_vs_area_avg": -27.9,
     "score": 13
@@ -7973,7 +7973,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 7025,
     "pct_vs_area_avg": -17.0,
     "score": 9
@@ -81993,7 +81993,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 7025,
     "pct_vs_area_avg": -97.8,
     "score": 3
@@ -87056,7 +87056,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -97383,7 +97383,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
