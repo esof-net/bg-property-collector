@@ -728,7 +728,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 15.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2940,
@@ -15334,6 +15334,35 @@
     "score": 23
   },
   {
+    "id": "6248315",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/dvustaen/6248315/?sid=icNBCK&page=15",
+    "photo": "https://www.imoti.net/web/files/obiavi/6248315/main_image/thumb_280x210_main_image_6248315_1.jpg?ver=1793243066",
+    "price_eur": 85000,
+    "sqm": 60,
+    "area": "Malinova Dolina",
+    "city": "София",
+    "title": "1 bedroom apartment, 60 м 2 Sofia, Malinova Dolina",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1417,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 85000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 68,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2385,
+    "pct_vs_area_avg": -40.6,
+    "score": 23
+  },
+  {
     "id": "6264771",
     "url": "https://www.imoti.net/en/obiava/prodava/pleven/gradska-chast/dvustaen/6264771/?sid=hXL3fo&page=2",
     "photo": "https://www.imoti.net/web/files/obiavi/6264771/main_image/thumb_280x210_main_image_6264771_1.jpg?ver=1793243509",
@@ -17731,35 +17760,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
     "pct_vs_area_avg": -27.5,
-    "score": 22
-  },
-  {
-    "id": "6248315",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/dvustaen/6248315/?sid=icNBCK&page=15",
-    "photo": "https://www.imoti.net/web/files/obiavi/6248315/main_image/thumb_280x210_main_image_6248315_1.jpg?ver=1793243066",
-    "price_eur": 85000,
-    "sqm": 60,
-    "area": "Malinova Dolina",
-    "city": "София",
-    "title": "1 bedroom apartment, 60 м 2 Sofia, Malinova Dolina",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1417,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 85000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 67,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2385,
-    "pct_vs_area_avg": -40.6,
     "score": 22
   },
   {
@@ -40756,7 +40756,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1529,
@@ -53036,7 +53036,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": -1.2,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2940,
@@ -72570,7 +72570,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2613,
@@ -211757,7 +211757,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 67,
+    "days_on_market": 68,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2517,
