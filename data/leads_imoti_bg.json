@@ -1031,8 +1031,8 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 100.3,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 98.7,
     "score": 23
   },
   {
@@ -1331,7 +1331,7 @@
     "id": "imotibg_264479",
     "url": "https://imoti.bg/продажби/парцел/варна/зпз-264479.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6527eddd149ee_6529310a3bbd8.jpg",
-    "price_eur": 870000,
+    "price_eur": 870320,
     "sqm": 10900,
     "area": "ЗПЗ",
     "city": "Варна",
@@ -1348,6 +1348,42 @@
       {
         "date": "2026-08-24T23:43:33.818106+00:00",
         "price_eur": 870000
+      },
+      {
+        "date": "2026-10-29T20:53:41.308908+00:00",
+        "price_eur": 870320
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": -0.0,
+    "days_on_market": 65,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 197,
+    "pct_vs_area_avg": -59.3,
+    "score": 22
+  },
+  {
+    "id": "imotibg_515665",
+    "url": "https://imoti.bg/продажби/търговско-помещение/варна/гранд-мол-варна-515665.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a7b7d495f9b3_6a7b836f50d45.jpg",
+    "price_eur": 11000,
+    "sqm": 12,
+    "area": "Гранд Мол Варна",
+    "city": "Варна",
+    "title": "Търговско помещение, Гранд Мол Варна",
+    "portal": "imoti.bg",
+    "lat": 43.2173398,
+    "lng": 27.8984633,
+    "description": "помещение на главен път,на две улици, за търговска цел 12 кв.м размери 4/3,на общинска земя,Квартал Победа .В непосредствена близост медицински център.платен паркинг,много жилищни блокове.Подово отопление,монофазен ,трифазен ток,климатик.алуминиежа дограма,защитни ролетни щори.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "low",
+    "price_per_sqm": 917,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 11000
       }
     ],
     "price_drop_count": 0,
@@ -1355,8 +1391,8 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 197,
-    "pct_vs_area_avg": -59.3,
+    "area_avg_price_per_sqm": 1793,
+    "pct_vs_area_avg": -48.9,
     "score": 22
   },
   {
@@ -2256,38 +2292,6 @@
     "score": 19
   },
   {
-    "id": "imotibg_515665",
-    "url": "https://imoti.bg/продажби/търговско-помещение/варна/гранд-мол-варна-515665.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a7b7d495f9b3_6a7b836f50d45.jpg",
-    "price_eur": 11000,
-    "sqm": 12,
-    "area": "Гранд Мол Варна",
-    "city": "Варна",
-    "title": "Търговско помещение, Гранд Мол Варна",
-    "portal": "imoti.bg",
-    "lat": 43.2173398,
-    "lng": 27.8984633,
-    "description": "помещение на главен път,на две улици, за търговска цел 12 кв.м размери 4/3,на общинска земя,Квартал Победа .В непосредствена близост медицински център.платен паркинг,много жилищни блокове.Подово отопление,монофазен ,трифазен ток,климатик.алуминиежа дограма,защитни ролетни щори.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 917,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 11000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1334,
-    "pct_vs_area_avg": -31.2,
-    "score": 19
-  },
-  {
     "id": "imotibg_515379",
     "url": "https://imoti.bg/продажби/къща/русе/дружба--2-515379.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a548b547f50c_6a548c061a103.jpg",
@@ -2353,6 +2357,42 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2570,
     "pct_vs_area_avg": -5.6,
+    "score": 19
+  },
+  {
+    "id": "imotibg_266698",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/младост-266698.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69ea12ab2b6d8_69ea12ab3b956.jpg",
+    "price_eur": 128000,
+    "sqm": 61,
+    "area": "Младост",
+    "city": "Варна",
+    "title": "Двустаен апартамент, Младост",
+    "portal": "imoti.bg",
+    "lat": 43.2240158,
+    "lng": 27.8866856,
+    "description": "Двустаен апартамент в кв. Младост 1, гр. Варна  с достъп до СПА и басейн.Издаване по БДС което Ви дава възможност за гъвкаво довършване според личните Ви предпочитания.\r\nРазпределение:\r\nФункционално разпределение с ъс самостоятелни две помещения, подходящи за довършване и обзавеждане по индивидуален проект.\r\nПредимства на имота:\r\nМодерна жилищна сграда с контролиран достъп\r\nСПА център, вътрешен и външен басейн за комфорт и релакс\r\nПанорамна гледка от височина\r\nСевероизточно изложение, гарантиращо светлина и уют\r\nОтлична локация близо до училища, детски градини, магазини, спирки на градски транспорт, здравни заведения и паркове\r\nПодходящ както за живеене, така и за инвестиция\r\nПродава се тристаен апартамент в същата сграда.\r\nАлександрова-0888797275",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2098,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 135000
+      },
+      {
+        "date": "2026-10-29T20:53:41.308908+00:00",
+        "price_eur": 128000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 5.2,
+    "days_on_market": 65,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 31.0,
     "score": 19
   },
   {
@@ -4792,6 +4832,46 @@
     "score": 13
   },
   {
+    "id": "imotibg_515956",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-515956.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab6ba884778b_6ab6bb771a897.jpg",
+    "price_eur": 230000,
+    "sqm": 97,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Тристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Тристаен напълно обзаведен [97.03 кв.м. с общи части] до ключ с луксозни мебели, чисто нов монолотен апартамент с 2 спални,хол,трапезария,баня и 2 тоалетни в една от най-привлекателните части на града с включена изба[3.15 кв.м.]и паркомясто[11.25 кв.м.]се продава директно ОТ СОБСТВЕНИК!Изложение изток-запад.Цената включва и паркомясто!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2371,
+    "price_history": [
+      {
+        "date": "2026-09-25T21:07:05.094716+00:00",
+        "price_eur": 235000
+      },
+      {
+        "date": "2026-09-26T23:11:05.733632+00:00",
+        "price_eur": 240000
+      },
+      {
+        "date": "2026-10-14T19:12:11.780111+00:00",
+        "price_eur": 230000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 2.1,
+    "days_on_market": 34,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": 45.8,
+    "score": 13
+  },
+  {
     "id": "imotibg_269635",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/варна/левски-269635.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -5113,46 +5193,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 44,
     "pct_vs_area_avg": -13.6,
-    "score": 12
-  },
-  {
-    "id": "imotibg_515956",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-515956.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab6ba884778b_6ab6bb771a897.jpg",
-    "price_eur": 230000,
-    "sqm": 97,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Тристаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Тристаен напълно обзаведен [97.03 кв.м. с общи части] до ключ с луксозни мебели, чисто нов монолотен апартамент с 2 спални,хол,трапезария,баня и 2 тоалетни в една от най-привлекателните части на града с включена изба[3.15 кв.м.]и паркомясто[11.25 кв.м.]се продава директно ОТ СОБСТВЕНИК!Изложение изток-запад.Цената включва и паркомясто!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2371,
-    "price_history": [
-      {
-        "date": "2026-09-25T21:07:05.094716+00:00",
-        "price_eur": 235000
-      },
-      {
-        "date": "2026-09-26T23:11:05.733632+00:00",
-        "price_eur": 240000
-      },
-      {
-        "date": "2026-10-14T19:12:11.780111+00:00",
-        "price_eur": 230000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 2.1,
-    "days_on_market": 33,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": 45.8,
     "score": 12
   },
   {
@@ -5951,8 +5991,8 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": -7.7,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": -8.4,
     "score": 10
   },
   {
@@ -6915,7 +6955,7 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
+    "area_avg_price_per_sqm": 1602,
     "pct_vs_area_avg": -99.2,
     "score": 8
   },
@@ -8683,8 +8723,8 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 88.8,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 87.3,
     "score": 8
   },
   {
@@ -10829,6 +10869,38 @@
     "removed_at": "2026-10-26T21:46:34.023682+00:00",
     "area_avg_price_per_sqm": 918,
     "pct_vs_area_avg": -90.0,
+    "score": 8
+  },
+  {
+    "id": "imotibg_265818",
+    "url": "https://imoti.bg/продажби/офис/варна/гранд-мол-варна-265818.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_67813106b815c_68c27d4b1d9a7.jpg",
+    "price_eur": 904750,
+    "sqm": 517,
+    "area": "Гранд Мол Варна",
+    "city": "Варна",
+    "title": "Офис, Гранд Мол Варна",
+    "portal": "imoti.bg",
+    "lat": 43.2173398,
+    "lng": 27.8984633,
+    "description": "Офиси в нова многофункционална бизнес сграда с модерна визия с А 15.\r\nСтъклена окачена фасада предлага дневна светлина и отлични условия за работа на вашите служители.\r\nВъзможност за покупка на  517 кв.м.\r\nТази модерна постройка е с елегантна стъклена фасада и разполага с 9\r\nнадземни етажа и едно подземно ниво (паркинг). Всеки етаж е с площ от\r\n1070 кв.м., а подземният паркинг обхваща 2052 кв.м. На партерния етаж\r\nще откриете стилно фоайе с контролиран достъп, три асансьора,\r\nзаведение за хранене и четири офиса. Етажите от втори до осми са\r\nидентично разпределени, като всеки от тях включва четири офиса и\r\nфоайе. Офисите на всеки етаж могат да бъдат обединени в един цялостен\r\nopen space офис.Офис 14 и оф 15 са на ет 4 етаж от девет на сградата, с площ от291 кв.м. и 230 кв.м общи части. Подовете ще бъдат изградени с двоен под .\r\n.\r\n\r\nВашият брокер: Стефка Александрова\r\n\r\nТел.: 0888797275",
+    "site_posted_at": null,
+    "category": "business",
+    "category_confidence": "high",
+    "price_per_sqm": 1750,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 904750
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 65,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1793,
+    "pct_vs_area_avg": -2.4,
     "score": 8
   },
   {
@@ -13014,7 +13086,7 @@
   {
     "id": "imotibg_270566",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/възраждане-270566.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ac61e76d9e91_6ac61e76dfb0f.jpg",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ac61e76d9e91_6ac61e77adb4d.jpg",
     "price_eur": 123000,
     "sqm": 75,
     "area": "Възраждане",
@@ -14811,8 +14883,8 @@
     "days_on_market": 52,
     "source_status": "removed",
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": -99.2,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": -99.3,
     "score": 7
   },
   {
@@ -15295,8 +15367,8 @@
     "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 19.6,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 18.6,
     "score": 7
   },
   {
@@ -16483,8 +16555,8 @@
     "days_on_market": 62,
     "source_status": "removed",
     "removed_at": "2026-10-26T21:46:34.023682+00:00",
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 25.4,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 24.4,
     "score": 7
   },
   {
@@ -19296,38 +19368,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_265818",
-    "url": "https://imoti.bg/продажби/офис/варна/гранд-мол-варна-265818.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_67813106b815c_68c27d4b1d9a7.jpg",
-    "price_eur": 904750,
-    "sqm": 517,
-    "area": "Гранд Мол Варна",
-    "city": "Варна",
-    "title": "Офис, Гранд Мол Варна",
-    "portal": "imoti.bg",
-    "lat": 43.2173398,
-    "lng": 27.8984633,
-    "description": "Офиси в нова многофункционална бизнес сграда с модерна визия с А 15.\r\nСтъклена окачена фасада предлага дневна светлина и отлични условия за работа на вашите служители.\r\nВъзможност за покупка на  517 кв.м.\r\nТази модерна постройка е с елегантна стъклена фасада и разполага с 9\r\nнадземни етажа и едно подземно ниво (паркинг). Всеки етаж е с площ от\r\n1070 кв.м., а подземният паркинг обхваща 2052 кв.м. На партерния етаж\r\nще откриете стилно фоайе с контролиран достъп, три асансьора,\r\nзаведение за хранене и четири офиса. Етажите от втори до осми са\r\nидентично разпределени, като всеки от тях включва четири офиса и\r\nфоайе. Офисите на всеки етаж могат да бъдат обединени в един цялостен\r\nopen space офис.Офис 14 и оф 15 са на ет 4 етаж от девет на сградата, с площ от291 кв.м. и 230 кв.м общи части. Подовете ще бъдат изградени с двоен под .\r\n.\r\n\r\nВашият брокер: Стефка Александрова\r\n\r\nТел.: 0888797275",
-    "site_posted_at": null,
-    "category": "business",
-    "category_confidence": "high",
-    "price_per_sqm": 1750,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 904750
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1334,
-    "pct_vs_area_avg": 31.2,
-    "score": 7
-  },
-  {
     "id": "imotibg_267285",
     "url": "https://imoti.bg/продажби/склад/варна/метро-267285.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_686fbd12c2b71_6a7c3f36e61fa.png",
@@ -19451,8 +19491,8 @@
     "days_on_market": 52,
     "source_status": "removed",
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": -99.2,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": -99.3,
     "score": 7
   },
   {
@@ -22660,38 +22700,6 @@
     "score": 7
   },
   {
-    "id": "imotibg_266698",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/варна/младост-266698.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69ea12ab2b6d8_69ea12ab3b956.jpg",
-    "price_eur": 135000,
-    "sqm": 69,
-    "area": "Младост",
-    "city": "Варна",
-    "title": "Двустаен апартамент, Младост",
-    "portal": "imoti.bg",
-    "lat": 43.2240158,
-    "lng": 27.8866856,
-    "description": "Двустаен апартамент в кв. Младост 1, гр. Варна  с достъп до СПА и басейн.Издаване по БДС което Ви дава възможност за гъвкаво довършване според личните Ви предпочитания.\r\nРазпределение:\r\nФункционално разпределение с ъс самостоятелни две помещения, подходящи за довършване и обзавеждане по индивидуален проект.\r\nПредимства на имота:\r\nМодерна жилищна сграда с контролиран достъп\r\nСПА център, вътрешен и външен басейн за комфорт и релакс\r\nПанорамна гледка от височина\r\nСевероизточно изложение, гарантиращо светлина и уют\r\nОтлична локация близо до училища, детски градини, магазини, спирки на градски транспорт, здравни заведения и паркове\r\nПодходящ както за живеене, така и за инвестиция\r\nПродава се тристаен апартамент в същата сграда.\r\nАлександрова-0888797275",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1957,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 135000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 23.2,
-    "score": 7
-  },
-  {
     "id": "imotibg_516129",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/стрелбище-516129.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ad677e9595ae_6ad677fdf1035.jpeg",
@@ -24639,8 +24647,8 @@
     "days_on_market": 48,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 17.6,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 16.7,
     "score": 5
   },
   {
@@ -33043,8 +33051,8 @@
     "days_on_market": 14,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1589,
-    "pct_vs_area_avg": 30.5,
+    "area_avg_price_per_sqm": 1602,
+    "pct_vs_area_avg": 29.4,
     "score": 2
   },
   {
@@ -33059,7 +33067,7 @@
     "portal": "imoti.bg",
     "lat": null,
     "lng": null,
-    "description": "Два  поземлени имота, бивша машинна станция 13380 кв.м. и 7933 кв.м., общо 21 313 кв.м. Парцелите са съседни  граничещи с река  и със  възможност за обединяване при необходимост.\r\nКатегория на земята: 0\r\nЦена 13 € кв.м. Не се дължи ДДС.\r\nИмотът се намира   на изключително стратегическо място –  с. Калугерово, обл. Пазарджикна, на автомагистрала „Тракия“,  на 80 км от София и 60 км от Пловдив, само  на  минути от АМ „Тракия“ – бърза връзка за София, Пловдив, Бургас и границата с Турция.\r\nПодходящ за всякакво промишлено строителство, логистична база, автокъща, търговско представителство, инвестиция, соларен парк.\r\nОт собственик, 0876555815",
+    "description": "Два  поземлени имота, бивша машинна станция 13380 кв.м. и 7933 кв.м., общо 21 313 кв.м. Парцелите са съседни  граничещи с река  и със  възможност за обединяване при необходимост.\r\nКатегория на земята: 0\r\nЦена 13 € кв.м. Не се дължи ДДС.\r\nИмотът се намира   на изключително стратегическо място –  с. Калугерово, обл. Пазарджикна, на автомагистрала „Тракия“,  на 80 км от София и 60 км от Пловдив, само  на  минути от АМ „Тракия“ – бърза връзка за София, Пловдив, Бургас и границата с Турция.\r\nПодходящ за всякакво промишлено строителство, логистична база, автокъща, търговско представителство, инвестиция, соларен парк.\r\nОт собственик,",
     "site_posted_at": null,
     "category": "land",
     "category_confidence": "high",
@@ -34128,7 +34136,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
@@ -35346,6 +35354,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1494,
     "pct_vs_area_avg": 0.0,
+    "score": 0
+  },
+  {
+    "id": "imotibg_270375",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/варна/гранд-мол-варна-270375.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae35ebea08eb_6ae35ec099687.jpg",
+    "price_eur": 189900,
+    "sqm": 70,
+    "area": "Гранд Мол Варна",
+    "city": "Варна",
+    "title": "Тристаен апартамент, Гранд Мол Варна",
+    "portal": "imoti.bg",
+    "lat": 43.2173398,
+    "lng": 27.8984633,
+    "description": "Продава тристаен апартамент с площ 70 кв.м, находящ се в гр. Варна, до Varna Mall. Имотът е разположен на 7-ми етаж от общо 9 в тухлена сграда с асансьор и поддържани общи части. Състои се от просторен хол с напълно оборудвана кухня и излаз на тераса, две спални, коридор и две бани с тоалетни. Апартаментът е след цялостен основен ремонт с изцяло нови ВиК и ел. инсталации, висок клас дограма и външна топлоизолация. Изложение изток-запад и страхотна панорамна гледка. Към имота има избено помещение. Около сградата има свободни места за паркиране.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2713,
+    "price_history": [
+      {
+        "date": "2026-10-29T20:53:41.308908+00:00",
+        "price_eur": 189900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1793,
+    "pct_vs_area_avg": 51.3,
     "score": 0
   }
 ]
