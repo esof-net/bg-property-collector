@@ -14232,7 +14232,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 64,
+    "days_on_market": 65,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 43,
@@ -26348,6 +26348,38 @@
     "score": 5
   },
   {
+    "id": "imotibg_515919",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/люлин-5-515919.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aae7b3481ed4_6aae7d11794ab.jpg",
+    "price_eur": 108000,
+    "sqm": 48,
+    "area": "Люлин 5",
+    "city": "София",
+    "title": "Едностаен апартамент, Люлин 5",
+    "portal": "imoti.bg",
+    "lat": 42.720834,
+    "lng": 23.5291196,
+    "description": "Продавам едностаен апрартамент състоящ се от пхл, кухня, баня с тоалетна, коридор и остъклена тераса.Жилището е ремонтирано и има нужда единствено от освежителен ремонт.Намира се в блок 504 в близост до спирки на гладски транспорт и магазин Кик.Входът е с контролиран достъп и с озеленени площи пред него.Моля брокери от агенции да не се обаждат.Не се ангажирам с такси и комисиони.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2250,
+    "price_history": [
+      {
+        "date": "2026-09-19T17:19:06.893774+00:00",
+        "price_eur": 108000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 41,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2129,
+    "pct_vs_area_avg": 5.7,
+    "score": 5
+  },
+  {
     "id": "imotibg_515903",
     "url": "https://imoti.bg/продажби/едностаен-апартамент/видин/съединение-515903.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aabcb54183cd_6aabcbe49c473.jpg",
@@ -28013,38 +28045,6 @@
     "removed_at": "2026-09-29T20:08:08.938245+00:00",
     "area_avg_price_per_sqm": 63,
     "pct_vs_area_avg": 0.0,
-    "score": 4
-  },
-  {
-    "id": "imotibg_515919",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/люлин-5-515919.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6aae7b3481ed4_6aae7d11794ab.jpg",
-    "price_eur": 108000,
-    "sqm": 48,
-    "area": "Люлин 5",
-    "city": "София",
-    "title": "Едностаен апартамент, Люлин 5",
-    "portal": "imoti.bg",
-    "lat": 42.720834,
-    "lng": 23.5291196,
-    "description": "Продавам едностаен апрартамент състоящ се от пхл, кухня, баня с тоалетна, коридор и остъклена тераса.Жилището е ремонтирано и има нужда единствено от освежителен ремонт.Намира се в блок 504 в близост до спирки на гладски транспорт и магазин Кик.Входът е с контролиран достъп и с озеленени площи пред него.Моля брокери от агенции да не се обаждат.Не се ангажирам с такси и комисиони.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2250,
-    "price_history": [
-      {
-        "date": "2026-09-19T17:19:06.893774+00:00",
-        "price_eur": 108000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 40,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2129,
-    "pct_vs_area_avg": 5.7,
     "score": 4
   },
   {
