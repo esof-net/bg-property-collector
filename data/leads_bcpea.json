@@ -2905,9 +2905,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 21,
+    "source_status": "removed",
+    "removed_at": "2026-10-29T08:58:08.507933+00:00",
+    "days_on_market": 20,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -58.2,
     "score": 17
