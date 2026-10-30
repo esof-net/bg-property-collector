@@ -957053,7 +957053,11 @@
       "title": "House, 321 м 2 Sofia, Boyana",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6500900558,
+      "lng": 23.2783797501
     }
   },
   "6093262": {
@@ -957075,7 +957079,17 @@
       "title": "2 bedroom apartment, 111 м 2 Sofia, East Manastirski livadi",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6093262/main_image/thumb_1200x630_wm_main_image_6093262_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_6.jpg"
+      ]
     }
   },
   "6318823": {
@@ -957097,7 +957111,11 @@
       "title": "1 bedroom apartment, 72 м 2 Sofia, Iztok",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6230578": {
@@ -957119,7 +957137,17 @@
       "title": "2 bedroom apartment, 108 м 2 Sofia, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6230578/main_image/thumb_1200x630_wm_main_image_6230578_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_6.jpg"
+      ]
     }
   },
   "6093259": {
@@ -957141,7 +957169,17 @@
       "title": "2 bedroom apartment, 116 м 2 Sofia, East Manastirski livadi",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6093259/main_image/thumb_1200x630_wm_main_image_6093259_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_6.jpg"
+      ]
     }
   },
   "6261033": {
@@ -957163,7 +957201,13 @@
       "title": "2 bedroom apartment, 137 м 2 Sofia, Drujba",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6261033/main_image/thumb_1200x630_wm_main_image_6261033_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261033/images/thumb_1200x630_wm_images_6261033_2.jpg"
+      ]
     }
   },
   "6264864": {
@@ -957185,7 +957229,17 @@
       "title": "2 bedroom apartment, 125 м 2 Sofia, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6264864/main_image/thumb_1200x630_wm_main_image_6264864_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_6.jpg"
+      ]
     }
   },
   "6276112": {
@@ -957207,7 +957261,15 @@
       "title": "2 bedroom apartment, 112 м 2 Sofia, Malinova Dolina",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6276112/main_image/thumb_1200x630_wm_main_image_6276112_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_4.jpg"
+      ]
     }
   },
   "6088842": {
@@ -957229,7 +957291,17 @@
       "title": "4+ bedroom apartment, 262 м 2 Sofia, Bakston",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6088842/main_image/thumb_1200x630_wm_main_image_6088842_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_6.jpg"
+      ]
     }
   },
   "6258218": {
@@ -957251,7 +957323,17 @@
       "title": "4+ bedroom apartment, 104 м 2 Sofia, Mladost",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6258218/main_image/thumb_1200x630_wm_main_image_6258218_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_6.jpg"
+      ]
     }
   },
   "6248479": {
@@ -957273,7 +957355,17 @@
       "title": "4+ bedroom apartment, 96 м 2 Sofia, Lozenets",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6248479/main_image/thumb_1200x630_wm_main_image_6248479_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_6.jpg"
+      ]
     }
   },
   "6089769": {
@@ -957295,7 +957387,19 @@
       "title": "House, 240 м 2 Sofia, Bankya",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.7062274546,
+      "lng": 23.1480605497,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6089769/main_image/thumb_1200x630_wm_main_image_6089769_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_6.jpg"
+      ]
     }
   },
   "6261028": {
@@ -957317,7 +957421,17 @@
       "title": "2 bedroom apartment, 100 м 2 Sofia, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6261028/main_image/thumb_1200x630_wm_main_image_6261028_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_6.jpg"
+      ]
     }
   },
   "6276096": {
@@ -957339,7 +957453,17 @@
       "title": "2 bedroom apartment, 132 м 2 Sofia, Lozenets",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6276096/main_image/thumb_1200x630_wm_main_image_6276096_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_6.jpg"
+      ]
     }
   },
   "6252836": {
@@ -957361,7 +957485,17 @@
       "title": "2 bedroom apartment, 69 м 2 Sofia, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6252836/main_image/thumb_1200x630_wm_main_image_6252836_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_6.jpg"
+      ]
     }
   },
   "6093320": {
@@ -957383,7 +957517,17 @@
       "title": "4+ bedroom apartment, 179 м 2 Sofia, East Manastirski livadi",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6093320/main_image/thumb_1200x630_wm_main_image_6093320_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_6.jpg"
+      ]
     }
   },
   "6264841": {
@@ -957405,7 +957549,17 @@
       "title": "2 bedroom apartment, 130 м 2 Sofia, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6264841/main_image/thumb_1200x630_wm_main_image_6264841_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_6.jpg"
+      ]
     }
   },
   "6093253": {
@@ -957427,7 +957581,17 @@
       "title": "House, 330 м 2 Sofia, Bistritsa",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6093253/main_image/thumb_1200x630_wm_main_image_6093253_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_6.jpg"
+      ]
     }
   },
   "6318324": {
@@ -957449,7 +957613,11 @@
       "title": "Office, 135 м 2 Sofia, Lozenets",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.670373344,
+      "lng": 23.3286265102
     }
   },
   "6318980": {
@@ -957471,7 +957639,16 @@
       "title": "Studio/bedsit, 24 м 2 Sofia, Triygylnika",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318980/main_image/thumb_1200x630_wm_main_image_6318980_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_5.jpg"
+      ]
     }
   },
   "6318897": {
@@ -957493,7 +957670,11 @@
       "title": "Studio/bedsit, 45 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.7188319861,
+      "lng": 23.267138143
     }
   },
   "6318771": {
@@ -957515,7 +957696,11 @@
       "title": "Studio/bedsit, 46 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318773": {
@@ -957537,7 +957722,11 @@
       "title": "1 bedroom apartment, 46 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318628": {
@@ -957559,7 +957748,11 @@
       "title": "Studio/bedsit, 42 м 2 Sofia, Lyulin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318344": {
@@ -957581,7 +957774,11 @@
       "title": "Shop, 32 м 2 Plovdiv, Center",
       "portal": "imoti.net",
       "category": "shop",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316597": {
@@ -957603,7 +957800,11 @@
       "title": "1 bedroom apartment, 74 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6314527": {
@@ -957625,7 +957826,11 @@
       "title": "Development land, 425 м 2 Plovdiv, Proslav",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6315004": {
@@ -957647,7 +957852,11 @@
       "title": "1 bedroom apartment, 54 м 2 Plovdiv, Kamenica",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6314973": {
@@ -957669,7 +957878,11 @@
       "title": "1 bedroom apartment, 57 м 2 Plovdiv, Kamenica",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6314592": {
@@ -957691,7 +957904,11 @@
       "title": "1 bedroom apartment, 72 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6312416": {
@@ -957713,7 +957930,11 @@
       "title": "4+ bedroom apartment, 126 м 2 Plovdiv, Kichuk Paris",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.1252324493,
+      "lng": 24.7373993849
     }
   },
   "6314118": {
@@ -957735,7 +957956,11 @@
       "title": "2 bedroom apartment, 86 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318775": {
@@ -957757,7 +957982,11 @@
       "title": "2 bedroom apartment, 135 м 2 Plovdiv, Proslav",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6195096": {
@@ -957779,7 +958008,17 @@
       "title": "Garage, 16 м 2 Plovdiv, Karshiaka",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6195096/main_image/thumb_1200x630_wm_main_image_6195096_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_6.jpg"
+      ]
     }
   },
   "6297501": {
@@ -957801,7 +958040,16 @@
       "title": "Development land, 677 м 2 Plovdiv",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6297501/main_image/thumb_1200x630_wm_main_image_6297501_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_5.jpg"
+      ]
     }
   },
   "6243144": {
@@ -957823,7 +958071,13 @@
       "title": "1 bedroom apartment, 60 м 2 Plovdiv, Belomorski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6243144/main_image/thumb_1200x630_wm_main_image_6243144_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6243144/images/thumb_1200x630_wm_images_6243144_2.jpg"
+      ]
     }
   },
   "6313771": {
@@ -957845,7 +958099,11 @@
       "title": "1 bedroom apartment, 63 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6317625": {
@@ -957867,7 +958125,11 @@
       "title": "Studio/bedsit, 36 м 2 Plovdiv, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6316508": {
@@ -957889,7 +958151,17 @@
       "title": "1 bedroom apartment, 47 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6316508/main_image/thumb_1200x630_wm_main_image_6316508_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_6.jpg"
+      ]
     }
   },
   "6317976": {
@@ -957911,7 +958183,16 @@
       "title": "Studio/bedsit, 46 м 2 Plovdiv, Grebna Baza",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6317976/main_image/thumb_1200x630_wm_main_image_6317976_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_5.jpg"
+      ]
     }
   },
   "6318988": {
@@ -957933,7 +958214,19 @@
       "title": "Studio/bedsit, 32 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.1152011,
+      "lng": 24.722568,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318988/main_image/thumb_1200x630_wm_main_image_6318988_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_6.jpg"
+      ]
     }
   },
   "6297511": {
@@ -957955,7 +958248,17 @@
       "title": "1 bedroom apartment, 73 м 2 Plovdiv, Southern",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6297511/main_image/thumb_1200x630_wm_main_image_6297511_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_6.jpg"
+      ]
     }
   },
   "6297494": {
@@ -957977,7 +958280,17 @@
       "title": "1 bedroom apartment, 77 м 2 Plovdiv, Gagarin",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6297494/main_image/thumb_1200x630_wm_main_image_6297494_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_6.jpg"
+      ]
     }
   },
   "6302559": {
@@ -957999,7 +958312,17 @@
       "title": "1 bedroom apartment, 87 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6302559/main_image/thumb_1200x630_wm_main_image_6302559_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_6.jpg"
+      ]
     }
   },
   "6317623": {
@@ -958021,7 +958344,11 @@
       "title": "2 bedroom apartment, 72 м 2 Plovdiv, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318143": {
@@ -958043,7 +958370,11 @@
       "title": "1 bedroom apartment, 64 м 2 Plovdiv, Kichuk Paris",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6313801": {
@@ -958065,7 +958396,11 @@
       "title": "1 bedroom apartment, 65 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6314841": {
@@ -958087,7 +958422,15 @@
       "title": "1 bedroom apartment, 82 м 2 Plovdiv, Southern",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6314841/main_image/thumb_1200x630_wm_main_image_6314841_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_4.jpg"
+      ]
     }
   },
   "6297497": {
@@ -958109,7 +958452,17 @@
       "title": "1 bedroom apartment, 61 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6297497/main_image/thumb_1200x630_wm_main_image_6297497_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_6.jpg"
+      ]
     }
   },
   "6311356": {
@@ -958131,7 +958484,11 @@
       "title": "1 bedroom apartment, 63 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6243141": {
@@ -958153,7 +958510,13 @@
       "title": "1 bedroom apartment, 72 м 2 Plovdiv, Southern",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6243141/main_image/thumb_1200x630_wm_main_image_6243141_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6243141/images/thumb_1200x630_wm_images_6243141_2.jpg"
+      ]
     }
   },
   "6318435": {
@@ -958175,7 +958538,11 @@
       "title": "1 bedroom apartment, 64 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6267465": {
@@ -958197,7 +958564,12 @@
       "title": "1 bedroom apartment, 75 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6267465/main_image/thumb_1200x630_wm_main_image_6267465_1.jpg"
+      ]
     }
   },
   "6243143": {
@@ -958219,7 +958591,13 @@
       "title": "1 bedroom apartment, 72 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6243143/main_image/thumb_1200x630_wm_main_image_6243143_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6243143/images/thumb_1200x630_wm_images_6243143_2.jpg"
+      ]
     }
   },
   "6277727": {
@@ -958241,7 +958619,17 @@
       "title": "1 bedroom apartment, 44 м 2 Plovdiv, Vastanicheski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6277727/main_image/thumb_1200x630_wm_main_image_6277727_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_6.jpg"
+      ]
     }
   },
   "6308811": {
@@ -958263,7 +958651,17 @@
       "title": "1 bedroom apartment, 74 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6308811/main_image/thumb_1200x630_wm_main_image_6308811_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_6.jpg"
+      ]
     }
   },
   "6243142": {
@@ -958285,7 +958683,13 @@
       "title": "1 bedroom apartment, 64 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6243142/main_image/thumb_1200x630_wm_main_image_6243142_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6243142/images/thumb_1200x630_wm_images_6243142_2.jpg"
+      ]
     }
   },
   "6316601": {
@@ -958307,7 +958711,11 @@
       "title": "1 bedroom apartment, 74 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6120062": {
@@ -958329,7 +958737,13 @@
       "title": "1 bedroom apartment, 74 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6120062/main_image/thumb_1200x630_wm_main_image_6120062_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6120062/images/thumb_1200x630_wm_images_6120062_2.jpg"
+      ]
     }
   },
   "6310892": {
@@ -958351,7 +958765,11 @@
       "title": "2 bedroom apartment, 68 м 2 Plovdiv, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6313768": {
@@ -958373,7 +958791,11 @@
       "title": "2 bedroom apartment, 91 м 2 Plovdiv, Smirnenski",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6267469": {
@@ -958395,7 +958817,13 @@
       "title": "1 bedroom apartment, 76 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6267469/main_image/thumb_1200x630_wm_main_image_6267469_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6267469/images/thumb_1200x630_wm_images_6267469_2.jpg"
+      ]
     }
   },
   "5974360": {
@@ -958417,7 +958845,12 @@
       "title": "1 bedroom apartment, 73 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/5974360/main_image/thumb_1200x630_wm_main_image_5974360_1.jpg"
+      ]
     }
   },
   "6267470": {
@@ -958439,7 +958872,13 @@
       "title": "1 bedroom apartment, 77 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6267470/main_image/thumb_1200x630_wm_main_image_6267470_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6267470/images/thumb_1200x630_wm_images_6267470_2.jpg"
+      ]
     }
   },
   "6317630": {
@@ -958461,7 +958900,11 @@
       "title": "1 bedroom apartment, 65 м 2 Plovdiv, Trakia",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6267464": {
@@ -958483,7 +958926,13 @@
       "title": "1 bedroom apartment, 78 м 2 Plovdiv, Ostromila",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6267464/main_image/thumb_1200x630_wm_main_image_6267464_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6267464/images/thumb_1200x630_wm_images_6267464_2.jpg"
+      ]
     }
   },
   "6318877": {
@@ -958505,7 +958954,11 @@
       "title": "2 bedroom apartment, 129 м 2 Varna, Briz",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318663": {
@@ -958527,7 +958980,11 @@
       "title": "Studio/bedsit, 40 м 2 Varna, Vazrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318981": {
@@ -958549,7 +959006,19 @@
       "title": "1 bedroom apartment, 66 м 2 Varna, Vazrajdane",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.2394698896,
+      "lng": 27.867228769,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318981/main_image/thumb_1200x630_wm_main_image_6318981_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_6.jpg"
+      ]
     }
   },
   "6318856": {
@@ -958571,7 +959040,12 @@
       "title": "Garage, 13 м 2 Bourgas, Meden Rudnik",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318856/main_image/thumb_1200x630_wm_main_image_6318856_1.jpg"
+      ]
     }
   },
   "6318694": {
@@ -958593,7 +959067,11 @@
       "title": "1 bedroom apartment, 58 м 2 Bourgas, Gorno Ezerovo",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.5631046306,
+      "lng": 27.534345028
     }
   },
   "6319023": {
@@ -958615,7 +959093,19 @@
       "title": "1 bedroom apartment, 39 м 2 Bourgas, Slaveykov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.52051,
+      "lng": 27.451137,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6319023/main_image/thumb_1200x630_wm_main_image_6319023_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_6.jpg"
+      ]
     }
   },
   "6318697": {
@@ -958637,7 +959127,11 @@
       "title": "1 bedroom apartment, 65 м 2 Bourgas, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318692": {
@@ -958659,7 +959153,11 @@
       "title": "1 bedroom apartment, 68 м 2 Bourgas, Izgrev",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6312685": {
@@ -958681,7 +959179,11 @@
       "title": "1 bedroom apartment, 64 м 2 Stara Zagora, Jeleznik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318890": {
@@ -958703,7 +959205,11 @@
       "title": "1 bedroom apartment, 40 м 2 Stara Zagora, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318886": {
@@ -958725,7 +959231,11 @@
       "title": "2 bedroom apartment, 65 м 2 Stara Zagora, Zora",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318881": {
@@ -958747,7 +959257,11 @@
       "title": "1 bedroom apartment, 70 м 2 Stara Zagora, Novata Bania",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318893": {
@@ -958769,7 +959283,11 @@
       "title": "4+ bedroom apartment, 80 м 2 Stara Zagora, Novata Bania",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318894": {
@@ -958791,7 +959309,11 @@
       "title": "4+ bedroom apartment, 105 м 2 Stara Zagora, Jeleznik",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318947": {
@@ -958813,7 +959335,11 @@
       "title": "House, 150 м 2 Stara Zagora, Samara",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318883": {
@@ -958835,7 +959361,11 @@
       "title": "4+ bedroom apartment, 107 м 2 Stara Zagora, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318997": {
@@ -958857,7 +959387,19 @@
       "title": "Development land, 1719 м 2 Pleven, Industrialna Zona",
       "portal": "imoti.net",
       "category": "land",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.4197242928,
+      "lng": 24.6267584397,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318997/main_image/thumb_1200x630_wm_main_image_6318997_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_6.jpg"
+      ]
     }
   },
   "6318984": {
@@ -958879,7 +959421,14 @@
       "title": "Garage, 21 м 2 Shumen, Center",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318984/main_image/thumb_1200x630_wm_main_image_6318984_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318984/images/thumb_1200x630_wm_images_6318984_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318984/images/thumb_1200x630_wm_images_6318984_3.jpg"
+      ]
     }
   },
   "6318982": {
@@ -958901,7 +959450,14 @@
       "title": "Garage, 15 м 2 Shumen, Dobrudja",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318982/main_image/thumb_1200x630_wm_main_image_6318982_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318982/images/thumb_1200x630_wm_images_6318982_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318982/images/thumb_1200x630_wm_images_6318982_3.jpg"
+      ]
     }
   },
   "6318990": {
@@ -958923,7 +959479,18 @@
       "title": "House, 80 м 2 Shumen, Center",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.2660753,
+      "lng": 26.9120801,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318990/main_image/thumb_1200x630_wm_main_image_6318990_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_5.jpg"
+      ]
     }
   },
   "6318983": {
@@ -958945,7 +959512,17 @@
       "title": "Studio/bedsit, 40 м 2 Shumen, Boyan Balgaranov",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318983/main_image/thumb_1200x630_wm_main_image_6318983_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_6.jpg"
+      ]
     }
   },
   "6318739": {
@@ -958967,7 +959544,19 @@
       "title": "Studio/bedsit, 49 м 2 Shumen, Hospital",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.2746549506,
+      "lng": 26.9186067581,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318739/main_image/thumb_1200x630_wm_main_image_6318739_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_6.jpg"
+      ]
     }
   },
   "6318738": {
@@ -958989,7 +959578,18 @@
       "title": "2 bedroom apartment, 97 м 2 Shumen, Wide Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.2721635484,
+      "lng": 26.9341117676,
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318738/main_image/thumb_1200x630_wm_main_image_6318738_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_5.jpg"
+      ]
     }
   },
   "6318879": {
@@ -959011,7 +959611,17 @@
       "title": "Garage, 18 м 2 Haskovo, Ovcharski",
       "portal": "imoti.net",
       "category": "garage",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318879/main_image/thumb_1200x630_wm_main_image_6318879_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_6.jpg"
+      ]
     }
   },
   "6318704": {
@@ -959033,7 +959643,17 @@
       "title": "Building, 102 м 2 Yambol, Kargon",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "low"
+      "category_confidence": "low",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6318704/main_image/thumb_1200x630_wm_main_image_6318704_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_4.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_5.jpg",
+        "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_6.jpg"
+      ]
     }
   },
   "6318884": {
@@ -959055,7 +959675,11 @@
       "title": "Floor of a house, 106 м 2 Pazardzhik, Center",
       "portal": "imoti.net",
       "category": "house",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318661": {
@@ -959077,7 +959701,11 @@
       "title": "2 bedroom apartment, 105 м 2 Pazardzhik, Ideal center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.6960693142,
+      "lng": 23.3253958611
     }
   },
   "6318817": {
@@ -959099,7 +959727,11 @@
       "title": "Studio/bedsit, 49 м 2 Vratsa, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 43.2058794334,
+      "lng": 23.5573382753
     }
   },
   "6318701": {
@@ -959121,7 +959753,11 @@
       "title": "1 bedroom apartment, 56 м 2 Gabrovo, Trendafil",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.894595714,
+      "lng": 25.3148398054
     }
   },
   "6318706": {
@@ -959143,7 +959779,11 @@
       "title": "2 bedroom apartment, 95 м 2 Gabrovo, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.8891830513,
+      "lng": 25.3217275943
     }
   },
   "6318712": {
@@ -959165,7 +959805,11 @@
       "title": "2 bedroom apartment, 95 м 2 Gabrovo, Sirmani",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.8693271983,
+      "lng": 25.304946683
     }
   },
   "6318730": {
@@ -959187,7 +959831,11 @@
       "title": "2 bedroom apartment, 106 м 2 Gabrovo, Bichkinya",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "lat": 42.853653944,
+      "lng": 25.3406272931
     }
   },
   "5194721": {
@@ -959209,7 +959857,15 @@
       "title": "Industrial property, 865 м 2 Gabrovo, Lisets",
       "portal": "imoti.net",
       "category": "business",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-29",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/5194721/main_image/thumb_1200x630_wm_main_image_5194721_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_4.jpg"
+      ]
     }
   }
 }

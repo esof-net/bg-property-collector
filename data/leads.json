@@ -16429,7 +16429,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 71,
+    "days_on_market": 72,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
@@ -75344,7 +75344,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 71,
+    "days_on_market": 72,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
@@ -97143,6 +97143,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6088842/main_image/thumb_1200x630_wm_main_image_6088842_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6088842/images/thumb_1200x630_wm_images_6088842_6.jpg"
+    ],
     "price_per_sqm": 1412,
     "price_history": [
       {
@@ -97152,7 +97162,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2519,
@@ -97171,6 +97181,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.894595714,
+    "lng": 25.3148398054,
     "price_per_sqm": 929,
     "price_history": [
       {
@@ -97180,7 +97194,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1738,
@@ -112047,6 +112061,10 @@
     "portal": "imoti.net",
     "category": "shop",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1344,
     "price_history": [
       {
@@ -112056,7 +112074,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2153,
@@ -112075,6 +112093,13 @@
     "portal": "imoti.net",
     "category": "garage",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318984/main_image/thumb_1200x630_wm_main_image_6318984_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318984/images/thumb_1200x630_wm_images_6318984_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318984/images/thumb_1200x630_wm_images_6318984_3.jpg"
+    ],
     "price_per_sqm": 1048,
     "price_history": [
       {
@@ -112084,7 +112109,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1638,
@@ -148013,6 +148038,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6302559/main_image/thumb_1200x630_wm_main_image_6302559_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6302559/images/thumb_1200x630_wm_images_6302559_6.jpg"
+    ],
     "price_per_sqm": 947,
     "price_history": [
       {
@@ -148022,7 +148057,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -148041,6 +148076,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1103,
     "price_history": [
       {
@@ -148050,7 +148089,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -195364,6 +195403,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1182,
     "price_history": [
       {
@@ -195373,11 +195416,49 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -26.2,
+    "score": 10
+  },
+  {
+    "id": "6297511",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/dvustaen/6297511/?sid=huZFPB&page=15",
+    "photo": "https://www.imoti.net/web/files/obiavi/6297511/main_image/thumb_280x210_main_image_6297511_1.jpg?ver=1793329551",
+    "price_eur": 80000,
+    "sqm": 73,
+    "area": "Southern",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 73 м 2 Plovdiv, Southern",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6297511/main_image/thumb_1200x630_wm_main_image_6297511_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297511/images/thumb_1200x630_wm_images_6297511_6.jpg"
+    ],
+    "price_per_sqm": 1096,
+    "price_history": [
+      {
+        "date": "2026-10-30T03:13:53.437766+00:00",
+        "price_eur": 80000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1465,
+    "pct_vs_area_avg": -25.2,
     "score": 10
   },
   {
@@ -195392,6 +195473,14 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6314841/main_image/thumb_1200x630_wm_main_image_6314841_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6314841/images/thumb_1200x630_wm_images_6314841_4.jpg"
+    ],
     "price_per_sqm": 1085,
     "price_history": [
       {
@@ -195401,7 +195490,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1465,
@@ -226721,34 +226810,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1243,
     "pct_vs_area_avg": -23.0,
-    "score": 9
-  },
-  {
-    "id": "6297511",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/dvustaen/6297511/?sid=huZFPB&page=15",
-    "photo": "https://www.imoti.net/web/files/obiavi/6297511/main_image/thumb_280x210_main_image_6297511_1.jpg?ver=1793329551",
-    "price_eur": 80000,
-    "sqm": 73,
-    "area": "Southern",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 73 м 2 Plovdiv, Southern",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1096,
-    "price_history": [
-      {
-        "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 80000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 0,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1465,
-    "pct_vs_area_avg": -25.2,
     "score": 9
   },
   {
@@ -265091,6 +265152,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.1252324493,
+    "lng": 24.7373993849,
     "price_per_sqm": 1270,
     "price_history": [
       {
@@ -265100,11 +265165,49 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
     "pct_vs_area_avg": -20.3,
+    "score": 8
+  },
+  {
+    "id": "6297494",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/gagarin/dvustaen/6297494/?sid=huZFPB&page=16",
+    "photo": "https://www.imoti.net/web/files/obiavi/6297494/main_image/thumb_280x210_main_image_6297494_1.jpg?ver=1793329554",
+    "price_eur": 82000,
+    "sqm": 77,
+    "area": "Gagarin",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 77 м 2 Plovdiv, Gagarin",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6297494/main_image/thumb_1200x630_wm_main_image_6297494_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297494/images/thumb_1200x630_wm_images_6297494_6.jpg"
+    ],
+    "price_per_sqm": 1065,
+    "price_history": [
+      {
+        "date": "2026-10-30T03:13:53.437766+00:00",
+        "price_eur": 82000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1330,
+    "pct_vs_area_avg": -19.9,
     "score": 8
   },
   {
@@ -265119,6 +265222,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.8891830513,
+    "lng": 25.3217275943,
     "price_per_sqm": 684,
     "price_history": [
       {
@@ -265128,7 +265235,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 873,
@@ -318935,6 +319042,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6264864/main_image/thumb_1200x630_wm_main_image_6264864_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264864/images/thumb_1200x630_wm_images_6264864_6.jpg"
+    ],
     "price_per_sqm": 2639,
     "price_history": [
       {
@@ -318944,39 +319061,11 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3221,
     "pct_vs_area_avg": -18.1,
-    "score": 7
-  },
-  {
-    "id": "6297494",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/gagarin/dvustaen/6297494/?sid=huZFPB&page=16",
-    "photo": "https://www.imoti.net/web/files/obiavi/6297494/main_image/thumb_280x210_main_image_6297494_1.jpg?ver=1793329554",
-    "price_eur": 82000,
-    "sqm": 77,
-    "area": "Gagarin",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 77 м 2 Plovdiv, Gagarin",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1065,
-    "price_history": [
-      {
-        "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 82000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 0,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1330,
-    "pct_vs_area_avg": -19.9,
     "score": 7
   },
   {
@@ -318991,6 +319080,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1297,
     "price_history": [
       {
@@ -319000,7 +319093,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -319019,6 +319112,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6243143/main_image/thumb_1200x630_wm_main_image_6243143_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6243143/images/thumb_1200x630_wm_images_6243143_2.jpg"
+    ],
     "price_per_sqm": 1297,
     "price_history": [
       {
@@ -319028,7 +319127,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -375981,6 +376080,44 @@
     "score": 6
   },
   {
+    "id": "6195096",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/garaj/6195096/?sid=huZFPB&page=4",
+    "photo": "https://www.imoti.net/web/files/obiavi/6195096/main_image/thumb_280x210_main_image_6195096_1.jpg?ver=1793329526",
+    "price_eur": 23000,
+    "sqm": 16,
+    "area": "Karshiaka",
+    "city": "Пловдив",
+    "title": "Garage, 16 м 2 Plovdiv, Karshiaka",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6195096/main_image/thumb_1200x630_wm_main_image_6195096_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6195096/images/thumb_1200x630_wm_images_6195096_6.jpg"
+    ],
+    "price_per_sqm": 1438,
+    "price_history": [
+      {
+        "date": "2026-10-30T03:13:53.437766+00:00",
+        "price_eur": 23000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1683,
+    "pct_vs_area_avg": -14.6,
+    "score": 6
+  },
+  {
     "id": "6243141",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/dvustaen/6243141/?sid=huZFPB&page=22",
     "photo": "https://www.imoti.net/web/files/obiavi/6243141/main_image/thumb_280x210_main_image_6243141_1.jpg?ver=1793329568",
@@ -375992,6 +376129,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6243141/main_image/thumb_1200x630_wm_main_image_6243141_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6243141/images/thumb_1200x630_wm_images_6243141_2.jpg"
+    ],
     "price_per_sqm": 1243,
     "price_history": [
       {
@@ -376001,7 +376144,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1465,
@@ -376020,6 +376163,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6308811/main_image/thumb_1200x630_wm_main_image_6308811_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6308811/images/thumb_1200x630_wm_images_6308811_6.jpg"
+    ],
     "price_per_sqm": 1311,
     "price_history": [
       {
@@ -376029,7 +376182,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -376048,6 +376201,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6120062/main_image/thumb_1200x630_wm_main_image_6120062_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6120062/images/thumb_1200x630_wm_images_6120062_2.jpg"
+    ],
     "price_per_sqm": 1345,
     "price_history": [
       {
@@ -376057,7 +376216,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -376076,6 +376235,18 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.2394698896,
+    "lng": 27.867228769,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318981/main_image/thumb_1200x630_wm_main_image_6318981_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318981/images/thumb_1200x630_wm_images_6318981_6.jpg"
+    ],
     "price_per_sqm": 1450,
     "price_history": [
       {
@@ -376085,7 +376256,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1740,
@@ -443998,6 +444169,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1338,
     "price_history": [
       {
@@ -444007,7 +444182,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -444015,31 +444190,36 @@
     "score": 5
   },
   {
-    "id": "6195096",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kyrshijaka/garaj/6195096/?sid=huZFPB&page=4",
-    "photo": "https://www.imoti.net/web/files/obiavi/6195096/main_image/thumb_280x210_main_image_6195096_1.jpg?ver=1793329526",
-    "price_eur": 23000,
-    "sqm": 16,
-    "area": "Karshiaka",
+    "id": "6267465",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/dvustaen/6267465/?sid=huZFPB&page=24",
+    "photo": "https://www.imoti.net/web/files/obiavi/6267465/main_image/thumb_280x210_main_image_6267465_1.jpg?ver=1793329572",
+    "price_eur": 90858,
+    "sqm": 75,
+    "area": "Ostromila",
     "city": "Пловдив",
-    "title": "Garage, 16 м 2 Plovdiv, Karshiaka",
+    "title": "1 bedroom apartment, 75 м 2 Plovdiv, Ostromila",
     "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "price_per_sqm": 1438,
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6267465/main_image/thumb_1200x630_wm_main_image_6267465_1.jpg"
+    ],
+    "price_per_sqm": 1211,
     "price_history": [
       {
         "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 23000
+        "price_eur": 90858
       }
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1683,
-    "pct_vs_area_avg": -14.6,
+    "area_avg_price_per_sqm": 1374,
+    "pct_vs_area_avg": -11.8,
     "score": 5
   },
   {
@@ -444054,6 +444234,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1338,
     "price_history": [
       {
@@ -444063,7 +444247,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -444082,6 +444266,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1615,
     "price_history": [
       {
@@ -444091,7 +444279,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1839,
@@ -444110,6 +444298,18 @@
     "portal": "imoti.net",
     "category": "land",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.4197242928,
+    "lng": 24.6267584397,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318997/main_image/thumb_1200x630_wm_main_image_6318997_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318997/images/thumb_1200x630_wm_images_6318997_6.jpg"
+    ],
     "price_per_sqm": 133,
     "price_history": [
       {
@@ -444119,7 +444319,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 154,
@@ -531361,6 +531561,15 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6317976/main_image/thumb_1200x630_wm_main_image_6317976_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6317976/images/thumb_1200x630_wm_images_6317976_5.jpg"
+    ],
     "price_per_sqm": 1739,
     "price_history": [
       {
@@ -531370,7 +531579,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1957,
@@ -531389,6 +531598,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1153,
     "price_history": [
       {
@@ -531398,7 +531611,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1295,
@@ -531417,6 +531630,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1419,
     "price_history": [
       {
@@ -531426,7 +531643,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -531445,6 +531662,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1414,
     "price_history": [
       {
@@ -531454,39 +531675,11 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -11.7,
-    "score": 4
-  },
-  {
-    "id": "6267465",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/dvustaen/6267465/?sid=huZFPB&page=24",
-    "photo": "https://www.imoti.net/web/files/obiavi/6267465/main_image/thumb_280x210_main_image_6267465_1.jpg?ver=1793329572",
-    "price_eur": 90858,
-    "sqm": 75,
-    "area": "Ostromila",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 75 м 2 Plovdiv, Ostromila",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1211,
-    "price_history": [
-      {
-        "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 90858
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 0,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1374,
-    "pct_vs_area_avg": -11.8,
     "score": 4
   },
   {
@@ -531501,6 +531694,11 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/5974360/main_image/thumb_1200x630_wm_main_image_5974360_1.jpg"
+    ],
     "price_per_sqm": 1393,
     "price_history": [
       {
@@ -531510,7 +531708,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -531529,6 +531727,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1248,
     "price_history": [
       {
@@ -531538,7 +531740,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1383,
@@ -531557,6 +531759,18 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.2746549506,
+    "lng": 26.9186067581,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318739/main_image/thumb_1200x630_wm_main_image_6318739_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318739/images/thumb_1200x630_wm_images_6318739_6.jpg"
+    ],
     "price_per_sqm": 1428,
     "price_history": [
       {
@@ -531566,7 +531780,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1592,
@@ -614749,6 +614963,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6093262/main_image/thumb_1200x630_wm_main_image_6093262_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093262/images/thumb_1200x630_wm_images_6093262_6.jpg"
+    ],
     "price_per_sqm": 2680,
     "price_history": [
       {
@@ -614758,7 +614982,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2938,
@@ -614777,6 +615001,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6093259/main_image/thumb_1200x630_wm_main_image_6093259_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093259/images/thumb_1200x630_wm_images_6093259_6.jpg"
+    ],
     "price_per_sqm": 2674,
     "price_history": [
       {
@@ -614786,7 +615020,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2938,
@@ -614805,6 +615039,15 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318980/main_image/thumb_1200x630_wm_main_image_6318980_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318980/images/thumb_1200x630_wm_images_6318980_5.jpg"
+    ],
     "price_per_sqm": 2354,
     "price_history": [
       {
@@ -614814,11 +615057,49 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2574,
     "pct_vs_area_avg": -8.6,
+    "score": 3
+  },
+  {
+    "id": "6297497",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/dvustaen/6297497/?sid=huZFPB&page=22",
+    "photo": "https://www.imoti.net/web/files/obiavi/6297497/main_image/thumb_280x210_main_image_6297497_1.jpg?ver=1793329568",
+    "price_eur": 89000,
+    "sqm": 61,
+    "area": "Trakia",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 61 м 2 Plovdiv, Trakia",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6297497/main_image/thumb_1200x630_wm_main_image_6297497_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297497/images/thumb_1200x630_wm_images_6297497_6.jpg"
+    ],
+    "price_per_sqm": 1459,
+    "price_history": [
+      {
+        "date": "2026-10-30T03:13:53.437766+00:00",
+        "price_eur": 89000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1561,
+    "pct_vs_area_avg": -6.5,
     "score": 3
   },
   {
@@ -614833,6 +615114,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1676,
     "price_history": [
       {
@@ -614842,7 +615127,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1839,
@@ -614861,6 +615146,13 @@
     "portal": "imoti.net",
     "category": "garage",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318982/main_image/thumb_1200x630_wm_main_image_6318982_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318982/images/thumb_1200x630_wm_images_6318982_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318982/images/thumb_1200x630_wm_images_6318982_3.jpg"
+    ],
     "price_per_sqm": 1500,
     "price_history": [
       {
@@ -614870,7 +615162,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1617,
@@ -747549,6 +747841,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1300,
     "price_history": [
       {
@@ -747558,39 +747854,11 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
     "pct_vs_area_avg": -5.4,
-    "score": 2
-  },
-  {
-    "id": "6297497",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/trakija/dvustaen/6297497/?sid=huZFPB&page=22",
-    "photo": "https://www.imoti.net/web/files/obiavi/6297497/main_image/thumb_280x210_main_image_6297497_1.jpg?ver=1793329568",
-    "price_eur": 89000,
-    "sqm": 61,
-    "area": "Trakia",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 61 м 2 Plovdiv, Trakia",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1459,
-    "price_history": [
-      {
-        "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 89000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 0,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1561,
-    "pct_vs_area_avg": -6.5,
     "score": 2
   },
   {
@@ -747605,6 +747873,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6243142/main_image/thumb_1200x630_wm_main_image_6243142_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6243142/images/thumb_1200x630_wm_images_6243142_2.jpg"
+    ],
     "price_per_sqm": 1525,
     "price_history": [
       {
@@ -747614,11 +747888,43 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -4.7,
+    "score": 2
+  },
+  {
+    "id": "6318877",
+    "url": "https://www.imoti.net/en/obiava/prodava/varna/briz/tristaen/6318877/?sid=hOOTsy&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/6318877/main_image/thumb_280x210_1.png?ver=1793329617",
+    "price_eur": 296000,
+    "sqm": 129,
+    "area": "Briz",
+    "city": "Варна",
+    "title": "2 bedroom apartment, 129 м 2 Varna, Briz",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
+    "price_per_sqm": 2295,
+    "price_history": [
+      {
+        "date": "2026-10-30T03:13:53.437766+00:00",
+        "price_eur": 296000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 1,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2388,
+    "pct_vs_area_avg": -3.9,
     "score": 2
   },
   {
@@ -848830,6 +849136,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6093320/main_image/thumb_1200x630_wm_main_image_6093320_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093320/images/thumb_1200x630_wm_images_6093320_6.jpg"
+    ],
     "price_per_sqm": 2888,
     "price_history": [
       {
@@ -848839,7 +849155,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2938,
@@ -848858,6 +849174,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6243144/main_image/thumb_1200x630_wm_main_image_6243144_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6243144/images/thumb_1200x630_wm_images_6243144_2.jpg"
+    ],
     "price_per_sqm": 1103,
     "price_history": [
       {
@@ -848867,7 +849189,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1123,
@@ -848886,6 +849208,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6267469/main_image/thumb_1200x630_wm_main_image_6267469_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6267469/images/thumb_1200x630_wm_images_6267469_2.jpg"
+    ],
     "price_per_sqm": 1324,
     "price_history": [
       {
@@ -848895,7 +849223,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -848914,6 +849242,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6267470/main_image/thumb_1200x630_wm_main_image_6267470_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6267470/images/thumb_1200x630_wm_images_6267470_2.jpg"
+    ],
     "price_per_sqm": 1332,
     "price_history": [
       {
@@ -848923,7 +849257,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -848942,6 +849276,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6267464/main_image/thumb_1200x630_wm_main_image_6267464_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6267464/images/thumb_1200x630_wm_images_6267464_2.jpg"
+    ],
     "price_per_sqm": 1325,
     "price_history": [
       {
@@ -848951,39 +849291,11 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
     "pct_vs_area_avg": -3.5,
-    "score": 1
-  },
-  {
-    "id": "6318877",
-    "url": "https://www.imoti.net/en/obiava/prodava/varna/briz/tristaen/6318877/?sid=hOOTsy&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/6318877/main_image/thumb_280x210_1.png?ver=1793329617",
-    "price_eur": 296000,
-    "sqm": 129,
-    "area": "Briz",
-    "city": "Варна",
-    "title": "2 bedroom apartment, 129 м 2 Varna, Briz",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2295,
-    "price_history": [
-      {
-        "date": "2026-10-30T03:13:53.437766+00:00",
-        "price_eur": 296000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 0,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2388,
-    "pct_vs_area_avg": -3.9,
     "score": 1
   },
   {
@@ -1018786,6 +1019098,10 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6500900558,
+    "lng": 23.2783797501,
     "price_per_sqm": 6168,
     "price_history": [
       {
@@ -1018795,7 +1019111,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2511,
@@ -1018814,6 +1019130,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 4139,
     "price_history": [
       {
@@ -1018823,7 +1019143,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3706,
@@ -1018842,6 +1019162,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6230578/main_image/thumb_1200x630_wm_main_image_6230578_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6230578/images/thumb_1200x630_wm_images_6230578_6.jpg"
+    ],
     "price_per_sqm": 2767,
     "price_history": [
       {
@@ -1018851,7 +1019181,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2356,
@@ -1018870,6 +1019200,12 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6261033/main_image/thumb_1200x630_wm_main_image_6261033_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261033/images/thumb_1200x630_wm_images_6261033_2.jpg"
+    ],
     "price_per_sqm": 2358,
     "price_history": [
       {
@@ -1018879,7 +1019215,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2356,
@@ -1018898,6 +1019234,14 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6276112/main_image/thumb_1200x630_wm_main_image_6276112_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276112/images/thumb_1200x630_wm_images_6276112_4.jpg"
+    ],
     "price_per_sqm": 3085,
     "price_history": [
       {
@@ -1018907,7 +1019251,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
@@ -1018926,6 +1019270,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6258218/main_image/thumb_1200x630_wm_main_image_6258218_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6258218/images/thumb_1200x630_wm_images_6258218_6.jpg"
+    ],
     "price_per_sqm": 3798,
     "price_history": [
       {
@@ -1018935,7 +1019289,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2654,
@@ -1018954,6 +1019308,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6248479/main_image/thumb_1200x630_wm_main_image_6248479_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6248479/images/thumb_1200x630_wm_images_6248479_6.jpg"
+    ],
     "price_per_sqm": 4156,
     "price_history": [
       {
@@ -1018963,7 +1019327,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3519,
@@ -1018982,6 +1019346,18 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.7062274546,
+    "lng": 23.1480605497,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6089769/main_image/thumb_1200x630_wm_main_image_6089769_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6089769/images/thumb_1200x630_wm_images_6089769_6.jpg"
+    ],
     "price_per_sqm": 1750,
     "price_history": [
       {
@@ -1018991,7 +1019367,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1007,
@@ -1019010,6 +1019386,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6261028/main_image/thumb_1200x630_wm_main_image_6261028_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6261028/images/thumb_1200x630_wm_images_6261028_6.jpg"
+    ],
     "price_per_sqm": 4590,
     "price_history": [
       {
@@ -1019019,7 +1019405,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3221,
@@ -1019038,6 +1019424,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6276096/main_image/thumb_1200x630_wm_main_image_6276096_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6276096/images/thumb_1200x630_wm_images_6276096_6.jpg"
+    ],
     "price_per_sqm": 3523,
     "price_history": [
       {
@@ -1019047,7 +1019443,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3519,
@@ -1019066,6 +1019462,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6252836/main_image/thumb_1200x630_wm_main_image_6252836_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6252836/images/thumb_1200x630_wm_images_6252836_6.jpg"
+    ],
     "price_per_sqm": 6957,
     "price_history": [
       {
@@ -1019075,7 +1019481,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3221,
@@ -1019094,6 +1019500,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6264841/main_image/thumb_1200x630_wm_main_image_6264841_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6264841/images/thumb_1200x630_wm_images_6264841_6.jpg"
+    ],
     "price_per_sqm": 5000,
     "price_history": [
       {
@@ -1019103,7 +1019519,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 4305,
@@ -1019122,6 +1019538,16 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6093253/main_image/thumb_1200x630_wm_main_image_6093253_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6093253/images/thumb_1200x630_wm_images_6093253_6.jpg"
+    ],
     "price_per_sqm": 2394,
     "price_history": [
       {
@@ -1019131,7 +1019557,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1497,
@@ -1019150,6 +1019576,10 @@
     "portal": "imoti.net",
     "category": "business",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.670373344,
+    "lng": 23.3286265102,
     "price_per_sqm": 15,
     "price_history": [
       {
@@ -1019159,7 +1019589,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3519,
@@ -1019178,6 +1019608,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.7188319861,
+    "lng": 23.267138143,
     "price_per_sqm": 2444,
     "price_history": [
       {
@@ -1019187,7 +1019621,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2091,
@@ -1019206,6 +1019640,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2391,
     "price_history": [
       {
@@ -1019215,7 +1019653,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2091,
@@ -1019234,6 +1019672,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2391,
     "price_history": [
       {
@@ -1019243,7 +1019685,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2091,
@@ -1019262,6 +1019704,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2974,
     "price_history": [
       {
@@ -1019271,7 +1019717,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2091,
@@ -1019290,6 +1019736,10 @@
     "portal": "imoti.net",
     "category": "land",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 250,
     "price_history": [
       {
@@ -1019299,7 +1019749,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -1019318,6 +1019768,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2741,
     "price_history": [
       {
@@ -1019327,7 +1019781,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1728,
@@ -1019346,6 +1019800,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2632,
     "price_history": [
       {
@@ -1019355,7 +1019813,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1728,
@@ -1019374,6 +1019832,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2215,
     "price_history": [
       {
@@ -1019383,7 +1019845,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -1019402,6 +1019864,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2151,
     "price_history": [
       {
@@ -1019411,7 +1019877,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -1019430,6 +1019896,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1444,
     "price_history": [
       {
@@ -1019439,7 +1019909,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -1019458,6 +1019928,15 @@
     "portal": "imoti.net",
     "category": "land",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6297501/main_image/thumb_1200x630_wm_main_image_6297501_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6297501/images/thumb_1200x630_wm_images_6297501_5.jpg"
+    ],
     "price_per_sqm": 72,
     "price_history": [
       {
@@ -1019467,7 +1019946,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 72,
@@ -1019486,6 +1019965,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2139,
     "price_history": [
       {
@@ -1019495,7 +1019978,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2153,
@@ -1019514,6 +1019997,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6316508/main_image/thumb_1200x630_wm_main_image_6316508_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6316508/images/thumb_1200x630_wm_images_6316508_6.jpg"
+    ],
     "price_per_sqm": 1660,
     "price_history": [
       {
@@ -1019523,7 +1020016,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -1019542,6 +1020035,18 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.1152011,
+    "lng": 24.722568,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318988/main_image/thumb_1200x630_wm_main_image_6318988_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318988/images/thumb_1200x630_wm_images_6318988_6.jpg"
+    ],
     "price_per_sqm": 2500,
     "price_history": [
       {
@@ -1019551,7 +1020056,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -1019570,6 +1020075,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6277727/main_image/thumb_1200x630_wm_main_image_6277727_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6277727/images/thumb_1200x630_wm_images_6277727_6.jpg"
+    ],
     "price_per_sqm": 2159,
     "price_history": [
       {
@@ -1019579,7 +1020094,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1504,
@@ -1019598,6 +1020113,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1471,
     "price_history": [
       {
@@ -1019607,7 +1020126,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1295,
@@ -1019626,6 +1020145,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1583,
     "price_history": [
       {
@@ -1019635,7 +1020158,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -1019654,6 +1020177,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2075,
     "price_history": [
       {
@@ -1019663,7 +1020190,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1740,
@@ -1019682,6 +1020209,11 @@
     "portal": "imoti.net",
     "category": "garage",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318856/main_image/thumb_1200x630_wm_main_image_6318856_1.jpg"
+    ],
     "price_per_sqm": 1077,
     "price_history": [
       {
@@ -1019691,7 +1020223,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1004,
@@ -1019710,6 +1020242,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.5631046306,
+    "lng": 27.534345028,
     "price_per_sqm": 1362,
     "price_history": [
       {
@@ -1019719,7 +1020255,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 359,
@@ -1019738,6 +1020274,18 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.52051,
+    "lng": 27.451137,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6319023/main_image/thumb_1200x630_wm_main_image_6319023_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6319023/images/thumb_1200x630_wm_images_6319023_6.jpg"
+    ],
     "price_per_sqm": 2154,
     "price_history": [
       {
@@ -1019747,7 +1020295,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -1019766,6 +1020314,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2250,
     "price_history": [
       {
@@ -1019775,7 +1020327,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1570,
@@ -1019794,6 +1020346,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1418,
     "price_history": [
       {
@@ -1019803,7 +1020359,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 990,
@@ -1019822,6 +1020378,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2129,
     "price_history": [
       {
@@ -1019831,7 +1020391,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -1019850,6 +1020410,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 2138,
     "price_history": [
       {
@@ -1019859,7 +1020423,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1667,
@@ -1019878,6 +1020442,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1656,
     "price_history": [
       {
@@ -1019887,7 +1020455,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1383,
@@ -1019906,6 +1020474,10 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1167,
     "price_history": [
       {
@@ -1019915,7 +1020487,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1092,
@@ -1019934,6 +1020506,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1664,
     "price_history": [
       {
@@ -1019943,7 +1020519,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1570,
@@ -1019962,6 +1020538,17 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.2660753,
+    "lng": 26.9120801,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318990/main_image/thumb_1200x630_wm_main_image_6318990_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318990/images/thumb_1200x630_wm_images_6318990_5.jpg"
+    ],
     "price_per_sqm": 625,
     "price_history": [
       {
@@ -1019971,7 +1020558,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1638,
@@ -1019990,6 +1020577,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318983/main_image/thumb_1200x630_wm_main_image_6318983_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318983/images/thumb_1200x630_wm_images_6318983_6.jpg"
+    ],
     "price_per_sqm": 1675,
     "price_history": [
       {
@@ -1019999,7 +1020596,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1247,
@@ -1020018,6 +1020615,17 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.2721635484,
+    "lng": 26.9341117676,
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318738/main_image/thumb_1200x630_wm_main_image_6318738_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318738/images/thumb_1200x630_wm_images_6318738_5.jpg"
+    ],
     "price_per_sqm": 1753,
     "price_history": [
       {
@@ -1020027,7 +1020635,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1480,
@@ -1020046,6 +1020654,16 @@
     "portal": "imoti.net",
     "category": "garage",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318879/main_image/thumb_1200x630_wm_main_image_6318879_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318879/images/thumb_1200x630_wm_images_6318879_6.jpg"
+    ],
     "price_per_sqm": 1944,
     "price_history": [
       {
@@ -1020055,7 +1020673,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1209,
@@ -1020074,6 +1020692,16 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "low",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6318704/main_image/thumb_1200x630_wm_main_image_6318704_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_4.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_5.jpg",
+      "https://www.imoti.net/web/files/obiavi/6318704/images/thumb_1200x630_wm_images_6318704_6.jpg"
+    ],
     "price_per_sqm": 1520,
     "price_history": [
       {
@@ -1020083,7 +1020711,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 947,
@@ -1020102,6 +1020730,10 @@
     "portal": "imoti.net",
     "category": "house",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1226,
     "price_history": [
       {
@@ -1020111,7 +1020743,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1130,
@@ -1020130,6 +1020762,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.6960693142,
+    "lng": 23.3253958611,
     "price_per_sqm": 1429,
     "price_history": [
       {
@@ -1020139,7 +1020775,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1205,
@@ -1020158,6 +1020794,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 43.2058794334,
+    "lng": 23.5573382753,
     "price_per_sqm": 2102,
     "price_history": [
       {
@@ -1020167,7 +1020807,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1569,
@@ -1020186,6 +1020826,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.8693271983,
+    "lng": 25.304946683,
     "price_per_sqm": 895,
     "price_history": [
       {
@@ -1020195,7 +1020839,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 454,
@@ -1020214,6 +1020858,10 @@
     "portal": "imoti.net",
     "category": "flat",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "lat": 42.853653944,
+    "lng": 25.3406272931,
     "price_per_sqm": 1085,
     "price_history": [
       {
@@ -1020223,7 +1020871,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 538,
@@ -1020242,6 +1020890,14 @@
     "portal": "imoti.net",
     "category": "business",
     "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-29",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/5194721/main_image/thumb_1200x630_wm_main_image_5194721_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/5194721/images/thumb_1200x630_wm_images_5194721_4.jpg"
+    ],
     "price_per_sqm": 2659,
     "price_history": [
       {
@@ -1020251,7 +1020907,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1340,
