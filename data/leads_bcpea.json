@@ -1118,7 +1118,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -57.6,
     "score": 19
@@ -2212,7 +2212,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 2489,
     "pct_vs_area_avg": -39.7,
     "score": 18
@@ -4801,7 +4801,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 584,
     "pct_vs_area_avg": -45.6,
     "score": 15
@@ -4832,7 +4832,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -39.3,
     "score": 15
@@ -4924,7 +4924,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 531,
     "pct_vs_area_avg": -46.7,
     "score": 15
@@ -7183,7 +7183,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 9
@@ -19254,7 +19254,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -14.4,
     "score": 7
@@ -19286,7 +19286,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -13.6,
     "score": 7
@@ -19318,7 +19318,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -14.6,
     "score": 7
@@ -19718,7 +19718,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21474,7 +21474,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21693,7 +21693,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23355,7 +23355,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23512,7 +23512,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23853,7 +23853,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26819,7 +26819,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27008,7 +27008,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28110,7 +28110,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29730,7 +29730,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": 531,
     "pct_vs_area_avg": -65.0,
     "score": 6
@@ -30384,7 +30384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -36889,7 +36889,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 41,
+    "days_on_market": 42,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -42091,6 +42091,38 @@
     "score": 5
   },
   {
+    "id": "bcpea_92592",
+    "url": "https://sales.bcpea.org/properties/92592",
+    "photo": null,
+    "price_eur": 10170,
+    "sqm": 500,
+    "area": "Кърджали",
+    "title": "Земеделска земя, Кърджали",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-25T10:56:00+00:00",
+    "category": "land",
+    "_settlement": "Кърджали",
+    "lat": null,
+    "lng": null,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40909.63.12 (четиридесет хиляди деветстотин и девет, точка, шестдесет и три, точка, дванадесет) гр. Кърджали, общ. Кърджали, обл. Кърджали, по кадастрална карта и кадастрални регистри, одобрени със Заповед РД ‑ 18 ‑ 66/18.10.2006 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е от 06.08.2019 г., адрес на поземления имот: гр. Кърджали, местност „КЕЛЛЕР“ с площ от 1500 кв. м. (хиляда и петстотин квадратни метра), трайно предназначение на територията: Земеделска, начин на трайно ползване: нива, категория на земята: 5 (пета), предишен идентификатор: няма, номер на предходен план: 023012 (нула, две, три, нула, едно, две), по КВС на землище Горна Гледка, при съседи 40909.63.15, 40909.63.103, 40909.63.34, 40909.63.40, 40909.63.9",
+    "detail_checked": true,
+    "price_per_sqm": 20,
+    "price_history": [
+      {
+        "date": "2026-09-25T10:01:57.552701+00:00",
+        "price_eur": 10170
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 35,
+    "area_avg_price_per_sqm": 431,
+    "pct_vs_area_avg": -95.4,
+    "score": 5
+  },
+  {
     "id": "bcpea_92207",
     "url": "https://sales.bcpea.org/properties/92207",
     "photo": null,
@@ -44417,7 +44449,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -45869,7 +45901,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46371,6 +46403,38 @@
     "score": 5
   },
   {
+    "id": "bcpea_92593",
+    "url": "https://sales.bcpea.org/properties/92593",
+    "photo": null,
+    "price_eur": 82282,
+    "sqm": 256,
+    "area": "Звездел",
+    "title": "Бензиностанция, Звездел",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-25T10:59:00+00:00",
+    "category": "apartment",
+    "_settlement": "Звездел",
+    "lat": null,
+    "lng": null,
+    "description": "УПИ I с площ 2059 кв. м. /две хиляди и петдесет и девет квадратни метра/, представляващ имот с пл. сн. № 289 /двеста осемдесет и девет/, кв. 37 /тридесет и седем/ по действащия ПУП на село Звездел, община Момчилград, област Кърджали , ведно с построените в него: БЕНЗИНОСТАНЦИЯ , представляваща едноетажна масивна сграда със застроена площ 256.15 кв. м. /двеста петдесет и шест цяло и петнадесет стотни квадратни метра/, състояща се от търговско помещение с щанд за кафе, два склада, гараж с канал, гараж за две коли, офис, гардероб за персонала и два санитарни възела; НАВЕС ЗА ПАРКИРАНЕ НА КОЛИ , със застроена площ 123 кв. м. /сто двадесет и три квадратни метра/; ПРЕДПАЗНА КОЗИРКА с площ 391 кв. м. /триста деветдесет и един квадратни метра/ и АВТОМИВКА и оборудване – 2бр. бензиноколонки „SCHLUMBERGER“, резервоар за гориво 60 м3, газоколонка тип GPL M-C 100 1, с пълна комплектовка, помпа за пропанбутан, тръбни разводки, фланци, свързващи елементи, опори, метални конструкции, резервоар за газ 10 м3 с окомплектовка, кранова арматура към газстанция",
+    "detail_checked": true,
+    "price_per_sqm": 321,
+    "price_history": [
+      {
+        "date": "2026-09-25T10:01:57.552701+00:00",
+        "price_eur": 82282
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 35,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 5
+  },
+  {
     "id": "bcpea_90858",
     "url": "https://sales.bcpea.org/properties/90858",
     "photo": null,
@@ -46426,6 +46490,48 @@
     "source_status": "removed",
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 38,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 5
+  },
+  {
+    "id": "bcpea_92591",
+    "url": "https://sales.bcpea.org/properties/92591",
+    "photo": null,
+    "price_eur": 7458,
+    "sqm": 0,
+    "area": "Кърджали",
+    "title": "Земеделска земя, Кърджали",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-25T10:55:00+00:00",
+    "category": "land",
+    "_settlement": "Кърджали",
+    "lat": null,
+    "lng": null,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40909.63.9 (четиридесет хиляди деветстотин и девет, точка, шестдесет и три, точка, девет), гр. Кърджали, общ. Кърджали, обл. Кърджали, по кадастрална карта и кадастрални регистри, одобрени със Заповед РД ‑ 18 ‑ 66/18.10.2006 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е от 06.08.2019 г., адрес на поземления имот: гр. Кърджали, местност „ДО ЛИНИЯТА“ с площ от 1000 кв. м. (хиляда квадратни метра), трайно предназначение на територията: Земеделска, начин на трайно ползване: нива, категория на земята: 5 (пета), предишен идентификатор: няма, номер на предходен план: 023009 (нула, две, три, нула, нула, девет), по КВС на землище Горна Гледка, при съседи 40909.63.12, 40909.63.103, 40909.63.40, 40909.63.7.",
+    "detail_checked": true,
+    "photos": [
+      "https://c.tile.openstreetmap.org/18/148631/96450.png",
+      "https://a.tile.openstreetmap.org/18/148632/96450.png",
+      "https://a.tile.openstreetmap.org/18/148631/96451.png",
+      "https://b.tile.openstreetmap.org/18/148632/96451.png",
+      "https://b.tile.openstreetmap.org/18/148630/96450.png",
+      "https://b.tile.openstreetmap.org/18/148633/96450.png",
+      "https://c.tile.openstreetmap.org/18/148630/96451.png",
+      "https://c.tile.openstreetmap.org/18/148633/96451.png"
+    ],
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-09-25T10:01:57.552701+00:00",
+        "price_eur": 7458
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 35,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -50386,7 +50492,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -63877,38 +63983,6 @@
     "score": 4
   },
   {
-    "id": "bcpea_92592",
-    "url": "https://sales.bcpea.org/properties/92592",
-    "photo": null,
-    "price_eur": 10170,
-    "sqm": 500,
-    "area": "Кърджали",
-    "title": "Земеделска земя, Кърджали",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-25T10:56:00+00:00",
-    "category": "land",
-    "_settlement": "Кърджали",
-    "lat": null,
-    "lng": null,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40909.63.12 (четиридесет хиляди деветстотин и девет, точка, шестдесет и три, точка, дванадесет) гр. Кърджали, общ. Кърджали, обл. Кърджали, по кадастрална карта и кадастрални регистри, одобрени със Заповед РД ‑ 18 ‑ 66/18.10.2006 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е от 06.08.2019 г., адрес на поземления имот: гр. Кърджали, местност „КЕЛЛЕР“ с площ от 1500 кв. м. (хиляда и петстотин квадратни метра), трайно предназначение на територията: Земеделска, начин на трайно ползване: нива, категория на земята: 5 (пета), предишен идентификатор: няма, номер на предходен план: 023012 (нула, две, три, нула, едно, две), по КВС на землище Горна Гледка, при съседи 40909.63.15, 40909.63.103, 40909.63.34, 40909.63.40, 40909.63.9",
-    "detail_checked": true,
-    "price_per_sqm": 20,
-    "price_history": [
-      {
-        "date": "2026-09-25T10:01:57.552701+00:00",
-        "price_eur": 10170
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 34,
-    "area_avg_price_per_sqm": 431,
-    "pct_vs_area_avg": -95.4,
-    "score": 4
-  },
-  {
     "id": "bcpea_92266",
     "url": "https://sales.bcpea.org/properties/92266",
     "photo": null,
@@ -68679,38 +68753,6 @@
     "score": 4
   },
   {
-    "id": "bcpea_92593",
-    "url": "https://sales.bcpea.org/properties/92593",
-    "photo": null,
-    "price_eur": 82282,
-    "sqm": 256,
-    "area": "Звездел",
-    "title": "Бензиностанция, Звездел",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-25T10:59:00+00:00",
-    "category": "apartment",
-    "_settlement": "Звездел",
-    "lat": null,
-    "lng": null,
-    "description": "УПИ I с площ 2059 кв. м. /две хиляди и петдесет и девет квадратни метра/, представляващ имот с пл. сн. № 289 /двеста осемдесет и девет/, кв. 37 /тридесет и седем/ по действащия ПУП на село Звездел, община Момчилград, област Кърджали , ведно с построените в него: БЕНЗИНОСТАНЦИЯ , представляваща едноетажна масивна сграда със застроена площ 256.15 кв. м. /двеста петдесет и шест цяло и петнадесет стотни квадратни метра/, състояща се от търговско помещение с щанд за кафе, два склада, гараж с канал, гараж за две коли, офис, гардероб за персонала и два санитарни възела; НАВЕС ЗА ПАРКИРАНЕ НА КОЛИ , със застроена площ 123 кв. м. /сто двадесет и три квадратни метра/; ПРЕДПАЗНА КОЗИРКА с площ 391 кв. м. /триста деветдесет и един квадратни метра/ и АВТОМИВКА и оборудване – 2бр. бензиноколонки „SCHLUMBERGER“, резервоар за гориво 60 м3, газоколонка тип GPL M-C 100 1, с пълна комплектовка, помпа за пропанбутан, тръбни разводки, фланци, свързващи елементи, опори, метални конструкции, резервоар за газ 10 м3 с окомплектовка, кранова арматура към газстанция",
-    "detail_checked": true,
-    "price_per_sqm": 321,
-    "price_history": [
-      {
-        "date": "2026-09-25T10:01:57.552701+00:00",
-        "price_eur": 82282
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 34,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 4
-  },
-  {
     "id": "bcpea_90580",
     "url": "https://sales.bcpea.org/properties/90580",
     "photo": null,
@@ -68860,48 +68902,6 @@
     "days_on_market": 31,
     "area_avg_price_per_sqm": 507,
     "pct_vs_area_avg": -88.6,
-    "score": 4
-  },
-  {
-    "id": "bcpea_92591",
-    "url": "https://sales.bcpea.org/properties/92591",
-    "photo": null,
-    "price_eur": 7458,
-    "sqm": 0,
-    "area": "Кърджали",
-    "title": "Земеделска земя, Кърджали",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-25T10:55:00+00:00",
-    "category": "land",
-    "_settlement": "Кърджали",
-    "lat": null,
-    "lng": null,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 40909.63.9 (четиридесет хиляди деветстотин и девет, точка, шестдесет и три, точка, девет), гр. Кърджали, общ. Кърджали, обл. Кърджали, по кадастрална карта и кадастрални регистри, одобрени със Заповед РД ‑ 18 ‑ 66/18.10.2006 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е от 06.08.2019 г., адрес на поземления имот: гр. Кърджали, местност „ДО ЛИНИЯТА“ с площ от 1000 кв. м. (хиляда квадратни метра), трайно предназначение на територията: Земеделска, начин на трайно ползване: нива, категория на земята: 5 (пета), предишен идентификатор: няма, номер на предходен план: 023009 (нула, две, три, нула, нула, девет), по КВС на землище Горна Гледка, при съседи 40909.63.12, 40909.63.103, 40909.63.40, 40909.63.7.",
-    "detail_checked": true,
-    "photos": [
-      "https://c.tile.openstreetmap.org/18/148631/96450.png",
-      "https://a.tile.openstreetmap.org/18/148632/96450.png",
-      "https://a.tile.openstreetmap.org/18/148631/96451.png",
-      "https://b.tile.openstreetmap.org/18/148632/96451.png",
-      "https://b.tile.openstreetmap.org/18/148630/96450.png",
-      "https://b.tile.openstreetmap.org/18/148633/96450.png",
-      "https://c.tile.openstreetmap.org/18/148630/96451.png",
-      "https://c.tile.openstreetmap.org/18/148633/96451.png"
-    ],
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-09-25T10:01:57.552701+00:00",
-        "price_eur": 7458
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 34,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 4
   },
   {
@@ -73987,7 +73987,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74019,7 +74019,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74051,7 +74051,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74083,7 +74083,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74115,7 +74115,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74147,7 +74147,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75106,7 +75106,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75145,7 +75145,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75182,7 +75182,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75217,7 +75217,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76144,7 +76144,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76180,7 +76180,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77749,7 +77749,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77781,7 +77781,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77813,7 +77813,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77845,7 +77845,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77877,7 +77877,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77909,7 +77909,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77941,7 +77941,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77973,7 +77973,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78005,7 +78005,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78037,7 +78037,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78086,7 +78086,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78118,7 +78118,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78150,7 +78150,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78182,7 +78182,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78214,7 +78214,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80609,7 +80609,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 1043,
     "pct_vs_area_avg": 9.0,
     "score": 3
@@ -81482,7 +81482,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -1.5,
     "score": 3
@@ -83266,7 +83266,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": 20.7,
     "score": 3
@@ -83304,7 +83304,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83342,7 +83342,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83385,7 +83385,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83430,7 +83430,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": 64.0,
     "score": 3
@@ -84636,7 +84636,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86637,7 +86637,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -85.6,
     "score": 3
@@ -86679,7 +86679,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86718,7 +86718,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87923,7 +87923,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87955,7 +87955,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87995,7 +87995,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88027,7 +88027,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88059,7 +88059,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88098,7 +88098,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88138,7 +88138,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88178,7 +88178,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88216,7 +88216,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88254,7 +88254,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88292,7 +88292,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88329,7 +88329,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -90259,7 +90259,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 584,
     "pct_vs_area_avg": 32.0,
     "score": 2
@@ -90294,7 +90294,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 584,
     "pct_vs_area_avg": 53.0,
     "score": 2
@@ -90329,7 +90329,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 584,
     "pct_vs_area_avg": 46.5,
     "score": 2
@@ -91120,7 +91120,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93185,7 +93185,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93225,7 +93225,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": 5.7,
     "score": 2
@@ -94791,7 +94791,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94823,7 +94823,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94855,7 +94855,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94887,7 +94887,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94919,7 +94919,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94951,7 +94951,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95007,7 +95007,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95055,7 +95055,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": 1970.4,
     "score": 2
@@ -95087,7 +95087,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95119,7 +95119,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96306,7 +96306,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96338,7 +96338,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96370,7 +96370,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": 186.9,
     "score": 2
@@ -96402,7 +96402,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96972,7 +96972,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -4.8,
     "score": 2
@@ -97732,7 +97732,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -97768,7 +97768,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -97800,7 +97800,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99881,7 +99881,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99913,7 +99913,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99945,7 +99945,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99977,7 +99977,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100009,7 +100009,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100041,7 +100041,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100073,7 +100073,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100105,7 +100105,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100137,7 +100137,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100169,7 +100169,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100201,7 +100201,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100233,7 +100233,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100265,7 +100265,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100297,7 +100297,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100329,7 +100329,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100361,7 +100361,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100393,7 +100393,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100425,7 +100425,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100469,7 +100469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100501,7 +100501,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100533,7 +100533,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100565,7 +100565,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100597,7 +100597,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100629,7 +100629,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100665,7 +100665,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100697,7 +100697,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100729,7 +100729,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102270,7 +102270,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102302,7 +102302,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102338,7 +102338,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102379,7 +102379,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102415,7 +102415,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102453,7 +102453,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2489,
     "pct_vs_area_avg": -62.4,
     "score": 1
@@ -102491,7 +102491,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103998,7 +103998,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104038,7 +104038,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104077,7 +104077,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104109,7 +104109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104233,7 +104233,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104282,7 +104282,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104332,7 +104332,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104379,7 +104379,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104411,7 +104411,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104443,7 +104443,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 234,
     "pct_vs_area_avg": 55.7,
     "score": 1
@@ -104475,7 +104475,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104507,7 +104507,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 234,
     "pct_vs_area_avg": 58.7,
     "score": 1
@@ -105658,6 +105658,42 @@
     "score": 1
   },
   {
+    "id": "bcpea_93574",
+    "url": "https://sales.bcpea.org/properties/93574",
+    "photo": "https://sales.bcpea.org/upload/93574/427737/IMG_0706.JPG?w=270&h=270",
+    "price_eur": 349,
+    "sqm": 711,
+    "area": "Кривня",
+    "title": "Парцел с къща, Кривня",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T10:49:00+00:00",
+    "category": "land",
+    "_settlement": "Кривня",
+    "lat": 43.1947333,
+    "lng": 27.3967266,
+    "description": "ОБЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20700 / 23.10.2026 Изпълнително дело №: 20208330400679 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ИВАН МИНКОВ ИВАНОВ , а именно: 1/2 ид.ч. (една втора идеална част) от Поземлен имот с идентификатор 39832.501.593 (три девет осем три две точка пет нула едно точка пет девет три), по кадастралната карта и кадастралните регистри на с. Кривня, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-87/21.08.2025 г. (осемдесет и седем от двадесет и първи август две хиляди двадесет и пета година) на Изпълнителния директор на АГКК, с адрес на поземления имот: с. Кривня, ул. „Чавдар войвода“, с площ 711 кв.м . (седемстотин и единадесет квадратни метра), трайно предназначение на територията: урбанизирана, начин на трайно ползване: ниско застрояване (до 10 м) (десет метра), номер по предходен план: 244 (двеста четиридесет и четири), квартал: 9 (девет), парцел: XI (единадесет), при съседи: 39832.501.720, 39832.501.591, 39832.501.244, 39832.501.243, ведно с 1/2 ид.ч. (една втора идеална част) и от сградата, която попада върху имота, а именно: сграда с идентификатор 39832.501.593.1 (три девет осем три две точка пет нула едно точка пет девет три точка едно), със застроена площ 32 кв.м. (тридесет и два квадратни метра), брой етажи 2 (два), предназначение: постройка на допълващото застрояване, съгласно кадастрална скица, а съгласно акт за собственост - ½ ид.ч / една втора идеална част / от УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ XI 244 / единадесет римско двеста четиридесет и четири арабско /, в квартал 9 / девет /, образуван от имот № 500.244 / петстотин точка двеста четиридесет и четири / по кадастралния и регулационен план на с.Кривня, общ.Ветово, обл.Русе, с административен адрес: ул.Опълченска №4 / четири /, с площ на урегулирания поземлен имот: 691,00 кв.м / шестстотин деветдесет и един квадратни метра /, предназначение: за жилищно застрояване, ЗАЕДНО със същата идеална част от построената в имота сграда: ПАЯНТОВА СЕЛСКОСТОПАНСКА СГРАДА на 1 /един/ етаж, със застроена площ 98,00 кв.м / деветдесет и осем квадратни метра /, при граници: улица, УПИ XII, УПИ XIII, УПИ X. НОВА НАЧАЛНА ЦЕНА: 349.20€ вписана Възбрана в полза на МОСТ ФИНАНС МЕНИДЖМЪНТ АД, ,вписана Възбрана в полза на взискателя ЮРОБАНК БЪЛГАРИЯ АД, цедирало вземането си на ДИ СИ ЕЙ МЕНИДЖМЪНТ АД Определям всяка Сряда и Петък от 17:00 до 19:00 ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026г. от 9:00ч КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93574/427737/IMG_0706.JPG",
+      "https://sales.bcpea.org/upload/93574/427740/IMG_0709.JPG"
+    ],
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-10-26T09:01:17.401696+00:00",
+        "price_eur": 349
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93573",
     "url": "https://sales.bcpea.org/properties/93573",
     "photo": null,
@@ -105975,6 +106011,167 @@
     "score": 1
   },
   {
+    "id": "bcpea_93578",
+    "url": "https://sales.bcpea.org/properties/93578",
+    "photo": "https://sales.bcpea.org/upload/93578/465710/IMG_0621.JPG?w=270&h=270",
+    "price_eur": 52560,
+    "sqm": 55,
+    "area": "Несебър",
+    "title": "Двустаен апартамент, Несебър",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T11:39:00+00:00",
+    "category": "apartment",
+    "_settlement": "Несебър",
+    "lat": 42.6607865,
+    "lng": 27.7167464,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификат о р: 51500.507.544.1.11 /петдесет и една хиляди и петстотин, точка, петстотин и седем, точка, петстотин четиридесет и четири, точка, едно, точка, единадесет/ находящ се в гр. Несебър, община Несебър, област Бургас, По Кадастралната карта и кадастралните регистри, одобрени със Заповед РД- 18-46/ 18.08.2006 г. на Изп. Директор на АК. Последно изменение на КК и КР, засягащо самостоятелния обект е от 20.10.2011 г. Адрес на имота: гр. Несебър, п.к 8230, ул. КК \"Слънчев бряг - запад\", ет. 3, ап. 11. Самостоятелния обект се намира на етаж 3 в сграда с идентификатор: 51500.507.544.1, предназначение на самостоятелния обект: Жилище, апартамент. Брой нива на обекта: 1/едно/. Посочена в документа площ: 55,00 кв.метра, прилежащи части: 5, 47 кв.метра. Ниво 1: Съседни самостоятелни обекти в сградата: На същия етаж: 51500.507.544.1.10, Под обекта: 51500.507.544.1.7, Над обекта: 51500.507.544.1.14. Недвижимия имот се намира в к.к Сл.бряг, - запад, курортен район, с добра транспортна достъпност. Сградата е монолитна, жилищна, входът е без асансьор, състоянието на имота е следното: Коридор: под-теракот, стени/таван – латекс, врата – МДФ; Баня/тоалетна: Врата алуминиева, под- теракот, стени – фаянс, таван: латекс, оборудвана. Кухня/всекидневна: Врата: МДФ, под- теракот и ламинат; стени – латекс и тапет; таван – латекс, има излаз на тераса – под - гранитогрес, зидан и метален парапет. Спалня: под – ламинат, стени – тапет, таван – латекс, дограма – алуминиева със стъклопакет. Сградата, в която се намира имота е въведена в експлоатация през 2010 г. Сградата няма такса поддръжка. Апартамента има самостоятелни партиди за ток и вода. В двора има басейн, който се използва сезонно.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93578/465710/IMG_0621.JPG",
+      "https://sales.bcpea.org/upload/93578/465711/IMG_0623.JPG",
+      "https://sales.bcpea.org/upload/93578/465712/IMG_0624.JPG",
+      "https://sales.bcpea.org/upload/93578/465713/IMG_0626.JPG",
+      "https://sales.bcpea.org/upload/93578/465714/IMG_0630.JPG",
+      "https://sales.bcpea.org/upload/93578/465715/IMG_0631.JPG",
+      "https://sales.bcpea.org/upload/93578/465716/IMG_0635 (1).JPG",
+      "https://sales.bcpea.org/upload/93578/465717/IMG_0635.JPG",
+      "https://sales.bcpea.org/upload/93578/465718/IMG_0638.JPG",
+      "https://sales.bcpea.org/upload/93578/465719/IMG_0640.JPG",
+      "https://sales.bcpea.org/upload/93578/465720/IMG_0645.JPG",
+      "https://sales.bcpea.org/upload/93578/465721/IMG_0648.JPG"
+    ],
+    "price_per_sqm": 956,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 52560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93577",
+    "url": "https://sales.bcpea.org/properties/93577",
+    "photo": "https://sales.bcpea.org/upload/93577/427807/20230629_115538 (1).jpg?w=270&h=270",
+    "price_eur": 6560,
+    "sqm": 300,
+    "area": "Каран Върбовка",
+    "title": "Парцел, Каран Върбовка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T11:17:00+00:00",
+    "category": "land",
+    "_settlement": "Каран Върбовка",
+    "lat": 43.50236,
+    "lng": 25.99604,
+    "description": "О БЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20795 / 26.10.2026 Изпълнително дело №: 20238330400636 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ТРИФОНОВА И СИН ЕООД , а именно: ПОЗЕМЛЕН ИМОТ с идентификатор по кадастрална карта 36364.107.8 /три шест три шест четири точка едно нула седем точка осем/, находящ се в с. Каран Върбовка, общ. Две могили, обл. Русе, местност АЯЗМОТО, с площ 8000 кв.м. /осем хиляди квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: За друг вид застрояване; Предишен идентификатор: няма; Номер по предходен план: 107008; ведно с построените в имота сгради: няма данни; Съседи на поземления имот: 36364.107.9, 36364.107.240, 36364.107.241; а според акт за собственост представляващ Поземлен имот с № 107008 /едно нула седем нула нула осем/, находящ се в землището на село Каран Върбовка, с ЕКАТТЕ 36364, община Две Могили, област Русе, в местността „Аязмото“, с площ от 8.000 дка /осем декара/, с начин на трайно ползване: ДР. СЕЛИЩНА ТЕРИТОРИЯ, имота попада в отдел/подотдел: 242/1 /двеста четиридесет и две към едно/ за 4.429 дка /четири цяло четиристотин двадесет и девет хилядни декара/ поляна и 245/е /двеста четиридесет и пет към малка българска буква „е“/ за 3.571 дка /три цяло петстотин седемдесет и една хилядни декара/ иглолистна гора, при граници: имот № 107009 – залесена територия на МЗХ – ДЛ/ДДС, имот № 000241 – язовир на „Трифонова и син“ ООД, имот № 000240 – път IV кл. На Община Две могли, който имот е образуван от имот № 107007; като върху имота има следните ограничение: 98 Да се използва съгласно Закона за горите и Правилника за приложението му. НАЧАЛНА ЦЕНА: 6 560.00 € без ДДС При възлагане на имота, обявения купувач следва да внесе дължимия ДДС върху достигнатата продажна цена. учредена Договорна ипотека в полза на УНИКРЕДИТ БУЛБАНК АД, учредена 2016г.,вписана Възбрана в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, Определям всеки вторник и четвъртък от 16:00ч. до 18:00ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026г. от 09:00 ч. КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93577/427807/20230629_115538 (1).jpg",
+      "https://sales.bcpea.org/upload/93577/427804/20230629_115304 (1).jpg",
+      "https://sales.bcpea.org/upload/93577/427805/20230629_115317 (1).jpg",
+      "https://sales.bcpea.org/upload/93577/427806/20230629_115429 (1).jpg",
+      "https://sales.bcpea.orgfile:///C:/Users/User/AppData/Local/Temp/lu259404af1tv.tmp/lu259404af1u2_tmp_6f7c61b8bb3488a2.gif"
+    ],
+    "price_per_sqm": 22,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 6560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93576",
+    "url": "https://sales.bcpea.org/properties/93576",
+    "photo": "https://sales.bcpea.org/upload/93576/465698/IMG_5148.JPG?w=270&h=270",
+    "price_eur": 26368,
+    "sqm": 60,
+    "area": "Обзор",
+    "title": "Търговски имот, Обзор",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T11:02:00+00:00",
+    "category": "apartment",
+    "_settlement": "Обзор",
+    "lat": 42.8235455,
+    "lng": 27.883919,
+    "description": "ТЪРГОВСКИ ОБЕКТ- МАГАЗИН, ПРЕДСТАВЛЯВАЩ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор: 53045.502.93.1.5 /петдесет и три хиляди и четиридесет и пет, точка, петстотин и две, точкадеветдесет и три, точка, едно, точка, пет/ по КК и КР на гр. Обзор, община Несебър, област Бургас, одобрени със Заповед РД-18-59/ 14.09.2006 г., на Изп. Директор на АК, с адрес: гр. Обзор, п.к 8250, ул. Славянска № 60 /шестдесет/, ет. 1/едно/, находящ се в сграда с идентификатор: 53045.502.93.1, с предназначение на сградата жилищна сграда - еднофамилна, разположена в ПИ с идентификатор: 53045.502.93 /петдесет и три хиляди и четиридесет и пет, точка, петстотин и две, точка, деветдесет и три/, с предназначение на самостоятелния обект : за търговска дейност, на едно ниво, , с площ от 59,63 /петдесет и и девет цяло и шестдесет и три стотни/ квадратни метра, при граници и съседи следните самостоятелни обекти: на същия етаж: 53045.502.93.1.6; под обекта: няма; над обекта: 53045.502.93.1.2., ВЕДНО с находящите се в имота движими вещи, а именно: Климатик „Осака“ с външно тяло- 2 броя /неработещи по данни на собственика/, Дървена витрина ПДЧ с дължина 4,50 метра, Ъглова етажерка на метални държачи.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93576/465698/IMG_5148.JPG",
+      "https://sales.bcpea.org/upload/93576/465699/IMG_5150.JPG",
+      "https://sales.bcpea.org/upload/93576/465700/IMG_5154.JPG",
+      "https://sales.bcpea.org/upload/93576/465701/IMG_5156.JPG",
+      "https://sales.bcpea.org/upload/93576/465702/IMG_5164.JPG",
+      "https://sales.bcpea.org/upload/93576/465703/IMG_5165.JPG",
+      "https://sales.bcpea.org/upload/93576/465704/IMG_5168.JPG",
+      "https://sales.bcpea.org/upload/93576/465705/IMG_5171.JPG",
+      "https://sales.bcpea.org/upload/93576/465706/IMG_5172.JPG",
+      "https://sales.bcpea.org/upload/93576/465707/IMG_5229.JPG"
+    ],
+    "price_per_sqm": 439,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 26368
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93575",
+    "url": "https://sales.bcpea.org/properties/93575",
+    "photo": null,
+    "price_eur": 600,
+    "sqm": 0,
+    "area": "Никола Козлево",
+    "title": "Парцел, Никола Козлево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T10:59:00+00:00",
+    "category": "land",
+    "_settlement": "Никола Козлево",
+    "lat": 43.5496713,
+    "lng": 27.254793,
+    "description": "¼ / една четвърт/ идеална част от имота Кадастрален № 110 / сто и десет/ , УПИ/парцел/ III / трети/ от кв. 47 одобрен през 198 4 , находящ се в село село Никола Козлево, общ. Никола Козлево, обл. Шумен, ул. Ружа № 2 / две/ , при граници за УПИ: от изток УПИ II -109, от запад УПИ IV-111, от север улица, по данни от данъчна оценка за имота земята е с площ 1000 кв.м. /хиляда квадратни метра/. Дворното място е прораснало с треви, храсти и дървета, не е оградено, достъп до имота се осъществява по път без трайна настилка, видимо не е обитаем и не се ползва по предназначение. В имота по документ за собственост са застроени следните сгради, които по констатации на място са премахнати и реално не съществуват, длъжникът притежава ¼ / една четвърт/ идеална част от тях: Сграда № 1 / едно/ жилище с РСЗ на обекта 120 кв.м. / сто и двадесет квадратни метра/ и мазе с РЗП на обекта 15 кв.м, / петнадесет квадратни метра/, брой етажи: 2 / два/ ; Сграда № 2 / две/ навес с оградни стени с РЗП на обекта 40 кв.м, / четиридесет квадратни метра/ брой етажи: 1 / един/ ; Сграда № 3 / три/ навес с оградни стени с РЗП на обекта 24 кв.м., / двадесет и четири квадратни метра/ брой етажи: 1 / един/.",
+    "detail_checked": true,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93668",
     "url": "https://sales.bcpea.org/properties/93668",
     "photo": "https://sales.bcpea.org/upload/93668/466126/20260408_100647-.jpg?w=270&h=270",
@@ -106262,42 +106459,6 @@
     "drop_pct": 0.0,
     "source_status": "removed",
     "removed_at": "2026-10-13T07:27:15.631632+00:00",
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93574",
-    "url": "https://sales.bcpea.org/properties/93574",
-    "photo": "https://sales.bcpea.org/upload/93574/427737/IMG_0706.JPG?w=270&h=270",
-    "price_eur": 349,
-    "sqm": 711,
-    "area": "Кривня",
-    "title": "Парцел с къща, Кривня",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T10:49:00+00:00",
-    "category": "land",
-    "_settlement": "Кривня",
-    "lat": 43.1947333,
-    "lng": 27.3967266,
-    "description": "ОБЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20700 / 23.10.2026 Изпълнително дело №: 20208330400679 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ИВАН МИНКОВ ИВАНОВ , а именно: 1/2 ид.ч. (една втора идеална част) от Поземлен имот с идентификатор 39832.501.593 (три девет осем три две точка пет нула едно точка пет девет три), по кадастралната карта и кадастралните регистри на с. Кривня, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-87/21.08.2025 г. (осемдесет и седем от двадесет и първи август две хиляди двадесет и пета година) на Изпълнителния директор на АГКК, с адрес на поземления имот: с. Кривня, ул. „Чавдар войвода“, с площ 711 кв.м . (седемстотин и единадесет квадратни метра), трайно предназначение на територията: урбанизирана, начин на трайно ползване: ниско застрояване (до 10 м) (десет метра), номер по предходен план: 244 (двеста четиридесет и четири), квартал: 9 (девет), парцел: XI (единадесет), при съседи: 39832.501.720, 39832.501.591, 39832.501.244, 39832.501.243, ведно с 1/2 ид.ч. (една втора идеална част) и от сградата, която попада върху имота, а именно: сграда с идентификатор 39832.501.593.1 (три девет осем три две точка пет нула едно точка пет девет три точка едно), със застроена площ 32 кв.м. (тридесет и два квадратни метра), брой етажи 2 (два), предназначение: постройка на допълващото застрояване, съгласно кадастрална скица, а съгласно акт за собственост - ½ ид.ч / една втора идеална част / от УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ XI 244 / единадесет римско двеста четиридесет и четири арабско /, в квартал 9 / девет /, образуван от имот № 500.244 / петстотин точка двеста четиридесет и четири / по кадастралния и регулационен план на с.Кривня, общ.Ветово, обл.Русе, с административен адрес: ул.Опълченска №4 / четири /, с площ на урегулирания поземлен имот: 691,00 кв.м / шестстотин деветдесет и един квадратни метра /, предназначение: за жилищно застрояване, ЗАЕДНО със същата идеална част от построената в имота сграда: ПАЯНТОВА СЕЛСКОСТОПАНСКА СГРАДА на 1 /един/ етаж, със застроена площ 98,00 кв.м / деветдесет и осем квадратни метра /, при граници: улица, УПИ XII, УПИ XIII, УПИ X. НОВА НАЧАЛНА ЦЕНА: 349.20€ вписана Възбрана в полза на МОСТ ФИНАНС МЕНИДЖМЪНТ АД, ,вписана Възбрана в полза на взискателя ЮРОБАНК БЪЛГАРИЯ АД, цедирало вземането си на ДИ СИ ЕЙ МЕНИДЖМЪНТ АД Определям всяка Сряда и Петък от 17:00 до 19:00 ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026г. от 9:00ч КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93574/427737/IMG_0706.JPG",
-      "https://sales.bcpea.org/upload/93574/427740/IMG_0709.JPG"
-    ],
-    "price_per_sqm": 0,
-    "price_history": [
-      {
-        "date": "2026-10-26T09:01:17.401696+00:00",
-        "price_eur": 349
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
     "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
@@ -107042,167 +107203,6 @@
     "days_on_market": 3,
     "area_avg_price_per_sqm": 765,
     "pct_vs_area_avg": 48.9,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93578",
-    "url": "https://sales.bcpea.org/properties/93578",
-    "photo": "https://sales.bcpea.org/upload/93578/465710/IMG_0621.JPG?w=270&h=270",
-    "price_eur": 52560,
-    "sqm": 55,
-    "area": "Несебър",
-    "title": "Двустаен апартамент, Несебър",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T11:39:00+00:00",
-    "category": "apartment",
-    "_settlement": "Несебър",
-    "lat": 42.6607865,
-    "lng": 27.7167464,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификат о р: 51500.507.544.1.11 /петдесет и една хиляди и петстотин, точка, петстотин и седем, точка, петстотин четиридесет и четири, точка, едно, точка, единадесет/ находящ се в гр. Несебър, община Несебър, област Бургас, По Кадастралната карта и кадастралните регистри, одобрени със Заповед РД- 18-46/ 18.08.2006 г. на Изп. Директор на АК. Последно изменение на КК и КР, засягащо самостоятелния обект е от 20.10.2011 г. Адрес на имота: гр. Несебър, п.к 8230, ул. КК \"Слънчев бряг - запад\", ет. 3, ап. 11. Самостоятелния обект се намира на етаж 3 в сграда с идентификатор: 51500.507.544.1, предназначение на самостоятелния обект: Жилище, апартамент. Брой нива на обекта: 1/едно/. Посочена в документа площ: 55,00 кв.метра, прилежащи части: 5, 47 кв.метра. Ниво 1: Съседни самостоятелни обекти в сградата: На същия етаж: 51500.507.544.1.10, Под обекта: 51500.507.544.1.7, Над обекта: 51500.507.544.1.14. Недвижимия имот се намира в к.к Сл.бряг, - запад, курортен район, с добра транспортна достъпност. Сградата е монолитна, жилищна, входът е без асансьор, състоянието на имота е следното: Коридор: под-теракот, стени/таван – латекс, врата – МДФ; Баня/тоалетна: Врата алуминиева, под- теракот, стени – фаянс, таван: латекс, оборудвана. Кухня/всекидневна: Врата: МДФ, под- теракот и ламинат; стени – латекс и тапет; таван – латекс, има излаз на тераса – под - гранитогрес, зидан и метален парапет. Спалня: под – ламинат, стени – тапет, таван – латекс, дограма – алуминиева със стъклопакет. Сградата, в която се намира имота е въведена в експлоатация през 2010 г. Сградата няма такса поддръжка. Апартамента има самостоятелни партиди за ток и вода. В двора има басейн, който се използва сезонно.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93578/465710/IMG_0621.JPG",
-      "https://sales.bcpea.org/upload/93578/465711/IMG_0623.JPG",
-      "https://sales.bcpea.org/upload/93578/465712/IMG_0624.JPG",
-      "https://sales.bcpea.org/upload/93578/465713/IMG_0626.JPG",
-      "https://sales.bcpea.org/upload/93578/465714/IMG_0630.JPG",
-      "https://sales.bcpea.org/upload/93578/465715/IMG_0631.JPG",
-      "https://sales.bcpea.org/upload/93578/465716/IMG_0635 (1).JPG",
-      "https://sales.bcpea.org/upload/93578/465717/IMG_0635.JPG",
-      "https://sales.bcpea.org/upload/93578/465718/IMG_0638.JPG",
-      "https://sales.bcpea.org/upload/93578/465719/IMG_0640.JPG",
-      "https://sales.bcpea.org/upload/93578/465720/IMG_0645.JPG",
-      "https://sales.bcpea.org/upload/93578/465721/IMG_0648.JPG"
-    ],
-    "price_per_sqm": 956,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 52560
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93577",
-    "url": "https://sales.bcpea.org/properties/93577",
-    "photo": "https://sales.bcpea.org/upload/93577/427807/20230629_115538 (1).jpg?w=270&h=270",
-    "price_eur": 6560,
-    "sqm": 300,
-    "area": "Каран Върбовка",
-    "title": "Парцел, Каран Върбовка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T11:17:00+00:00",
-    "category": "land",
-    "_settlement": "Каран Върбовка",
-    "lat": 43.50236,
-    "lng": 25.99604,
-    "description": "О БЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20795 / 26.10.2026 Изпълнително дело №: 20238330400636 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ТРИФОНОВА И СИН ЕООД , а именно: ПОЗЕМЛЕН ИМОТ с идентификатор по кадастрална карта 36364.107.8 /три шест три шест четири точка едно нула седем точка осем/, находящ се в с. Каран Върбовка, общ. Две могили, обл. Русе, местност АЯЗМОТО, с площ 8000 кв.м. /осем хиляди квадратни метра/; Трайно предназначение на територията: Урбанизирана; Начин на трайно ползване: За друг вид застрояване; Предишен идентификатор: няма; Номер по предходен план: 107008; ведно с построените в имота сгради: няма данни; Съседи на поземления имот: 36364.107.9, 36364.107.240, 36364.107.241; а според акт за собственост представляващ Поземлен имот с № 107008 /едно нула седем нула нула осем/, находящ се в землището на село Каран Върбовка, с ЕКАТТЕ 36364, община Две Могили, област Русе, в местността „Аязмото“, с площ от 8.000 дка /осем декара/, с начин на трайно ползване: ДР. СЕЛИЩНА ТЕРИТОРИЯ, имота попада в отдел/подотдел: 242/1 /двеста четиридесет и две към едно/ за 4.429 дка /четири цяло четиристотин двадесет и девет хилядни декара/ поляна и 245/е /двеста четиридесет и пет към малка българска буква „е“/ за 3.571 дка /три цяло петстотин седемдесет и една хилядни декара/ иглолистна гора, при граници: имот № 107009 – залесена територия на МЗХ – ДЛ/ДДС, имот № 000241 – язовир на „Трифонова и син“ ООД, имот № 000240 – път IV кл. На Община Две могли, който имот е образуван от имот № 107007; като върху имота има следните ограничение: 98 Да се използва съгласно Закона за горите и Правилника за приложението му. НАЧАЛНА ЦЕНА: 6 560.00 € без ДДС При възлагане на имота, обявения купувач следва да внесе дължимия ДДС върху достигнатата продажна цена. учредена Договорна ипотека в полза на УНИКРЕДИТ БУЛБАНК АД, учредена 2016г.,вписана Възбрана в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, Определям всеки вторник и четвъртък от 16:00ч. до 18:00ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026г. от 09:00 ч. КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93577/427807/20230629_115538 (1).jpg",
-      "https://sales.bcpea.org/upload/93577/427804/20230629_115304 (1).jpg",
-      "https://sales.bcpea.org/upload/93577/427805/20230629_115317 (1).jpg",
-      "https://sales.bcpea.org/upload/93577/427806/20230629_115429 (1).jpg",
-      "https://sales.bcpea.orgfile:///C:/Users/User/AppData/Local/Temp/lu259404af1tv.tmp/lu259404af1u2_tmp_6f7c61b8bb3488a2.gif"
-    ],
-    "price_per_sqm": 22,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 6560
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93576",
-    "url": "https://sales.bcpea.org/properties/93576",
-    "photo": "https://sales.bcpea.org/upload/93576/465698/IMG_5148.JPG?w=270&h=270",
-    "price_eur": 26368,
-    "sqm": 60,
-    "area": "Обзор",
-    "title": "Търговски имот, Обзор",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T11:02:00+00:00",
-    "category": "apartment",
-    "_settlement": "Обзор",
-    "lat": 42.8235455,
-    "lng": 27.883919,
-    "description": "ТЪРГОВСКИ ОБЕКТ- МАГАЗИН, ПРЕДСТАВЛЯВАЩ САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор: 53045.502.93.1.5 /петдесет и три хиляди и четиридесет и пет, точка, петстотин и две, точкадеветдесет и три, точка, едно, точка, пет/ по КК и КР на гр. Обзор, община Несебър, област Бургас, одобрени със Заповед РД-18-59/ 14.09.2006 г., на Изп. Директор на АК, с адрес: гр. Обзор, п.к 8250, ул. Славянска № 60 /шестдесет/, ет. 1/едно/, находящ се в сграда с идентификатор: 53045.502.93.1, с предназначение на сградата жилищна сграда - еднофамилна, разположена в ПИ с идентификатор: 53045.502.93 /петдесет и три хиляди и четиридесет и пет, точка, петстотин и две, точка, деветдесет и три/, с предназначение на самостоятелния обект : за търговска дейност, на едно ниво, , с площ от 59,63 /петдесет и и девет цяло и шестдесет и три стотни/ квадратни метра, при граници и съседи следните самостоятелни обекти: на същия етаж: 53045.502.93.1.6; под обекта: няма; над обекта: 53045.502.93.1.2., ВЕДНО с находящите се в имота движими вещи, а именно: Климатик „Осака“ с външно тяло- 2 броя /неработещи по данни на собственика/, Дървена витрина ПДЧ с дължина 4,50 метра, Ъглова етажерка на метални държачи.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93576/465698/IMG_5148.JPG",
-      "https://sales.bcpea.org/upload/93576/465699/IMG_5150.JPG",
-      "https://sales.bcpea.org/upload/93576/465700/IMG_5154.JPG",
-      "https://sales.bcpea.org/upload/93576/465701/IMG_5156.JPG",
-      "https://sales.bcpea.org/upload/93576/465702/IMG_5164.JPG",
-      "https://sales.bcpea.org/upload/93576/465703/IMG_5165.JPG",
-      "https://sales.bcpea.org/upload/93576/465704/IMG_5168.JPG",
-      "https://sales.bcpea.org/upload/93576/465705/IMG_5171.JPG",
-      "https://sales.bcpea.org/upload/93576/465706/IMG_5172.JPG",
-      "https://sales.bcpea.org/upload/93576/465707/IMG_5229.JPG"
-    ],
-    "price_per_sqm": 439,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 26368
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93575",
-    "url": "https://sales.bcpea.org/properties/93575",
-    "photo": null,
-    "price_eur": 600,
-    "sqm": 0,
-    "area": "Никола Козлево",
-    "title": "Парцел, Никола Козлево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T10:59:00+00:00",
-    "category": "land",
-    "_settlement": "Никола Козлево",
-    "lat": 43.5496713,
-    "lng": 27.254793,
-    "description": "¼ / една четвърт/ идеална част от имота Кадастрален № 110 / сто и десет/ , УПИ/парцел/ III / трети/ от кв. 47 одобрен през 198 4 , находящ се в село село Никола Козлево, общ. Никола Козлево, обл. Шумен, ул. Ружа № 2 / две/ , при граници за УПИ: от изток УПИ II -109, от запад УПИ IV-111, от север улица, по данни от данъчна оценка за имота земята е с площ 1000 кв.м. /хиляда квадратни метра/. Дворното място е прораснало с треви, храсти и дървета, не е оградено, достъп до имота се осъществява по път без трайна настилка, видимо не е обитаем и не се ползва по предназначение. В имота по документ за собственост са застроени следните сгради, които по констатации на място са премахнати и реално не съществуват, длъжникът притежава ¼ / една четвърт/ идеална част от тях: Сграда № 1 / едно/ жилище с РСЗ на обекта 120 кв.м. / сто и двадесет квадратни метра/ и мазе с РЗП на обекта 15 кв.м, / петнадесет квадратни метра/, брой етажи: 2 / два/ ; Сграда № 2 / две/ навес с оградни стени с РЗП на обекта 40 кв.м, / четиридесет квадратни метра/ брой етажи: 1 / един/ ; Сграда № 3 / три/ навес с оградни стени с РЗП на обекта 24 кв.м., / двадесет и четири квадратни метра/ брой етажи: 1 / един/.",
-    "detail_checked": true,
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 0
   },
   {
@@ -109184,7 +109184,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109987,7 +109987,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110027,7 +110027,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 584,
     "pct_vs_area_avg": 8.5,
     "score": 0
@@ -110059,7 +110059,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110098,7 +110098,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110133,7 +110133,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111961,7 +111961,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111999,7 +111999,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112035,7 +112035,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
