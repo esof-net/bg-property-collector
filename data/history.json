@@ -617312,7 +617312,15 @@
       "title": "2 bedroom apartment, 103 м 2 Blagoevgrad, Center",
       "portal": "imoti.net",
       "category": "flat",
-      "category_confidence": "high"
+      "category_confidence": "high",
+      "detail_checked": true,
+      "site_posted_at": "2026-10-30",
+      "photos": [
+        "https://www.imoti.net/web/files/obiavi/6266545/main_image/thumb_1200x630_wm_main_image_6266545_1.jpg",
+        "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_2.jpg",
+        "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_3.jpg",
+        "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_4.jpg"
+      ]
     }
   },
   "6165217": {

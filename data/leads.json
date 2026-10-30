@@ -252200,34 +252200,6 @@
     "score": 8
   },
   {
-    "id": "6266545",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/blagoevgrad/blagoevgrad-centyr/tristaen/6266545/?sid=geW25Y&page=2",
-    "photo": "https://www.imoti.net/web/files/obiavi/6266545/main_image/thumb_280x210_main_image_6266545_1.jpg?ver=1790505079",
-    "price_eur": 122245,
-    "sqm": 103,
-    "area": "Center",
-    "city": "Благоевград",
-    "title": "2 bedroom apartment, 103 м 2 Blagoevgrad, Center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1187,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 122245
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 32,
-    "source_status": "removed",
-    "removed_at": "2026-09-27T11:26:15.428795+00:00",
-    "area_avg_price_per_sqm": 1356,
-    "pct_vs_area_avg": -12.5,
-    "score": 8
-  },
-  {
     "id": "6276157",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/vinica/dvustaen/6276157/?sid=hOOTsy&page=30",
     "photo": "https://www.imoti.net/web/files/obiavi/6276157/main_image/thumb_280x210_main_image_6276157_1.jpg?ver=1793329683",
@@ -422998,6 +422970,42 @@
     "removed_at": "2026-09-21T10:57:28.291987+00:00",
     "area_avg_price_per_sqm": 2654,
     "pct_vs_area_avg": -13.4,
+    "score": 5
+  },
+  {
+    "id": "6266545",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/blagoevgrad/blagoevgrad-centyr/tristaen/6266545/?sid=geW25Y&page=2",
+    "photo": "https://www.imoti.net/web/files/obiavi/6266545/main_image/thumb_280x210_main_image_6266545_1.jpg?ver=1790505079",
+    "price_eur": 122245,
+    "sqm": 103,
+    "area": "Center",
+    "city": "Благоевград",
+    "title": "2 bedroom apartment, 103 м 2 Blagoevgrad, Center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "site_posted_at": "2026-10-30",
+    "photos": [
+      "https://www.imoti.net/web/files/obiavi/6266545/main_image/thumb_1200x630_wm_main_image_6266545_1.jpg",
+      "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_2.jpg",
+      "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_3.jpg",
+      "https://www.imoti.net/web/files/obiavi/6266545/images/thumb_1200x630_wm_images_6266545_4.jpg"
+    ],
+    "price_per_sqm": 1187,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 122245
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "removed",
+    "removed_at": "2026-09-27T11:26:15.428795+00:00",
+    "area_avg_price_per_sqm": 1356,
+    "pct_vs_area_avg": -12.5,
     "score": 5
   },
   {
