@@ -1584,7 +1584,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 61,
@@ -5644,6 +5644,38 @@
     "score": 10
   },
   {
+    "id": "imotibg_270199",
+    "url": "https://imoti.bg/продажби/офис/варна/идеален-център-270199.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a9031c66c60c_6a9031c66f823.jpg",
+    "price_eur": 995000,
+    "sqm": 400,
+    "area": "Идеален център",
+    "city": "Варна",
+    "title": "Офис, Идеален център",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Луксозен, обзаведен офис с 35 седящи места, 3 тераси, 2 кухни и 2 тоалетни. Кухните са оборудвани с фурни и микровълнови на Bosch и двойни хладилници на Liebher. Прекрасна локация, опция за закупуване на паркоместа в сградата на етаж -1 и -2 с топла връзка. Отопление и охлаждане с климатични тела висок клас на Mitsubishi, подовата настилка е гранитогрес навсякъде, а бюрата в целия офис са с функция за вдигане за работа изправен.\r\nПродава се във вида който се вижда на снимките с цялото оборудване.\r\n\r\nЧистата квадратура е 356.55 кв.м. 52.11 кв.м. общи части.",
+    "site_posted_at": null,
+    "category": "business",
+    "category_confidence": "high",
+    "price_per_sqm": 2488,
+    "price_history": [
+      {
+        "date": "2026-08-28T04:41:50.772578+00:00",
+        "price_eur": 995000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 63,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2667,
+    "pct_vs_area_avg": -6.7,
+    "score": 10
+  },
+  {
     "id": "imotibg_515401",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/център-515401.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a54beb2604c0_6a54bf49a6fff.jpg",
@@ -6829,38 +6861,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 549,
     "pct_vs_area_avg": 172.3,
-    "score": 9
-  },
-  {
-    "id": "imotibg_270199",
-    "url": "https://imoti.bg/продажби/офис/варна/идеален-център-270199.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a9031c66c60c_6a9031c66f823.jpg",
-    "price_eur": 995000,
-    "sqm": 400,
-    "area": "Идеален център",
-    "city": "Варна",
-    "title": "Офис, Идеален център",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Луксозен, обзаведен офис с 35 седящи места, 3 тераси, 2 кухни и 2 тоалетни. Кухните са оборудвани с фурни и микровълнови на Bosch и двойни хладилници на Liebher. Прекрасна локация, опция за закупуване на паркоместа в сградата на етаж -1 и -2 с топла връзка. Отопление и охлаждане с климатични тела висок клас на Mitsubishi, подовата настилка е гранитогрес навсякъде, а бюрата в целия офис са с функция за вдигане за работа изправен.\r\nПродава се във вида който се вижда на снимките с цялото оборудване.\r\n\r\nЧистата квадратура е 356.55 кв.м. 52.11 кв.м. общи части.",
-    "site_posted_at": null,
-    "category": "business",
-    "category_confidence": "high",
-    "price_per_sqm": 2488,
-    "price_history": [
-      {
-        "date": "2026-08-28T04:41:50.772578+00:00",
-        "price_eur": 995000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 62,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2667,
-    "pct_vs_area_avg": -6.7,
     "score": 9
   },
   {
@@ -21920,7 +21920,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 62,
+    "days_on_market": 63,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2244,
@@ -33624,9 +33624,9 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 7,
-    "source_status": "active",
-    "removed_at": null,
+    "days_on_market": 6,
+    "source_status": "removed",
+    "removed_at": "2026-10-29T08:55:52.744234+00:00",
     "area_avg_price_per_sqm": 978,
     "pct_vs_area_avg": 2.2,
     "score": 1
