@@ -10332,6 +10332,38 @@
     "score": 9
   },
   {
+    "id": "imotibg_514425",
+    "url": "https://imoti.bg/продажби/къща/перник-област/срударци-514425.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69aaa1667263d_69aaa2bc887c4.jpg",
+    "price_eur": 220000,
+    "sqm": 76,
+    "area": "с.Рударци",
+    "city": "Перник област",
+    "title": "Къща, с.Рударци",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Продавам малка къща/вила на два етажа с двор, находяща се на дясния хълм на селото, тухла, плоча, строена 80-те години,\r\nсобствена земя, изрядни документи.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 2895,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 220000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 28437,
+    "pct_vs_area_avg": -89.8,
+    "score": 9
+  },
+  {
     "id": "imotibg_269118",
     "url": "https://imoti.bg/продажби/парцел/варна/изгрев-269118.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -20228,38 +20260,6 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1064,
-    "pct_vs_area_avg": 0.0,
-    "score": 7
-  },
-  {
-    "id": "imotibg_514425",
-    "url": "https://imoti.bg/продажби/къща/перник-област/срударци-514425.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69aaa1667263d_69aaa2bc887c4.jpg",
-    "price_eur": 220000,
-    "sqm": 76,
-    "area": "с.Рударци",
-    "city": "Перник област",
-    "title": "Къща, с.Рударци",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Продавам малка къща/вила на два етажа с двор, находяща се на дясния хълм на селото, тухла, плоча, строена 80-те години,\r\nсобствена земя, изрядни документи.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 2895,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 220000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 66,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2895,
     "pct_vs_area_avg": 0.0,
     "score": 7
   },
@@ -35386,6 +35386,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1793,
     "pct_vs_area_avg": 51.3,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516188",
+    "url": "https://imoti.bg/продажби/парцел/перник-област/срударци-516188.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae456b07a865_6ae4576b2d75f.jpg",
+    "price_eur": 647750,
+    "sqm": 12,
+    "area": "с.Рударци",
+    "city": "Перник област",
+    "title": "Парцел, с.Рударци",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "От собственик \r\nПродавам имот в с Рударци 12,955дка по пътя за Делта Хил 50евро на кв.м.\r\n087 658 2424",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 53979,
+    "price_history": [
+      {
+        "date": "2026-10-30T14:51:57.328444+00:00",
+        "price_eur": 647750
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 28437,
+    "pct_vs_area_avg": 89.8,
     "score": 0
   }
 ]
