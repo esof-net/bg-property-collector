@@ -2939,7 +2939,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -56.6,
     "score": 17
@@ -2983,7 +2983,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -50.8,
     "score": 17
@@ -4634,7 +4634,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": -57.5,
     "score": 15
@@ -19181,7 +19181,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -13.4,
     "score": 7
@@ -25946,7 +25946,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": 531,
     "pct_vs_area_avg": -98.5,
     "score": 6
@@ -48714,7 +48714,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -76034,7 +76034,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76066,7 +76066,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76102,7 +76102,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76997,7 +76997,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77029,7 +77029,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77061,7 +77061,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77717,7 +77717,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78847,7 +78847,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -10.7,
     "score": 4
@@ -81443,7 +81443,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83234,7 +83234,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84604,7 +84604,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86573,7 +86573,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -94.1,
     "score": 3
@@ -86605,7 +86605,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87833,7 +87833,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 2489,
     "pct_vs_area_avg": -97.1,
     "score": 3
@@ -87881,7 +87881,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -1.8,
     "score": 3
@@ -92583,7 +92583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92618,7 +92618,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92657,7 +92657,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": 52.7,
     "score": 2
@@ -92697,7 +92697,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93034,7 +93034,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93070,7 +93070,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -87.4,
     "score": 2
@@ -93105,7 +93105,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93149,7 +93149,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -60.9,
     "score": 2
@@ -94567,7 +94567,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94599,7 +94599,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94631,7 +94631,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94663,7 +94663,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94695,7 +94695,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94727,7 +94727,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94759,7 +94759,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96242,7 +96242,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96274,7 +96274,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 13,
+    "days_on_market": 14,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96941,7 +96941,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -3.8,
     "score": 2
@@ -99657,7 +99657,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99689,7 +99689,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99721,7 +99721,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99753,7 +99753,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99785,7 +99785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99817,7 +99817,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99849,7 +99849,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102168,7 +102168,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102200,7 +102200,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102235,7 +102235,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103387,7 +103387,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103419,7 +103419,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103451,7 +103451,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103483,7 +103483,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103524,7 +103524,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103556,7 +103556,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103588,7 +103588,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103620,7 +103620,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103664,7 +103664,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103696,7 +103696,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103728,7 +103728,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103768,7 +103768,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103800,7 +103800,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103832,7 +103832,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103864,7 +103864,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103896,7 +103896,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103928,7 +103928,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103960,7 +103960,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104144,7 +104144,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104179,7 +104179,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105652,7 +105652,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106008,6 +106008,44 @@
     "days_on_market": 4,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": 99.7,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93581",
+    "url": "https://sales.bcpea.org/properties/93581",
+    "photo": "https://sales.bcpea.org/upload/93581/427807/20230629_115538 (1).jpg?w=270&h=270",
+    "price_eur": 50432,
+    "sqm": 302,
+    "area": "Каран Върбовка",
+    "title": "Други, Каран Върбовка",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T12:38:00+00:00",
+    "category": "apartment",
+    "_settlement": "Каран Върбовка",
+    "lat": 43.50236,
+    "lng": 25.99604,
+    "description": "ОБЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20715 / 23.10.2026 Изпълнително дело №: 20238330400635 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ТРИФОНОВА И СИН ЕООД , а именно: ПОЗЕМЛЕН ИМОТ № 000241 /двеста четиридесет и едно арабско/, съгласно акт за учредяване на ипотека, в землището на село Каран Върбовка, ЕКАТТЕ 36364, община Две могили, Русенска област, с площ от 38,300 дка. /тридесет и осем декара и триста квадратни метра/, с начин на трайно ползване: язовир, заедно с построения в него РИБАРНИК за производство на 15-20 т. /петнадесет до двадесет тона/ риба годишно с площ от 30 /тридесет/ декара и дълбочина от 1 метър, при граници и съседи: имот 000242, имот № 000240, имот № 107008, имот № 107009 и имот № 105002 и всички други настоящи и бъдещи подобрения и приращения по смисъла на чл. 92 ЗС; а съгласно кадастрална представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 36364.107.241 /три шест три шест четири точка едно нула седем точка две четири едно/, находящ се в с. Каран Върбовка, общ. Две могили, обл. Русе, с площ 38302 кв.м. /тридесет и осем хиляди триста и два квадратни метра/; Трайно предназначение на територията: Територия, заета от води и водни обекти; Начин на трайно ползване: Язовир; Предишен идентификатор: няма; Номер по предходен план: 000241; ведно с построените в имота сгради: няма данни; Съседи на поземления имот: 36364.107.9, 36364.107.8, 36364.107.240, 36364.107.242, 36364.105.2. НАЧАЛНА ЦЕНА: 50 432 € без ДДС При възлагане на имота, обявения купувач следва да внесе дължимия ДДС върху достигнатата продажна цена . учредена Договорна ипотека в полза на ЮРОБАНК БЪЛГАРИЯ АД – ПРАВОПРИЕМНИК НА БАНКА ПИРЕОС БЪЛГАРИЯ АД, учредени 2007г. и 2009г., за които не е вписано подновяване и заличаване на същите в службата по вписвания, учредена Договорна ипотека в полза на УНИКРЕДИТ БУЛБАНК АД, учредена 2013г., за коята не е вписано подновяване и заличаване на същата в службата по вписвания, учредена Договорна ипотека в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, подновена 2020г.,вписана Възбрана в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, Определям всеки вторник и четвъртък от 16:00ч. до 18:00ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026 г от 09:00 ч. КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93581/427807/20230629_115538 (1).jpg",
+      "https://sales.bcpea.org/upload/93581/427804/20230629_115304 (1).jpg",
+      "https://sales.bcpea.org/upload/93581/427805/20230629_115317 (1).jpg",
+      "https://sales.bcpea.org/upload/93581/427806/20230629_115429 (1).jpg"
+    ],
+    "price_per_sqm": 167,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 50432
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 1
   },
   {
@@ -107136,44 +107174,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93581",
-    "url": "https://sales.bcpea.org/properties/93581",
-    "photo": "https://sales.bcpea.org/upload/93581/427807/20230629_115538 (1).jpg?w=270&h=270",
-    "price_eur": 50432,
-    "sqm": 302,
-    "area": "Каран Върбовка",
-    "title": "Други, Каран Върбовка",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T12:38:00+00:00",
-    "category": "apartment",
-    "_settlement": "Каран Върбовка",
-    "lat": 43.50236,
-    "lng": 25.99604,
-    "description": "ОБЯВЛЕНИЕ ЗА ЕЛЕКТРОНЕН ПУБЛИЧЕН ТЪРГ № 20715 / 23.10.2026 Изпълнително дело №: 20238330400635 Подписаният Венцислав Маринов – частен съдебен изпълнител №833, обявявам на интересуващите се, ч е на онлайн платформата за електронни публични търгове към Министерството на правосъдието на адрес https://zapori.mjs.bg/#/ ще се проведе продажба на следн ото имущество, обект на принудително изпълнение по делото , собственост на ТРИФОНОВА И СИН ЕООД , а именно: ПОЗЕМЛЕН ИМОТ № 000241 /двеста четиридесет и едно арабско/, съгласно акт за учредяване на ипотека, в землището на село Каран Върбовка, ЕКАТТЕ 36364, община Две могили, Русенска област, с площ от 38,300 дка. /тридесет и осем декара и триста квадратни метра/, с начин на трайно ползване: язовир, заедно с построения в него РИБАРНИК за производство на 15-20 т. /петнадесет до двадесет тона/ риба годишно с площ от 30 /тридесет/ декара и дълбочина от 1 метър, при граници и съседи: имот 000242, имот № 000240, имот № 107008, имот № 107009 и имот № 105002 и всички други настоящи и бъдещи подобрения и приращения по смисъла на чл. 92 ЗС; а съгласно кадастрална представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 36364.107.241 /три шест три шест четири точка едно нула седем точка две четири едно/, находящ се в с. Каран Върбовка, общ. Две могили, обл. Русе, с площ 38302 кв.м. /тридесет и осем хиляди триста и два квадратни метра/; Трайно предназначение на територията: Територия, заета от води и водни обекти; Начин на трайно ползване: Язовир; Предишен идентификатор: няма; Номер по предходен план: 000241; ведно с построените в имота сгради: няма данни; Съседи на поземления имот: 36364.107.9, 36364.107.8, 36364.107.240, 36364.107.242, 36364.105.2. НАЧАЛНА ЦЕНА: 50 432 € без ДДС При възлагане на имота, обявения купувач следва да внесе дължимия ДДС върху достигнатата продажна цена . учредена Договорна ипотека в полза на ЮРОБАНК БЪЛГАРИЯ АД – ПРАВОПРИЕМНИК НА БАНКА ПИРЕОС БЪЛГАРИЯ АД, учредени 2007г. и 2009г., за които не е вписано подновяване и заличаване на същите в службата по вписвания, учредена Договорна ипотека в полза на УНИКРЕДИТ БУЛБАНК АД, учредена 2013г., за коята не е вписано подновяване и заличаване на същата в службата по вписвания, учредена Договорна ипотека в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, подновена 2020г.,вписана Възбрана в полза на взискателя УНИКРЕДИТ БУЛБАНК АД, Определям всеки вторник и четвъртък от 16:00ч. до 18:00ч. за оглед на имота. Срок за регистрация: от 03.11.2026 г. до 17,00 часа на 03.12.2026 г. Срок за наддаване: НАЧАЛО: 08.12.2026 г от 09:00 ч. КРАЙ: 14.12.2026г. до 17:00 ч. Желаещите да купят могат да се явят в кантората на съдебния изпълнител в работно време, за да прегледат книжата. За участие в електронния търг , следва всеки наддавач следва да се регистрира на онлайн платформата за електронни публични търгове към Министерството на правосъдието. В секи наддавач следва да внесе задатък в размер на 10% от обявената цена по сметка в ЦКБ АД Русе: BG11 CECB 9790 1072 1049 01, BIC: CECBBGSF. На основание Наредба № Н-3/06.04.2023 г. на МП, Към момента на регистрацията участникът прилага: Д екларация по Закона за мерките срещу изпирането на пари; Д екларация за липса на обстоятелства по чл. 490 от Гражданския процесуален кодекс и чл. 185 от Закона за задълженията и договорите; К витанция за внесен задатък; П ълномощно, ако заявката се подава чрез пълномощник. Срокът за регистрация приключва на 03.12.2026 г. , След изтичане на срока за регистрация следва наддаване в посочения по-горе срок. Платформата изпраща по реда на чл. 26 автоматични съобщения до всички наддавачи за започване на наддаването двадесет и четири часа, както и един час преди неговото начало.Наддаването се извършва от всеки наддавач само в платформата чрез команда за наддаване.При постъпване на наддавателно предложение платформата отразява това в публичната информация, като автоматично изчислява и показва следващата цена, по-висока с една стъпка. Два часа преди изтичане на срока за наддаване платформата изпраща автоматично съобщение за това до всички наддавачи на електронен адрес. Наддаването приключва в посоченото време, ако няма подадено наддавателно предложение през последните 10 минути на търга. При подаване на ново предложение в последните 10 минути на търга той се удължава автоматично с още 10 минути, считано от изтичането на срока за наддаване. Купувачът в двуседмичен срок от обявяването му е длъжен да внесе предложената от него цена, като приспадане внесения задатък.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93581/427807/20230629_115538 (1).jpg",
-      "https://sales.bcpea.org/upload/93581/427804/20230629_115304 (1).jpg",
-      "https://sales.bcpea.org/upload/93581/427805/20230629_115317 (1).jpg",
-      "https://sales.bcpea.org/upload/93581/427806/20230629_115429 (1).jpg"
-    ],
-    "price_per_sqm": 167,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 50432
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93579",
     "url": "https://sales.bcpea.org/properties/93579",
     "photo": null,
@@ -107200,7 +107200,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 765,
     "pct_vs_area_avg": 48.9,
     "score": 0
@@ -108975,7 +108975,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -72.7,
     "score": 0
@@ -109007,7 +109007,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109043,7 +109043,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109079,7 +109079,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109111,7 +109111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109147,7 +109147,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109923,7 +109923,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109955,7 +109955,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111796,7 +111796,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111851,7 +111851,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111895,7 +111895,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111930,7 +111930,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -98.6,
     "score": 0
