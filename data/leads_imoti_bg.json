@@ -2428,6 +2428,38 @@
     "score": 19
   },
   {
+    "id": "imotibg_515974",
+    "url": "https://imoti.bg/продажби/къща/сливен-област/срадецки-515974.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aba37718d11f_6aba38586fec5.jpg",
+    "price_eur": 25000,
+    "sqm": 1880,
+    "area": "с.Радецки",
+    "city": "Сливен област",
+    "title": "Къща, с.Радецки",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Къща с голям двор в с. Радецки, регион Сливен. Търсите перфектното бягство от градския шум или инвестиция в спокоен и плодороден край? Предлагаме за продажба самостоятелен имот в с. Радецки (общ. Нова Загора) - район, известен с чистия си въздух, плодородна земя и близостта си до язовир „Овчарица“, превръщайки го в рай за любителите на риболова и природата. Къщата се намира в близост до Тец Марица Изток 2.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 13,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:08:25.688986+00:00",
+        "price_eur": 25000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 32,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 26,
+    "pct_vs_area_avg": -50.9,
+    "score": 19
+  },
+  {
     "id": "imotibg_270479",
     "url": "https://imoti.bg/продажби/къща/варна/левски-270479.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6abb78af80b34_6abb78afa466b.jpg",
@@ -2845,38 +2877,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 3741,
     "pct_vs_area_avg": 16.9,
-    "score": 18
-  },
-  {
-    "id": "imotibg_515974",
-    "url": "https://imoti.bg/продажби/къща/сливен-област/срадецки-515974.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6aba37718d11f_6aba38586fec5.jpg",
-    "price_eur": 25000,
-    "sqm": 1880,
-    "area": "с.Радецки",
-    "city": "Сливен област",
-    "title": "Къща, с.Радецки",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Къща с голям двор в с. Радецки, регион Сливен. Търсите перфектното бягство от градския шум или инвестиция в спокоен и плодороден край? Предлагаме за продажба самостоятелен имот в с. Радецки (общ. Нова Загора) - район, известен с чистия си въздух, плодородна земя и близостта си до язовир „Овчарица“, превръщайки го в рай за любителите на риболова и природата. Къщата се намира в близост до Тец Марица Изток 2.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 13,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:08:25.688986+00:00",
-        "price_eur": 25000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 31,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 26,
-    "pct_vs_area_avg": -50.9,
     "score": 18
   },
   {
@@ -3432,7 +3432,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 500,
@@ -26756,7 +26756,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 40,
@@ -28752,6 +28752,38 @@
     "score": 4
   },
   {
+    "id": "imotibg_515973",
+    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/спаталеница-515973.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aba09d8580ca_6aba0a3ea9168.jpeg",
+    "price_eur": 85000,
+    "sqm": 698,
+    "area": "с.Паталеница",
+    "city": "Пазарджик област",
+    "title": "Парцел, с.Паталеница",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Продавам УПИ с площ от 698 кв.м. в с. Паталеница, местност Черниче. В имота има прокарани вода от централен водопровод и електричество с издадена партида. Подходящ е за строеж на къща или ваканционна постройка. Обособен е с ограда и заключваща се врата през която се осигурява достъп на автомобили в имота. Имотът се намира на място със страхотна панорама към Горнотракийската низина и гр. Пазарджик, както и към планината.\r\nПредлагам имота за продажба като собственик – частно лице и не съм обвързан с брокер. Посреднически услуги използвани от името на купувача са за сметка изцяло на купувача.",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 122,
+    "price_history": [
+      {
+        "date": "2026-09-28T15:08:25.688986+00:00",
+        "price_eur": 85000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 32,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 122,
+    "pct_vs_area_avg": 0.0,
+    "score": 4
+  },
+  {
     "id": "imotibg_515984",
     "url": "https://imoti.bg/продажби/къща/софия-област/салдомировци-515984.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6abbc77466603_6abbc8d2ed011.jpeg",
@@ -29341,6 +29373,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 704,
     "pct_vs_area_avg": -9.2,
+    "score": 4
+  },
+  {
+    "id": "imotibg_516155",
+    "url": "https://imoti.bg/продажби/къща/габрово-област/гртрявна-516155.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6adc847ab1008_6adc89e97be1f.jpg",
+    "price_eur": 105000,
+    "sqm": 175,
+    "area": "гр.Трявна",
+    "city": "Габрово област",
+    "title": "Къща, гр.Трявна",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Продава се масивна двуетажна къща в град Трявна на 10 минути от центъра. Къщата е със самостоятелен външен вход за всеки етаж и топла връзка между тях с вътрешно стълбище. РЗП първия етаж - 82 кв.м. с ремонтирана баня, а втория етаж е с РЗП - 92 кв.м. с ремонтирана баня. Налични са две тераси с панорама и сменена ПВЦ дограма. Чист въздух и прекрасна панорама.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 600,
+    "price_history": [
+      {
+        "date": "2026-10-24T15:02:35.901827+00:00",
+        "price_eur": 105000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 6,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 651,
+    "pct_vs_area_avg": -7.8,
     "score": 4
   },
   {
@@ -30048,38 +30112,6 @@
     "score": 3
   },
   {
-    "id": "imotibg_515973",
-    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/спаталеница-515973.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6aba09d8580ca_6aba0a3ea9168.jpeg",
-    "price_eur": 85000,
-    "sqm": 698,
-    "area": "с.Паталеница",
-    "city": "Пазарджик област",
-    "title": "Парцел, с.Паталеница",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Продавам УПИ с площ от 698 кв.м. в с. Паталеница, местност Черниче. В имота има прокарани вода от централен водопровод и електричество с издадена партида. Подходящ е за строеж на къща или ваканционна постройка. Обособен е с ограда и заключваща се врата през която се осигурява достъп на автомобили в имота. Имотът се намира на място със страхотна панорама към Горнотракийската низина и гр. Пазарджик, както и към планината.\r\nПредлагам имота за продажба като собственик – частно лице и не съм обвързан с брокер. Посреднически услуги използвани от името на купувача са за сметка изцяло на купувача.",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 122,
-    "price_history": [
-      {
-        "date": "2026-09-28T15:08:25.688986+00:00",
-        "price_eur": 85000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 31,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 122,
-    "pct_vs_area_avg": 0.0,
-    "score": 3
-  },
-  {
     "id": "imotibg_515983",
     "url": "https://imoti.bg/продажби/нива/пазарджик-област/слозен-515983.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6abbaa5829b9a_6abbab20c53aa.jpg",
@@ -30424,7 +30456,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2200,
@@ -30744,7 +30776,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 807,
@@ -30776,7 +30808,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -30808,7 +30840,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1267,
@@ -30880,38 +30912,6 @@
     "score": 3
   },
   {
-    "id": "imotibg_516155",
-    "url": "https://imoti.bg/продажби/къща/габрово-област/гртрявна-516155.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6adc847ab1008_6adc89e97be1f.jpg",
-    "price_eur": 105000,
-    "sqm": 175,
-    "area": "гр.Трявна",
-    "city": "Габрово област",
-    "title": "Къща, гр.Трявна",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Продава се масивна двуетажна къща в град Трявна на 10 минути от центъра. Къщата е със самостоятелен външен вход за всеки етаж и топла връзка между тях с вътрешно стълбище. РЗП първия етаж - 82 кв.м. с ремонтирана баня, а втория етаж е с РЗП - 92 кв.м. с ремонтирана баня. Налични са две тераси с панорама и сменена ПВЦ дограма. Чист въздух и прекрасна панорама.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 600,
-    "price_history": [
-      {
-        "date": "2026-10-24T15:02:35.901827+00:00",
-        "price_eur": 105000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 5,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 651,
-    "pct_vs_area_avg": -7.8,
-    "score": 3
-  },
-  {
     "id": "imotibg_516169",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/смирненски-516169.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ae0720a326ab_6ae0728533c0a.jpg",
@@ -30936,7 +30936,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1732,
@@ -31864,7 +31864,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 5068,
@@ -31928,7 +31928,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1708,
@@ -33184,6 +33184,38 @@
     "score": 2
   },
   {
+    "id": "imotibg_516172",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-516172.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae0904dd72db_6ae0911d6cdef.jpg",
+    "price_eur": 110000,
+    "sqm": 70,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Тристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Продаваме тристаен апартамент в кв. Кючук Париж, който се намира близо до НАП\r\nАпартамента е напълно обзаведен с всички мебели и ел. уреди и е подходящ, както за живеене, така и за отдаване под наем.\r\nСъстои се от 3 непреходни стая - просторен хол, отделна трапезария и кухня, спалня, 2 тераси и санитарен възел\r\nЧистата площ на апартамента е 70кв.м., като към него има и изба с тоалетна - 6 кв.м.\r\nСитуиран на 3-ри етаж от 5 етажна монолитна кооперация с асансьор.\r\nОказваме пълно съдействие за банково кредитиране при най-добри условия и цялостна юридическа проверка на имотите, които предлагаме!\r\nЗа повече информация или оглед, обадете се на посочените телефони: 089 945 0421/088 606 2313.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1571,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 110000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 3,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1626,
+    "pct_vs_area_avg": -3.4,
+    "score": 2
+  },
+  {
     "id": "imotibg_516179",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/надежда-4-516179.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ae20de8baa7a_6ae20f7116b2a.jpg",
@@ -34104,7 +34136,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2558,
@@ -34168,7 +34200,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2182,
@@ -34205,38 +34237,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 9,
     "pct_vs_area_avg": 0.0,
-    "score": 1
-  },
-  {
-    "id": "imotibg_516172",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-516172.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ae0904dd72db_6ae0911d6cdef.jpg",
-    "price_eur": 110000,
-    "sqm": 70,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Тристаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Продаваме тристаен апартамент в кв. Кючук Париж, който се намира близо до НАП\r\nАпартамента е напълно обзаведен с всички мебели и ел. уреди и е подходящ, както за живеене, така и за отдаване под наем.\r\nСъстои се от 3 непреходни стая - просторен хол, отделна трапезария и кухня, спалня, 2 тераси и санитарен възел\r\nЧистата площ на апартамента е 70кв.м., като към него има и изба с тоалетна - 6 кв.м.\r\nСитуиран на 3-ри етаж от 5 етажна монолитна кооперация с асансьор.\r\nОказваме пълно съдействие за банково кредитиране при най-добри условия и цялостна юридическа проверка на имотите, които предлагаме!\r\nЗа повече информация или оглед, обадете се на посочените телефони: 089 945 0421/088 606 2313.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1571,
-    "price_history": [
-      {
-        "date": "2026-10-27T14:59:42.711546+00:00",
-        "price_eur": 110000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 2,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -3.4,
     "score": 1
   },
   {
@@ -35189,7 +35189,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 96,
