@@ -308,6 +308,46 @@
     "score": 37
   },
   {
+    "id": "imotibg_515897",
+    "url": "https://imoti.bg/продажби/къща/силистра-област/сгарван-515897.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aaa9ff76bf6e_6aaaa201f0688.jpg",
+    "price_eur": 28500,
+    "sqm": 72,
+    "area": "с.Гарван",
+    "city": "Силистра област",
+    "title": "Къща, с.Гарван",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Къщата се намира срещу читалище в село Гарван на много комуникативно място, къщата е тухлена основите са над два метра и половина дялан камък над 100 кг. Блокове.\r\nМазата  е чиста и измазана и е 41 кв м.\r\nСелото е българско, много приятни хора.\r\nТоалетната е външна но има закупен чисто нов моноблок и подготовка за вътрешна тоалетна.\r\nИма ансамбъл по народни танци. \r\nИма каменен кладенец който е дълбок 18 м в момента имам вода между 8 и 9 м, добре е да му се направи профилактика,има чисто нова професионална помпа дълбоководна никога не е използвана но от няколко години е в кладенеца кладенеца  е регистриран. В къщата има обзавеждане печка готварска нов хладилник, хоризонтален фризер, пералня нова.\r\nДворното място се поддържа при продажба гарантирам двора да бъде почистен ако има трева.\r\nКъщата има застраховка за една година от 13.09.26 година до 12.09.2027 година за 50 000 евро.\r\nСело Гарван е на брега на р.Дунава.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 396,
+    "price_history": [
+      {
+        "date": "2026-09-17T08:24:45.456885+00:00",
+        "price_eur": 34500
+      },
+      {
+        "date": "2026-09-20T12:40:02.936650+00:00",
+        "price_eur": 29500
+      },
+      {
+        "date": "2026-10-05T15:55:28.262208+00:00",
+        "price_eur": 28500
+      }
+    ],
+    "price_drop_count": 2,
+    "drop_pct": 17.4,
+    "days_on_market": 43,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 396,
+    "pct_vs_area_avg": 0.0,
+    "score": 36
+  },
+  {
     "id": "imotibg_514200",
     "url": "https://imoti.bg/продажби/парцел/монтана-област/серден-514200.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69830b6e6f6f1_69830bbfaec68.jpg",
@@ -341,46 +381,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 14,
     "pct_vs_area_avg": -3.7,
-    "score": 35
-  },
-  {
-    "id": "imotibg_515897",
-    "url": "https://imoti.bg/продажби/къща/силистра-област/сгарван-515897.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6aaa9ff76bf6e_6aaaa201f0688.jpg",
-    "price_eur": 28500,
-    "sqm": 72,
-    "area": "с.Гарван",
-    "city": "Силистра област",
-    "title": "Къща, с.Гарван",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Къщата се намира срещу читалище в село Гарван на много комуникативно място, къщата е тухлена основите са над два метра и половина дялан камък над 100 кг. Блокове.\r\nМазата  е чиста и измазана и е 41 кв м.\r\nСелото е българско, много приятни хора.\r\nТоалетната е външна но има закупен чисто нов моноблок и подготовка за вътрешна тоалетна.\r\nИма ансамбъл по народни танци. \r\nИма каменен кладенец който е дълбок 18 м в момента имам вода между 8 и 9 м, добре е да му се направи профилактика,има чисто нова професионална помпа дълбоководна никога не е използвана но от няколко години е в кладенеца кладенеца  е регистриран. В къщата има обзавеждане печка готварска нов хладилник, хоризонтален фризер, пералня нова.\r\nДворното място се поддържа при продажба гарантирам двора да бъде почистен ако има трева.\r\nКъщата има застраховка за една година от 13.09.26 година до 12.09.2027 година за 50 000 евро.\r\nСело Гарван е на брега на р.Дунава.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 396,
-    "price_history": [
-      {
-        "date": "2026-09-17T08:24:45.456885+00:00",
-        "price_eur": 34500
-      },
-      {
-        "date": "2026-09-20T12:40:02.936650+00:00",
-        "price_eur": 29500
-      },
-      {
-        "date": "2026-10-05T15:55:28.262208+00:00",
-        "price_eur": 28500
-      }
-    ],
-    "price_drop_count": 2,
-    "drop_pct": 17.4,
-    "days_on_market": 42,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 396,
-    "pct_vs_area_avg": 0.0,
     "score": 35
   },
   {
@@ -23044,7 +23044,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -23556,7 +23556,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 48,
+    "days_on_market": 49,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -26276,7 +26276,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1276,
@@ -26308,7 +26308,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 615,
@@ -35285,7 +35285,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1429,
