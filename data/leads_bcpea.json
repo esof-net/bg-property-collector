@@ -895,7 +895,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -56.6,
     "score": 19
@@ -1180,7 +1180,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -56.6,
     "score": 19
@@ -1212,7 +1212,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -55.3,
     "score": 19
@@ -4552,7 +4552,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -36.3,
     "score": 15
@@ -5235,7 +5235,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 1244,
     "pct_vs_area_avg": -35.0,
     "score": 14
@@ -12291,7 +12291,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -17.8,
     "score": 8
@@ -18865,7 +18865,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 50,
+    "days_on_market": 51,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -77.7,
     "score": 7
@@ -19692,7 +19692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -22708,7 +22708,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -24639,7 +24639,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -24915,7 +24915,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -24947,7 +24947,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29051,7 +29051,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29704,7 +29704,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -30455,7 +30455,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -35469,7 +35469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -39008,7 +39008,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46275,7 +46275,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49122,7 +49122,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -73501,7 +73501,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73533,7 +73533,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73614,7 +73614,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73658,7 +73658,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74925,7 +74925,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74957,7 +74957,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76688,7 +76688,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -86.8,
     "score": 4
@@ -76720,7 +76720,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76774,7 +76774,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 15535,
     "pct_vs_area_avg": 289.1,
     "score": 4
@@ -76806,7 +76806,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -75.9,
     "score": 4
@@ -76845,7 +76845,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76887,7 +76887,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81217,7 +81217,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81249,7 +81249,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81284,7 +81284,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81325,7 +81325,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83001,7 +83001,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -93.6,
     "score": 3
@@ -83038,7 +83038,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83077,7 +83077,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83116,7 +83116,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83154,7 +83154,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83192,7 +83192,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83230,7 +83230,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84440,7 +84440,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86375,7 +86375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 190,
     "pct_vs_area_avg": -77.8,
     "score": 3
@@ -86417,7 +86417,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87848,7 +87848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87880,7 +87880,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87912,7 +87912,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91159,7 +91159,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -65.0,
     "score": 2
@@ -92284,7 +92284,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92316,7 +92316,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92351,7 +92351,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92386,7 +92386,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92421,7 +92421,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92457,7 +92457,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92493,7 +92493,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92528,7 +92528,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92932,7 +92932,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92968,7 +92968,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93009,7 +93009,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -61.1,
     "score": 2
@@ -94251,7 +94251,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94283,7 +94283,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94315,7 +94315,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94350,7 +94350,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94382,7 +94382,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94414,7 +94414,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94446,7 +94446,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95760,7 +95760,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95792,7 +95792,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95824,7 +95824,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95860,7 +95860,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96975,6 +96975,172 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 14,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93339",
+    "url": "https://sales.bcpea.org/properties/93339",
+    "photo": "https://sales.bcpea.org/upload/93339/431784/IMG_20241126_105718.jpg?w=270&h=270",
+    "price_eur": 22810,
+    "sqm": 462,
+    "area": "Брезово",
+    "title": "Земеделска земя, Брезово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T14:35:00+00:00",
+    "category": "land",
+    "_settlement": "Брезово",
+    "lat": null,
+    "lng": null,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 06361.79.856 (нула, шест, три, шест, едно, точка, седем, девет, точка, осем, пет, шест) по кадастралната карта и кадастралните регистри на  гр. Брезово, общ. Брезово, обл. Пловдив, одобрени със Заповед № РД-18-581/20.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение,  с адрес на поземления имот: гр. Брезово,  с площ от 30462 кв.м. (тридесет хиляди четиристотин шестдесет и два кв.м.), трайно предназначение на територията: земеделска, начин на трайно ползване: за друг вид отпадъци, категория на земята: 0 (нула),  предишен идентификатор: няма, номер по предходен план: 000856 (нула, нула, нула, осем, пет, шест), при съседи: пи с ид-р № 06361.79.607, пи с ид-р № 06361.79.705, пи с ид-р № 06361.79.670, пи с ид-р № 06361.78.900, пи с ид-р № 06361.78.783, пи с ид-р № 06361.78.671, пи с ид-р № 06361.79.672.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93339/431784/IMG_20241126_105718.jpg"
+    ],
+    "price_per_sqm": 49,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 22810
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93338",
+    "url": "https://sales.bcpea.org/properties/93338",
+    "photo": null,
+    "price_eur": 2799,
+    "sqm": 58,
+    "area": "Бранище",
+    "title": "Земеделска земя, Бранище",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T14:23:00+00:00",
+    "category": "land",
+    "_settlement": "Бранище",
+    "lat": 43.5273033,
+    "lng": 27.8462499,
+    "description": "½ ид.ч. от недвижим имот, находящ се в с.Бранище, общ.Добричка, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 06104.20.15 по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-236/18.08.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот – няма извършено изменение на КККР със заповед, с площ от 4058 кв.м., трайно предназначение на територията: земеделска, с начин на трайно ползване: нива, категория на земята при неполивни условия: трета, предишен идентификатор: няма, номер по предходен план: 020015, при съседи: 06104.20.57, 06104.20.16, 06104.20.10, 06104.20.14.",
+    "detail_checked": true,
+    "price_per_sqm": 48,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 2799
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93337",
+    "url": "https://sales.bcpea.org/properties/93337",
+    "photo": null,
+    "price_eur": 10025,
+    "sqm": 69,
+    "area": "Бранище",
+    "title": "Земеделска земя, Бранище",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T14:23:00+00:00",
+    "category": "land",
+    "_settlement": "Бранище",
+    "lat": 43.5273033,
+    "lng": 27.8462499,
+    "description": "½ ид.ч. от недвижим имот, находящ се в с.Бранище, общ.Добричка, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 06104.26.18 по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-236/18.08.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот – няма извършено изменение на КККР със заповед, с площ от 14069 кв.м., трайно предназначение на територията: земеделска, с начин на трайно ползване: нива, категория на земята при неполивни условия: трета, предишен идентификатор: няма, номер по предходен план: 026018, при съседи: 06104.26.17, 06104.26.19, 06104.26.12, 06104.26.30.",
+    "detail_checked": true,
+    "price_per_sqm": 145,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 10025
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93336",
+    "url": "https://sales.bcpea.org/properties/93336",
+    "photo": "https://sales.bcpea.org/upload/93336/431782/IMG_20241126_115458.jpg?w=270&h=270",
+    "price_eur": 2945,
+    "sqm": 448,
+    "area": "Брезово",
+    "title": "Земеделска земя, Брезово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T14:21:00+00:00",
+    "category": "land",
+    "_settlement": "Брезово",
+    "lat": null,
+    "lng": null,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 06361.79.530  (нула, шест, три, шест, едно, точка, седем, девет, точка, пет, три, нула) по кадастралната карта и кадастралните регистри на  гр. Брезово, общ. Брезово, обл. Пловдив, одобрени със Заповед № РД-18-581/20.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение,  с адрес на поземления имот: гр. Брезово, местност ХАДЖИКОРИЯ КРЪСТОП, с площ от 4448 кв.м. (четири хиляди четиристотин четиридесет и осем кв.м.), трайно предназначение на територията: земеделска, начин на трайно ползване: пасище, категория на земята :4 (четвърта),  предишен идентификатор: няма, номер по предходен план: 000530 (нула, нула, нула, пет, три, нула), при съседи: пи с ид-р № 06361.888.9901, пи с ид-р № 06361.79.607, пи с ид-р № 06361.71.672.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93336/431782/IMG_20241126_115458.jpg"
+    ],
+    "price_per_sqm": 7,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 2945
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93330",
+    "url": "https://sales.bcpea.org/properties/93330",
+    "photo": null,
+    "price_eur": 4137,
+    "sqm": 250,
+    "area": "Васильово",
+    "title": "Парцел, Васильово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T13:49:00+00:00",
+    "category": "land",
+    "_settlement": "Васильово",
+    "lat": 42.8785001,
+    "lng": 24.3761899,
+    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.202.8 /едно нула две седем две, тока, две нула две, точка, осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 30“, а по схема от АГКК местност „ ЛИВАДИЩЕ “, с площ от 10,250.00 кв.м ., трайно предназначение на територията: „Горска“ , начин на трайно ползване: друг вид дървопроизводителна гора , стар идентификатор : 034020 , при граници и съседи: поземлени имоти с идентификатори 10272.202.5, 10272.202.4, 10272.202.7, имотът е образуван от имот с идентификатор 10272.202.3; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
+    "detail_checked": true,
+    "price_per_sqm": 17,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 4137
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -100613,7 +100779,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 20.4,
     "score": 1
@@ -102612,7 +102778,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102644,7 +102810,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102676,7 +102842,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102708,7 +102874,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -98.8,
     "score": 1
@@ -102744,7 +102910,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102776,7 +102942,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -98.8,
     "score": 1
@@ -102808,7 +102974,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -98.8,
     "score": 1
@@ -102840,7 +103006,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -98.8,
     "score": 1
@@ -102879,7 +103045,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102911,7 +103077,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102943,7 +103109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102975,7 +103141,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103007,7 +103173,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103039,7 +103205,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103071,7 +103237,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -103103,7 +103269,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104011,172 +104177,6 @@
       {
         "date": "2026-10-22T20:54:11.759656+00:00",
         "price_eur": 81090
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93339",
-    "url": "https://sales.bcpea.org/properties/93339",
-    "photo": "https://sales.bcpea.org/upload/93339/431784/IMG_20241126_105718.jpg?w=270&h=270",
-    "price_eur": 22810,
-    "sqm": 462,
-    "area": "Брезово",
-    "title": "Земеделска земя, Брезово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T14:35:00+00:00",
-    "category": "land",
-    "_settlement": "Брезово",
-    "lat": null,
-    "lng": null,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 06361.79.856 (нула, шест, три, шест, едно, точка, седем, девет, точка, осем, пет, шест) по кадастралната карта и кадастралните регистри на  гр. Брезово, общ. Брезово, обл. Пловдив, одобрени със Заповед № РД-18-581/20.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение,  с адрес на поземления имот: гр. Брезово,  с площ от 30462 кв.м. (тридесет хиляди четиристотин шестдесет и два кв.м.), трайно предназначение на територията: земеделска, начин на трайно ползване: за друг вид отпадъци, категория на земята: 0 (нула),  предишен идентификатор: няма, номер по предходен план: 000856 (нула, нула, нула, осем, пет, шест), при съседи: пи с ид-р № 06361.79.607, пи с ид-р № 06361.79.705, пи с ид-р № 06361.79.670, пи с ид-р № 06361.78.900, пи с ид-р № 06361.78.783, пи с ид-р № 06361.78.671, пи с ид-р № 06361.79.672.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93339/431784/IMG_20241126_105718.jpg"
-    ],
-    "price_per_sqm": 49,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 22810
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93338",
-    "url": "https://sales.bcpea.org/properties/93338",
-    "photo": null,
-    "price_eur": 2799,
-    "sqm": 58,
-    "area": "Бранище",
-    "title": "Земеделска земя, Бранище",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T14:23:00+00:00",
-    "category": "land",
-    "_settlement": "Бранище",
-    "lat": 43.5273033,
-    "lng": 27.8462499,
-    "description": "½ ид.ч. от недвижим имот, находящ се в с.Бранище, общ.Добричка, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 06104.20.15 по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-236/18.08.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот – няма извършено изменение на КККР със заповед, с площ от 4058 кв.м., трайно предназначение на територията: земеделска, с начин на трайно ползване: нива, категория на земята при неполивни условия: трета, предишен идентификатор: няма, номер по предходен план: 020015, при съседи: 06104.20.57, 06104.20.16, 06104.20.10, 06104.20.14.",
-    "detail_checked": true,
-    "price_per_sqm": 48,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 2799
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93337",
-    "url": "https://sales.bcpea.org/properties/93337",
-    "photo": null,
-    "price_eur": 10025,
-    "sqm": 69,
-    "area": "Бранище",
-    "title": "Земеделска земя, Бранище",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T14:23:00+00:00",
-    "category": "land",
-    "_settlement": "Бранище",
-    "lat": 43.5273033,
-    "lng": 27.8462499,
-    "description": "½ ид.ч. от недвижим имот, находящ се в с.Бранище, общ.Добричка, обл.Добрич, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор 06104.26.18 по кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18-236/18.08.2017г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот – няма извършено изменение на КККР със заповед, с площ от 14069 кв.м., трайно предназначение на територията: земеделска, с начин на трайно ползване: нива, категория на земята при неполивни условия: трета, предишен идентификатор: няма, номер по предходен план: 026018, при съседи: 06104.26.17, 06104.26.19, 06104.26.12, 06104.26.30.",
-    "detail_checked": true,
-    "price_per_sqm": 145,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 10025
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93336",
-    "url": "https://sales.bcpea.org/properties/93336",
-    "photo": "https://sales.bcpea.org/upload/93336/431782/IMG_20241126_115458.jpg?w=270&h=270",
-    "price_eur": 2945,
-    "sqm": 448,
-    "area": "Брезово",
-    "title": "Земеделска земя, Брезово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T14:21:00+00:00",
-    "category": "land",
-    "_settlement": "Брезово",
-    "lat": null,
-    "lng": null,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 06361.79.530  (нула, шест, три, шест, едно, точка, седем, девет, точка, пет, три, нула) по кадастралната карта и кадастралните регистри на  гр. Брезово, общ. Брезово, обл. Пловдив, одобрени със Заповед № РД-18-581/20.08.2019г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение,  с адрес на поземления имот: гр. Брезово, местност ХАДЖИКОРИЯ КРЪСТОП, с площ от 4448 кв.м. (четири хиляди четиристотин четиридесет и осем кв.м.), трайно предназначение на територията: земеделска, начин на трайно ползване: пасище, категория на земята :4 (четвърта),  предишен идентификатор: няма, номер по предходен план: 000530 (нула, нула, нула, пет, три, нула), при съседи: пи с ид-р № 06361.888.9901, пи с ид-р № 06361.79.607, пи с ид-р № 06361.71.672.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93336/431782/IMG_20241126_115458.jpg"
-    ],
-    "price_per_sqm": 7,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 2945
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93330",
-    "url": "https://sales.bcpea.org/properties/93330",
-    "photo": null,
-    "price_eur": 4137,
-    "sqm": 250,
-    "area": "Васильово",
-    "title": "Парцел, Васильово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T13:49:00+00:00",
-    "category": "land",
-    "_settlement": "Васильово",
-    "lat": 42.8785001,
-    "lng": 24.3761899,
-    "description": "1/2 /една втора/ ид. ч. от ПОЗЕМЛЕН ИМОТ с идентификатор 10272.202.8 /едно нула две седем две, тока, две нула две, точка, осем/, находящ се в с. Васильово, общ. Тетевен, обл. Ловеч, по кадастралната карта и кадастралните регистри, одобрени със Заповед № РД-18-50/15.06.2009 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: местност „кв. 30“, а по схема от АГКК местност „ ЛИВАДИЩЕ “, с площ от 10,250.00 кв.м ., трайно предназначение на територията: „Горска“ , начин на трайно ползване: друг вид дървопроизводителна гора , стар идентификатор : 034020 , при граници и съседи: поземлени имоти с идентификатори 10272.202.5, 10272.202.4, 10272.202.7, имотът е образуван от имот с идентификатор 10272.202.3; Допълнителна информация можете да намерите в прикаченото обявление по изп. дело № 20258790402958 Лице за контакт в кантората – Милица Георгиева, 068 699 460 вътрешен 120 e-mail: georgieva_m@velislavpetrov.com",
-    "detail_checked": true,
-    "price_per_sqm": 17,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 4137
       }
     ],
     "price_drop_count": 0,
@@ -105160,7 +105160,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105195,7 +105195,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105230,7 +105230,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105273,7 +105273,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105308,7 +105308,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105343,7 +105343,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106334,6 +106334,49 @@
     "score": 1
   },
   {
+    "id": "bcpea_93589",
+    "url": "https://sales.bcpea.org/properties/93589",
+    "photo": "https://sales.bcpea.org/upload/93589/465766/viber_image_2026-09-22_16-09-58-125.jpg?w=270&h=270",
+    "price_eur": 77040,
+    "sqm": 36,
+    "area": "Варна",
+    "title": "Къща, Варна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T14:39:00+00:00",
+    "category": "house",
+    "_settlement": "Варна",
+    "lat": 42.9789532,
+    "lng": 27.3211773,
+    "description": "ЖИЛИЛЩНА СГРАДА – еднофамилна на един етаж, състояща се от две стаи, еднофамилна жилищна сграда с идентификатор 10135.5505.418.2 /едно нула едно три пет точка пет пет нула пет точка четири едно осем точка две/, стар идентификатор 10135.5505.418.1 /едно нула едно три пет точка пет пет нула пет точка четири едно осем точка едно/, по кадастралната карта и кадастралните регистри на гр. Варна, находяща се в гр. Варна, ул. „Ропотамо“ №9А, район Аспарухово, със застроена площ от 36.00кв.м. /тридесет и шест квадратни метра/ по кадастрална скица, а по документи за собственост 51.00кв.м. / петдесет и един квадратни метра/ , построена в поземлен имот с площ от 203.00кв.м. /двеста и три квадратни метра/ , с идентификатор 10135.5505.418 /едно нула едно три пет точка пет пет нула пет точка четири едно осем/ по кадастралната карта и кадастралните регистри на гр. Варна, при граници на имота: имоти с идентификатори №10135.5505.432, 10135.5505.419, 10135.5505.411 и 10135.5505.417",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93589/465766/viber_image_2026-09-22_16-09-58-125.jpg",
+      "https://sales.bcpea.org/upload/93589/465767/viber_image_2026-09-22_16-09-58-136.jpg",
+      "https://sales.bcpea.org/upload/93589/465768/viber_image_2026-09-22_16-09-58-155.jpg",
+      "https://sales.bcpea.org/upload/93589/465769/viber_image_2026-09-22_16-09-58-173.jpg",
+      "https://sales.bcpea.org/upload/93589/465770/viber_image_2026-09-22_16-09-58-182.jpg",
+      "https://sales.bcpea.org/upload/93589/465771/viber_image_2026-09-22_16-09-58-192.jpg",
+      "https://sales.bcpea.org/upload/93589/465772/viber_image_2026-09-22_16-09-58-227.jpg",
+      "https://sales.bcpea.org/upload/93589/465773/viber_image_2026-09-22_16-09-58-274.jpg",
+      "https://sales.bcpea.org/upload/93589/465774/viber_image_2026-09-22_16-09-58-282.jpg"
+    ],
+    "price_per_sqm": 2140,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 77040
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 5,
+    "area_avg_price_per_sqm": 1794,
+    "pct_vs_area_avg": 19.3,
+    "score": 1
+  },
+  {
     "id": "bcpea_93588",
     "url": "https://sales.bcpea.org/properties/93588",
     "photo": "https://sales.bcpea.org/upload/93588/465764/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
@@ -106363,7 +106406,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106398,7 +106441,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106434,7 +106477,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": 1043,
     "pct_vs_area_avg": -60.8,
     "score": 1
@@ -106945,6 +106988,454 @@
       {
         "date": "2026-10-27T09:17:23.793990+00:00",
         "price_eur": 98168
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93631",
+    "url": "https://sales.bcpea.org/properties/93631",
+    "photo": "https://sales.bcpea.org/upload/93631/465984/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 2480,
+    "sqm": 573,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:46:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "8). Поземлен имот с идентификатор 15151.194.11 (едно пет едно пет едно точка сто деветдесет и четири точка единадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Баладжилък“, с площ 3573 кв.м. (три хиляди петстотин седемдесет и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 194011 (едно девет четири нула едно едно), при съседи: 15151.194.9, 15151.194.10, 15151.194.12 и 15151.194.13. ПЪРВОНАЧАЛНА ЦЕНА: 2 480.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93631/465984/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 2480
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93630",
+    "url": "https://sales.bcpea.org/properties/93630",
+    "photo": "https://sales.bcpea.org/upload/93630/465983/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 3720,
+    "sqm": 464,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:44:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "7). Поземлен имот с идентификатор 15151.58.29 (едно пет едно пет едно точка петдесет и осем точка двадесет и девет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Шан Тарла“, с площ 5464 кв.м. (пет хиляди четиристотин шестдесет и четири квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 058029 (нула пет осем нула две девет), при съседи: 15151.53.285, 15151.58.13, 15151.58.30 и 15151.58.269. ПЪРВОНАЧАЛНА ЦЕНА: 3 720.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93630/465983/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 8,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 3720
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93629",
+    "url": "https://sales.bcpea.org/properties/93629",
+    "photo": "https://sales.bcpea.org/upload/93629/465980/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 1680,
+    "sqm": 3,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:43:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "6). Поземлен имот с идентификатор 15151.53.13 (едно пет едно пет едно точка петдесет и три точка тринадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Асарлък“, с площ 3003 кв.м. (три хиляди и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 053013 (нула пет три нула едно три), при съседи: 15151.53.12, 15151.53.14, 15151.53.30 и 15151.53.285. ПЪРВОНАЧАЛНА ЦЕНА: 1 680.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93629/465980/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 560,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 1680
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93628",
+    "url": "https://sales.bcpea.org/properties/93628",
+    "photo": "https://sales.bcpea.org/upload/93628/465978/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 6120,
+    "sqm": 510,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:41:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "4). Поземлен имот с идентификатор 15151.171.2 1 (едно пет едно пет едно точка сто седемдесет и едно точка двадесет и едно), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Сливака“, с площ 8510 кв.м . (осем хиляди петстотин и десет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 171021 (едно седем едно нула две едно), при съседи: 15151.170.479, 15151.171.4, 15151.171.5, 15151.171.22 и 15151.171.28. ПЪРВОНАЧАЛНА ЦЕНА: 6 120.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93628/465978/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 12,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 6120
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93627",
+    "url": "https://sales.bcpea.org/properties/93627",
+    "photo": "https://sales.bcpea.org/upload/93627/465975/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 160,
+    "sqm": 300,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:37:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "5). Поземлен имот с идентификатор 15151.209.37 (едно пет едно пет едно точка двеста и девет точка тридесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълн ителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Арпалък“, с площ 300 кв.м. (триста квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 209037 (две нула девет нула три седем), при съседи: 15151.209.36, 15151.209.38 и 15151.209.369. ПЪРВОНАЧАЛНА ЦЕНА: 160.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93627/465975/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg",
+      "https://a.tile.openstreetmap.org/18/148130/96517.png",
+      "https://b.tile.openstreetmap.org/18/148131/96517.png",
+      "https://b.tile.openstreetmap.org/18/148130/96518.png",
+      "https://c.tile.openstreetmap.org/18/148131/96518.png",
+      "https://c.tile.openstreetmap.org/18/148129/96517.png",
+      "https://c.tile.openstreetmap.org/18/148132/96517.png",
+      "https://a.tile.openstreetmap.org/18/148129/96518.png",
+      "https://a.tile.openstreetmap.org/18/148132/96518.png"
+    ],
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93626",
+    "url": "https://sales.bcpea.org/properties/93626",
+    "photo": "https://sales.bcpea.org/upload/93626/465973/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 7360,
+    "sqm": 6,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:34:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "3). Поземлен имот с идентификатор 15151.180.69 (едно пет едно пет едно точка сто и осемдесет точка шестдесет и девет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Есенник“, с площ 10 006 кв.м . (десет хиляди и шест квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 4 (четвърта), номер по предходен план: 180069 (едно осем нула нула шест девет), при съседи: 15151.180.22, 15151.180.40, 15151.180.64 и 15151.180.491. ПЪРВОНАЧАЛНА ЦЕНА: 7 360.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93626/465973/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 1227,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 7360
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93625",
+    "url": "https://sales.bcpea.org/properties/93625",
+    "photo": "https://sales.bcpea.org/upload/93625/465972/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 8800,
+    "sqm": 8,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:28:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "2). Поземлен имот с идентификатор 15151.76.17 (едно пет едно пет едно точка седемдесет и шест точка седемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Чепелдже“, с площ 10 008 кв.м . (десет хиляди и осем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 076017 (нула седем шест нула едно седем), при съседи: 15151.76.16, 15151.76.18, 15151.76.33 и 15151.76.328. ПЪРВОНАЧАЛНА ЦЕНА: 8 800.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93625/465972/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 1100,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 8800
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93624",
+    "url": "https://sales.bcpea.org/properties/93624",
+    "photo": "https://sales.bcpea.org/upload/93624/465968/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 11600,
+    "sqm": 7,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:25:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "1). Поземлен имот с идентификатор 15151.77.27 (едно пет едно пет едно точка седемдесет и седем точка двадесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Ташлъ Пара“, с площ 14 007 кв.м. (четиринадесет хиляди и седем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 077027 (нула седем седем нула две седем), при съседи: 15151.77.9, 15151.77.28, 15151.77.45, 15151.77.71, 15151.77.86, 15151.77.87, 15151.77.91 и 15151.77.300. ПЪРВОНАЧАЛНА ЦЕНА: 11 600.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93624/465968/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 1657,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 11600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93623",
+    "url": "https://sales.bcpea.org/properties/93623",
+    "photo": null,
+    "price_eur": 4692,
+    "sqm": 293,
+    "area": "Илинденци",
+    "title": "Земеделска земя, Илинденци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T13:59:00+00:00",
+    "category": "land",
+    "_settlement": "Илинденци",
+    "lat": null,
+    "lng": null,
+    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
+    "detail_checked": true,
+    "price_per_sqm": 16,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 4692
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93622",
+    "url": "https://sales.bcpea.org/properties/93622",
+    "photo": null,
+    "price_eur": 1050,
+    "sqm": 416,
+    "area": "Илинденци",
+    "title": "Земеделска земя, Илинденци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T13:57:00+00:00",
+    "category": "land",
+    "_settlement": "Илинденци",
+    "lat": null,
+    "lng": null,
+    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 1050
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93621",
+    "url": "https://sales.bcpea.org/properties/93621",
+    "photo": null,
+    "price_eur": 3442,
+    "sqm": 682,
+    "area": "Илинденци",
+    "title": "Земеделска земя, Илинденци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T13:55:00+00:00",
+    "category": "land",
+    "_settlement": "Илинденци",
+    "lat": null,
+    "lng": null,
+    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
+    "detail_checked": true,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 3442
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93620",
+    "url": "https://sales.bcpea.org/properties/93620",
+    "photo": null,
+    "price_eur": 5681,
+    "sqm": 677,
+    "area": "Илинденци",
+    "title": "Земеделска земя, Илинденци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T13:52:00+00:00",
+    "category": "land",
+    "_settlement": "Илинденци",
+    "lat": null,
+    "lng": null,
+    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
+    "detail_checked": true,
+    "price_per_sqm": 8,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 5681
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93619",
+    "url": "https://sales.bcpea.org/properties/93619",
+    "photo": null,
+    "price_eur": 23456,
+    "sqm": 459,
+    "area": "Илинденци",
+    "title": "Земеделска земя, Илинденци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T13:51:00+00:00",
+    "category": "land",
+    "_settlement": "Илинденци",
+    "lat": null,
+    "lng": null,
+    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
+    "detail_checked": true,
+    "price_per_sqm": 51,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 23456
       }
     ],
     "price_drop_count": 0,
@@ -107892,49 +108383,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93589",
-    "url": "https://sales.bcpea.org/properties/93589",
-    "photo": "https://sales.bcpea.org/upload/93589/465766/viber_image_2026-09-22_16-09-58-125.jpg?w=270&h=270",
-    "price_eur": 77040,
-    "sqm": 36,
-    "area": "Варна",
-    "title": "Къща, Варна",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T14:39:00+00:00",
-    "category": "house",
-    "_settlement": "Варна",
-    "lat": 42.9789532,
-    "lng": 27.3211773,
-    "description": "ЖИЛИЛЩНА СГРАДА – еднофамилна на един етаж, състояща се от две стаи, еднофамилна жилищна сграда с идентификатор 10135.5505.418.2 /едно нула едно три пет точка пет пет нула пет точка четири едно осем точка две/, стар идентификатор 10135.5505.418.1 /едно нула едно три пет точка пет пет нула пет точка четири едно осем точка едно/, по кадастралната карта и кадастралните регистри на гр. Варна, находяща се в гр. Варна, ул. „Ропотамо“ №9А, район Аспарухово, със застроена площ от 36.00кв.м. /тридесет и шест квадратни метра/ по кадастрална скица, а по документи за собственост 51.00кв.м. / петдесет и един квадратни метра/ , построена в поземлен имот с площ от 203.00кв.м. /двеста и три квадратни метра/ , с идентификатор 10135.5505.418 /едно нула едно три пет точка пет пет нула пет точка четири едно осем/ по кадастралната карта и кадастралните регистри на гр. Варна, при граници на имота: имоти с идентификатори №10135.5505.432, 10135.5505.419, 10135.5505.411 и 10135.5505.417",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93589/465766/viber_image_2026-09-22_16-09-58-125.jpg",
-      "https://sales.bcpea.org/upload/93589/465767/viber_image_2026-09-22_16-09-58-136.jpg",
-      "https://sales.bcpea.org/upload/93589/465768/viber_image_2026-09-22_16-09-58-155.jpg",
-      "https://sales.bcpea.org/upload/93589/465769/viber_image_2026-09-22_16-09-58-173.jpg",
-      "https://sales.bcpea.org/upload/93589/465770/viber_image_2026-09-22_16-09-58-182.jpg",
-      "https://sales.bcpea.org/upload/93589/465771/viber_image_2026-09-22_16-09-58-192.jpg",
-      "https://sales.bcpea.org/upload/93589/465772/viber_image_2026-09-22_16-09-58-227.jpg",
-      "https://sales.bcpea.org/upload/93589/465773/viber_image_2026-09-22_16-09-58-274.jpg",
-      "https://sales.bcpea.org/upload/93589/465774/viber_image_2026-09-22_16-09-58-282.jpg"
-    ],
-    "price_per_sqm": 2140,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 77040
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 4,
-    "area_avg_price_per_sqm": 1794,
-    "pct_vs_area_avg": 19.3,
-    "score": 0
-  },
-  {
     "id": "bcpea_93603",
     "url": "https://sales.bcpea.org/properties/93603",
     "photo": "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg?w=270&h=270",
@@ -108816,454 +109264,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93631",
-    "url": "https://sales.bcpea.org/properties/93631",
-    "photo": "https://sales.bcpea.org/upload/93631/465984/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 2480,
-    "sqm": 573,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:46:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "8). Поземлен имот с идентификатор 15151.194.11 (едно пет едно пет едно точка сто деветдесет и четири точка единадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Баладжилък“, с площ 3573 кв.м. (три хиляди петстотин седемдесет и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 194011 (едно девет четири нула едно едно), при съседи: 15151.194.9, 15151.194.10, 15151.194.12 и 15151.194.13. ПЪРВОНАЧАЛНА ЦЕНА: 2 480.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93631/465984/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 4,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 2480
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93630",
-    "url": "https://sales.bcpea.org/properties/93630",
-    "photo": "https://sales.bcpea.org/upload/93630/465983/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 3720,
-    "sqm": 464,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:44:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "7). Поземлен имот с идентификатор 15151.58.29 (едно пет едно пет едно точка петдесет и осем точка двадесет и девет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Шан Тарла“, с площ 5464 кв.м. (пет хиляди четиристотин шестдесет и четири квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 058029 (нула пет осем нула две девет), при съседи: 15151.53.285, 15151.58.13, 15151.58.30 и 15151.58.269. ПЪРВОНАЧАЛНА ЦЕНА: 3 720.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93630/465983/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 8,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 3720
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93629",
-    "url": "https://sales.bcpea.org/properties/93629",
-    "photo": "https://sales.bcpea.org/upload/93629/465980/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 1680,
-    "sqm": 3,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:43:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "6). Поземлен имот с идентификатор 15151.53.13 (едно пет едно пет едно точка петдесет и три точка тринадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Асарлък“, с площ 3003 кв.м. (три хиляди и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 053013 (нула пет три нула едно три), при съседи: 15151.53.12, 15151.53.14, 15151.53.30 и 15151.53.285. ПЪРВОНАЧАЛНА ЦЕНА: 1 680.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93629/465980/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 560,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 1680
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93628",
-    "url": "https://sales.bcpea.org/properties/93628",
-    "photo": "https://sales.bcpea.org/upload/93628/465978/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 6120,
-    "sqm": 510,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:41:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "4). Поземлен имот с идентификатор 15151.171.2 1 (едно пет едно пет едно точка сто седемдесет и едно точка двадесет и едно), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Сливака“, с площ 8510 кв.м . (осем хиляди петстотин и десет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 171021 (едно седем едно нула две едно), при съседи: 15151.170.479, 15151.171.4, 15151.171.5, 15151.171.22 и 15151.171.28. ПЪРВОНАЧАЛНА ЦЕНА: 6 120.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93628/465978/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 12,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 6120
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93627",
-    "url": "https://sales.bcpea.org/properties/93627",
-    "photo": "https://sales.bcpea.org/upload/93627/465975/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 160,
-    "sqm": 300,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:37:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "5). Поземлен имот с идентификатор 15151.209.37 (едно пет едно пет едно точка двеста и девет точка тридесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълн ителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Арпалък“, с площ 300 кв.м. (триста квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 209037 (две нула девет нула три седем), при съседи: 15151.209.36, 15151.209.38 и 15151.209.369. ПЪРВОНАЧАЛНА ЦЕНА: 160.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93627/465975/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg",
-      "https://a.tile.openstreetmap.org/18/148130/96517.png",
-      "https://b.tile.openstreetmap.org/18/148131/96517.png",
-      "https://b.tile.openstreetmap.org/18/148130/96518.png",
-      "https://c.tile.openstreetmap.org/18/148131/96518.png",
-      "https://c.tile.openstreetmap.org/18/148129/96517.png",
-      "https://c.tile.openstreetmap.org/18/148132/96517.png",
-      "https://a.tile.openstreetmap.org/18/148129/96518.png",
-      "https://a.tile.openstreetmap.org/18/148132/96518.png"
-    ],
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 160
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93626",
-    "url": "https://sales.bcpea.org/properties/93626",
-    "photo": "https://sales.bcpea.org/upload/93626/465973/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 7360,
-    "sqm": 6,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:34:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "3). Поземлен имот с идентификатор 15151.180.69 (едно пет едно пет едно точка сто и осемдесет точка шестдесет и девет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Есенник“, с площ 10 006 кв.м . (десет хиляди и шест квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 4 (четвърта), номер по предходен план: 180069 (едно осем нула нула шест девет), при съседи: 15151.180.22, 15151.180.40, 15151.180.64 и 15151.180.491. ПЪРВОНАЧАЛНА ЦЕНА: 7 360.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93626/465973/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 1227,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 7360
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93625",
-    "url": "https://sales.bcpea.org/properties/93625",
-    "photo": "https://sales.bcpea.org/upload/93625/465972/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 8800,
-    "sqm": 8,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:28:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "2). Поземлен имот с идентификатор 15151.76.17 (едно пет едно пет едно точка седемдесет и шест точка седемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Чепелдже“, с площ 10 008 кв.м . (десет хиляди и осем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 076017 (нула седем шест нула едно седем), при съседи: 15151.76.16, 15151.76.18, 15151.76.33 и 15151.76.328. ПЪРВОНАЧАЛНА ЦЕНА: 8 800.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93625/465972/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 1100,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 8800
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93624",
-    "url": "https://sales.bcpea.org/properties/93624",
-    "photo": "https://sales.bcpea.org/upload/93624/465968/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 11600,
-    "sqm": 7,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:25:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "1). Поземлен имот с идентификатор 15151.77.27 (едно пет едно пет едно точка седемдесет и седем точка двадесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Ташлъ Пара“, с площ 14 007 кв.м. (четиринадесет хиляди и седем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 077027 (нула седем седем нула две седем), при съседи: 15151.77.9, 15151.77.28, 15151.77.45, 15151.77.71, 15151.77.86, 15151.77.87, 15151.77.91 и 15151.77.300. ПЪРВОНАЧАЛНА ЦЕНА: 11 600.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93624/465968/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 1657,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 11600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93623",
-    "url": "https://sales.bcpea.org/properties/93623",
-    "photo": null,
-    "price_eur": 4692,
-    "sqm": 293,
-    "area": "Илинденци",
-    "title": "Земеделска земя, Илинденци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T13:59:00+00:00",
-    "category": "land",
-    "_settlement": "Илинденци",
-    "lat": null,
-    "lng": null,
-    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
-    "detail_checked": true,
-    "price_per_sqm": 16,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 4692
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93622",
-    "url": "https://sales.bcpea.org/properties/93622",
-    "photo": null,
-    "price_eur": 1050,
-    "sqm": 416,
-    "area": "Илинденци",
-    "title": "Земеделска земя, Илинденци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T13:57:00+00:00",
-    "category": "land",
-    "_settlement": "Илинденци",
-    "lat": null,
-    "lng": null,
-    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 1050
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93621",
-    "url": "https://sales.bcpea.org/properties/93621",
-    "photo": null,
-    "price_eur": 3442,
-    "sqm": 682,
-    "area": "Илинденци",
-    "title": "Земеделска земя, Илинденци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T13:55:00+00:00",
-    "category": "land",
-    "_settlement": "Илинденци",
-    "lat": null,
-    "lng": null,
-    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
-    "detail_checked": true,
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 3442
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93620",
-    "url": "https://sales.bcpea.org/properties/93620",
-    "photo": null,
-    "price_eur": 5681,
-    "sqm": 677,
-    "area": "Илинденци",
-    "title": "Земеделска земя, Илинденци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T13:52:00+00:00",
-    "category": "land",
-    "_settlement": "Илинденци",
-    "lat": null,
-    "lng": null,
-    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
-    "detail_checked": true,
-    "price_per_sqm": 8,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 5681
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93619",
-    "url": "https://sales.bcpea.org/properties/93619",
-    "photo": null,
-    "price_eur": 23456,
-    "sqm": 459,
-    "area": "Илинденци",
-    "title": "Земеделска земя, Илинденци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T13:51:00+00:00",
-    "category": "land",
-    "_settlement": "Илинденци",
-    "lat": null,
-    "lng": null,
-    "description": "обявявам на интересуващите се, че съгласно чл.487 и сл. ГПК, ще се проведе публична продан от 09.00 часа на 02.11 .2026 г. до 17.00 часа на 02.12 .2026 г. на недвижими имоти, собственост на длъжника по делото - Община Струмяни, а именно: Поземлен имот с идентификатор 32665.149.47 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и седем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 7844 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14947 при съседи: 32665.149.46, 32665.149.45, 32665.149.41, 32665.149.188, 32665.149.49, 32665.149.48. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 749.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 353 от 29.01.2026г., том 1, акт. № 26. Поземлен имот с идентификатор 32665.149.4 8 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, четиридесет и осем) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 5412 кв.м, Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 14948 при съседи: 32665.149.47, 32665.149.188, 32665.149.49. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 424.80евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания –Сандански: Възбрана с дв. вх. рег.№ 354 от 29.01.2026г., том 1, акт. № 27. Поземлен имот с идентификатор 32665.149.1 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и девет, точка, едно) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 9907 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Пасище , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 149001 при съседи: 32665.149.221, 32665.149.2, 32665.149.50. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 2 415.20 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 348 от 29.01.2026г., том 1, акт. № 21. Поземлен имот с идентификатор 32665. 147.5 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, пет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци , местност: „ВАЛОГИ“, площ: 36 459 кв.м , Трайно предназначение на територията: Земеделск а, Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147005 , при съседи: 32665.147.6, 32665.147.2, 32665.147.178, 32665.147.8, 32665.147.4, 32665.147.3. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 23 456.00 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 356 от 29.01.2026г., том 1, акт. № 29. Възбрана с дв. вх. рег.№ 2645 от 15.09.2021г., том 1, акт. № 11. 5. Поземлен имот с идентификатор 152. 10 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, десет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград , одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед , Адрес на поземления имот: с.Илинденци , местност: „ ВАЛОГИ “ , площ: 12677 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 1520 10, при съседи: 32665.152.9, 32665.152.5, 32665.152.22, 32665.152.11. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 5 680.80 евро, определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 359 от 29.01.2026г., том 1, акт. № 32. Възбрана с дв. вх. рег.№ 2459 от 02.09.2021г., том 1, акт. № 247. 6 . Поземлен имот с идентификатор 152.9 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто петдесет и две, точка, девет) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/27.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7682 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 152009 при съседи: 32665.152.5, 32665.152.22, 32665.152.8, 32665.152.10. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 3 442.40 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 360 от 29.01.2026г., том 1, акт. №33. Поземлен имот с идентификатор 32665.1 47 . 23 (тридесет и две хиляди шестстотин шестдесет и пет, точка, сто четиридесет и седем, точка, двадесет и три) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 2416 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Лозе , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 147023 при съседи: 32665.147.24, 32665.147.13, 32665.147.21, 32665.147.22. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот е 1 049.60 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 358 от 29.01.2026г., том 1, акт. № 31. Поземлен имот с идентификатор 32665. 66 . 22 (тридесет и две хиляди шестстотин шестдесет и пет, точка, шестдесет и шест, точка, двадесет и две) по Кадастралната карта и кадастралните регистри на село Илинденци, община Струмяни, област Благоевград, одобрени със Заповед № РД-18-497/25.07.2019 г. на Изпълнителния Директор на АГКК, Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, Адрес на поземления имот: с.Илинденци, местност: „ ВАЛОГИ“ , площ: 7293 кв.м , Трайно предназначение на територията: Земеделска , Начин на трайно ползване: Нива , Категория на земята при неполивни условия: 6 , предишен индентификатор: няма , номер от преходен план: 066022 при съседи: 32665.149.221, 32665.66.21, 32665.66.146, 32665.66.20. Началната цена, от която ще започне наддаването при публичната продан на недвижими я имот 4 692.00 евро , определена съобразно чл.485 ГПК, без ДДС. Тежести за имота, вписани в Служба по вписвания – Сандански: Възбрана с дв. вх. рег.№ 361 от 29.01.2026г., том 1, акт. № 34. Имотите могат да бъдат преглеждани от всички желаещи по местонахождението им в землището на село Илинденци, община Струмяни, област Благоевград, чрез назначения пазач: Община Струмяни, всеки работен ден от 10.00 до 17.00 часа през времетраенето на публичната продан. За участие в наддаването при публичната продан по сметка на Частен съдебен изпълнител Шукри Дервиш BG56UNCR 70001520045128 при \"УниКредит Булбанк\" АД , BIC код: UNCRBGSF , се внася предварително задатък 10 на сто върху началната цена /чл. 489, ал. 1 ГПК/. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си заедно с квитанцията за внесения задатък в запечатан плик до 17.00 часа на последния ден на проданта. При посочване на цената следва да се отрази и имотът, за който участва кандидатът, описан в Обявлението. Наддавачът може да направи само едно наддавателно предложение. Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. Предложенията се подават в канцеларията на Районния съд - Сандански, по местонахождение на имота, което се отразява във входящия регистър /чл. 489, ал. 4 ГПК/. На 03.12.2026 г. в 11.00 часа, в сградата на РС- Сандански, в присъствието на явилите се наддавачи съдебният изпълнител съставя протокол и обявява купувача /чл.492, ал.1 ГПК/.",
-    "detail_checked": true,
-    "price_per_sqm": 51,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 23456
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93664",
     "url": "https://sales.bcpea.org/properties/93664",
     "photo": "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg?w=270&h=270",
@@ -109793,7 +109793,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 7.1,
     "score": 0
@@ -109831,7 +109831,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 382,
     "pct_vs_area_avg": -97.1,
     "score": 0
@@ -109863,7 +109863,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -109895,7 +109895,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111081,7 +111081,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111115,7 +111115,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111169,7 +111169,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111213,7 +111213,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111250,7 +111250,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112848,7 +112848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112894,7 +112894,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112926,7 +112926,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112958,7 +112958,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112990,7 +112990,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113022,7 +113022,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113054,7 +113054,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113086,7 +113086,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113125,7 +113125,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113162,7 +113162,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
