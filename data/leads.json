@@ -3107,7 +3107,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 20.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 80,
@@ -3687,7 +3687,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -3934,7 +3934,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 10.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -6390,7 +6390,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 5.5,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -16093,7 +16093,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 2.9,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
@@ -17826,7 +17826,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -18264,7 +18264,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2153,
@@ -18431,7 +18431,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -18498,7 +18498,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -18563,7 +18563,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -19025,7 +19025,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -19216,6 +19216,39 @@
     "score": 22
   },
   {
+    "id": "6204433",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/ednostaen/6204433/?sid=huZFPB&page=11",
+    "photo": "https://www.imoti.net/web/files/obiavi/6204433/main_image/thumb_280x210_1.jpg?ver=1793329542",
+    "price_eur": 74999,
+    "sqm": 36,
+    "area": "Center",
+    "city": "Пловдив",
+    "title": "Studio/bedsit, 36 м 2 Plovdiv, Center",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 2083,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 79999
+      },
+      {
+        "date": "2026-09-25T10:24:00.577870+00:00",
+        "price_eur": 74999
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 6.3,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2153,
+    "pct_vs_area_avg": -3.3,
+    "score": 22
+  },
+  {
     "id": "6293915",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/sofia/nadejda-2/dvustaen/6293915/?sid=icNBCK&page=29",
     "photo": "https://www.imoti.net/web/files/obiavi/6293915/main_image/thumb_280x210_main_image_6293915_1.jpg?ver=1793243101",
@@ -19281,7 +19314,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -19310,7 +19343,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -19449,7 +19482,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -19543,7 +19576,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -19787,7 +19820,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1465,
@@ -20080,7 +20113,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 990,
@@ -23518,39 +23551,6 @@
     "score": 21
   },
   {
-    "id": "6204433",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/plovdiv-centyr/ednostaen/6204433/?sid=huZFPB&page=11",
-    "photo": "https://www.imoti.net/web/files/obiavi/6204433/main_image/thumb_280x210_1.jpg?ver=1793329542",
-    "price_eur": 74999,
-    "sqm": 36,
-    "area": "Center",
-    "city": "Пловдив",
-    "title": "Studio/bedsit, 36 м 2 Plovdiv, Center",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 2083,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 79999
-      },
-      {
-        "date": "2026-09-25T10:24:00.577870+00:00",
-        "price_eur": 74999
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 6.3,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2153,
-    "pct_vs_area_avg": -3.3,
-    "score": 21
-  },
-  {
     "id": "6006221",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/garaj/6006221/?sid=huZFPB&page=6",
     "photo": "https://www.imoti.net/web/files/obiavi/6006221/main_image/thumb_280x210_image-1.jpg?ver=1793070416",
@@ -25339,7 +25339,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1504,
@@ -33055,7 +33055,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -39161,7 +39161,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -48969,6 +48969,35 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1593,
     "pct_vs_area_avg": -30.3,
+    "score": 17
+  },
+  {
+    "id": "5574900",
+    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/v-to-osnovno-u-shte/magazin/5574900/?sid=fNEg3e&page=16",
+    "photo": null,
+    "price_eur": 250000,
+    "sqm": 192,
+    "area": "V Primery school",
+    "city": "Стара Загора",
+    "title": "Shop, 192 м 2 Stara Zagora, Center area, V Primery school",
+    "portal": "imoti.net",
+    "category": "shop",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1302,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 250000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1726,
+    "pct_vs_area_avg": -24.6,
     "score": 17
   },
   {
@@ -63007,35 +63036,6 @@
     "score": 16
   },
   {
-    "id": "5574900",
-    "url": "https://www.imoti.net/en/obiava/prodava/stara-zagora/v-to-osnovno-u-shte/magazin/5574900/?sid=fNEg3e&page=16",
-    "photo": null,
-    "price_eur": 250000,
-    "sqm": 192,
-    "area": "V Primery school",
-    "city": "Стара Загора",
-    "title": "Shop, 192 м 2 Stara Zagora, Center area, V Primery school",
-    "portal": "imoti.net",
-    "category": "shop",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1302,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 250000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1726,
-    "pct_vs_area_avg": -24.6,
-    "score": 16
-  },
-  {
     "id": "6290314",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/bankja/parcel/6290314/?sid=icNBCK&page=156",
     "photo": "https://www.imoti.net/web/files/obiavi/6290314/main_image/thumb_280x210_main_image_6290314_1.jpg?ver=1790089635",
@@ -63999,7 +63999,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1570,
@@ -65202,7 +65202,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -66278,7 +66278,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -75612,7 +75612,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": -3.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1683,
@@ -86531,7 +86531,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -97893,7 +97893,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1099,
@@ -101942,7 +101942,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -105828,6 +105828,35 @@
     "removed_at": "2026-10-27T03:15:18.820232+00:00",
     "area_avg_price_per_sqm": 1465,
     "pct_vs_area_avg": -21.6,
+    "score": 14
+  },
+  {
+    "id": "5847286",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/tristaen/5847286/?sid=huZFPB&page=30",
+    "photo": "https://www.imoti.net/web/files/obiavi/5847286/main_image/thumb_280x210_1.jpg?ver=1793329586",
+    "price_eur": 99600,
+    "sqm": 87,
+    "area": "Ostromila",
+    "city": "Пловдив",
+    "title": "2 bedroom apartment, 87 м 2 Plovdiv, Ostromila",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1145,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 99600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1374,
+    "pct_vs_area_avg": -16.7,
     "score": 14
   },
   {
@@ -121738,6 +121767,35 @@
     "score": 13
   },
   {
+    "id": "6181182",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/smirnenski/dvustaen/6181182/?sid=huZFPB&page=28",
+    "photo": "https://www.imoti.net/web/files/obiavi/6181182/main_image/thumb_280x210_1l.jpg?ver=1793329582",
+    "price_eur": 96599,
+    "sqm": 70,
+    "area": "Smirnenski",
+    "city": "Пловдив",
+    "title": "1 bedroom apartment, 70 м 2 Plovdiv, Smirnenski",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 1380,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 96599
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1601,
+    "pct_vs_area_avg": -13.8,
+    "score": 13
+  },
+  {
     "id": "6229833",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/kriva-reka/dvustaen/6229833/?sid=icNBCK&page=79",
     "photo": "https://www.imoti.net/web/files/obiavi/6229833/main_image/thumb_280x210_main_image_6229833_1.jpg?ver=1789701353",
@@ -122220,35 +122278,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1311,
     "pct_vs_area_avg": -17.1,
-    "score": 13
-  },
-  {
-    "id": "5847286",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/tristaen/5847286/?sid=huZFPB&page=30",
-    "photo": "https://www.imoti.net/web/files/obiavi/5847286/main_image/thumb_280x210_1.jpg?ver=1793329586",
-    "price_eur": 99600,
-    "sqm": 87,
-    "area": "Ostromila",
-    "city": "Пловдив",
-    "title": "2 bedroom apartment, 87 м 2 Plovdiv, Ostromila",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1145,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 99600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1374,
-    "pct_vs_area_avg": -16.7,
     "score": 13
   },
   {
@@ -140463,35 +140492,6 @@
     "score": 12
   },
   {
-    "id": "6181182",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/smirnenski/dvustaen/6181182/?sid=huZFPB&page=28",
-    "photo": "https://www.imoti.net/web/files/obiavi/6181182/main_image/thumb_280x210_1l.jpg?ver=1793329582",
-    "price_eur": 96599,
-    "sqm": 70,
-    "area": "Smirnenski",
-    "city": "Пловдив",
-    "title": "1 bedroom apartment, 70 м 2 Plovdiv, Smirnenski",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 1380,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 96599
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1601,
-    "pct_vs_area_avg": -13.8,
-    "score": 12
-  },
-  {
     "id": "6074623",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/vladislavovo/dvustaen/6074623/?sid=hOOTsy&page=18",
     "photo": "https://www.imoti.net/web/files/obiavi/6074623/main_image/thumb_280x210_visualisation1-1.jpg?ver=1793329656",
@@ -156023,7 +156023,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -159450,7 +159450,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1504,
@@ -161214,7 +161214,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -165113,7 +165113,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -165426,7 +165426,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -168270,7 +168270,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2196,
@@ -175923,7 +175923,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -181149,7 +181149,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1670,
@@ -181514,7 +181514,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -185621,7 +185621,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -189525,7 +189525,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -192361,7 +192361,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -192832,7 +192832,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -197696,6 +197696,35 @@
     "score": 9
   },
   {
+    "id": "6280478",
+    "url": "https://www.imoti.net/en/obiava/prodava/pernik/cyrkva/parcel/6280478/?sid=jko6Zx&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6280478/main_image/thumb_280x210_gledka-1.jpg?ver=1793329948",
+    "price_eur": 180000,
+    "sqm": 2000,
+    "area": "Tsarkva",
+    "city": "Перник",
+    "title": "Development land, 2000 м 2 Pernik, Tsarkva",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 90,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 180000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 724,
+    "pct_vs_area_avg": -87.6,
+    "score": 9
+  },
+  {
     "id": "6203427",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/kichuk-parij/tristaen/6203427/?sid=huZFPB&page=63",
     "photo": "https://www.imoti.net/web/files/obiavi/6203427/main_image/thumb_280x210_01.jpg?ver=1789615403",
@@ -202143,7 +202172,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -203515,6 +203544,35 @@
     "removed_at": "2026-10-12T10:27:39.263888+00:00",
     "area_avg_price_per_sqm": 1586,
     "pct_vs_area_avg": -18.1,
+    "score": 9
+  },
+  {
+    "id": "6292278",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292278/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292278/main_image/thumb_280x210_main_image_6292278_1.jpg?ver=1793329729",
+    "price_eur": 54083,
+    "sqm": 81,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 81 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 668,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1670,
+    "pct_vs_area_avg": -60.0,
     "score": 9
   },
   {
@@ -205183,6 +205241,35 @@
     "score": 9
   },
   {
+    "id": "2093461",
+    "url": "https://www.imoti.net/en/obiava/prodava/ruse/ruse-drujba-3/parcel/2093461/?sid=fTzBWB&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/2093461/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
+    "price_eur": 120000,
+    "sqm": 2000,
+    "area": "Drujba",
+    "city": "Русе",
+    "title": "Development land, 2000 м 2 Ruse, Drujba",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 60,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 120000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 950,
+    "pct_vs_area_avg": -93.7,
+    "score": 9
+  },
+  {
     "id": "6251500",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/smirnenski/chetiristaen/6251500/?sid=huZFPB&page=159",
     "photo": "https://www.imoti.net/web/files/obiavi/6251500/main_image/thumb_280x210_main_image_6251500_1.jpg?ver=1790090176",
@@ -206748,6 +206835,35 @@
     "score": 9
   },
   {
+    "id": "6292689",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292689/?sid=g9tjtT&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292689/main_image/thumb_280x210_main_image_6292689_1.jpg?ver=1793329719",
+    "price_eur": 21633,
+    "sqm": 34,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 636,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 21633
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1670,
+    "pct_vs_area_avg": -61.9,
+    "score": 9
+  },
+  {
     "id": "6053357",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/belomorski/tristaen/6053357/?sid=huZFPB&page=35",
     "photo": "https://www.imoti.net/web/files/obiavi/6053357/main_image/thumb_280x210_main_image_6053357_1.jpg?ver=1789701835",
@@ -207243,6 +207359,35 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 2091,
     "pct_vs_area_avg": -23.7,
+    "score": 9
+  },
+  {
+    "id": "6200491",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/belomorski/parcel/6200491/?sid=huZFPB&page=10",
+    "photo": "https://www.imoti.net/web/files/obiavi/6200491/main_image/thumb_280x210_1.png?ver=1793329540",
+    "price_eur": 71999,
+    "sqm": 392,
+    "area": "Belomorski",
+    "city": "Пловдив",
+    "title": "Development land, 392 м 2 Plovdiv, Belomorski",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 184,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 71999
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1123,
+    "pct_vs_area_avg": -83.6,
     "score": 9
   },
   {
@@ -207903,6 +208048,35 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 3032,
     "pct_vs_area_avg": 21.1,
+    "score": 9
+  },
+  {
+    "id": "6292281",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292281/?sid=g9tjtT&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292281/main_image/thumb_280x210_main_image_6292281_1.jpg?ver=1793329719",
+    "price_eur": 21633,
+    "sqm": 34,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 636,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 21633
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1670,
+    "pct_vs_area_avg": -61.9,
     "score": 9
   },
   {
@@ -208985,7 +209159,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -211687,6 +211861,35 @@
     "score": 9
   },
   {
+    "id": "6076134",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/german/parcel/6076134/?sid=icNBCK&page=12",
+    "photo": "https://www.imoti.net/web/files/obiavi/6076134/main_image/thumb_280x210_main_image_6076134_1.jpg?ver=1793329443",
+    "price_eur": 55000,
+    "sqm": 705,
+    "area": "German",
+    "city": "София",
+    "title": "Development land, 705 м 2 Sofia, German",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 78,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 55000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 448,
+    "pct_vs_area_avg": -82.6,
+    "score": 9
+  },
+  {
     "id": "6057070",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/drujba-1/tristaen/6057070/?sid=icNBCK&page=172",
     "photo": "https://www.imoti.net/web/files/obiavi/6057070/main_image/thumb_280x210_main_image_6057070_1.jpg?ver=1790065499",
@@ -212267,6 +212470,35 @@
     "removed_at": "2026-09-11T05:29:53.450366+00:00",
     "area_avg_price_per_sqm": 2713,
     "pct_vs_area_avg": -19.4,
+    "score": 9
+  },
+  {
+    "id": "6265072",
+    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/parcel/6265072/?sid=huZFPB&page=30",
+    "photo": "https://www.imoti.net/web/files/obiavi/6265072/main_image/thumb_280x210_main_image_6265072_1.jpg?ver=1793329586",
+    "price_eur": 99800,
+    "sqm": 665,
+    "area": "Southern",
+    "city": "Пловдив",
+    "title": "Development land, 665 м 2 Plovdiv, Southern",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 150,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 99800
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1465,
+    "pct_vs_area_avg": -89.8,
     "score": 9
   },
   {
@@ -217070,7 +217302,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -220144,6 +220376,35 @@
     "score": 9
   },
   {
+    "id": "2093459",
+    "url": "https://www.imoti.net/en/obiava/prodava/ruse/dolapite/parcel/2093459/?sid=fTzBWB&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/2093459/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
+    "price_eur": 105000,
+    "sqm": 1500,
+    "area": "Dolapite",
+    "city": "Русе",
+    "title": "Development land, 1500 м 2 Ruse, Dolapite",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 70,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 105000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 259,
+    "pct_vs_area_avg": -73.0,
+    "score": 9
+  },
+  {
     "id": "6243427",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/plovdiv/ujen/chetiristaen/6243427/?sid=huZFPB&page=134",
     "photo": "https://www.imoti.net/web/files/obiavi/6243427/main_image/thumb_280x210_main_image_6243427_1.jpg?ver=1790090103",
@@ -220278,6 +220539,35 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1601,
     "pct_vs_area_avg": -19.2,
+    "score": 9
+  },
+  {
+    "id": "2094082",
+    "url": "https://www.imoti.net/en/obiava/prodava/ruse/dolapite/parcel/2094082/?sid=fTzBWB&page=1",
+    "photo": "https://www.imoti.net/web/files/obiavi/2094082/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
+    "price_eur": 140000,
+    "sqm": 2000,
+    "area": "Dolapite",
+    "city": "Русе",
+    "title": "Development land, 2000 м 2 Ruse, Dolapite",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 70,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 140000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 259,
+    "pct_vs_area_avg": -73.0,
     "score": 9
   },
   {
@@ -220625,6 +220915,35 @@
     "removed_at": "2026-10-06T10:23:26.926007+00:00",
     "area_avg_price_per_sqm": 454,
     "pct_vs_area_avg": 113.2,
+    "score": 9
+  },
+  {
+    "id": "6292277",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292277/?sid=g9tjtT&page=8",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292277/main_image/thumb_280x210_main_image_6292277_1.jpg?ver=1793329729",
+    "price_eur": 54083,
+    "sqm": 91,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 91 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 594,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 54083
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1670,
+    "pct_vs_area_avg": -64.4,
     "score": 9
   },
   {
@@ -224030,6 +224349,34 @@
     "score": 9
   },
   {
+    "id": "6099815",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/kajsieva-gradina/6099815/?sid=hOOTsy&page=9",
+    "photo": "https://www.imoti.net/web/files/obiavi/6099815/main_image/thumb_280x210_main_image_6099815_1.jpg?ver=1793329635",
+    "price_eur": 65000,
+    "sqm": 24,
+    "area": "Kaysieva Gradina",
+    "city": "Варна",
+    "title": ", 24 м 2 Varna, Kaysieva Gradina",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "low",
+    "price_per_sqm": 2708,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 65000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1506,
+    "pct_vs_area_avg": 79.8,
+    "score": 9
+  },
+  {
     "id": "6242558",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/varna-centyr/ofis/6242558/?sid=hOOTsy&page=8",
     "photo": "https://www.imoti.net/web/files/obiavi/6242558/main_image/thumb_280x210_main_image_6242558_1.jpg?ver=1789702324",
@@ -224964,6 +225311,35 @@
     "score": 9
   },
   {
+    "id": "6292688",
+    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292688/?sid=g9tjtT&page=3",
+    "photo": "https://www.imoti.net/web/files/obiavi/6292688/main_image/thumb_280x210_main_image_6292688_1.jpg?ver=1793329719",
+    "price_eur": 21633,
+    "sqm": 34,
+    "area": "Slaveykov",
+    "city": "Бургас",
+    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 636,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 21633
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1670,
+    "pct_vs_area_avg": -61.9,
+    "score": 9
+  },
+  {
     "id": "6121658",
     "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ostromila/kashta/6121658/?sid=huZFPB&page=146",
     "photo": "https://www.imoti.net/web/files/obiavi/6121658/main_image/thumb_280x210_main_image_6121658_1.jpg?ver=1790090141",
@@ -225812,6 +226188,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1506,
     "pct_vs_area_avg": -13.6,
+    "score": 9
+  },
+  {
+    "id": "6099963",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/krasna-poljana/parcel/6099963/?sid=icNBCK&page=19",
+    "photo": "https://www.imoti.net/web/files/obiavi/6099963/main_image/thumb_280x210_main_image_6099963_1.jpg?ver=1793329460",
+    "price_eur": 93600,
+    "sqm": 2341,
+    "area": "Krasna Polyana",
+    "city": "София",
+    "title": "Development land, 2341 м 2 Sofia, Krasna Polyana",
+    "portal": "imoti.net",
+    "category": "land",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 40,
+    "price_history": [
+      {
+        "date": "2026-08-26T07:16:03.346921+00:00",
+        "price_eur": 93600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 66,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2321,
+    "pct_vs_area_avg": -98.3,
     "score": 9
   },
   {
@@ -229832,35 +230237,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 1728,
     "pct_vs_area_avg": -19.6,
-    "score": 8
-  },
-  {
-    "id": "6280478",
-    "url": "https://www.imoti.net/en/obiava/prodava/pernik/cyrkva/parcel/6280478/?sid=jko6Zx&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6280478/main_image/thumb_280x210_gledka-1.jpg?ver=1793329948",
-    "price_eur": 180000,
-    "sqm": 2000,
-    "area": "Tsarkva",
-    "city": "Перник",
-    "title": "Development land, 2000 м 2 Pernik, Tsarkva",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 90,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 180000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 724,
-    "pct_vs_area_avg": -87.6,
     "score": 8
   },
   {
@@ -236056,7 +236432,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -238703,35 +239079,6 @@
     "score": 8
   },
   {
-    "id": "6292278",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292278/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292278/main_image/thumb_280x210_main_image_6292278_1.jpg?ver=1793329729",
-    "price_eur": 54083,
-    "sqm": 81,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 81 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 668,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1670,
-    "pct_vs_area_avg": -60.0,
-    "score": 8
-  },
-  {
     "id": "6035679",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/poligona/dvustaen/6035679/?sid=icNBCK&page=151",
     "photo": "https://www.imoti.net/web/files/obiavi/6035679/main_image/thumb_280x210_main_image_6035679_1.jpg?ver=1790065443",
@@ -241019,7 +241366,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -241374,35 +241721,6 @@
     "removed_at": "2026-09-22T10:42:15.510956+00:00",
     "area_avg_price_per_sqm": 2386,
     "pct_vs_area_avg": -20.3,
-    "score": 8
-  },
-  {
-    "id": "2093461",
-    "url": "https://www.imoti.net/en/obiava/prodava/ruse/ruse-drujba-3/parcel/2093461/?sid=fTzBWB&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/2093461/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
-    "price_eur": 120000,
-    "sqm": 2000,
-    "area": "Drujba",
-    "city": "Русе",
-    "title": "Development land, 2000 м 2 Ruse, Drujba",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 60,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 120000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 950,
-    "pct_vs_area_avg": -93.7,
     "score": 8
   },
   {
@@ -243887,35 +244205,6 @@
     "score": 8
   },
   {
-    "id": "6292689",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292689/?sid=g9tjtT&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292689/main_image/thumb_280x210_main_image_6292689_1.jpg?ver=1793329719",
-    "price_eur": 21633,
-    "sqm": 34,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 636,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 21633
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1670,
-    "pct_vs_area_avg": -61.9,
-    "score": 8
-  },
-  {
     "id": "6241459",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/m-t-borovec-sever/parcel/6241459/?sid=hOOTsy&page=4",
     "photo": "https://www.imoti.net/web/files/obiavi/6241459/main_image/thumb_280x210_main_image_6241459_1.jpg?ver=1793329624",
@@ -244842,35 +245131,6 @@
     "score": 8
   },
   {
-    "id": "6200491",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/belomorski/parcel/6200491/?sid=huZFPB&page=10",
-    "photo": "https://www.imoti.net/web/files/obiavi/6200491/main_image/thumb_280x210_1.png?ver=1793329540",
-    "price_eur": 71999,
-    "sqm": 392,
-    "area": "Belomorski",
-    "city": "Пловдив",
-    "title": "Development land, 392 м 2 Plovdiv, Belomorski",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 184,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 71999
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1123,
-    "pct_vs_area_avg": -83.6,
-    "score": 8
-  },
-  {
     "id": "6275221",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/novi-iskyr/kashta/6275221/?sid=icNBCK&page=144",
     "photo": "https://www.imoti.net/web/files/obiavi/6275221/main_image/thumb_280x210_main_image_6275221_1.jpg?ver=1790089602",
@@ -245662,35 +245922,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 3453,
     "pct_vs_area_avg": -11.9,
-    "score": 8
-  },
-  {
-    "id": "6292281",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292281/?sid=g9tjtT&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292281/main_image/thumb_280x210_main_image_6292281_1.jpg?ver=1793329719",
-    "price_eur": 21633,
-    "sqm": 34,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 636,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 21633
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1670,
-    "pct_vs_area_avg": -61.9,
     "score": 8
   },
   {
@@ -251352,35 +251583,6 @@
     "score": 8
   },
   {
-    "id": "6076134",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/german/parcel/6076134/?sid=icNBCK&page=12",
-    "photo": "https://www.imoti.net/web/files/obiavi/6076134/main_image/thumb_280x210_main_image_6076134_1.jpg?ver=1793329443",
-    "price_eur": 55000,
-    "sqm": 705,
-    "area": "German",
-    "city": "София",
-    "title": "Development land, 705 м 2 Sofia, German",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 78,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 55000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 448,
-    "pct_vs_area_avg": -82.6,
-    "score": 8
-  },
-  {
     "id": "6232190",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/ovcha-kupel-2/dvustaen/6232190/?sid=icNBCK&page=22",
     "photo": "https://www.imoti.net/web/files/obiavi/6232190/main_image/thumb_280x210_main_image_6232190_1.jpg?ver=1789701197",
@@ -251757,35 +251959,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
     "pct_vs_area_avg": -12.0,
-    "score": 8
-  },
-  {
-    "id": "6265072",
-    "url": "https://www.imoti.net/en/obiava/prodava/plovdiv/ujen/parcel/6265072/?sid=huZFPB&page=30",
-    "photo": "https://www.imoti.net/web/files/obiavi/6265072/main_image/thumb_280x210_main_image_6265072_1.jpg?ver=1793329586",
-    "price_eur": 99800,
-    "sqm": 665,
-    "area": "Southern",
-    "city": "Пловдив",
-    "title": "Development land, 665 м 2 Plovdiv, Southern",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 150,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 99800
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1465,
-    "pct_vs_area_avg": -89.8,
     "score": 8
   },
   {
@@ -260671,7 +260844,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1374,
@@ -260797,7 +260970,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1384,
@@ -263141,35 +263314,6 @@
     "score": 8
   },
   {
-    "id": "2093459",
-    "url": "https://www.imoti.net/en/obiava/prodava/ruse/dolapite/parcel/2093459/?sid=fTzBWB&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/2093459/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
-    "price_eur": 105000,
-    "sqm": 1500,
-    "area": "Dolapite",
-    "city": "Русе",
-    "title": "Development land, 1500 м 2 Ruse, Dolapite",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 70,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 105000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 259,
-    "pct_vs_area_avg": -73.0,
-    "score": 8
-  },
-  {
     "id": "6297743",
     "url": "https://www.imoti.net/en/obiava/prodava/varna/elektron/dvustaen/6297743/?sid=hOOTsy&page=64",
     "photo": "https://www.imoti.net/web/files/obiavi/6297743/main_image/thumb_280x210_main_image_6297743_1.jpg?ver=1790090455",
@@ -263355,35 +263499,6 @@
     "removed_at": "2026-09-22T17:27:37.267664+00:00",
     "area_avg_price_per_sqm": 3221,
     "pct_vs_area_avg": -16.2,
-    "score": 8
-  },
-  {
-    "id": "2094082",
-    "url": "https://www.imoti.net/en/obiava/prodava/ruse/dolapite/parcel/2094082/?sid=fTzBWB&page=1",
-    "photo": "https://www.imoti.net/web/files/obiavi/2094082/main_image/thumb_280x210_main_image_1.jpg?ver=1793329804",
-    "price_eur": 140000,
-    "sqm": 2000,
-    "area": "Dolapite",
-    "city": "Русе",
-    "title": "Development land, 2000 м 2 Ruse, Dolapite",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 70,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 140000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 259,
-    "pct_vs_area_avg": -73.0,
     "score": 8
   },
   {
@@ -263767,35 +263882,6 @@
     "removed_at": "2026-10-27T03:15:18.820232+00:00",
     "area_avg_price_per_sqm": 1506,
     "pct_vs_area_avg": 22.0,
-    "score": 8
-  },
-  {
-    "id": "6292277",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292277/?sid=g9tjtT&page=8",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292277/main_image/thumb_280x210_main_image_6292277_1.jpg?ver=1793329729",
-    "price_eur": 54083,
-    "sqm": 91,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 91 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 594,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 54083
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1670,
-    "pct_vs_area_avg": -64.4,
     "score": 8
   },
   {
@@ -268390,34 +268476,6 @@
     "score": 8
   },
   {
-    "id": "6099815",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/varna/kajsieva-gradina/6099815/?sid=hOOTsy&page=9",
-    "photo": "https://www.imoti.net/web/files/obiavi/6099815/main_image/thumb_280x210_main_image_6099815_1.jpg?ver=1793329635",
-    "price_eur": 65000,
-    "sqm": 24,
-    "area": "Kaysieva Gradina",
-    "city": "Варна",
-    "title": ", 24 м 2 Varna, Kaysieva Gradina",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "low",
-    "price_per_sqm": 2708,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 65000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1506,
-    "pct_vs_area_avg": 79.8,
-    "score": 8
-  },
-  {
     "id": "6232744",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/sofija-geo-milev/tristaen/6232744/?sid=icNBCK&page=137",
     "photo": "https://www.imoti.net/web/files/obiavi/6232744/main_image/thumb_280x210_ai-1774452328-s1-74535-33698.jpg?ver=1788233070",
@@ -269946,35 +270004,6 @@
     "score": 8
   },
   {
-    "id": "6292688",
-    "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/burgas/slavejkov/garaj/6292688/?sid=g9tjtT&page=3",
-    "photo": "https://www.imoti.net/web/files/obiavi/6292688/main_image/thumb_280x210_main_image_6292688_1.jpg?ver=1793329719",
-    "price_eur": 21633,
-    "sqm": 34,
-    "area": "Slaveykov",
-    "city": "Бургас",
-    "title": "Garage, 34 м 2 Bourgas, Slaveykov",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 636,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 21633
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1670,
-    "pct_vs_area_avg": -61.9,
-    "score": 8
-  },
-  {
     "id": "6193635",
     "url": "https://www.imoti.net/en/obiava/prodava/sofia/malinova-dolina/tristaen/6193635/?sid=icNBCK&page=112",
     "photo": "https://www.imoti.net/web/files/obiavi/6193635/main_image/thumb_280x210_main_image_6193635_1.jpg?ver=1788923808",
@@ -270756,35 +270785,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1586,
     "pct_vs_area_avg": -7.8,
-    "score": 8
-  },
-  {
-    "id": "6099963",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/krasna-poljana/parcel/6099963/?sid=icNBCK&page=19",
-    "photo": "https://www.imoti.net/web/files/obiavi/6099963/main_image/thumb_280x210_main_image_6099963_1.jpg?ver=1793329460",
-    "price_eur": 93600,
-    "sqm": 2341,
-    "area": "Krasna Polyana",
-    "city": "София",
-    "title": "Development land, 2341 м 2 Sofia, Krasna Polyana",
-    "portal": "imoti.net",
-    "category": "land",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 40,
-    "price_history": [
-      {
-        "date": "2026-08-26T07:16:03.346921+00:00",
-        "price_eur": 93600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 65,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2321,
-    "pct_vs_area_avg": -98.3,
     "score": 8
   },
   {
@@ -280413,7 +280413,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
@@ -294169,7 +294169,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1056,
@@ -295117,7 +295117,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1016,
@@ -297126,7 +297126,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1125,
@@ -297888,7 +297888,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -299695,7 +299695,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1593,
@@ -299963,7 +299963,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1016,
@@ -308654,7 +308654,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1506,
@@ -310291,7 +310291,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": -1.9,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1601,
@@ -315900,7 +315900,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1199,
@@ -316265,7 +316265,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1561,
@@ -318355,7 +318355,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 65,
+    "days_on_market": 66,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1295,
