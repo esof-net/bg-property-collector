@@ -1087,7 +1087,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -57.6,
     "score": 19
@@ -2151,7 +2151,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -39.2,
     "score": 18
@@ -4770,7 +4770,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": -40.4,
     "score": 15
@@ -4801,7 +4801,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -39.3,
     "score": 15
@@ -4893,7 +4893,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -47.7,
     "score": 15
@@ -7090,7 +7090,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 70,
+    "days_on_market": 71,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 9
@@ -13620,6 +13620,38 @@
     "score": 7
   },
   {
+    "id": "bcpea_92220",
+    "url": "https://sales.bcpea.org/properties/92220",
+    "photo": "https://sales.bcpea.org/upload/92220/439064/53.37.JPG?w=270&h=270",
+    "price_eur": 2239,
+    "sqm": 461,
+    "area": "Белозем",
+    "title": "Земеделска земя, Белозем",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-11T11:03:00+00:00",
+    "category": "land",
+    "_settlement": "Белозем",
+    "lat": null,
+    "lng": null,
+    "description": "ИД № 20258250400212 - 1/4 ид. ч. (една четвърт идеална част) от поземлен имот с идентификатор 03620.53.37 (нула, три, шест, две, нула, точка, пет, три, точка, три, седем) по кадастралната карта и кадастралните регистри на с. Белозем, общ. Раковски, обл. Пловдив, одобрени със Заповед № РД-18-785/06.11.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: с. Белозем, местност: \"КРАЙ СЕЛОТО\" , площ: 7461 кв. м. (седем хиляди четиристотин шестдесет и един квадратни метра), трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята при неполивни условия: 5 (пета), номер от предходен план: 053037 , съседи : 03620.53.81, 03620.53.35, 03620.53.118, 03620.53.119, 03620.53.30, 03620.53.116, 03620.53.32, 03620.53.38, 03620.53.31, 03620.53.36. Началната цена, от която ще започне публичната продан е в размер на 2 239,20 € ( две хиляди двеста тридесет и девет евро и двадесет евроцента ) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, ал. 2 от ГПК във вр. с чл. 485 , ал. 4 от ГПК .",
+    "detail_checked": true,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-09-11T08:34:36.702071+00:00",
+        "price_eur": 2239
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 50,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 7
+  },
+  {
     "id": "bcpea_91935",
     "url": "https://sales.bcpea.org/properties/91935",
     "photo": "https://sales.bcpea.org/upload/91935/458444/качване (22).jpg?w=270&h=270",
@@ -14875,6 +14907,38 @@
     "source_status": "removed",
     "removed_at": "2026-10-01T14:53:21.331908+00:00",
     "days_on_market": 57,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 7
+  },
+  {
+    "id": "bcpea_92221",
+    "url": "https://sales.bcpea.org/properties/92221",
+    "photo": "https://sales.bcpea.org/upload/92221/448490/1.JPG?w=270&h=270",
+    "price_eur": 7165,
+    "sqm": 98,
+    "area": "Рогош",
+    "title": "Жилищна сграда, Рогош",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-11T11:10:00+00:00",
+    "category": "apartment",
+    "_settlement": "Рогош",
+    "lat": null,
+    "lng": null,
+    "description": "ИД 20268250400119 сгради , построени в п оземлен имот с идентификатор 62858.501.84 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), п лощ: 905 кв.м (деветстотин и пет квадратни метра), т райно предназначение на територията: у рбанизирана, н ачин на трайно ползване: н иско застрояване (до 10 m), п редишен идентификатор: няма, н омер от предходен план: 84 (осемдесет и четири) , квартал: 7 (седем) , парцел: XIII-84 (три римско, тире, осемдесет и четири арабско), при граници и съседи: 62858.501.2082, 62858.501.774, 62858.501.83, 62858.501.1027, 62858.501.2085, 62858.501.773 , за удовлетворяване вземането на взискателя по изпълнителното дело, а именно: 1. 7/12 (седем дванадесети) идеални части от С града с идентификатор 62858.501.84.1 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири, точка, едно) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), з астроена площ: 80 кв.м (осемдесет квадратни метра) , б рой етажи: 1 (един) , п редназначение: д руг вид сграда за обитаване, п редишен идентификатор: няма ; 2. 7/12 (седем дванадесети) идеални части от С града с идентификатор 62858.501.84.2 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири, точка, две) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), з астроена площ: 18 кв.м (осемнадесет квадратни метра), б рой етажи: 1 (един) , п редназначение: с ел скостопанска сграда, п редишен идентификатор: няма . П оземлен имот с идентификатор 62858.501.84 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири) не е предмет на публична продан. Н ачалната цена, от която ще започне публичната продан на горецитирани те недвижими имоти е в размер на 7 165 , 2 0 евро ( седем хиляди сто шестдесет и пет евро и два десет евроцента ) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, ал. 2 от ГПК във вр. с чл. 485 , ал. 4 от ГПК .",
+    "detail_checked": true,
+    "price_per_sqm": 73,
+    "price_history": [
+      {
+        "date": "2026-09-11T08:34:36.702071+00:00",
+        "price_eur": 7165
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 50,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -17611,6 +17675,38 @@
     "score": 7
   },
   {
+    "id": "bcpea_92222",
+    "url": "https://sales.bcpea.org/properties/92222",
+    "photo": null,
+    "price_eur": 4568,
+    "sqm": 1,
+    "area": "Църква",
+    "title": "Земеделска земя, Църква",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-11T11:21:00+00:00",
+    "category": "land",
+    "_settlement": "Църква",
+    "lat": 43.4130267,
+    "lng": 28.0162071,
+    "description": "- Поземлен имот, находящ се в землището на село Църква, община Балчик, местност \"Пощаолу\", с идентификатор 78639.18.53(седем, осем, шест, три, девет, точка, едно, осем, точка, пет, три), по кадастралната карта и кадастралните регистри на село Църква, община Балчик, одобрени със Заповед №300-5-83/03.10.2003г. на Изпълнителния директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е със Заповед №КД-14-08-189/11.02.2014г., с площ от 5001 кв.м. (пет хиляди и един квадратни метра), с трайно предназначение на територията: Земеделска, Начин на трайно ползване: Друг вид трайно насаждение, трета категория на земята. Предишен идентификатор 78639.18.50, с номер по предходен план:000056, при граници и съседи: 78639.18.54,  78639.18.49,  78639.5.35,  02871.27.16, 02871.28.10, 02871.27.12. Описание: Поземленият имот се намира в землището на село Църква,  краен за масива с достъп по ведомствен път от север. Поземленият имот е с почти правилна правоъгълна форма, като късите страни следват линията на пътя, разположен на равен терен с денивелация, граничещ от двете страни с гора, на юг с река Батова. При огледа се установи, че трайните насаждения са храсти и дървовидна растителност, негодна за сеч. Върху имота са вписани следните тежести в Служба по вписванията гр.Балчик: Възбрана, вписана под №174, том 1 дв.вх.рег № 1491/29.04.2025г., възбрана №148, том 1 дв.вх.рег №1440/26.05.2011 г., и възбрана №43, том 2 вх.рег №3210/19.08.2025 г.",
+    "detail_checked": true,
+    "price_per_sqm": 4568,
+    "price_history": [
+      {
+        "date": "2026-09-11T08:34:36.702071+00:00",
+        "price_eur": 4568
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 50,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 7
+  },
+  {
     "id": "bcpea_91165",
     "url": "https://sales.bcpea.org/properties/91165",
     "photo": null,
@@ -19289,7 +19385,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -14.4,
     "score": 7
@@ -19321,7 +19417,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -13.6,
     "score": 7
@@ -19353,7 +19449,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -14.6,
     "score": 7
@@ -19754,7 +19850,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21478,7 +21574,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -21665,38 +21761,6 @@
     "drop_pct": 0.0,
     "source_status": "removed",
     "removed_at": "2026-09-16T20:19:29.649010+00:00",
-    "days_on_market": 49,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 6
-  },
-  {
-    "id": "bcpea_92220",
-    "url": "https://sales.bcpea.org/properties/92220",
-    "photo": "https://sales.bcpea.org/upload/92220/439064/53.37.JPG?w=270&h=270",
-    "price_eur": 2239,
-    "sqm": 461,
-    "area": "Белозем",
-    "title": "Земеделска земя, Белозем",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-11T11:03:00+00:00",
-    "category": "land",
-    "_settlement": "Белозем",
-    "lat": null,
-    "lng": null,
-    "description": "ИД № 20258250400212 - 1/4 ид. ч. (една четвърт идеална част) от поземлен имот с идентификатор 03620.53.37 (нула, три, шест, две, нула, точка, пет, три, точка, три, седем) по кадастралната карта и кадастралните регистри на с. Белозем, общ. Раковски, обл. Пловдив, одобрени със Заповед № РД-18-785/06.11.2019 г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, адрес на поземления имот: с. Белозем, местност: \"КРАЙ СЕЛОТО\" , площ: 7461 кв. м. (седем хиляди четиристотин шестдесет и един квадратни метра), трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята при неполивни условия: 5 (пета), номер от предходен план: 053037 , съседи : 03620.53.81, 03620.53.35, 03620.53.118, 03620.53.119, 03620.53.30, 03620.53.116, 03620.53.32, 03620.53.38, 03620.53.31, 03620.53.36. Началната цена, от която ще започне публичната продан е в размер на 2 239,20 € ( две хиляди двеста тридесет и девет евро и двадесет евроцента ) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, ал. 2 от ГПК във вр. с чл. 485 , ал. 4 от ГПК .",
-    "detail_checked": true,
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-09-11T08:34:36.702071+00:00",
-        "price_eur": 2239
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
     "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
@@ -22837,6 +22901,38 @@
     "score": 6
   },
   {
+    "id": "bcpea_92449",
+    "url": "https://sales.bcpea.org/properties/92449",
+    "photo": null,
+    "price_eur": 60192,
+    "sqm": 829,
+    "area": "Лозница",
+    "title": "Производствен имот, Лозница",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-09-18T11:02:00+00:00",
+    "category": "apartment",
+    "_settlement": "Лозница",
+    "lat": null,
+    "lng": null,
+    "description": "УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с площ 829 кв.м. /осемстотин двадесет и девет/, който по одобрения със Заповеди № 260/1994г. и № 72/2011г. план на гр. Лозница, Стопански двор, общ. Лозница, обл. Разград, съставлява имот Х /десет римско/, отреден за Гаражи и складова база, в квартал 37 /тридесет и седем/, при граници: от трите страни улици, имот VI, с административен адрес: гр. Лозница, ул. „Пенчо Кубадински\" № 22 /двадесет и две/, община Лозница, област Разград, заедно с построения в него САМОСТОЯТЕЛЕН ОБЕКТ с предназначение: Гараж за камиони и склад, със застроена площ 399 кв.м. /триста деветдесет и девет/, преустроен в „База за първична обработка на мед и пчелни продукти\" съгласно Разрешение за строеж №38 от 06.12.2016г. на Община Лозница и Удостоверение за въвеждане в експлоатация на строеж №2 от 09.04.2019г. на Община Лозница.",
+    "detail_checked": true,
+    "price_per_sqm": 73,
+    "price_history": [
+      {
+        "date": "2026-09-18T08:19:31.727708+00:00",
+        "price_eur": 60192
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 43,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 6
+  },
+  {
     "id": "bcpea_90667",
     "url": "https://sales.bcpea.org/properties/90667",
     "photo": null,
@@ -23517,38 +23613,6 @@
     "source_status": "removed",
     "removed_at": "2026-10-05T15:57:34.019258+00:00",
     "days_on_market": 45,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 6
-  },
-  {
-    "id": "bcpea_92221",
-    "url": "https://sales.bcpea.org/properties/92221",
-    "photo": "https://sales.bcpea.org/upload/92221/448490/1.JPG?w=270&h=270",
-    "price_eur": 7165,
-    "sqm": 98,
-    "area": "Рогош",
-    "title": "Жилищна сграда, Рогош",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-11T11:10:00+00:00",
-    "category": "apartment",
-    "_settlement": "Рогош",
-    "lat": null,
-    "lng": null,
-    "description": "ИД 20268250400119 сгради , построени в п оземлен имот с идентификатор 62858.501.84 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), п лощ: 905 кв.м (деветстотин и пет квадратни метра), т райно предназначение на територията: у рбанизирана, н ачин на трайно ползване: н иско застрояване (до 10 m), п редишен идентификатор: няма, н омер от предходен план: 84 (осемдесет и четири) , квартал: 7 (седем) , парцел: XIII-84 (три римско, тире, осемдесет и четири арабско), при граници и съседи: 62858.501.2082, 62858.501.774, 62858.501.83, 62858.501.1027, 62858.501.2085, 62858.501.773 , за удовлетворяване вземането на взискателя по изпълнителното дело, а именно: 1. 7/12 (седем дванадесети) идеални части от С града с идентификатор 62858.501.84.1 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири, точка, едно) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), з астроена площ: 80 кв.м (осемдесет квадратни метра) , б рой етажи: 1 (един) , п редназначение: д руг вид сграда за обитаване, п редишен идентификатор: няма ; 2. 7/12 (седем дванадесети) идеални части от С града с идентификатор 62858.501.84.2 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири, точка, две) п о кадастралната карта и кадастралните регистри на с. Рогош , общ. Марица , обл. Пловдив , одобрени със Заповед №РД-18-34/06.03.2008 г. на Изпълнителния директор на АГКК, а дрес на поземления имот: с. Рогош, УЛ. „ ПЕТКО Д. ПЕТКОВ“ № 29 (двадесет и девет), з астроена площ: 18 кв.м (осемнадесет квадратни метра), б рой етажи: 1 (един) , п редназначение: с ел скостопанска сграда, п редишен идентификатор: няма . П оземлен имот с идентификатор 62858.501.84 (шест, две, осем, пет, осем, точка, пет, нула, едно, точка, осем, четири) не е предмет на публична продан. Н ачалната цена, от която ще започне публичната продан на горецитирани те недвижими имоти е в размер на 7 165 , 2 0 евро ( седем хиляди сто шестдесет и пет евро и два десет евроцента ) , съставляваща 90 % от началната цена по първата публична продан, съгласно чл. 494, ал. 2 от ГПК във вр. с чл. 485 , ал. 4 от ГПК .",
-    "detail_checked": true,
-    "price_per_sqm": 73,
-    "price_history": [
-      {
-        "date": "2026-09-11T08:34:36.702071+00:00",
-        "price_eur": 7165
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -26887,7 +26951,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -27076,7 +27140,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28147,38 +28211,6 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 45,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 6
-  },
-  {
-    "id": "bcpea_92222",
-    "url": "https://sales.bcpea.org/properties/92222",
-    "photo": null,
-    "price_eur": 4568,
-    "sqm": 1,
-    "area": "Църква",
-    "title": "Земеделска земя, Църква",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-11T11:21:00+00:00",
-    "category": "land",
-    "_settlement": "Църква",
-    "lat": 43.4130267,
-    "lng": 28.0162071,
-    "description": "- Поземлен имот, находящ се в землището на село Църква, община Балчик, местност \"Пощаолу\", с идентификатор 78639.18.53(седем, осем, шест, три, девет, точка, едно, осем, точка, пет, три), по кадастралната карта и кадастралните регистри на село Църква, община Балчик, одобрени със Заповед №300-5-83/03.10.2003г. на Изпълнителния директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот е със Заповед №КД-14-08-189/11.02.2014г., с площ от 5001 кв.м. (пет хиляди и един квадратни метра), с трайно предназначение на територията: Земеделска, Начин на трайно ползване: Друг вид трайно насаждение, трета категория на земята. Предишен идентификатор 78639.18.50, с номер по предходен план:000056, при граници и съседи: 78639.18.54,  78639.18.49,  78639.5.35,  02871.27.16, 02871.28.10, 02871.27.12. Описание: Поземленият имот се намира в землището на село Църква,  краен за масива с достъп по ведомствен път от север. Поземленият имот е с почти правилна правоъгълна форма, като късите страни следват линията на пътя, разположен на равен терен с денивелация, граничещ от двете страни с гора, на юг с река Батова. При огледа се установи, че трайните насаждения са храсти и дървовидна растителност, негодна за сеч. Върху имота са вписани следните тежести в Служба по вписванията гр.Балчик: Възбрана, вписана под №174, том 1 дв.вх.рег № 1491/29.04.2025г., възбрана №148, том 1 дв.вх.рег №1440/26.05.2011 г., и възбрана №43, том 2 вх.рег №3210/19.08.2025 г.",
-    "detail_checked": true,
-    "price_per_sqm": 4568,
-    "price_history": [
-      {
-        "date": "2026-09-11T08:34:36.702071+00:00",
-        "price_eur": 4568
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 49,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29862,7 +29894,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -65.6,
     "score": 6
@@ -30516,7 +30548,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -36932,38 +36964,6 @@
     "score": 5
   },
   {
-    "id": "bcpea_92449",
-    "url": "https://sales.bcpea.org/properties/92449",
-    "photo": null,
-    "price_eur": 60192,
-    "sqm": 829,
-    "area": "Лозница",
-    "title": "Производствен имот, Лозница",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-09-18T11:02:00+00:00",
-    "category": "apartment",
-    "_settlement": "Лозница",
-    "lat": null,
-    "lng": null,
-    "description": "УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с площ 829 кв.м. /осемстотин двадесет и девет/, който по одобрения със Заповеди № 260/1994г. и № 72/2011г. план на гр. Лозница, Стопански двор, общ. Лозница, обл. Разград, съставлява имот Х /десет римско/, отреден за Гаражи и складова база, в квартал 37 /тридесет и седем/, при граници: от трите страни улици, имот VI, с административен адрес: гр. Лозница, ул. „Пенчо Кубадински\" № 22 /двадесет и две/, община Лозница, област Разград, заедно с построения в него САМОСТОЯТЕЛЕН ОБЕКТ с предназначение: Гараж за камиони и склад, със застроена площ 399 кв.м. /триста деветдесет и девет/, преустроен в „База за първична обработка на мед и пчелни продукти\" съгласно Разрешение за строеж №38 от 06.12.2016г. на Община Лозница и Удостоверение за въвеждане в експлоатация на строеж №2 от 09.04.2019г. на Община Лозница.",
-    "detail_checked": true,
-    "price_per_sqm": 73,
-    "price_history": [
-      {
-        "date": "2026-09-18T08:19:31.727708+00:00",
-        "price_eur": 60192
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 42,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 5
-  },
-  {
     "id": "bcpea_91670",
     "url": "https://sales.bcpea.org/properties/91670",
     "photo": null,
@@ -42121,7 +42121,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -95.4,
     "score": 5
@@ -44453,7 +44453,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -45905,7 +45905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46401,7 +46401,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -46503,7 +46503,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -73956,7 +73956,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73988,7 +73988,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74020,7 +74020,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74052,7 +74052,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74084,7 +74084,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74116,7 +74116,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75036,7 +75036,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75075,7 +75075,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75112,7 +75112,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75147,7 +75147,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76115,7 +76115,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76151,7 +76151,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77752,7 +77752,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77784,7 +77784,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77816,7 +77816,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77848,7 +77848,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77880,7 +77880,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77912,7 +77912,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77944,7 +77944,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77976,7 +77976,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78008,7 +78008,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78040,7 +78040,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78089,7 +78089,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78121,7 +78121,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78153,7 +78153,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78185,7 +78185,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78217,7 +78217,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80578,7 +80578,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1043,
     "pct_vs_area_avg": 9.0,
     "score": 3
@@ -81451,7 +81451,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -1.5,
     "score": 3
@@ -83299,7 +83299,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 20.6,
     "score": 3
@@ -83337,7 +83337,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83375,7 +83375,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83418,7 +83418,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -83463,7 +83463,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 63.9,
     "score": 3
@@ -84669,7 +84669,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86722,7 +86722,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -85.6,
     "score": 3
@@ -86764,7 +86764,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86803,7 +86803,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88101,7 +88101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 67.5,
     "score": 3
@@ -88136,7 +88136,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 60.4,
     "score": 3
@@ -88178,7 +88178,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88210,7 +88210,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88250,7 +88250,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88282,7 +88282,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88314,7 +88314,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88353,7 +88353,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88393,7 +88393,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88433,7 +88433,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88471,7 +88471,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88509,7 +88509,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88547,7 +88547,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88584,7 +88584,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -90362,7 +90362,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 44.4,
     "score": 2
@@ -91153,7 +91153,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93218,7 +93218,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93258,7 +93258,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": 5.7,
     "score": 2
@@ -94824,7 +94824,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94856,7 +94856,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94888,7 +94888,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94920,7 +94920,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94952,7 +94952,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94984,7 +94984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95040,7 +95040,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95088,7 +95088,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": 1970.4,
     "score": 2
@@ -95120,7 +95120,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95152,7 +95152,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96339,7 +96339,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96371,7 +96371,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96403,7 +96403,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": 186.9,
     "score": 2
@@ -96435,7 +96435,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96980,6 +96980,155 @@
     "score": 2
   },
   {
+    "id": "bcpea_93294",
+    "url": "https://sales.bcpea.org/properties/93294",
+    "photo": "https://sales.bcpea.org/upload/93294/464682/20250924_121127.jpg?w=270&h=270",
+    "price_eur": 18407,
+    "sqm": 559,
+    "area": "Скравена",
+    "title": "Земеделска земя, Скравена",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T11:42:00+00:00",
+    "category": "land",
+    "_settlement": "Скравена",
+    "lat": 42.9517131,
+    "lng": 23.7686707,
+    "description": "Поземлен имот с идентификатор 66860.217.9 по кадастралната карат и регистри на с.Скравена, община Ботевград, област София, одобрени със Заповед №РД-18675/25.09.2019г. на Изпълнителния директор на АГКК, с последно изменение на кадастралната карта и регистри, засягащо имота от 06.04.2023г., с адрес на имота: с.Скравена, местност „При Дома“ с площ от 3559.00 (три хиляди петстотин петдесет и девет) кв.м., трайно предназначение на територията“ земеделска, начин на трайно ползване“ нива, категория на земята:5, предищен идентификатор: няма, номер по предходен план:217009, при съседи: 66860.217.16, 66860.217.13, 66860.217.10, 66860.217.1, 66860.217.8",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93294/464682/20250924_121127.jpg",
+      "https://sales.bcpea.org/upload/93294/464683/20250924_121128.jpg",
+      "https://sales.bcpea.org/upload/93294/464684/20250924_121129(0).jpg",
+      "https://sales.bcpea.org/upload/93294/464685/20250924_121129.jpg"
+    ],
+    "price_per_sqm": 33,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 18407
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93293",
+    "url": "https://sales.bcpea.org/properties/93293",
+    "photo": "https://sales.bcpea.org/upload/93293/464675/20260723_105544.jpg?w=270&h=270",
+    "price_eur": 1440,
+    "sqm": 937,
+    "area": "Литаково",
+    "title": "Земеделска земя, Литаково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T11:33:00+00:00",
+    "category": "land",
+    "_settlement": "Литаково",
+    "lat": 42.9514929,
+    "lng": 23.6794469,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 43904.27.6, находящ се в област София, община Ботевград, с. Литаково, м. ПИСАНА, вид територия Земеделска, категория 6, начин на трайно ползване НИВА, площ 937 кв. м, стар номер 027006,при граници и съседи 43904.3.309, 43904.27.1, 43904.27.5, 43904.27.7.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93293/464675/20260723_105544.jpg",
+      "https://sales.bcpea.org/upload/93293/464676/20260723_105546.jpg",
+      "https://sales.bcpea.org/upload/93293/464677/20260723_110031.jpg",
+      "https://sales.bcpea.org/upload/93293/464678/20260723_110033.jpg",
+      "https://sales.bcpea.org/upload/93293/464679/20260723_110034.jpg",
+      "https://sales.bcpea.org/upload/93293/464680/20260723_110036.jpg"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 1440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93292",
+    "url": "https://sales.bcpea.org/properties/93292",
+    "photo": "https://sales.bcpea.org/upload/93292/464665/20260723_105533.jpg?w=270&h=270",
+    "price_eur": 3960,
+    "sqm": 772,
+    "area": "Литаково",
+    "title": "Земеделска земя, Литаково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T11:26:00+00:00",
+    "category": "land",
+    "_settlement": "Литаково",
+    "lat": 42.9514929,
+    "lng": 23.6794469,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 43904.31.6, находящ се в област София, община Ботевград, с. Литаково, м. ДОБРАВИЦА, вид територия Земеделска, категория 6, начин на трайно ползване НИВА, площ 2772 кв. м, стар номер 031006,при граници и съседи 43904.31.7, 43904.31.11, 43904.31.23, 43904.31.24, 43904.31.199",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93292/464665/20260723_105533.jpg",
+      "https://sales.bcpea.org/upload/93292/464666/20260723_105535.jpg",
+      "https://sales.bcpea.org/upload/93292/464667/20260723_105537.jpg",
+      "https://sales.bcpea.org/upload/93292/464668/20260723_105538.jpg",
+      "https://sales.bcpea.org/upload/93292/464669/20260723_105543.jpg"
+    ],
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 3960
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93291",
+    "url": "https://sales.bcpea.org/properties/93291",
+    "photo": null,
+    "price_eur": 778,
+    "sqm": 240,
+    "area": "Перущица",
+    "title": "Земеделска земя, Перущица",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T11:15:00+00:00",
+    "category": "land",
+    "_settlement": "Перущица",
+    "lat": 42.055641,
+    "lng": 24.5451798,
+    "description": "1/2 ид.ч. (една втора идеална част) от Нива от 2,240 дка (два декара двеста и четиридесет квадратни метра), четвърта категория , находяща се в местността „Храстето“ в землището на гр. Перущица, ЕКАТТЕ 55909 , общ. Перущица, обл. Пловдив, съставляваща имот № 110315 (сто и десет хиляди триста и петнадесет) по плана за земеразделяне, при граници и съседи: имот № 110312 нива на Петко Костадинов Андреев, имот № 110314 нива на Анка (Ана) Рангелова Атанасова, имот № 110266 нива на наследниците на Йордан Тодоров Дардов и имот № 000048 полски път на Община Перущица. А съгласно кадастрална карта ПОЗЕМЛЕН ИМОТ с идентификатор 55909.110.315 /пет пет девет нула девет точка едно едно нула точка три едно пет/ по кадастралната карта и кадастралните регистри на гр. Перущица, общ. Перущица, обл. Пловдив, одобрени със Заповед № РД-18-270/02.05.2019г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК; последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед; адрес на поземления имот: обл. Пловдив, общ. Перущица, гр. Перущица, местност „ХРАСТЕТО“; площ: 2240 кв.м. /две хиляди двеста и четиридесет квадратни метра/; трайно предназначение на територията: земеделска; начин на трайно ползване: нива; категория на земята при неполивни условия: 4 /четвърта/;предишен идентификатор: няма; номер по предходен план: 110315 /едно едно нула три едно пет/; съседи: 55909.110.312, 55909.110.314, 55909.110.266, 55909.110.966.",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 778
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93675",
     "url": "https://sales.bcpea.org/properties/93675",
     "photo": null,
@@ -97005,7 +97154,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -4.8,
     "score": 2
@@ -97842,7 +97991,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -97874,7 +98023,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99955,7 +100104,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99987,7 +100136,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100019,7 +100168,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100051,7 +100200,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100083,7 +100232,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100115,7 +100264,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100147,7 +100296,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100179,7 +100328,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100211,7 +100360,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100243,7 +100392,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100275,7 +100424,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100307,7 +100456,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100339,7 +100488,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100371,7 +100520,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100403,7 +100552,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100435,7 +100584,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100467,7 +100616,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100499,7 +100648,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100543,7 +100692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100575,7 +100724,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100607,7 +100756,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100639,7 +100788,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100671,7 +100820,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100703,7 +100852,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100739,7 +100888,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100771,7 +100920,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100803,7 +100952,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102344,7 +102493,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102376,7 +102525,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102412,7 +102561,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102453,7 +102602,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102489,7 +102638,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102527,7 +102676,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -62.1,
     "score": 1
@@ -102565,7 +102714,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104040,155 +104189,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93294",
-    "url": "https://sales.bcpea.org/properties/93294",
-    "photo": "https://sales.bcpea.org/upload/93294/464682/20250924_121127.jpg?w=270&h=270",
-    "price_eur": 18407,
-    "sqm": 559,
-    "area": "Скравена",
-    "title": "Земеделска земя, Скравена",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T11:42:00+00:00",
-    "category": "land",
-    "_settlement": "Скравена",
-    "lat": 42.9517131,
-    "lng": 23.7686707,
-    "description": "Поземлен имот с идентификатор 66860.217.9 по кадастралната карат и регистри на с.Скравена, община Ботевград, област София, одобрени със Заповед №РД-18675/25.09.2019г. на Изпълнителния директор на АГКК, с последно изменение на кадастралната карта и регистри, засягащо имота от 06.04.2023г., с адрес на имота: с.Скравена, местност „При Дома“ с площ от 3559.00 (три хиляди петстотин петдесет и девет) кв.м., трайно предназначение на територията“ земеделска, начин на трайно ползване“ нива, категория на земята:5, предищен идентификатор: няма, номер по предходен план:217009, при съседи: 66860.217.16, 66860.217.13, 66860.217.10, 66860.217.1, 66860.217.8",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93294/464682/20250924_121127.jpg",
-      "https://sales.bcpea.org/upload/93294/464683/20250924_121128.jpg",
-      "https://sales.bcpea.org/upload/93294/464684/20250924_121129(0).jpg",
-      "https://sales.bcpea.org/upload/93294/464685/20250924_121129.jpg"
-    ],
-    "price_per_sqm": 33,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 18407
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93293",
-    "url": "https://sales.bcpea.org/properties/93293",
-    "photo": "https://sales.bcpea.org/upload/93293/464675/20260723_105544.jpg?w=270&h=270",
-    "price_eur": 1440,
-    "sqm": 937,
-    "area": "Литаково",
-    "title": "Земеделска земя, Литаково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T11:33:00+00:00",
-    "category": "land",
-    "_settlement": "Литаково",
-    "lat": 42.9514929,
-    "lng": 23.6794469,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 43904.27.6, находящ се в област София, община Ботевград, с. Литаково, м. ПИСАНА, вид територия Земеделска, категория 6, начин на трайно ползване НИВА, площ 937 кв. м, стар номер 027006,при граници и съседи 43904.3.309, 43904.27.1, 43904.27.5, 43904.27.7.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93293/464675/20260723_105544.jpg",
-      "https://sales.bcpea.org/upload/93293/464676/20260723_105546.jpg",
-      "https://sales.bcpea.org/upload/93293/464677/20260723_110031.jpg",
-      "https://sales.bcpea.org/upload/93293/464678/20260723_110033.jpg",
-      "https://sales.bcpea.org/upload/93293/464679/20260723_110034.jpg",
-      "https://sales.bcpea.org/upload/93293/464680/20260723_110036.jpg"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 1440
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93292",
-    "url": "https://sales.bcpea.org/properties/93292",
-    "photo": "https://sales.bcpea.org/upload/93292/464665/20260723_105533.jpg?w=270&h=270",
-    "price_eur": 3960,
-    "sqm": 772,
-    "area": "Литаково",
-    "title": "Земеделска земя, Литаково",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T11:26:00+00:00",
-    "category": "land",
-    "_settlement": "Литаково",
-    "lat": 42.9514929,
-    "lng": 23.6794469,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор 43904.31.6, находящ се в област София, община Ботевград, с. Литаково, м. ДОБРАВИЦА, вид територия Земеделска, категория 6, начин на трайно ползване НИВА, площ 2772 кв. м, стар номер 031006,при граници и съседи 43904.31.7, 43904.31.11, 43904.31.23, 43904.31.24, 43904.31.199",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93292/464665/20260723_105533.jpg",
-      "https://sales.bcpea.org/upload/93292/464666/20260723_105535.jpg",
-      "https://sales.bcpea.org/upload/93292/464667/20260723_105537.jpg",
-      "https://sales.bcpea.org/upload/93292/464668/20260723_105538.jpg",
-      "https://sales.bcpea.org/upload/93292/464669/20260723_105543.jpg"
-    ],
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 3960
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93291",
-    "url": "https://sales.bcpea.org/properties/93291",
-    "photo": null,
-    "price_eur": 778,
-    "sqm": 240,
-    "area": "Перущица",
-    "title": "Земеделска земя, Перущица",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T11:15:00+00:00",
-    "category": "land",
-    "_settlement": "Перущица",
-    "lat": 42.055641,
-    "lng": 24.5451798,
-    "description": "1/2 ид.ч. (една втора идеална част) от Нива от 2,240 дка (два декара двеста и четиридесет квадратни метра), четвърта категория , находяща се в местността „Храстето“ в землището на гр. Перущица, ЕКАТТЕ 55909 , общ. Перущица, обл. Пловдив, съставляваща имот № 110315 (сто и десет хиляди триста и петнадесет) по плана за земеразделяне, при граници и съседи: имот № 110312 нива на Петко Костадинов Андреев, имот № 110314 нива на Анка (Ана) Рангелова Атанасова, имот № 110266 нива на наследниците на Йордан Тодоров Дардов и имот № 000048 полски път на Община Перущица. А съгласно кадастрална карта ПОЗЕМЛЕН ИМОТ с идентификатор 55909.110.315 /пет пет девет нула девет точка едно едно нула точка три едно пет/ по кадастралната карта и кадастралните регистри на гр. Перущица, общ. Перущица, обл. Пловдив, одобрени със Заповед № РД-18-270/02.05.2019г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК; последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед; адрес на поземления имот: обл. Пловдив, общ. Перущица, гр. Перущица, местност „ХРАСТЕТО“; площ: 2240 кв.м. /две хиляди двеста и четиридесет квадратни метра/; трайно предназначение на територията: земеделска; начин на трайно ползване: нива; категория на земята при неполивни условия: 4 /четвърта/;предишен идентификатор: няма; номер по предходен план: 110315 /едно едно нула три едно пет/; съседи: 55909.110.312, 55909.110.314, 55909.110.266, 55909.110.966.",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 778
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
     "id": "bcpea_93532",
     "url": "https://sales.bcpea.org/properties/93532",
     "photo": "https://sales.bcpea.org/upload/93532/465529/67547.10.13.png?w=270&h=270",
@@ -104307,7 +104307,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104356,7 +104356,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104406,7 +104406,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104453,7 +104453,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104485,7 +104485,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104517,7 +104517,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -81.2,
     "score": 1
@@ -104549,7 +104549,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -104581,7 +104581,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -80.9,
     "score": 1
@@ -105762,7 +105762,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106646,7 +106646,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106685,7 +106685,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106729,7 +106729,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106761,7 +106761,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106913,6 +106913,43 @@
       {
         "date": "2026-10-27T09:17:23.793990+00:00",
         "price_eur": 98168
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93607",
+    "url": "https://sales.bcpea.org/properties/93607",
+    "photo": "https://sales.bcpea.org/upload/93607/465911/301-18-1.jpg?w=270&h=270",
+    "price_eur": 1176,
+    "sqm": 760,
+    "area": "Звиница",
+    "title": "Земеделска земя, Звиница",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T11:38:00+00:00",
+    "category": "land",
+    "_settlement": "Звиница",
+    "lat": 41.7465203,
+    "lng": 25.5770882,
+    "description": "1/2 /една втора/ идеална част от: Поземлен имот с идентификатор 30524.14.131 по кадастралната карта и кадастралните регистри на с.Звиница общ.Кърджали, обл.Кърджали, одобрени със Заповед РД-18-588/31.10.2017г./31.10.2017г. на Изпълнителен директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение. Адрес на поземления имот: с.Звиница, местност КАЗ ДЕРЕ. Площ: 3760 кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: Нива. Категория на земята: 6. Предишен идентификатор: няма. Номер по предходен план: 000268. Съседи: 30524.14.130, 30524.14.132, 30524.14.85, 30524.14.104. НАЧАЛНАТА ЦЕНА, ОТ КОЯТО ЩЕ ЗАПОЧНЕ НАДДАВАНЕТО, Е В РАЗМЕР НА: 1 175,97 /ХИЛЯДА СТО СЕДЕМДЕСЕТ И ПЕТ ЕВРО И ДЕВЕТДЕСЕТ И СЕДЕМ ЦЕНТА/ ЕВРО /80 % ОТ 1/2 ОТ ПАЗАРНАТА СТОЙНОСТ НА ЦЕЛИЯ НЕДВИЖИМ ИМОТ, ОПРЕДЕЛЕНА ОТ ВЕЩО ЛИЦЕ СЛЕД РАЗПОРЕЖДАНЕ НА ЧСИ И ОТРАЗЕНА В ЗАКЛЮЧЕНИ ЕТО НА ЕКСПЕРТИЗАТА ЗА СТОЙНОСТТА НА НЕДВИЖИМИЯ ИМОТ /.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93607/465911/301-18-1.jpg",
+      "https://sales.bcpea.org/upload/93607/465912/301-18-2.jpg",
+      "https://sales.bcpea.org/upload/93607/465913/301-18-3.jpg"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 1176
       }
     ],
     "price_drop_count": 0,
@@ -109227,43 +109264,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93607",
-    "url": "https://sales.bcpea.org/properties/93607",
-    "photo": "https://sales.bcpea.org/upload/93607/465911/301-18-1.jpg?w=270&h=270",
-    "price_eur": 1176,
-    "sqm": 760,
-    "area": "Звиница",
-    "title": "Земеделска земя, Звиница",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T11:38:00+00:00",
-    "category": "land",
-    "_settlement": "Звиница",
-    "lat": 41.7465203,
-    "lng": 25.5770882,
-    "description": "1/2 /една втора/ идеална част от: Поземлен имот с идентификатор 30524.14.131 по кадастралната карта и кадастралните регистри на с.Звиница общ.Кърджали, обл.Кърджали, одобрени със Заповед РД-18-588/31.10.2017г./31.10.2017г. на Изпълнителен директор на АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение. Адрес на поземления имот: с.Звиница, местност КАЗ ДЕРЕ. Площ: 3760 кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: Нива. Категория на земята: 6. Предишен идентификатор: няма. Номер по предходен план: 000268. Съседи: 30524.14.130, 30524.14.132, 30524.14.85, 30524.14.104. НАЧАЛНАТА ЦЕНА, ОТ КОЯТО ЩЕ ЗАПОЧНЕ НАДДАВАНЕТО, Е В РАЗМЕР НА: 1 175,97 /ХИЛЯДА СТО СЕДЕМДЕСЕТ И ПЕТ ЕВРО И ДЕВЕТДЕСЕТ И СЕДЕМ ЦЕНТА/ ЕВРО /80 % ОТ 1/2 ОТ ПАЗАРНАТА СТОЙНОСТ НА ЦЕЛИЯ НЕДВИЖИМ ИМОТ, ОПРЕДЕЛЕНА ОТ ВЕЩО ЛИЦЕ СЛЕД РАЗПОРЕЖДАНЕ НА ЧСИ И ОТРАЗЕНА В ЗАКЛЮЧЕНИ ЕТО НА ЕКСПЕРТИЗАТА ЗА СТОЙНОСТТА НА НЕДВИЖИМИЯ ИМОТ /.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93607/465911/301-18-1.jpg",
-      "https://sales.bcpea.org/upload/93607/465912/301-18-2.jpg",
-      "https://sales.bcpea.org/upload/93607/465913/301-18-3.jpg"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 1176
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
     "id": "bcpea_93664",
     "url": "https://sales.bcpea.org/properties/93664",
     "photo": "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg?w=270&h=270",
@@ -110061,7 +110061,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110101,7 +110101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 18.8,
     "score": 0
@@ -110133,7 +110133,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110172,7 +110172,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110207,7 +110207,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112035,7 +112035,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112073,7 +112073,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112109,7 +112109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113406,7 +113406,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113438,7 +113438,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -113473,7 +113473,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": -85.0,
     "score": 0
