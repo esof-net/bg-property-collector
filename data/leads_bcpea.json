@@ -84930,7 +84930,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84967,7 +84967,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85012,7 +85012,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85050,7 +85050,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -108934,6 +108934,79 @@
     "score": 1
   },
   {
+    "id": "bcpea_93664",
+    "url": "https://sales.bcpea.org/properties/93664",
+    "photo": "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg?w=270&h=270",
+    "price_eur": 32800,
+    "sqm": 886,
+    "area": "Самоков",
+    "title": "Земеделска земя, Самоков",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T20:44:00+00:00",
+    "category": "land",
+    "_settlement": "Самоков",
+    "lat": 42.3377931,
+    "lng": 23.5592676,
+    "description": "½ (една втора) идеална част от: ПОЗЕМЛЕН ИМОТ с идентификатор № 65231.917.76 по кадастралната карта и кадастралните регистри на гр. Самоков, община Самоков, област София, одобрени със Заповед № РД-18-3/27.01.2005 г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: гр. Самоков, местност „БОРИКО”, с площ: 3886 кв.м., трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята: 0 (нулева), предишен идентификатор: Няма, номер по предходен план: 000223, при съседи: имоти с идентификатори №№ 65231.917.659 и 65231.917.77.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg",
+      "https://sales.bcpea.org/upload/93664/466088/IMG_0012.jpg",
+      "https://sales.bcpea.org/upload/93664/466089/IMG_0013.jpg"
+    ],
+    "price_per_sqm": 37,
+    "price_history": [
+      {
+        "date": "2026-10-27T20:56:39.415868+00:00",
+        "price_eur": 32800
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93663",
+    "url": "https://sales.bcpea.org/properties/93663",
+    "photo": "https://sales.bcpea.org/upload/93663/466084/IMG_0001.jpg?w=270&h=270",
+    "price_eur": 13440,
+    "sqm": 447,
+    "area": "Шипочане",
+    "title": "Парцел, Шипочане",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T20:24:00+00:00",
+    "category": "land",
+    "_settlement": "Шипочане",
+    "lat": 42.34588,
+    "lng": 23.61041,
+    "description": "УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с идентификатор № 83243.7.318 (осемдесет и три хиляди двеста четиридесет и три точка седем точка триста и осемнадесет), целият с площ от 447 (четиристотин четиридесет и седем) кв.м., с адрес на поземления имот: с. Шипочане, общ. Самоков, обл. Софийска, с трайно предназначение на територията: Урбанизирана, с начин на трайно ползване: Ниско застрояване (до 10 м.), предишен идентификатор: няма, с номер от предходен план: планоснимачен № 416 (четиристотин и шестнадесет), при граници и съседи имоти с идентификатори: №№ 83243.7.263, 83243.7.352, 83243.9.220, 83243.7.317,по кадастралната карта и кадастралните регистри на с. Шипочане, общ. Самоков, обл. Софийска, одобрени със Заповед № 300-5-36/01.06.2004 г. на ИД на АК, последно изменение по кадастралната карта и кадастралните регистри засягащо описания поземлен имот е от 09.07.2021 г.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93663/466084/IMG_0001.jpg",
+      "https://sales.bcpea.org/upload/93663/466085/IMG_0002.jpg"
+    ],
+    "price_per_sqm": 30,
+    "price_history": [
+      {
+        "date": "2026-10-27T20:56:39.415868+00:00",
+        "price_eur": 13440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93662",
     "url": "https://sales.bcpea.org/properties/93662",
     "photo": null,
@@ -109503,79 +109576,6 @@
     "days_on_market": 4,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 27.3,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93664",
-    "url": "https://sales.bcpea.org/properties/93664",
-    "photo": "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg?w=270&h=270",
-    "price_eur": 32800,
-    "sqm": 886,
-    "area": "Самоков",
-    "title": "Земеделска земя, Самоков",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T20:44:00+00:00",
-    "category": "land",
-    "_settlement": "Самоков",
-    "lat": 42.3377931,
-    "lng": 23.5592676,
-    "description": "½ (една втора) идеална част от: ПОЗЕМЛЕН ИМОТ с идентификатор № 65231.917.76 по кадастралната карта и кадастралните регистри на гр. Самоков, община Самоков, област София, одобрени със Заповед № РД-18-3/27.01.2005 г. на ИД на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение, адрес на поземления имот: гр. Самоков, местност „БОРИКО”, с площ: 3886 кв.м., трайно предназначение на територията: Земеделска, начин на трайно ползване: Нива, категория на земята: 0 (нулева), предишен идентификатор: Няма, номер по предходен план: 000223, при съседи: имоти с идентификатори №№ 65231.917.659 и 65231.917.77.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93664/466087/IMG_0011.jpg",
-      "https://sales.bcpea.org/upload/93664/466088/IMG_0012.jpg",
-      "https://sales.bcpea.org/upload/93664/466089/IMG_0013.jpg"
-    ],
-    "price_per_sqm": 37,
-    "price_history": [
-      {
-        "date": "2026-10-27T20:56:39.415868+00:00",
-        "price_eur": 32800
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93663",
-    "url": "https://sales.bcpea.org/properties/93663",
-    "photo": "https://sales.bcpea.org/upload/93663/466084/IMG_0001.jpg?w=270&h=270",
-    "price_eur": 13440,
-    "sqm": 447,
-    "area": "Шипочане",
-    "title": "Парцел, Шипочане",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T20:24:00+00:00",
-    "category": "land",
-    "_settlement": "Шипочане",
-    "lat": 42.34588,
-    "lng": 23.61041,
-    "description": "УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ с идентификатор № 83243.7.318 (осемдесет и три хиляди двеста четиридесет и три точка седем точка триста и осемнадесет), целият с площ от 447 (четиристотин четиридесет и седем) кв.м., с адрес на поземления имот: с. Шипочане, общ. Самоков, обл. Софийска, с трайно предназначение на територията: Урбанизирана, с начин на трайно ползване: Ниско застрояване (до 10 м.), предишен идентификатор: няма, с номер от предходен план: планоснимачен № 416 (четиристотин и шестнадесет), при граници и съседи имоти с идентификатори: №№ 83243.7.263, 83243.7.352, 83243.9.220, 83243.7.317,по кадастралната карта и кадастралните регистри на с. Шипочане, общ. Самоков, обл. Софийска, одобрени със Заповед № 300-5-36/01.06.2004 г. на ИД на АК, последно изменение по кадастралната карта и кадастралните регистри засягащо описания поземлен имот е от 09.07.2021 г.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93663/466084/IMG_0001.jpg",
-      "https://sales.bcpea.org/upload/93663/466085/IMG_0002.jpg"
-    ],
-    "price_per_sqm": 30,
-    "price_history": [
-      {
-        "date": "2026-10-27T20:56:39.415868+00:00",
-        "price_eur": 13440
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 0
   },
   {
@@ -113741,7 +113741,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
