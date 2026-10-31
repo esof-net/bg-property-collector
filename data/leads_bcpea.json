@@ -558,7 +558,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -56.4,
     "score": 19
@@ -653,7 +653,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -55.9,
     "score": 19
@@ -778,7 +778,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -56.4,
     "score": 19
@@ -1522,7 +1522,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -56.6,
     "score": 19
@@ -2844,7 +2844,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -39.8,
     "score": 17
@@ -3016,7 +3016,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -41.3,
     "score": 17
@@ -3427,7 +3427,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -35.8,
     "score": 16
@@ -3684,6 +3684,57 @@
     "days_on_market": 8,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -45.6,
+    "score": 16
+  },
+  {
+    "id": "bcpea_93595",
+    "url": "https://sales.bcpea.org/properties/93595",
+    "photo": "https://sales.bcpea.org/upload/93595/465788/01 Паркинг пред сградата.jpeg?w=270&h=270",
+    "price_eur": 86240,
+    "sqm": 86,
+    "area": "Пловдив",
+    "title": "Многостаен апартамент, Пловдив",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T15:29:00+00:00",
+    "category": "apartment",
+    "_settlement": "Пловдив",
+    "lat": 42.1418541,
+    "lng": 24.7499297,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 56784.540.41.2.12 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно, точка, две, точка, едно две) по кадастралната карта и кадастралните регистри на гр. Пловдив, Община Пловдив, обл.Пловдив, одобрени със Заповед № РД-18-48/03.06.2009г. на Изпълнителен директор на АГКК, с адрес на самостоятелния обект: гр. Пловдив, район Тракия, п.к.4000, ж.к. Тракия, блок 286 (двеста осемдесет и шест), вход „Б“, ет.4 (четири), ап.12/33 (дванадесет/тридесет и три), който самостоятелен обект се намира на етаж 4 (четвърти) в сграда с идентификатор 56784.540.41.2 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно, точка, две), с предназначение: жилищна сграда - многофамилна, брой етажи – 8 (осем), разположена в поземлен имот с идентификатор№ 56784.540.41 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно), с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 (едно) ниво, с площ: 85.78 кв.м. (осемдесет и пет цяло и седемдесет и осем стотни квадратни метра при съседни самостоятелни обекти в сградата: на същия етаж – 56784.540.41.2.11 и 56784.540.41.2.34; под обекта – 56784.540.41.2.9, над обекта – 56784.540.41.2.15, ведно с прилежащи части: изба № 12 (дванадесет) с площ от 4.81 кв.м. (четири цяло и осемдесет и една стотни квадратни метра), както и 1.607% (едно цяло, шестстотин и седем хилядни процента) идеални части от общите части на сградата и от правото на строеж върху поземления имот.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93595/465788/01 Паркинг пред сградата.jpeg",
+      "https://sales.bcpea.org/upload/93595/465789/02 Жилищна сграда.jpeg",
+      "https://sales.bcpea.org/upload/93595/465790/03 Жилищна секция (вход).jpeg",
+      "https://sales.bcpea.org/upload/93595/465791/04 Стълбище.jpeg",
+      "https://sales.bcpea.org/upload/93595/465792/05 Етажна площадка с асансьор.jpeg",
+      "https://sales.bcpea.org/upload/93595/465793/06 Входна врата на апартамента.jpeg",
+      "https://sales.bcpea.org/upload/93595/465794/07 Коридор.jpeg",
+      "https://sales.bcpea.org/upload/93595/465795/08 Коридор.jpeg",
+      "https://sales.bcpea.org/upload/93595/465796/09 Кухня.jpeg",
+      "https://sales.bcpea.org/upload/93595/465797/10 Дневна.jpeg",
+      "https://sales.bcpea.org/upload/93595/465798/11 Балкон към дневната.jpeg",
+      "https://sales.bcpea.org/upload/93595/465799/12 Спалня.jpeg",
+      "https://sales.bcpea.org/upload/93595/465800/13 Балкон към спалнята.jpeg",
+      "https://sales.bcpea.org/upload/93595/465801/14 Спалня.jpeg",
+      "https://sales.bcpea.org/upload/93595/465802/15 Перално.jpeg",
+      "https://sales.bcpea.org/upload/93595/465803/16 Баня.jpeg",
+      "https://sales.bcpea.org/upload/93595/465804/17 Тоалетна.jpeg"
+    ],
+    "price_per_sqm": 1003,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 86240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 5,
+    "area_avg_price_per_sqm": 2119,
+    "pct_vs_area_avg": -52.7,
     "score": 16
   },
   {
@@ -4555,57 +4606,6 @@
     "days_on_market": 10,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -36.3,
-    "score": 15
-  },
-  {
-    "id": "bcpea_93595",
-    "url": "https://sales.bcpea.org/properties/93595",
-    "photo": "https://sales.bcpea.org/upload/93595/465788/01 Паркинг пред сградата.jpeg?w=270&h=270",
-    "price_eur": 86240,
-    "sqm": 86,
-    "area": "Пловдив",
-    "title": "Многостаен апартамент, Пловдив",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T15:29:00+00:00",
-    "category": "apartment",
-    "_settlement": "Пловдив",
-    "lat": 42.1418541,
-    "lng": 24.7499297,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 56784.540.41.2.12 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно, точка, две, точка, едно две) по кадастралната карта и кадастралните регистри на гр. Пловдив, Община Пловдив, обл.Пловдив, одобрени със Заповед № РД-18-48/03.06.2009г. на Изпълнителен директор на АГКК, с адрес на самостоятелния обект: гр. Пловдив, район Тракия, п.к.4000, ж.к. Тракия, блок 286 (двеста осемдесет и шест), вход „Б“, ет.4 (четири), ап.12/33 (дванадесет/тридесет и три), който самостоятелен обект се намира на етаж 4 (четвърти) в сграда с идентификатор 56784.540.41.2 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно, точка, две), с предназначение: жилищна сграда - многофамилна, брой етажи – 8 (осем), разположена в поземлен имот с идентификатор№ 56784.540.41 (пет шест седем осем четири, точка, пет четири нула, точка, четири едно), с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 (едно) ниво, с площ: 85.78 кв.м. (осемдесет и пет цяло и седемдесет и осем стотни квадратни метра при съседни самостоятелни обекти в сградата: на същия етаж – 56784.540.41.2.11 и 56784.540.41.2.34; под обекта – 56784.540.41.2.9, над обекта – 56784.540.41.2.15, ведно с прилежащи части: изба № 12 (дванадесет) с площ от 4.81 кв.м. (четири цяло и осемдесет и една стотни квадратни метра), както и 1.607% (едно цяло, шестстотин и седем хилядни процента) идеални части от общите части на сградата и от правото на строеж върху поземления имот.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93595/465788/01 Паркинг пред сградата.jpeg",
-      "https://sales.bcpea.org/upload/93595/465789/02 Жилищна сграда.jpeg",
-      "https://sales.bcpea.org/upload/93595/465790/03 Жилищна секция (вход).jpeg",
-      "https://sales.bcpea.org/upload/93595/465791/04 Стълбище.jpeg",
-      "https://sales.bcpea.org/upload/93595/465792/05 Етажна площадка с асансьор.jpeg",
-      "https://sales.bcpea.org/upload/93595/465793/06 Входна врата на апартамента.jpeg",
-      "https://sales.bcpea.org/upload/93595/465794/07 Коридор.jpeg",
-      "https://sales.bcpea.org/upload/93595/465795/08 Коридор.jpeg",
-      "https://sales.bcpea.org/upload/93595/465796/09 Кухня.jpeg",
-      "https://sales.bcpea.org/upload/93595/465797/10 Дневна.jpeg",
-      "https://sales.bcpea.org/upload/93595/465798/11 Балкон към дневната.jpeg",
-      "https://sales.bcpea.org/upload/93595/465799/12 Спалня.jpeg",
-      "https://sales.bcpea.org/upload/93595/465800/13 Балкон към спалнята.jpeg",
-      "https://sales.bcpea.org/upload/93595/465801/14 Спалня.jpeg",
-      "https://sales.bcpea.org/upload/93595/465802/15 Перално.jpeg",
-      "https://sales.bcpea.org/upload/93595/465803/16 Баня.jpeg",
-      "https://sales.bcpea.org/upload/93595/465804/17 Тоалетна.jpeg"
-    ],
-    "price_per_sqm": 1003,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 86240
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 4,
-    "area_avg_price_per_sqm": 2119,
-    "pct_vs_area_avg": -52.7,
     "score": 15
   },
   {
@@ -5948,7 +5948,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -29.2,
     "score": 12
@@ -6638,7 +6638,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -19.7,
     "score": 10
@@ -8081,7 +8081,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -19.3,
     "score": 9
@@ -8500,7 +8500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9497,7 +9497,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -10686,7 +10686,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": 1244,
     "pct_vs_area_avg": -99.6,
     "score": 8
@@ -11688,7 +11688,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -12101,7 +12101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -12.2,
     "score": 8
@@ -12138,7 +12138,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": -12.1,
     "score": 8
@@ -13174,7 +13174,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 50,
+    "days_on_market": 51,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -19943,7 +19943,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -23828,7 +23828,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -33911,7 +33911,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": -97.8,
     "score": 5
@@ -38042,7 +38042,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -38543,7 +38543,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -41464,7 +41464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -43545,7 +43545,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -47282,7 +47282,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -47755,7 +47755,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -47849,7 +47849,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -47885,7 +47885,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 36,
+    "days_on_market": 37,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -49216,7 +49216,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 39,
+    "days_on_market": 40,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -73341,7 +73341,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73373,7 +73373,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73405,7 +73405,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73437,7 +73437,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -73469,7 +73469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -74877,7 +74877,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75928,7 +75928,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -75970,7 +75970,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76621,7 +76621,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76656,7 +76656,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77429,7 +77429,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77461,7 +77461,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77493,7 +77493,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77525,7 +77525,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -77659,7 +77659,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80324,7 +80324,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 4.3,
     "score": 3
@@ -81121,7 +81121,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81153,7 +81153,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -81185,7 +81185,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82905,7 +82905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82937,7 +82937,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82969,7 +82969,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -91.0,
     "score": 3
@@ -86039,7 +86039,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86071,7 +86071,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86103,7 +86103,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86135,7 +86135,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86167,7 +86167,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86199,7 +86199,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86231,7 +86231,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -98.8,
     "score": 3
@@ -86263,7 +86263,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86295,7 +86295,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -86337,7 +86337,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87779,7 +87779,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87816,7 +87816,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -90649,7 +90649,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90681,7 +90681,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90713,7 +90713,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90745,7 +90745,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90777,7 +90777,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90809,7 +90809,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90841,7 +90841,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90873,7 +90873,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90905,7 +90905,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90937,7 +90937,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -90969,7 +90969,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91022,7 +91022,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91054,7 +91054,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91086,7 +91086,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -91123,7 +91123,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -92252,7 +92252,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -94219,7 +94219,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96980,6 +96980,46 @@
     "score": 2
   },
   {
+    "id": "bcpea_93340",
+    "url": "https://sales.bcpea.org/properties/93340",
+    "photo": "https://sales.bcpea.org/upload/93340/464825/DSC09961.JPG?w=270&h=270",
+    "price_eur": 81090,
+    "sqm": 974,
+    "area": "Вонеща вода",
+    "title": "Търговски имот, Вонеща вода",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-19T15:24:00+00:00",
+    "category": "apartment",
+    "_settlement": "Вонеща вода",
+    "lat": 42.8768717,
+    "lng": 25.6411597,
+    "description": "ОБЯВЯВАМ на интересуващите се, че от 26.10 .2026 г. до 26.11 .2026г., с обявяване на 27.11. 2026 г. в 08.30 часа в Районен съд Велико Търново ще бъде проведена публична продан по реда на ГПК чл. 487 – 501 на следния НЕДВИЖИМ ИМОТ: Недвижим имот, находящ се в с. Вонеща вода, община Велико Търново, представляващ 974/1070 идеални части от УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ, целият с площ от 1070 /хиляда и седемдесет/ кв.м, представляващ УПИ I /едно римско/ в строителен квартал 38 /тридесет и осми/ по кадастралния план на с. Вонеща вода, при граници на УПИ: от три страни улица и УПИ II - 155, заедно с построените в него ТЪРГОВСКА СГРАДА НА ДВА ЕТАЖА , състояща се от СУТЕРЕН, изцяло вкопан под цялата сграда, със застроена площ от 100,22 /сто цяло и двадесет и две стотни/ кв.м; ПЪРВИ ЕТАЖ - бивша закусвалня, със застроена площ от 144,54 /сто четиридесет и четири цяло и петдесет и четири стотни/ кв.м и ВТОРИ ЕТАЖ - текстилен магазин, със застроена площ от 144,54 /сто четиридесет и четири цяло и петдесет и четири стотни/ кв.м; СГРАДА - РЕСТОРАНТ със застроена площ от 540,00 /петстотин и четиридесет/ кв.м, заедно с разрешеното в имота строителство на Пристройка и надстройка на съществуващ ресторант със застроена площ от 570,00 кв., и разгърната застроена площ от 1350,00 кв.м, с цел разширение на изток за обособяване на помещения за рецепция, офис, и стая за персонала със санитарен възел и стълбищна клетка, необходими за обособяването на хотелска част на втори етаж с 22 стаи, един апартамент, стая за камериерките и склад. / Забележка: Започнатото в имота строителство е въз основа на одобрени от главен архитект на Велико Търново на 11.07.2005г. инвестиционни проекти и разрешение за строеж. Не са констатирани последващи документи за степен на завършеност и приемане на строителството./ СОБСТВЕНИК: ПОЛИКОМЕРС СГ ЕООД ИПОТЕКИ и други тежести за имотите : възбрана в полза на взискателя Община Велико Търново от 26.02.2025г. НАЧАЛНА ЦЕНА, от която ще започне наддаването, определена на основание чл. 485 от ГПК във връзка с чл. 468 от същия кодекс, е в размер н а 81 090 ,00 € ( осемдесет и една хиляди и деветдесет евро) РЕЖИМ НА ДДС КЪМ ДАТА НА ИЗГОТВЯНЕ НА ОБЯВЛЕНИЕТО: ОСВОБОДЕНА ДОСТАВКА С ПРАВО НА ИЗБОР МЯСТО И ВРЕМЕТРАЕНЕ НА ПРОДАНТА: Проданта ще се проведе в сградата на Районен съд Велико Търново от 26.10 .2026 г. до 26.11 .2026г., с обявяване на 27.11 .2026 г. в 08.30 часа на същото място НАДДАВАТЕЛНИ ПРЕДЛОЖЕНИЯ: Купувачите могат да се явяват всеки работен ден и час, през времетраенето на проданта в канцеларията на Районния съд, за да подават наддавателни предложения. Съгласно чл. 489 ал. 5 от ГПК Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. ЗАДАТЪК : Задатък за участие в публичната продан 10 % от посочените горе оценки се внася предварително по сметка IBAN BG79UNCR70001521368376 при банка \"УНИКРЕДИТ БУЛБАНК\" АД с титуляр Виктор Георгиев. ОГЛЕД: Всички желаещи да огледат имота, За участие на служител от кантората при огледа се заплаща такса в размер на 30,00 € Сумите превеждайте по сметка IBAN BG13UNCR70001521368206 при банка \"УНИКРЕДИТ БУЛБАНК\" АД с титуляр Виктор Георгиев.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93340/464825/DSC09961.JPG",
+      "https://sales.bcpea.org/upload/93340/464826/DSC09975.JPG",
+      "https://sales.bcpea.org/upload/93340/464827/DSC09985.JPG",
+      "https://sales.bcpea.org/upload/93340/464828/DSC09908.JPG",
+      "https://sales.bcpea.org/upload/93340/464829/DSC09909.JPG",
+      "https://sales.bcpea.org/upload/93340/464830/DSC09958.JPG"
+    ],
+    "price_per_sqm": 83,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 81090
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93339",
     "url": "https://sales.bcpea.org/properties/93339",
     "photo": "https://sales.bcpea.org/upload/93339/431784/IMG_20241126_105718.jpg?w=270&h=270",
@@ -98875,7 +98915,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -98914,7 +98954,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 189.1,
     "score": 1
@@ -100398,7 +100438,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100430,7 +100470,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100462,7 +100502,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100509,7 +100549,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100540,7 +100580,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": 93.3,
     "score": 1
@@ -100572,7 +100612,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100604,7 +100644,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100636,7 +100676,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100668,7 +100708,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100700,7 +100740,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100732,7 +100772,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102586,7 +102626,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102618,7 +102658,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -88.2,
     "score": 1
@@ -102650,7 +102690,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -67.0,
     "score": 1
@@ -102682,7 +102722,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -66.4,
     "score": 1
@@ -102714,7 +102754,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -66.2,
     "score": 1
@@ -102746,7 +102786,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -66.4,
     "score": 1
@@ -104149,46 +104189,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93340",
-    "url": "https://sales.bcpea.org/properties/93340",
-    "photo": "https://sales.bcpea.org/upload/93340/464825/DSC09961.JPG?w=270&h=270",
-    "price_eur": 81090,
-    "sqm": 974,
-    "area": "Вонеща вода",
-    "title": "Търговски имот, Вонеща вода",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-19T15:24:00+00:00",
-    "category": "apartment",
-    "_settlement": "Вонеща вода",
-    "lat": 42.8768717,
-    "lng": 25.6411597,
-    "description": "ОБЯВЯВАМ на интересуващите се, че от 26.10 .2026 г. до 26.11 .2026г., с обявяване на 27.11. 2026 г. в 08.30 часа в Районен съд Велико Търново ще бъде проведена публична продан по реда на ГПК чл. 487 – 501 на следния НЕДВИЖИМ ИМОТ: Недвижим имот, находящ се в с. Вонеща вода, община Велико Търново, представляващ 974/1070 идеални части от УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ, целият с площ от 1070 /хиляда и седемдесет/ кв.м, представляващ УПИ I /едно римско/ в строителен квартал 38 /тридесет и осми/ по кадастралния план на с. Вонеща вода, при граници на УПИ: от три страни улица и УПИ II - 155, заедно с построените в него ТЪРГОВСКА СГРАДА НА ДВА ЕТАЖА , състояща се от СУТЕРЕН, изцяло вкопан под цялата сграда, със застроена площ от 100,22 /сто цяло и двадесет и две стотни/ кв.м; ПЪРВИ ЕТАЖ - бивша закусвалня, със застроена площ от 144,54 /сто четиридесет и четири цяло и петдесет и четири стотни/ кв.м и ВТОРИ ЕТАЖ - текстилен магазин, със застроена площ от 144,54 /сто четиридесет и четири цяло и петдесет и четири стотни/ кв.м; СГРАДА - РЕСТОРАНТ със застроена площ от 540,00 /петстотин и четиридесет/ кв.м, заедно с разрешеното в имота строителство на Пристройка и надстройка на съществуващ ресторант със застроена площ от 570,00 кв., и разгърната застроена площ от 1350,00 кв.м, с цел разширение на изток за обособяване на помещения за рецепция, офис, и стая за персонала със санитарен възел и стълбищна клетка, необходими за обособяването на хотелска част на втори етаж с 22 стаи, един апартамент, стая за камериерките и склад. / Забележка: Започнатото в имота строителство е въз основа на одобрени от главен архитект на Велико Търново на 11.07.2005г. инвестиционни проекти и разрешение за строеж. Не са констатирани последващи документи за степен на завършеност и приемане на строителството./ СОБСТВЕНИК: ПОЛИКОМЕРС СГ ЕООД ИПОТЕКИ и други тежести за имотите : възбрана в полза на взискателя Община Велико Търново от 26.02.2025г. НАЧАЛНА ЦЕНА, от която ще започне наддаването, определена на основание чл. 485 от ГПК във връзка с чл. 468 от същия кодекс, е в размер н а 81 090 ,00 € ( осемдесет и една хиляди и деветдесет евро) РЕЖИМ НА ДДС КЪМ ДАТА НА ИЗГОТВЯНЕ НА ОБЯВЛЕНИЕТО: ОСВОБОДЕНА ДОСТАВКА С ПРАВО НА ИЗБОР МЯСТО И ВРЕМЕТРАЕНЕ НА ПРОДАНТА: Проданта ще се проведе в сградата на Районен съд Велико Търново от 26.10 .2026 г. до 26.11 .2026г., с обявяване на 27.11 .2026 г. в 08.30 часа на същото място НАДДАВАТЕЛНИ ПРЕДЛОЖЕНИЯ: Купувачите могат да се явяват всеки работен ден и час, през времетраенето на проданта в канцеларията на Районния съд, за да подават наддавателни предложения. Съгласно чл. 489 ал. 5 от ГПК Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни. ЗАДАТЪК : Задатък за участие в публичната продан 10 % от посочените горе оценки се внася предварително по сметка IBAN BG79UNCR70001521368376 при банка \"УНИКРЕДИТ БУЛБАНК\" АД с титуляр Виктор Георгиев. ОГЛЕД: Всички желаещи да огледат имота, За участие на служител от кантората при огледа се заплаща такса в размер на 30,00 € Сумите превеждайте по сметка IBAN BG13UNCR70001521368206 при банка \"УНИКРЕДИТ БУЛБАНК\" АД с титуляр Виктор Георгиев.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93340/464825/DSC09961.JPG",
-      "https://sales.bcpea.org/upload/93340/464826/DSC09975.JPG",
-      "https://sales.bcpea.org/upload/93340/464827/DSC09985.JPG",
-      "https://sales.bcpea.org/upload/93340/464828/DSC09908.JPG",
-      "https://sales.bcpea.org/upload/93340/464829/DSC09909.JPG",
-      "https://sales.bcpea.org/upload/93340/464830/DSC09958.JPG"
-    ],
-    "price_per_sqm": 83,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 81090
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
     "id": "bcpea_93532",
     "url": "https://sales.bcpea.org/properties/93532",
     "photo": "https://sales.bcpea.org/upload/93532/465529/67547.10.13.png?w=270&h=270",
@@ -104990,7 +104990,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105022,7 +105022,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105054,7 +105054,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105086,7 +105086,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -105128,7 +105128,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106219,9 +106219,41 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93593",
+    "url": "https://sales.bcpea.org/properties/93593",
+    "photo": null,
+    "price_eur": 69804,
+    "sqm": 59,
+    "area": "Велико Търново",
+    "title": "Двустаен апартамент, Велико Търново",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T14:54:00+00:00",
+    "category": "apartment",
+    "_settlement": "Велико Търново",
+    "lat": 43.0820584,
+    "lng": 25.6321312,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 10447.503.238.1.32 по кадастралната карта и кадастралните регистри на гр. Велико Търново, одобрени със Заповед №РД-18-86/19.09.2008 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АГКК, с адрес на имота гр. Велико Търново, ул. ВЕЛА БЛАГОЕВА №15, ет. 5 , който обект се намира на етаж 5 в сграда с идентификатор 10447.503.238.1, разположена в поземлен имот с идентификатор 10447.503.238 с предназначение на самостоятелния обект - жилище, апартамент, на едно ниво, с площ 58,90 кв. м., при съседни самостоятелни обекти в сградата: на същия етаж - обекти с идентификатори 10447.503.238.1.34, 10447.503.238.1.33, 10447.503.238.1.31, под обекта - обект с идентификатор 10447.503.238.1.25, над обекта - обект с идентификатор 10447.503.238.1.38, заедно с избено помещение № 5 с площ 10,88 кв. м., 3,2 % идеални части от общите части на сградата и съответните идеални части от правото на строеж спрямо поземлен имот 10447.503.238.",
+    "detail_checked": true,
+    "price_per_sqm": 1183,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 69804
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 5,
+    "area_avg_price_per_sqm": 872,
+    "pct_vs_area_avg": 35.6,
     "score": 1
   },
   {
@@ -106254,7 +106286,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106293,7 +106325,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106328,7 +106360,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -106988,6 +107020,507 @@
       {
         "date": "2026-10-27T09:17:23.793990+00:00",
         "price_eur": 98168
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93646",
+    "url": "https://sales.bcpea.org/properties/93646",
+    "photo": null,
+    "price_eur": 5213,
+    "sqm": 558,
+    "area": "Странджа",
+    "title": "Земеделска земя, Странджа",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:36:00+00:00",
+    "category": "land",
+    "_settlement": "Странджа",
+    "lat": 42.0453538,
+    "lng": 27.5569487,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 5213
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93645",
+    "url": "https://sales.bcpea.org/properties/93645",
+    "photo": null,
+    "price_eur": 900,
+    "sqm": 497,
+    "area": "Странджа",
+    "title": "Земеделска земя, Странджа",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:33:00+00:00",
+    "category": "land",
+    "_settlement": "Странджа",
+    "lat": 42.0453538,
+    "lng": 27.5569487,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 900
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93644",
+    "url": "https://sales.bcpea.org/properties/93644",
+    "photo": null,
+    "price_eur": 1815,
+    "sqm": 9,
+    "area": "Воден",
+    "title": "Земеделска земя, Воден",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:30:00+00:00",
+    "category": "land",
+    "_settlement": "Воден",
+    "lat": 42.0114074,
+    "lng": 25.6564076,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 202,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 1815
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93643",
+    "url": "https://sales.bcpea.org/properties/93643",
+    "photo": null,
+    "price_eur": 886,
+    "sqm": 300,
+    "area": "Воден",
+    "title": "Земеделска земя, Воден",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:28:00+00:00",
+    "category": "land",
+    "_settlement": "Воден",
+    "lat": 42.0114074,
+    "lng": 25.6564076,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 886
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93642",
+    "url": "https://sales.bcpea.org/properties/93642",
+    "photo": null,
+    "price_eur": 9935,
+    "sqm": 996,
+    "area": "Воден",
+    "title": "Земеделска земя, Воден",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:26:00+00:00",
+    "category": "land",
+    "_settlement": "Воден",
+    "lat": 42.0114074,
+    "lng": 25.6564076,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 9935
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93641",
+    "url": "https://sales.bcpea.org/properties/93641",
+    "photo": null,
+    "price_eur": 1260,
+    "sqm": 223,
+    "area": "Мрежичко",
+    "title": "Земеделска земя, Мрежичко",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:23:00+00:00",
+    "category": "land",
+    "_settlement": "Мрежичко",
+    "lat": null,
+    "lng": null,
+    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР № 49254.16.29 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 . 06 .20 20 г. на ИД на АГКК, с адрес на поземления имот : с. М режичко , местност: Мезарлък ада , ц елият с площ от 4891 кв.м., с трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята при неполивни условия: 6 / шеста /, стар идентификатор: няма, номер по предходен план: 016029 , при съседи: ПИ с ид. №49254.16.31 , №49254.16.42 , №49254.16.28, № 49254.16.30, №49254.16.47 и №49254.14.24 - С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 1 26 0.00 евро (х иляда двеста и шестдесет евро )",
+    "detail_checked": true,
+    "price_per_sqm": 6,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 1260
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93640",
+    "url": "https://sales.bcpea.org/properties/93640",
+    "photo": null,
+    "price_eur": 594,
+    "sqm": 516,
+    "area": "Мрежичко",
+    "title": "Земеделски имот, Мрежичко",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:20:00+00:00",
+    "category": "apartment",
+    "_settlement": "Мрежичко",
+    "lat": null,
+    "lng": null,
+    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР № 49254.37.20 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 .06.2020г. на ИД на АГКК, с адрес на поземления имот : с. М режичко, местност:Биниурду , ц елият с площ от 2062 кв.м., с трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия:5 /пета/, стар идентификатор: няма, номер по предходен план: 037020, при съседи: ПИ с ид.№49254.37.2, №49254.37.16, №49254.37.21 и №49254.37.1 - С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 594 .00 евро ( п етстотин деветдесет и четири евро )",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 594
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93639",
+    "url": "https://sales.bcpea.org/properties/93639",
+    "photo": null,
+    "price_eur": 180,
+    "sqm": 150,
+    "area": "Мрежичко",
+    "title": "Земеделска земя, Мрежичко",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T15:18:00+00:00",
+    "category": "land",
+    "_settlement": "Мрежичко",
+    "lat": null,
+    "lng": null,
+    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР №49254.13.33 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 .06.2020г. на ИД на АГКК, с адрес на поземления имот : с. М режичко, местност:Халлар , ц елият с площ от 599 кв.м., с трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия:6 /шеста/, стар идентификатор: няма, номер по предходен план: 013033, при съседи: ПИ с ид.№49254.13.37, №49254.13.29, №49254.13.30, №49254.13.9 и №49254.13.10 – С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 180.00 евро ( с то и осемдесет евро )",
+    "detail_checked": true,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 180
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93638",
+    "url": "https://sales.bcpea.org/properties/93638",
+    "photo": "https://sales.bcpea.org/upload/93638/466005/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 3400,
+    "sqm": 838,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:59:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "15). Поземлен имот с идентификатор 15151.177.18 (едно пет едно пет едно точка сто седемдесет и седем точка осемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Есенник“, с площ 4838 кв.м . (четири хиляди осемстотин тридесет и осем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 4 (четвърта), без предишен идентификатор, по предходен план: номер 177018 (сто седемдесет и седем хиляди и осемнадесет), при съседи: 15151.176.475, 15151.177.17, 15151.177.19 и 15151.177.40. ПЪРВОНАЧАЛНА ЦЕНА: 3 400.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93638/466005/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 3400
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93637",
+    "url": "https://sales.bcpea.org/properties/93637",
+    "photo": "https://sales.bcpea.org/upload/93637/466002/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 13520,
+    "sqm": 1,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:57:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "14). Поземлен имот с идентификатор 15151.220.13 (едно пет едно пет едно точка двеста и двадесет точка тринадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Орта пара“, с площ 16001 кв.м. (шестнадесет хиляди и един квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 220013 (двеста и двадесет хиляди и тринадесет), при съседи: 15151.219.313, 15151.220.4, 15151.220.12 и 15151.220.48. ПЪРВОНАЧАЛНА ЦЕНА: 13 520.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93637/466002/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 13520,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 13520
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93636",
+    "url": "https://sales.bcpea.org/properties/93636",
+    "photo": "https://sales.bcpea.org/upload/93636/465998/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 18080,
+    "sqm": 82,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:56:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "13). Поземлен имот с идентификатор 15151.141.17 (едно пет едно пет едно точка сто четиридесет и едно точка седемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Пара сърт“, с площ 20082 кв.м. (двадесет хиляди осемдесет и два квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 141017 (сто четиридесет и една хиляди и седемнадесет), при съседи: 15151.141.11, 15151.141.13, 15151.141.16, 15151.141.33, 15151.141.34 и 15151.141.35. ПЪРВОНАЧАЛНА ЦЕНА: 18 080.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93636/465998/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 220,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 18080
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93635",
+    "url": "https://sales.bcpea.org/properties/93635",
+    "photo": "https://sales.bcpea.org/upload/93635/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 2848,
+    "sqm": 573,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:52:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "12). Поземлен имот с идентификатор 15151.194.12 (едно пет едно пет едно точка сто деветдесет и четири точка дванадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Баладжилък“, с площ 3573 кв.м. (три хиляди петстотин седемдесет и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 194012 (сто деветдесет и четири хиляди и дванадесет), при съседи: 15151.194.9, 15151.194.11, 15151.194.13 и 15151.194.16. ПЪРВОНАЧАЛНА ЦЕНА: 2 848.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93635/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 2848
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93634",
+    "url": "https://sales.bcpea.org/properties/93634",
+    "photo": "https://sales.bcpea.org/upload/93634/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 712,
+    "sqm": 69,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:52:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "11). Поземлен имот с идентификатор 15151.13.3 3 (едно пет едно пет едно точка тринадесет точка тридесет и три), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Китка“, с площ 1069 кв.м. (хиляда шестдесет и девет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: лозе, категория на земята при неполивни условия: 3 (трета), номер по предходен план: 013033 (нула едно три нула три три), при съседи: 15151.12.412, 15151.13.32, 15151.13.34 и 15151.13.387. ПЪРВОНАЧАЛНА ЦЕНА: 712.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93634/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 712
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93633",
+    "url": "https://sales.bcpea.org/properties/93633",
+    "photo": "https://sales.bcpea.org/upload/93633/465990/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 3485,
+    "sqm": 635,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:50:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "10). Поземлен имот с идентификатор 15151.55.37 (едно пет едно пет едно точка петдесет и пет точка тридесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Асарлък“, с площ 4635 кв.м . (четири хиляди шестстотин тридесет и пет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 055037 (нула пет пет нула три седем), при съседи: 15151.55.27, 15151.55.30, 15151.55.36 и 15151.55.38. ПЪРВОНАЧАЛНА ЦЕНА: 3 485.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93633/465990/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 3485
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93632",
+    "url": "https://sales.bcpea.org/properties/93632",
+    "photo": "https://sales.bcpea.org/upload/93632/465987/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
+    "price_eur": 2120,
+    "sqm": 994,
+    "area": "Глоджево",
+    "title": "Земеделска земя, Глоджево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T14:48:00+00:00",
+    "category": "land",
+    "_settlement": "Глоджево",
+    "lat": 43.73436,
+    "lng": 26.38961,
+    "description": "9). Поземлен имот с идентификатор 15151.130.31 (едно пет едно пет едно точка сто и тридесет точка тридесет и едно), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Кюлпере“, с площ 2994 кв.м. ( две хиляди деветстотин деветдесет и четири квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 130031 (едно три нула нула три едно), при съседи: 15151.130.8, 15151.130.30, 15151.130.38, 15151.130.39 и 15151.130.461. ПЪРВОНАЧАЛНА ЦЕНА: 2 120.00 €",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93632/465987/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
+    ],
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-10-27T15:02:03.363784+00:00",
+        "price_eur": 2120
       }
     ],
     "price_drop_count": 0,
@@ -108351,38 +108884,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93593",
-    "url": "https://sales.bcpea.org/properties/93593",
-    "photo": null,
-    "price_eur": 69804,
-    "sqm": 59,
-    "area": "Велико Търново",
-    "title": "Двустаен апартамент, Велико Търново",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T14:54:00+00:00",
-    "category": "apartment",
-    "_settlement": "Велико Търново",
-    "lat": 43.0820584,
-    "lng": 25.6321312,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 10447.503.238.1.32 по кадастралната карта и кадастралните регистри на гр. Велико Търново, одобрени със Заповед №РД-18-86/19.09.2008 г. на ИЗПЪЛНИТЕЛНИЯ ДИРЕКТОР НА АГКК, с адрес на имота гр. Велико Търново, ул. ВЕЛА БЛАГОЕВА №15, ет. 5 , който обект се намира на етаж 5 в сграда с идентификатор 10447.503.238.1, разположена в поземлен имот с идентификатор 10447.503.238 с предназначение на самостоятелния обект - жилище, апартамент, на едно ниво, с площ 58,90 кв. м., при съседни самостоятелни обекти в сградата: на същия етаж - обекти с идентификатори 10447.503.238.1.34, 10447.503.238.1.33, 10447.503.238.1.31, под обекта - обект с идентификатор 10447.503.238.1.25, над обекта - обект с идентификатор 10447.503.238.1.38, заедно с избено помещение № 5 с площ 10,88 кв. м., 3,2 % идеални части от общите части на сградата и съответните идеални части от правото на строеж спрямо поземлен имот 10447.503.238.",
-    "detail_checked": true,
-    "price_per_sqm": 1183,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 69804
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 4,
-    "area_avg_price_per_sqm": 872,
-    "pct_vs_area_avg": 35.6,
-    "score": 0
-  },
-  {
     "id": "bcpea_93603",
     "url": "https://sales.bcpea.org/properties/93603",
     "photo": "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg?w=270&h=270",
@@ -108751,507 +109252,6 @@
       {
         "date": "2026-10-27T15:02:03.363784+00:00",
         "price_eur": 4940
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93646",
-    "url": "https://sales.bcpea.org/properties/93646",
-    "photo": null,
-    "price_eur": 5213,
-    "sqm": 558,
-    "area": "Странджа",
-    "title": "Земеделска земя, Странджа",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:36:00+00:00",
-    "category": "land",
-    "_settlement": "Странджа",
-    "lat": 42.0453538,
-    "lng": 27.5569487,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 9,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 5213
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93645",
-    "url": "https://sales.bcpea.org/properties/93645",
-    "photo": null,
-    "price_eur": 900,
-    "sqm": 497,
-    "area": "Странджа",
-    "title": "Земеделска земя, Странджа",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:33:00+00:00",
-    "category": "land",
-    "_settlement": "Странджа",
-    "lat": 42.0453538,
-    "lng": 27.5569487,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 900
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93644",
-    "url": "https://sales.bcpea.org/properties/93644",
-    "photo": null,
-    "price_eur": 1815,
-    "sqm": 9,
-    "area": "Воден",
-    "title": "Земеделска земя, Воден",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:30:00+00:00",
-    "category": "land",
-    "_settlement": "Воден",
-    "lat": 42.0114074,
-    "lng": 25.6564076,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 202,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 1815
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93643",
-    "url": "https://sales.bcpea.org/properties/93643",
-    "photo": null,
-    "price_eur": 886,
-    "sqm": 300,
-    "area": "Воден",
-    "title": "Земеделска земя, Воден",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:28:00+00:00",
-    "category": "land",
-    "_settlement": "Воден",
-    "lat": 42.0114074,
-    "lng": 25.6564076,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 886
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93642",
-    "url": "https://sales.bcpea.org/properties/93642",
-    "photo": null,
-    "price_eur": 9935,
-    "sqm": 996,
-    "area": "Воден",
-    "title": "Земеделска земя, Воден",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:26:00+00:00",
-    "category": "land",
-    "_settlement": "Воден",
-    "lat": 42.0114074,
-    "lng": 25.6564076,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд ,обявявам на заинтересованите,че съгл.чл.487 ГПК от  от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ВТОРА публична продан след определяне на нова начална цена по изп. дело №. 20 23 878040 0468 , в сградата на РС-Елхово, като 08.01.2027г .  в 14,00 ч. в зала на ЕРС  ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел  удовлетворяване вземането на „ЮРОБАНК БЪЛГАРИЯ” АД , а именно: 1/4 идеална част от Поземлен имот с идентификатор 11658.325.1 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „БОЙЧОВ ГРОБ”, с трайно предназначение: горска, начин на трайно ползване: ДРУГ ВИД ДЪРВОПРОИЗВОДИТЕЛНА ГОРА, с площ 199 996 кв.м ., предишен идентификатор : няма, номер по предходен план: 325001 , при граници: поземлени имоти с идентификатори №№ 69674.40.81, 69674.40.116, 11658.330.2, 11658.80.822, 11658.95.758, 11658.80.653, 11658.95.551 - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 9935 евро. Тежести върху имота: Договор за аренда, вписан  на 02.11.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, възбрана  в полза на БАНКА ДСК АД, вписана на 18.12.2024г. в СВ Елхово, възбрана в полза на Уникредит Булбанк, вписана на 19.03.2025 г. в СВ Елхово. 1/2 идеална част от Поземлен имот с идентификатор 11658.59.57 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Тумбите”, с трайно предназначение: земеделска, начин на трайно ползване: неизползвана нива (угар, орница), категория на земята: осма, с площ 4300 кв.м ., предишен идентификатор : няма, номер по предходен план: 059057, при граници: поземлени имоти с идентификатори №№ 11658.59.59, 11658.59.757, 11658.59.46, 11658.1.224, 11658.59.52, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 886 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, 1/2 идеална част от Поземлен имот с идентификатор 11658.67.2 по кадастралната карта и кадастралните регистри на с.Воден, Община Болярово, обл. Ямбол, в местността „Ман. Кладенче”, с трайно предназначение: земеделска, начин на трайно ползване: ливада, категория на земята: четвърта, с площ 11009 кв.м ., предишен идентификатор : няма, номер по предходен план: 067002, при граници: поземлени имоти с идентификатори №№ 11658.66.331, 11658.67.9, 11658.67.5, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 1815 евро. Тежести върху имота: Възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 17.07.2023г. в СВ Елхово, Възбрана  в полза на БАНКА ДСК, вписана на 18.12.2024г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД,, вписана на 19.03.2025г. в СВ Елхово, Възбрана  в полза на Уникредит Булбанк АД и НАП – ТД – Стара Загора,, вписана на 13.05.2025г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.18.6 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 11 497 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ГОЛЕМИ ЧЕИРИ\", община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 018006, при съседи: 69674.18.58, 69674.18.861, 69674.18.82, 69674.17.115. 69674.18.40, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 900 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, ¼ идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.53 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 56 558 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 5, предишен идентификатор : няма, номер по предходен план: 027053, при съседи: 69674.28.325, 69674.27.54, 69674.27.55, 69674.27.691, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 5213 евро. Тежести върху имота: Договор за аренда, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово, 1/4 идеална част от ПОЗЕМЛЕН ИМОТ с идентификатор 69674.27.29 по кадастралната карта и кадастралните регистри на с Странджа, обш.Болярово, обл. Ямбол, одобрени със Заповед РД-18-4/19.01.2010г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК, с площ 63 435 кв.м, трайно предназначение на територията: Земеделска и начин на трайно ползване: НИВА, находящ се в село Странджа, местност „ТЕКИЯТА\" община Болярово, обл. Ямбол, категория на земята: 8, предишен идентификатор : няма, номер по предходен план: 027029, при съседи: 69674.27.324, 69674.27.27, 69674.27.28, 69674.27.323, - Цената, от която ще започне проданта, съгл.чл.485 ГПК е в размер на 4940 евро. Тежести върху имота: Договор за аренда за срок от 15 стопански години, вписан  на 29.09.2016г. с СВ Елхово,  Възбрана в полза на Ти Би Ай Банк ЕАД, вписана на 24.01.2020 г. в СВ Елхово; възбрана в полза на Уникредит Булбанк, вписана на 06.11.2020 г. в СВ Елхово; възбрана  в полза на „ЮРОБАНК БЪЛГАРИЯ” АД, вписана на 08.01.2021г. в СВ Елхово Имотите в ид.части са собственост на ДИМИТЪР ПРОДАНОВ ПОПОВ . За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000, като основание за плащане се посочва, че сумата представялва задатък и номера на изпълнителното дело. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик, задатък се плаща за всеки имот отделно . Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . - 17,00ч. Гр.Ямбол, 27.10.2026 г . ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 10,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 9935
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93641",
-    "url": "https://sales.bcpea.org/properties/93641",
-    "photo": null,
-    "price_eur": 1260,
-    "sqm": 223,
-    "area": "Мрежичко",
-    "title": "Земеделска земя, Мрежичко",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:23:00+00:00",
-    "category": "land",
-    "_settlement": "Мрежичко",
-    "lat": null,
-    "lng": null,
-    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР № 49254.16.29 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 . 06 .20 20 г. на ИД на АГКК, с адрес на поземления имот : с. М режичко , местност: Мезарлък ада , ц елият с площ от 4891 кв.м., с трайно предназначение на територията: земеделска , начин на трайно ползване: нива , категория на земята при неполивни условия: 6 / шеста /, стар идентификатор: няма, номер по предходен план: 016029 , при съседи: ПИ с ид. №49254.16.31 , №49254.16.42 , №49254.16.28, № 49254.16.30, №49254.16.47 и №49254.14.24 - С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 1 26 0.00 евро (х иляда двеста и шестдесет евро )",
-    "detail_checked": true,
-    "price_per_sqm": 6,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 1260
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93640",
-    "url": "https://sales.bcpea.org/properties/93640",
-    "photo": null,
-    "price_eur": 594,
-    "sqm": 516,
-    "area": "Мрежичко",
-    "title": "Земеделски имот, Мрежичко",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:20:00+00:00",
-    "category": "apartment",
-    "_settlement": "Мрежичко",
-    "lat": null,
-    "lng": null,
-    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР № 49254.37.20 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 .06.2020г. на ИД на АГКК, с адрес на поземления имот : с. М режичко, местност:Биниурду , ц елият с площ от 2062 кв.м., с трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия:5 /пета/, стар идентификатор: няма, номер по предходен план: 037020, при съседи: ПИ с ид.№49254.37.2, №49254.37.16, №49254.37.21 и №49254.37.1 - С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 594 .00 евро ( п етстотин деветдесет и четири евро )",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 594
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93639",
-    "url": "https://sales.bcpea.org/properties/93639",
-    "photo": null,
-    "price_eur": 180,
-    "sqm": 150,
-    "area": "Мрежичко",
-    "title": "Земеделска земя, Мрежичко",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T15:18:00+00:00",
-    "category": "land",
-    "_settlement": "Мрежичко",
-    "lat": null,
-    "lng": null,
-    "description": "1/4 идеална част от ПОЗЕМЛЕН ИМОТ С ИДЕНТИФИКАТОР №49254.13.33 , по Кадастралната карта и кадастралните регистри на с. М режичко, общ.Руен, обл.Бургаска одобрени със Заповед РД-18- 231 / 22 .06.2020г. на ИД на АГКК, с адрес на поземления имот : с. М режичко, местност:Халлар , ц елият с площ от 599 кв.м., с трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия:6 /шеста/, стар идентификатор: няма, номер по предходен план: 013033, при съседи: ПИ с ид.№49254.13.37, №49254.13.29, №49254.13.30, №49254.13.9 и №49254.13.10 – С НАЧАЛНА ТРЪЖНА ЦЕНА В РАЗМЕР НА 180.00 евро ( с то и осемдесет евро )",
-    "detail_checked": true,
-    "price_per_sqm": 1,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 180
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93638",
-    "url": "https://sales.bcpea.org/properties/93638",
-    "photo": "https://sales.bcpea.org/upload/93638/466005/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 3400,
-    "sqm": 838,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:59:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "15). Поземлен имот с идентификатор 15151.177.18 (едно пет едно пет едно точка сто седемдесет и седем точка осемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Есенник“, с площ 4838 кв.м . (четири хиляди осемстотин тридесет и осем квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 4 (четвърта), без предишен идентификатор, по предходен план: номер 177018 (сто седемдесет и седем хиляди и осемнадесет), при съседи: 15151.176.475, 15151.177.17, 15151.177.19 и 15151.177.40. ПЪРВОНАЧАЛНА ЦЕНА: 3 400.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93638/466005/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 4,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 3400
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93637",
-    "url": "https://sales.bcpea.org/properties/93637",
-    "photo": "https://sales.bcpea.org/upload/93637/466002/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 13520,
-    "sqm": 1,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:57:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "14). Поземлен имот с идентификатор 15151.220.13 (едно пет едно пет едно точка двеста и двадесет точка тринадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Орта пара“, с площ 16001 кв.м. (шестнадесет хиляди и един квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 220013 (двеста и двадесет хиляди и тринадесет), при съседи: 15151.219.313, 15151.220.4, 15151.220.12 и 15151.220.48. ПЪРВОНАЧАЛНА ЦЕНА: 13 520.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93637/466002/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 13520,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 13520
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93636",
-    "url": "https://sales.bcpea.org/properties/93636",
-    "photo": "https://sales.bcpea.org/upload/93636/465998/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 18080,
-    "sqm": 82,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:56:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "13). Поземлен имот с идентификатор 15151.141.17 (едно пет едно пет едно точка сто четиридесет и едно точка седемнадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Пара сърт“, с площ 20082 кв.м. (двадесет хиляди осемдесет и два квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 141017 (сто четиридесет и една хиляди и седемнадесет), при съседи: 15151.141.11, 15151.141.13, 15151.141.16, 15151.141.33, 15151.141.34 и 15151.141.35. ПЪРВОНАЧАЛНА ЦЕНА: 18 080.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93636/465998/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 220,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 18080
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93635",
-    "url": "https://sales.bcpea.org/properties/93635",
-    "photo": "https://sales.bcpea.org/upload/93635/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 2848,
-    "sqm": 573,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:52:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "12). Поземлен имот с идентификатор 15151.194.12 (едно пет едно пет едно точка сто деветдесет и четири точка дванадесет), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Баладжилък“, с площ 3573 кв.м. (три хиляди петстотин седемдесет и три квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), без предишен идентификатор, по предходен план: номер 194012 (сто деветдесет и четири хиляди и дванадесет), при съседи: 15151.194.9, 15151.194.11, 15151.194.13 и 15151.194.16. ПЪРВОНАЧАЛНА ЦЕНА: 2 848.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93635/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 2848
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93634",
-    "url": "https://sales.bcpea.org/properties/93634",
-    "photo": "https://sales.bcpea.org/upload/93634/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 712,
-    "sqm": 69,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:52:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "11). Поземлен имот с идентификатор 15151.13.3 3 (едно пет едно пет едно точка тринадесет точка тридесет и три), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Китка“, с площ 1069 кв.м. (хиляда шестдесет и девет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: лозе, категория на земята при неполивни условия: 3 (трета), номер по предходен план: 013033 (нула едно три нула три три), при съседи: 15151.12.412, 15151.13.32, 15151.13.34 и 15151.13.387. ПЪРВОНАЧАЛНА ЦЕНА: 712.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93634/465994/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 10,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 712
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93633",
-    "url": "https://sales.bcpea.org/properties/93633",
-    "photo": "https://sales.bcpea.org/upload/93633/465990/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 3485,
-    "sqm": 635,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:50:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "10). Поземлен имот с идентификатор 15151.55.37 (едно пет едно пет едно точка петдесет и пет точка тридесет и седем), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Асарлък“, с площ 4635 кв.м . (четири хиляди шестстотин тридесет и пет квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 055037 (нула пет пет нула три седем), при съседи: 15151.55.27, 15151.55.30, 15151.55.36 и 15151.55.38. ПЪРВОНАЧАЛНА ЦЕНА: 3 485.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93633/465990/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 5,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 3485
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93632",
-    "url": "https://sales.bcpea.org/properties/93632",
-    "photo": "https://sales.bcpea.org/upload/93632/465987/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg?w=270&h=270",
-    "price_eur": 2120,
-    "sqm": 994,
-    "area": "Глоджево",
-    "title": "Земеделска земя, Глоджево",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T14:48:00+00:00",
-    "category": "land",
-    "_settlement": "Глоджево",
-    "lat": 43.73436,
-    "lng": 26.38961,
-    "description": "9). Поземлен имот с идентификатор 15151.130.31 (едно пет едно пет едно точка сто и тридесет точка тридесет и едно), по кадастралната карта и кадастралните регистри на гр. Глоджево, общ. Ветово, обл. Русе, одобрени със Заповед № РД-18-679/25.09.2019 г. на Изпълнителния директор на АГКК, с адрес на поземления имот: гр. Глоджево, местност „Кюлпере“, с площ 2994 кв.м. ( две хиляди деветстотин деветдесет и четири квадратни метра), трайно предназначение на територията: земеделска, начин на трайно ползване: нива , категория на земята при неполивни условия: 3 (трета), номер по предходен план: 130031 (едно три нула нула три едно), при съседи: 15151.130.8, 15151.130.30, 15151.130.38, 15151.130.39 и 15151.130.461. ПЪРВОНАЧАЛНА ЦЕНА: 2 120.00 €",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93632/465987/2792018lozevsdolnoablanovomestnostlozyata240F213593199MSzf0NZ93tRggOLciGtv47zscb97erpr.jpg"
-    ],
-    "price_per_sqm": 2,
-    "price_history": [
-      {
-        "date": "2026-10-27T15:02:03.363784+00:00",
-        "price_eur": 2120
       }
     ],
     "price_drop_count": 0,
@@ -110974,7 +110974,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111006,7 +111006,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -111043,7 +111043,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 3.2,
     "score": 0
@@ -112691,7 +112691,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -79.3,
     "score": 0
@@ -112733,7 +112733,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": -87.9,
     "score": 0
@@ -112785,7 +112785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1944,
     "pct_vs_area_avg": 1046.6,
     "score": 0
@@ -112816,7 +112816,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
