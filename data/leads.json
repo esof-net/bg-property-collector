@@ -728,7 +728,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": 15.0,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2938,
@@ -5724,7 +5724,7 @@
     ],
     "price_drop_count": 2,
     "drop_pct": 8.7,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2454,
@@ -7493,7 +7493,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": -77.3,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3221,
@@ -15681,7 +15681,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2386,
@@ -42356,7 +42356,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1529,
@@ -43618,6 +43618,39 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1186,
     "pct_vs_area_avg": 5.2,
+    "score": 18
+  },
+  {
+    "id": "6225470",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/manastirski-livadi-iztok/dvustaen/6225470/?sid=icNBCK&page=28",
+    "photo": "https://www.imoti.net/web/files/obiavi/6225470/main_image/thumb_280x210_screenshot-1.jpg?ver=1793329483",
+    "price_eur": 119497,
+    "sqm": 55,
+    "area": "East Manastirski livadi",
+    "city": "София",
+    "title": "1 bedroom apartment, 55 м 2 Sofia, East Manastirski livadi",
+    "portal": "imoti.net",
+    "category": "flat",
+    "category_confidence": "high",
+    "detail_checked": true,
+    "price_per_sqm": 2173,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 118085
+      },
+      {
+        "date": "2026-10-27T03:15:18.820232+00:00",
+        "price_eur": 119497
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": -1.2,
+    "days_on_market": 70,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2938,
+    "pct_vs_area_avg": -26.0,
     "score": 18
   },
   {
@@ -54191,39 +54224,6 @@
     "score": 17
   },
   {
-    "id": "6225470",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/manastirski-livadi-iztok/dvustaen/6225470/?sid=icNBCK&page=28",
-    "photo": "https://www.imoti.net/web/files/obiavi/6225470/main_image/thumb_280x210_screenshot-1.jpg?ver=1793329483",
-    "price_eur": 119497,
-    "sqm": 55,
-    "area": "East Manastirski livadi",
-    "city": "София",
-    "title": "1 bedroom apartment, 55 м 2 Sofia, East Manastirski livadi",
-    "portal": "imoti.net",
-    "category": "flat",
-    "category_confidence": "high",
-    "detail_checked": true,
-    "price_per_sqm": 2173,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 118085
-      },
-      {
-        "date": "2026-10-27T03:15:18.820232+00:00",
-        "price_eur": 119497
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": -1.2,
-    "days_on_market": 69,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2938,
-    "pct_vs_area_avg": -26.0,
-    "score": 17
-  },
-  {
     "id": "6079532",
     "url": "https://www.imoti.net/en/obiava/prodava--v-stroej/stara-zagora/kv-kazanski/tristaen/6079532/?sid=fNEg3e&page=13",
     "photo": "https://www.imoti.net/web/files/obiavi/6079532/main_image/thumb_280x210_zasnemane.png?ver=1793329833",
@@ -58636,6 +58636,35 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1330,
     "pct_vs_area_avg": -25.6,
+    "score": 17
+  },
+  {
+    "id": "5892947",
+    "url": "https://www.imoti.net/en/obiava/prodava/sofia/sofija-studentski-grad/garaj/5892947/?sid=icNBCK&page=9",
+    "photo": null,
+    "price_eur": 40000,
+    "sqm": 20,
+    "area": "Studentski Grad",
+    "city": "София",
+    "title": "Garage, 20 м 2 Sofia, Studentski Grad",
+    "portal": "imoti.net",
+    "category": "garage",
+    "category_confidence": "low",
+    "detail_checked": true,
+    "price_per_sqm": 2000,
+    "price_history": [
+      {
+        "date": "2026-08-22T17:24:11.505633+00:00",
+        "price_eur": 40000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 70,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2613,
+    "pct_vs_area_avg": -23.5,
     "score": 17
   },
   {
@@ -74364,35 +74393,6 @@
     "removed_at": "2026-10-16T08:04:39.984837+00:00",
     "area_avg_price_per_sqm": 3841,
     "pct_vs_area_avg": -34.9,
-    "score": 16
-  },
-  {
-    "id": "5892947",
-    "url": "https://www.imoti.net/en/obiava/prodava/sofia/sofija-studentski-grad/garaj/5892947/?sid=icNBCK&page=9",
-    "photo": null,
-    "price_eur": 40000,
-    "sqm": 20,
-    "area": "Studentski Grad",
-    "city": "София",
-    "title": "Garage, 20 м 2 Sofia, Studentski Grad",
-    "portal": "imoti.net",
-    "category": "garage",
-    "category_confidence": "low",
-    "detail_checked": true,
-    "price_per_sqm": 2000,
-    "price_history": [
-      {
-        "date": "2026-08-22T17:24:11.505633+00:00",
-        "price_eur": 40000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 69,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2613,
-    "pct_vs_area_avg": -23.5,
     "score": 16
   },
   {
@@ -214836,7 +214836,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2517,
@@ -226826,7 +226826,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 69,
+    "days_on_market": 70,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1005,
