@@ -76327,7 +76327,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82175,7 +82175,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84036,7 +84036,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 258,
     "pct_vs_area_avg": -74.0,
     "score": 3
@@ -85542,7 +85542,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85580,7 +85580,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85632,7 +85632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": 42.4,
     "score": 3
@@ -107139,7 +107139,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109306,6 +109306,41 @@
     "score": 1
   },
   {
+    "id": "bcpea_93665",
+    "url": "https://sales.bcpea.org/properties/93665",
+    "photo": "https://sales.bcpea.org/upload/93665/466093/IMG_20260618_110433.jpg?w=270&h=270",
+    "price_eur": 6504,
+    "sqm": 745,
+    "area": "Загорци",
+    "title": "Парцел, Загорци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-28T08:52:00+00:00",
+    "category": "land",
+    "_settlement": "Загорци",
+    "lat": 42.3960001,
+    "lng": 27.06038,
+    "description": "1/2 ид.ч. /една втора идеална част/ от ПОЗЕМЛЕН ИМОТ с планоснимачен № 176 /сто седемдесет и шест/ целият с площ от 745 кв.м. /седемстотин четиридесет и пет кв.м./ в квартал № 54 /петдесет и четири/ по ПУП на с. Загорци, общ. Нова Загора, за който поземлен имот е отреден УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ /УПИ/ № VII -176 /седем римско за сто седемдесет и шест/ целият с площ от 820 кв.м. /осемстотин и двадесет кв.м./, с неуредени регулационни сметки за 75 кв.м. /седемдесет и пет кв.м./, отреден за жилищни нужди в квартал № 54 /петдесет и четири/ по подробния устройствен план на с. Загорци, общ. Нова Загора, представляващ ДВОРНО МЯСТО в чертите на населеното място, ВЕДНО с 1/2 /една втора/ идеална част от находящите се в това дворно място: СЕЛСКОСТОПАНСКИ ОБЕКТ целият с площ от 6.50 кв.м. /шест цяло и петдесет стотни кв.м./, ЖИЛИЩЕ цялото с площ от 108.00 кв.м. /сто и осем кв.м./ и НАВЕС С ОГРАДНИ СТЕНИ целият с площ от 66.60 кв.м. /шестдесет и шест цяло и шестдесет стотни кв.м./, при граници на дворното място: изток – УПИ № VI -176, запад – улица, север – УПИ № VIII-176, юг – улица.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93665/466093/IMG_20260618_110433.jpg"
+    ],
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-10-28T09:07:10.617533+00:00",
+        "price_eur": 6504
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_92340",
     "url": "https://sales.bcpea.org/properties/92340",
     "photo": "https://sales.bcpea.org/upload/92340/460395/viber_изображение_2024-08-12_18-02-02-577.jpg?w=270&h=270",
@@ -109690,41 +109725,6 @@
     "days_on_market": 3,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": 9.7,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93665",
-    "url": "https://sales.bcpea.org/properties/93665",
-    "photo": "https://sales.bcpea.org/upload/93665/466093/IMG_20260618_110433.jpg?w=270&h=270",
-    "price_eur": 6504,
-    "sqm": 745,
-    "area": "Загорци",
-    "title": "Парцел, Загорци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-28T08:52:00+00:00",
-    "category": "land",
-    "_settlement": "Загорци",
-    "lat": 42.3960001,
-    "lng": 27.06038,
-    "description": "1/2 ид.ч. /една втора идеална част/ от ПОЗЕМЛЕН ИМОТ с планоснимачен № 176 /сто седемдесет и шест/ целият с площ от 745 кв.м. /седемстотин четиридесет и пет кв.м./ в квартал № 54 /петдесет и четири/ по ПУП на с. Загорци, общ. Нова Загора, за който поземлен имот е отреден УРЕГУЛИРАН ПОЗЕМЛЕН ИМОТ /УПИ/ № VII -176 /седем римско за сто седемдесет и шест/ целият с площ от 820 кв.м. /осемстотин и двадесет кв.м./, с неуредени регулационни сметки за 75 кв.м. /седемдесет и пет кв.м./, отреден за жилищни нужди в квартал № 54 /петдесет и четири/ по подробния устройствен план на с. Загорци, общ. Нова Загора, представляващ ДВОРНО МЯСТО в чертите на населеното място, ВЕДНО с 1/2 /една втора/ идеална част от находящите се в това дворно място: СЕЛСКОСТОПАНСКИ ОБЕКТ целият с площ от 6.50 кв.м. /шест цяло и петдесет стотни кв.м./, ЖИЛИЩЕ цялото с площ от 108.00 кв.м. /сто и осем кв.м./ и НАВЕС С ОГРАДНИ СТЕНИ целият с площ от 66.60 кв.м. /шестдесет и шест цяло и шестдесет стотни кв.м./, при граници на дворното място: изток – УПИ № VI -176, запад – улица, север – УПИ № VIII-176, юг – улица.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93665/466093/IMG_20260618_110433.jpg"
-    ],
-    "price_per_sqm": 9,
-    "price_history": [
-      {
-        "date": "2026-10-28T09:07:10.617533+00:00",
-        "price_eur": 6504
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 0
   },
   {
