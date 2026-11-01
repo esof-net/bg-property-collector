@@ -2592,7 +2592,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
@@ -2977,6 +2977,42 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1455,
     "pct_vs_area_avg": -40.9,
+    "score": 18
+  },
+  {
+    "id": "imotibg_516154",
+    "url": "https://imoti.bg/продажби/къща/хасково-област/свърбица-516154.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6adc6fb4de91c_6adc709c46111.png",
+    "price_eur": 45000,
+    "sqm": 90,
+    "area": "с.Върбица",
+    "city": "Хасково област",
+    "title": "Къща, с.Върбица",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": null,
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 500,
+    "price_history": [
+      {
+        "date": "2026-10-24T15:02:35.901827+00:00",
+        "price_eur": 50000
+      },
+      {
+        "date": "2026-10-25T20:56:52.387835+00:00",
+        "price_eur": 45000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 10.0,
+    "days_on_market": 8,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 500,
+    "pct_vs_area_avg": 0.0,
     "score": 18
   },
   {
@@ -3433,42 +3469,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 89,
     "pct_vs_area_avg": -49.2,
-    "score": 17
-  },
-  {
-    "id": "imotibg_516154",
-    "url": "https://imoti.bg/продажби/къща/хасково-област/свърбица-516154.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6adc6fb4de91c_6adc709c46111.png",
-    "price_eur": 45000,
-    "sqm": 90,
-    "area": "с.Върбица",
-    "city": "Хасково област",
-    "title": "Къща, с.Върбица",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": null,
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 500,
-    "price_history": [
-      {
-        "date": "2026-10-24T15:02:35.901827+00:00",
-        "price_eur": 50000
-      },
-      {
-        "date": "2026-10-25T20:56:52.387835+00:00",
-        "price_eur": 45000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 10.0,
-    "days_on_market": 7,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 500,
-    "pct_vs_area_avg": 0.0,
     "score": 17
   },
   {
@@ -4473,6 +4473,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2914,
     "pct_vs_area_avg": -20.9,
+    "score": 14
+  },
+  {
+    "id": "imotibg_515415",
+    "url": "https://imoti.bg/продажби/гараж/русе/център-515415.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 25000,
+    "sqm": 20,
+    "area": "Център",
+    "city": "Русе",
+    "title": "Гараж, Център",
+    "portal": "imoti.bg",
+    "lat": 43.8487041,
+    "lng": 25.9534573,
+    "description": null,
+    "site_posted_at": null,
+    "category": "garage",
+    "category_confidence": "high",
+    "price_per_sqm": 1250,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 25000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 48,
+    "source_status": "removed",
+    "removed_at": "2026-10-12T16:34:56.302928+00:00",
+    "area_avg_price_per_sqm": 1625,
+    "pct_vs_area_avg": -23.1,
     "score": 14
   },
   {
@@ -25712,38 +25744,6 @@
     "score": 5
   },
   {
-    "id": "imotibg_515415",
-    "url": "https://imoti.bg/продажби/гараж/русе/център-515415.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
-    "price_eur": 25000,
-    "sqm": 20,
-    "area": "Център",
-    "city": "Русе",
-    "title": "Гараж, Център",
-    "portal": "imoti.bg",
-    "lat": 43.8487041,
-    "lng": 25.9534573,
-    "description": null,
-    "site_posted_at": null,
-    "category": "garage",
-    "category_confidence": "high",
-    "price_per_sqm": 1250,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 25000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 48,
-    "source_status": "removed",
-    "removed_at": "2026-10-12T16:34:56.302928+00:00",
-    "area_avg_price_per_sqm": 1250,
-    "pct_vs_area_avg": 0.0,
-    "score": 5
-  },
-  {
     "id": "imotibg_515899",
     "url": "https://imoti.bg/продажби/едностаен-апартамент/видин/химик-515899.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6aabc2f10e3b7_6aabc38ddad13.jpg",
@@ -26952,7 +26952,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 40,
@@ -28876,7 +28876,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 122,
@@ -29468,11 +29468,43 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 651,
     "pct_vs_area_avg": -7.8,
+    "score": 4
+  },
+  {
+    "id": "imotibg_516169",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/смирненски-516169.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae0720a326ab_6ae0728533c0a.jpg",
+    "price_eur": 69990,
+    "sqm": 44,
+    "area": "Смирненски",
+    "city": "Пловдив",
+    "title": "Двустаен апартамент, Смирненски",
+    "portal": "imoti.bg",
+    "lat": 42.1316822,
+    "lng": 24.7076363,
+    "description": "Продавам  д в у с т а е н  апартамент \r\n в гр.П л о в д и в   кв.С м и р н е н с к и  \r\nв близост до Математическата  гимназия и   к о м п л е к с",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1591,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 69990
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 5,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1732,
+    "pct_vs_area_avg": -8.1,
     "score": 4
   },
   {
@@ -30492,7 +30524,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 26,
+    "days_on_market": 27,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2200,
@@ -30844,7 +30876,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 807,
@@ -30876,7 +30908,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -30908,7 +30940,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1267,
@@ -30940,11 +30972,43 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3384,
     "pct_vs_area_avg": 62.5,
+    "score": 3
+  },
+  {
+    "id": "imotibg_516057",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/капана-516057.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ac8d573c72e4_6ac8d94ba3b6c.jpg",
+    "price_eur": 205000,
+    "sqm": 120,
+    "area": "Капана",
+    "city": "Пловдив",
+    "title": "Четиристаен апартамент, Капана",
+    "portal": "imoti.bg",
+    "lat": 42.1492729,
+    "lng": 24.7489093,
+    "description": "Продаваме ч е т и р и с т а е н  монолитен апартамент в центъра на гр.Пловдив срещу СЪДЕБНАТА ПАЛАТА на втори етаж,има и изба с тоалетна .Кооперацията разполага с асансьор.\r\nЖилището се състои от две б о к с о н и е р и  и един  д в у с т а е н апартамент ,като всеки от тях има собствен санитарен възел и кухненски бокс.120 кв.м - 205000€\r\nтел.0886062313  и  тел. 0882528097",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1708,
+    "price_history": [
+      {
+        "date": "2026-10-09T15:11:21.378228+00:00",
+        "price_eur": 205000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 23,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1708,
+    "pct_vs_area_avg": 0.0,
     "score": 3
   },
   {
@@ -31041,38 +31105,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1156,
     "pct_vs_area_avg": -4.8,
-    "score": 3
-  },
-  {
-    "id": "imotibg_516169",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/смирненски-516169.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ae0720a326ab_6ae0728533c0a.jpg",
-    "price_eur": 69990,
-    "sqm": 44,
-    "area": "Смирненски",
-    "city": "Пловдив",
-    "title": "Двустаен апартамент, Смирненски",
-    "portal": "imoti.bg",
-    "lat": 42.1316822,
-    "lng": 24.7076363,
-    "description": "Продавам  д в у с т а е н  апартамент \r\n в гр.П л о в д и в   кв.С м и р н е н с к и  \r\nв близост до Математическата  гимназия и   к о м п л е к с",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1591,
-    "price_history": [
-      {
-        "date": "2026-10-27T14:59:42.711546+00:00",
-        "price_eur": 69990
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 4,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1732,
-    "pct_vs_area_avg": -8.1,
     "score": 3
   },
   {
@@ -31969,38 +32001,6 @@
     "removed_at": "2026-10-24T08:51:58.611662+00:00",
     "area_avg_price_per_sqm": 2389,
     "pct_vs_area_avg": 2.1,
-    "score": 2
-  },
-  {
-    "id": "imotibg_516057",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/капана-516057.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ac8d573c72e4_6ac8d94ba3b6c.jpg",
-    "price_eur": 205000,
-    "sqm": 120,
-    "area": "Капана",
-    "city": "Пловдив",
-    "title": "Четиристаен апартамент, Капана",
-    "portal": "imoti.bg",
-    "lat": 42.1492729,
-    "lng": 24.7489093,
-    "description": "Продаваме ч е т и р и с т а е н  монолитен апартамент в центъра на гр.Пловдив срещу СЪДЕБНАТА ПАЛАТА на втори етаж,има и изба с тоалетна .Кооперацията разполага с асансьор.\r\nЖилището се състои от две б о к с о н и е р и  и един  д в у с т а е н апартамент ,като всеки от тях има собствен санитарен възел и кухненски бокс.120 кв.м - 205000€\r\nтел.0886062313  и  тел. 0882528097",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1708,
-    "price_history": [
-      {
-        "date": "2026-10-09T15:11:21.378228+00:00",
-        "price_eur": 205000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 22,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1708,
-    "pct_vs_area_avg": 0.0,
     "score": 2
   },
   {
@@ -33276,7 +33276,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1626,
@@ -34172,7 +34172,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2558,
@@ -34236,7 +34236,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2182,
@@ -34337,6 +34337,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1626,
     "pct_vs_area_avg": 25.5,
+    "score": 1
+  },
+  {
+    "id": "imotibg_516170",
+    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-516170.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae082ab6e71d_6ae082d535651.jpg",
+    "price_eur": 66000,
+    "sqm": 500,
+    "area": "с.Цигов чарк",
+    "city": "Пазарджик област",
+    "title": "Парцел, с.Цигов чарк",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Оферта 84239 Парцел в регулация на брега на язовира с готово Вик и прекаран водопровод изградена септична яма направен фондамент и проект за къща с разрешение за строеж и целия имот е ограден с нова красива ограда намира се срещу ски влек Цигов чарк на топ локация с ограничен достъп и уникална панорама за повече информация и огледи на посочения телефон - 0897010001 - Костадинов Имоти",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 132,
+    "price_history": [
+      {
+        "date": "2026-10-27T14:59:42.711546+00:00",
+        "price_eur": 66000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 5,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 96,
+    "pct_vs_area_avg": 36.8,
     "score": 1
   },
   {
@@ -35233,38 +35265,6 @@
     "score": 0
   },
   {
-    "id": "imotibg_516170",
-    "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-516170.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ae082ab6e71d_6ae082d535651.jpg",
-    "price_eur": 66000,
-    "sqm": 500,
-    "area": "с.Цигов чарк",
-    "city": "Пазарджик област",
-    "title": "Парцел, с.Цигов чарк",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Оферта 84239 Парцел в регулация на брега на язовира с готово Вик и прекаран водопровод изградена септична яма направен фондамент и проект за къща с разрешение за строеж и целия имот е ограден с нова красива ограда намира се срещу ски влек Цигов чарк на топ локация с ограничен достъп и уникална панорама за повече информация и огледи на посочения телефон - 0897010001 - Костадинов Имоти",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 132,
-    "price_history": [
-      {
-        "date": "2026-10-27T14:59:42.711546+00:00",
-        "price_eur": 66000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 4,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 96,
-    "pct_vs_area_avg": 36.8,
-    "score": 0
-  },
-  {
     "id": "imotibg_516176",
     "url": "https://imoti.bg/продажби/къща/велико-търново-област/грсвищов-516176.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ae0db729b8ca_6ae0dc07e6da6.jpg",
@@ -35308,7 +35308,7 @@
     "portal": "imoti.bg",
     "lat": null,
     "lng": null,
-    "description": "Тристаен апартамент с две спални, голяма дневна и кухня. Две тераси, отделно баня и отделно тоалетна. Има отделно и изба. Обща квадратура на всичко 105 кв.м.\r\nЖилището е на 2 етаж в малка бутикова кооперация на 5 етажа. Намира се на 5 мин пеша от центъра, срещу болница „Здраве“ в Пазарджик , на ул. „Цар освободител“. \r\nПродава се обзаведен, готов за новите си собственици с всичко необходимо, може и за инвестиция с цел отдаване под наем. Входната врата е блиндирана от най - висок клас, мебелите са закупени от Италия. С монтирани климатици. \r\nОтоплението е на ток, сградата е тухлена. \r\nЗа контакт:\r\nТелефон +359895294083\r\nEmail : mariakaloferova@abv.bg",
+    "description": "Тристаен апартамент с две спални, голяма дневна и кухня. Две тераси, отделно баня и отделно тоалетна. Има отделно и изба. Обща квадратура на всичко 105 кв.м.\r\nЖилището е на 2 етаж в малка бутикова кооперация на 3 етажа, плюс мансарден. Намира се на 5 мин пеша от центъра, срещу болница „Здраве“ в Пазарджик , на ул. „Цар освободител“. \r\nПродава се обзаведен, готов за новите си собственици с всичко необходимо, може и за инвестиция с цел отдаване под наем. Входната врата е блиндирана от най - висок клас, мебелите са закупени от Италия. С монтирани климатици. \r\nОтоплението е на ток, сградата е тухлена. \r\nЗа контакт:\r\nТелефон +359895294083\r\nEmail : mariakaloferova@abv.bg",
     "site_posted_at": null,
     "category": "flat",
     "category_confidence": "high",
@@ -35518,6 +35518,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1624,
     "pct_vs_area_avg": 15.1,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516201",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/русе/център-516201.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae6fd251e21d_6ae6fd3905067.jpg",
+    "price_eur": 300000,
+    "sqm": 150,
+    "area": "Център",
+    "city": "Русе",
+    "title": "Тристаен апартамент, Център",
+    "portal": "imoti.bg",
+    "lat": 43.8487041,
+    "lng": 25.9534573,
+    "description": "Екслизивен трофеен имот в идеален център Русе, ул Оборище 9.\r\nПродава се безкомпромисен архитектурен и дизайнерски шедьовър в най-престижната част на Русе, ул Оборище 9. Имотът е изграден от дебели тухлени стени по най-високият инженерен стандарт за качество. Перфектна инвестиция на капитал в реален вечен актив. Имотният комплекс включва три обекта по нотариален акт. \r\n1. Луксозен тристаен апартамент 106.48 кв. м, плюс допълнителен бонус 2 броя големи завършени тераси плюс предверие, близо 14 кв. м., които не влизат в чистите документи, но наживо струват луди пари.\r\n2. Самостоятелно таванско студио 26.35 кв. м. с вода, душкабина, трифазен ток, водомер за отчитане при отдаване под наем, реален стенен прозрец, не капандур, готов за студио с нов ламинат.\r\n3. Голяма суха маза, 17.54 кв. м., в долната част на сградата, подходяща за склад, като дългата страна е с метален стилаж, плю два броя големи цистерни за нафта.\r\nОбщата чиста собственост по документи е 150.47 кв. м. \r\nИмотът е дизайнерски шедьовър. Цена по оценка за висш клас завършеност и не е живяно в имота 2000 евро/кв. За площ от 150.37 кв. м. = 300 740 евро. \r\nЦената е 300000 евро твърда цена, без комисионни и брокери.\r\nЦената е пакетна, така че тази цена е брутално нормална за абсолютна имотна империя, даже подарък за лукса, който получавате.\r\nСделката се изповядва директно чрез нотариус, с гарантирано задържане на нотариалният акт, до пълно банково потвърждение на плащането. За контакти на четири очи телефон +4915118170357",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2000,
+    "price_history": [
+      {
+        "date": "2026-11-01T14:51:38.050901+00:00",
+        "price_eur": 300000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1625,
+    "pct_vs_area_avg": 23.1,
     "score": 0
   }
 ]
