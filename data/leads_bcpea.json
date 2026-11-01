@@ -2182,7 +2182,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 26,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": 1244,
     "pct_vs_area_avg": -53.3,
     "score": 18
@@ -3632,7 +3632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 11,
+    "days_on_market": 12,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -51.9,
     "score": 16
@@ -4564,7 +4564,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -34.3,
     "score": 15
@@ -4693,7 +4693,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 1427,
     "pct_vs_area_avg": -47.4,
     "score": 15
@@ -4856,7 +4856,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -41.3,
     "score": 15
@@ -5166,7 +5166,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -31.6,
     "score": 14
@@ -5954,6 +5954,46 @@
     "score": 12
   },
   {
+    "id": "bcpea_93667",
+    "url": "https://sales.bcpea.org/properties/93667",
+    "photo": "https://sales.bcpea.org/upload/93667/466120/DSC02744.JPG?w=270&h=270",
+    "price_eur": 152110,
+    "sqm": 102,
+    "area": "Пловдив",
+    "title": "Многостаен апартамент, Пловдив",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-28T09:23:00+00:00",
+    "category": "apartment",
+    "_settlement": "Пловдив",
+    "lat": 42.1420007,
+    "lng": 24.744788,
+    "description": "Самостоятелен обект в сграда с идентификатор № 56784.518.1209.1.2 /пет шест седем осем четири точка пет едно осем точка едно две нула девет точка едно точка две/ по кадастралната карта и кадастралните регистри на гр. Пловдив, общ. Пловдив, обл. Пловдив, одобрени със Заповед РД-18-48/03.06.2009 г. на Изпълнителния директор на АГКК, последно изменение на КК и КР, засягащо самостоятелния обект от 27.09.2021 г., находящ се в гр. Пловдив, район „Централен“, ул. „Ген. Данаил Николаев“ № 52 /петдесет и две/, ет. 2 /втори/, ап. 2 /две/, който самостоятелен обект се намира на етаж 2 в многофамилна жилищна сграда с идентификатор № 56784.518.1209.1, разположена в поземлен имот с идентификатор № 56784.518.1209, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1 /едно/, с площ от 102 кв.м. /сто и два кв.м./, състоящ се от две стаи, хол, дневна, кухня, баня, тоалетна, коридор и две тераси, ведно с прилежащо избено помещение № 6 с площ от 11.03 кв.м., ведно с прилежащите 9.58% ид. части от общи части на сградата, ведно с 1.48% ид.ч. от правото на строеж върху дворното място, при съседни самостоятелни обекти в сградата: на същия етаж: СОС с идентификатор № 56784.518.1209.1.1, под обекта: няма, над обекта: СОС с идентификатор № 56784.518.1209.1.4 В полза на лицето Денка Василева Трифонова, има пожизнено и безвъзмездно право на ползване върху процесния недвижим имот съгласно Нотариален акт за дарение на недвижим имот между родители и деца № 45, том 42, дело № 11204 от 15.09.1993 г. на Нотариус при Пловдивски районен съд, вписан в Служба по вписванията – Пловдив с вх. рег. № 11215.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93667/466120/DSC02744.JPG",
+      "https://sales.bcpea.org/upload/93667/466121/DSC02745.JPG",
+      "https://sales.bcpea.org/upload/93667/466122/DSC02747.JPG",
+      "https://sales.bcpea.org/upload/93667/466123/DSC02748.JPG",
+      "https://sales.bcpea.org/upload/93667/466124/DSC02749.JPG",
+      "https://sales.bcpea.org/upload/93667/466125/DSC02753.JPG"
+    ],
+    "price_per_sqm": 1491,
+    "price_history": [
+      {
+        "date": "2026-10-28T09:07:10.617533+00:00",
+        "price_eur": 152110
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 2119,
+    "pct_vs_area_avg": -29.6,
+    "score": 12
+  },
+  {
     "id": "bcpea_92233",
     "url": "https://sales.bcpea.org/properties/92233",
     "photo": "https://sales.bcpea.org/upload/92233/459492/IMG_4298.jpeg?w=270&h=270",
@@ -6205,46 +6245,6 @@
     "days_on_market": 15,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -25.1,
-    "score": 11
-  },
-  {
-    "id": "bcpea_93667",
-    "url": "https://sales.bcpea.org/properties/93667",
-    "photo": "https://sales.bcpea.org/upload/93667/466120/DSC02744.JPG?w=270&h=270",
-    "price_eur": 152110,
-    "sqm": 102,
-    "area": "Пловдив",
-    "title": "Многостаен апартамент, Пловдив",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-28T09:23:00+00:00",
-    "category": "apartment",
-    "_settlement": "Пловдив",
-    "lat": 42.1420007,
-    "lng": 24.744788,
-    "description": "Самостоятелен обект в сграда с идентификатор № 56784.518.1209.1.2 /пет шест седем осем четири точка пет едно осем точка едно две нула девет точка едно точка две/ по кадастралната карта и кадастралните регистри на гр. Пловдив, общ. Пловдив, обл. Пловдив, одобрени със Заповед РД-18-48/03.06.2009 г. на Изпълнителния директор на АГКК, последно изменение на КК и КР, засягащо самостоятелния обект от 27.09.2021 г., находящ се в гр. Пловдив, район „Централен“, ул. „Ген. Данаил Николаев“ № 52 /петдесет и две/, ет. 2 /втори/, ап. 2 /две/, който самостоятелен обект се намира на етаж 2 в многофамилна жилищна сграда с идентификатор № 56784.518.1209.1, разположена в поземлен имот с идентификатор № 56784.518.1209, с предназначение на самостоятелния обект: жилище, апартамент – в жилищна или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1 /едно/, с площ от 102 кв.м. /сто и два кв.м./, състоящ се от две стаи, хол, дневна, кухня, баня, тоалетна, коридор и две тераси, ведно с прилежащо избено помещение № 6 с площ от 11.03 кв.м., ведно с прилежащите 9.58% ид. части от общи части на сградата, ведно с 1.48% ид.ч. от правото на строеж върху дворното място, при съседни самостоятелни обекти в сградата: на същия етаж: СОС с идентификатор № 56784.518.1209.1.1, под обекта: няма, над обекта: СОС с идентификатор № 56784.518.1209.1.4 В полза на лицето Денка Василева Трифонова, има пожизнено и безвъзмездно право на ползване върху процесния недвижим имот съгласно Нотариален акт за дарение на недвижим имот между родители и деца № 45, том 42, дело № 11204 от 15.09.1993 г. на Нотариус при Пловдивски районен съд, вписан в Служба по вписванията – Пловдив с вх. рег. № 11215.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93667/466120/DSC02744.JPG",
-      "https://sales.bcpea.org/upload/93667/466121/DSC02745.JPG",
-      "https://sales.bcpea.org/upload/93667/466122/DSC02747.JPG",
-      "https://sales.bcpea.org/upload/93667/466123/DSC02748.JPG",
-      "https://sales.bcpea.org/upload/93667/466124/DSC02749.JPG",
-      "https://sales.bcpea.org/upload/93667/466125/DSC02753.JPG"
-    ],
-    "price_per_sqm": 1491,
-    "price_history": [
-      {
-        "date": "2026-10-28T09:07:10.617533+00:00",
-        "price_eur": 152110
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": 2119,
-    "pct_vs_area_avg": -29.6,
     "score": 11
   },
   {
@@ -28181,7 +28181,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -29864,7 +29864,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 46,
+    "days_on_market": 47,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -42883,7 +42883,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -45873,7 +45873,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -75312,7 +75312,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -69.0,
     "score": 4
@@ -75353,7 +75353,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": 1.8,
     "score": 4
@@ -75384,7 +75384,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -76284,7 +76284,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 6267,
     "pct_vs_area_avg": -99.7,
     "score": 4
@@ -77136,7 +77136,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78517,7 +78517,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78553,7 +78553,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78589,7 +78589,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78624,7 +78624,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78656,7 +78656,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78692,7 +78692,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -78724,7 +78724,383 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92797",
+    "url": "https://sales.bcpea.org/properties/92797",
+    "photo": "https://sales.bcpea.org/upload/92797/430941/IMG_0382.JPG?w=270&h=270",
+    "price_eur": 36504,
+    "sqm": 46,
+    "area": "Равда",
+    "title": "Едностаен апартамент, Равда",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:41:00+00:00",
+    "category": "apartment",
+    "_settlement": "Равда",
+    "lat": 42.6445091,
+    "lng": 27.6783594,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.28 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, двадесет и осем/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.4, ап. 1 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 46.44кв.м. /четиридесет и шест цяло и четиридесет и четири стотни квадратни метра/, прилежащи части: 2.32% /5.11 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: няма , под обекта: 61056.502.490.1.26 , над обекта: няма , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92797/430941/IMG_0382.JPG",
+      "https://sales.bcpea.org/upload/92797/430942/IMG_0383.JPG",
+      "https://sales.bcpea.org/upload/92797/430943/IMG_0373.JPG",
+      "https://sales.bcpea.org/upload/92797/430944/IMG_0377.JPG",
+      "https://sales.bcpea.org/upload/92797/430945/IMG_0380.JPG",
+      "https://c.tile.openstreetmap.org/18/147860/96639.png",
+      "https://a.tile.openstreetmap.org/18/147861/96639.png",
+      "https://b.tile.openstreetmap.org/18/147860/96638.png",
+      "https://c.tile.openstreetmap.org/18/147861/96638.png",
+      "https://a.tile.openstreetmap.org/18/147860/96640.png",
+      "https://b.tile.openstreetmap.org/18/147861/96640.png",
+      "https://b.tile.openstreetmap.org/18/147859/96639.png",
+      "https://b.tile.openstreetmap.org/18/147862/96639.png",
+      "https://a.tile.openstreetmap.org/18/147859/96638.png",
+      "https://a.tile.openstreetmap.org/18/147862/96638.png",
+      "https://c.tile.openstreetmap.org/18/147859/96640.png",
+      "https://c.tile.openstreetmap.org/18/147862/96640.png"
+    ],
+    "price_per_sqm": 794,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 36504
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92796",
+    "url": "https://sales.bcpea.org/properties/92796",
+    "photo": "https://sales.bcpea.org/upload/92796/430927/IMG_0359.JPG?w=270&h=270",
+    "price_eur": 79776,
+    "sqm": 95,
+    "area": "Равда",
+    "title": "Тристаен апартамент, Равда",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:40:00+00:00",
+    "category": "apartment",
+    "_settlement": "Равда",
+    "lat": 42.6445091,
+    "lng": 27.6783594,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.27 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, двадесет и седем/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.3, ап. 3 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 94.73кв.м. /деветдесет и четири  цяло и седемдесет и три стотни квадратни метра/, прилежащи части: 4.74 % /10.42 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: няма , под обекта: 61056.502.490.1.24, 61056.502.490.1.23 , над обекта: 61056.502.490.1.29 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92796/430927/IMG_0359.JPG",
+      "https://sales.bcpea.org/upload/92796/430928/IMG_0346.JPG",
+      "https://sales.bcpea.org/upload/92796/430929/IMG_0347.JPG",
+      "https://sales.bcpea.org/upload/92796/430930/IMG_0349.JPG",
+      "https://sales.bcpea.org/upload/92796/430931/IMG_0352.JPG",
+      "https://sales.bcpea.org/upload/92796/430932/IMG_0355.JPG",
+      "https://b.tile.openstreetmap.org/18/148085/96674.png",
+      "https://c.tile.openstreetmap.org/18/148085/96675.png",
+      "https://a.tile.openstreetmap.org/18/148084/96674.png",
+      "https://c.tile.openstreetmap.org/18/148086/96674.png",
+      "https://b.tile.openstreetmap.org/18/148084/96675.png",
+      "https://a.tile.openstreetmap.org/18/148086/96675.png",
+      "https://c.tile.openstreetmap.org/18/148083/96674.png",
+      "https://a.tile.openstreetmap.org/18/148087/96674.png",
+      "https://a.tile.openstreetmap.org/18/148083/96675.png",
+      "https://b.tile.openstreetmap.org/18/148087/96675.png"
+    ],
+    "price_per_sqm": 840,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 79776
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92795",
+    "url": "https://sales.bcpea.org/properties/92795",
+    "photo": "https://sales.bcpea.org/upload/92795/430920/IMG_0332.JPG?w=270&h=270",
+    "price_eur": 42048,
+    "sqm": 47,
+    "area": "Равда",
+    "title": "Двустаен апартамент, Равда",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:31:00+00:00",
+    "category": "apartment",
+    "_settlement": "Равда",
+    "lat": 42.6445091,
+    "lng": 27.6783594,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.17 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, седемнадесет/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.1, ап. 7 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 46.90 кв.м. /четиридесет и шест цяло и деветдесет стотни квадратни метра/, прилежащи части: 2.35 % ид.ч. /5.16 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: 61056.502.490.1.18, 61056.502.490.1.16, под обекта: 61056.502.490.1.9 , над обекта: 61056.502.490.1.24 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92795/430920/IMG_0332.JPG",
+      "https://sales.bcpea.org/upload/92795/430922/IMG_0334.JPG",
+      "https://sales.bcpea.org/upload/92795/430923/IMG_0336.JPG",
+      "https://sales.bcpea.org/upload/92795/430924/IMG_0339.JPG",
+      "https://sales.bcpea.org/upload/92795/430925/IMG_0341.JPG",
+      "https://sales.bcpea.org/upload/92795/430926/IMG_0342.JPG",
+      "https://a.tile.openstreetmap.org/18/148205/96529.png",
+      "https://b.tile.openstreetmap.org/18/148206/96529.png",
+      "https://c.tile.openstreetmap.org/18/148205/96528.png",
+      "https://a.tile.openstreetmap.org/18/148206/96528.png",
+      "https://b.tile.openstreetmap.org/18/148205/96530.png",
+      "https://c.tile.openstreetmap.org/18/148206/96530.png",
+      "https://c.tile.openstreetmap.org/18/148204/96529.png",
+      "https://c.tile.openstreetmap.org/18/148207/96529.png",
+      "https://b.tile.openstreetmap.org/18/148204/96528.png",
+      "https://b.tile.openstreetmap.org/18/148207/96528.png",
+      "https://a.tile.openstreetmap.org/18/148204/96530.png",
+      "https://a.tile.openstreetmap.org/18/148207/96530.png"
+    ],
+    "price_per_sqm": 895,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 42048
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92794",
+    "url": "https://sales.bcpea.org/properties/92794",
+    "photo": "https://sales.bcpea.org/upload/92794/430909/IMG_0310.JPG?w=270&h=270",
+    "price_eur": 69624,
+    "sqm": 97,
+    "area": "Равда",
+    "title": "Тристаен апартамент, Равда",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:29:00+00:00",
+    "category": "apartment",
+    "_settlement": "Равда",
+    "lat": 42.6445091,
+    "lng": 27.6783594,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.11 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, единадесет/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.1, ап. 1 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 97.18кв.м. /деветдесет и седем  цяло и осемнадесет стотни квадратни метра/, прилежащи части: 4.86 % /10.69 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: 61056.502.490.1.12 , под обекта: 61056.502.490.1.4, 61056.502.490.1.3 , над обекта: 61056.502.490.1.19 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92794/430909/IMG_0310.JPG",
+      "https://sales.bcpea.org/upload/92794/430910/IMG_0298.JPG",
+      "https://sales.bcpea.org/upload/92794/430912/IMG_0301.JPG",
+      "https://sales.bcpea.org/upload/92794/430913/IMG_0305.JPG",
+      "https://sales.bcpea.org/upload/92794/430914/IMG_0307.JPG",
+      "https://sales.bcpea.org/upload/92794/430915/IMG_0309.JPG",
+      "https://sales.bcpea.org/upload/92794/430916/IMG_0320.JPG",
+      "https://sales.bcpea.org/upload/92794/430918/IMG_0330.JPG",
+      "https://b.tile.openstreetmap.org/18/148106/96698.png",
+      "https://c.tile.openstreetmap.org/18/148106/96699.png",
+      "https://a.tile.openstreetmap.org/18/148105/96698.png",
+      "https://c.tile.openstreetmap.org/18/148107/96698.png",
+      "https://b.tile.openstreetmap.org/18/148105/96699.png",
+      "https://a.tile.openstreetmap.org/18/148107/96699.png",
+      "https://c.tile.openstreetmap.org/18/148104/96698.png",
+      "https://a.tile.openstreetmap.org/18/148108/96698.png",
+      "https://a.tile.openstreetmap.org/18/148104/96699.png",
+      "https://b.tile.openstreetmap.org/18/148108/96699.png"
+    ],
+    "price_per_sqm": 718,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 69624
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92792",
+    "url": "https://sales.bcpea.org/properties/92792",
+    "photo": "https://sales.bcpea.org/upload/92792/436313/IMG_3156.JPG?w=270&h=270",
+    "price_eur": 167360,
+    "sqm": 489,
+    "area": "Несебър",
+    "title": "Заведение, Несебър",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:27:00+00:00",
+    "category": "commercial",
+    "_settlement": "Несебър",
+    "lat": 42.6607865,
+    "lng": 27.7167464,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 51500.502.447.4.30 /петдесет и една хиляди и петстотин, точка, петстотин и две, точка, четиристотин четиридесет и седем, точка, четири, точка, тридесет/ по кадастрална карта и кадастралните регистри на гр. Несебър, общ Несебър, обл, Бургас, одобрени със Заповед РД-18-46/18.08.2006 г. на Изп. директор на АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 26.10.2011г. , с адрес на имота: гр. Несебър 8230, общ. Несебър, обл. Бургас, ул. „Иван Вазов\" № 9 /девет/, бл. 4 /четири/, ет. 0 /нула/, обект 3 0 /тридесет/ , с предназначение: За обществено хранене , брой нива на обекта: 1 /едно/, площ по документ: 489.00 кв.м. /четиристотин осемдесет и девет/ квадратни метра , ведно със съответния процент идеални части от общите части на сградата и правото на строеж върху поземления имот, при съседни самостоятелни обекти е сградата, на същия етаж: 51500.502.447.4.29 , под обекта: няма , над обекта: 51500.502.447.4.605 , 51500.502.447.4.604 , 51500.502.447.4.603 , 51500.502.447.4.602 , 51500.502.447.4.601 , 51500.502.447.4.8 , 51500.502.447.4.9 , 51500.502.447.4.10 , 51500.502.447.4.11 ,  който имот попада в СГРАДА № 4 с идентификатор 51500.502.447.4 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири / , построена в ПОЗЕМЛЕН ИМОТ идентификатор 51500.502.447 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем/. Забележка: Към момента на извършване на описа е установено, че СОС с идентификатор № 51500.502.447.4.29 и СОС с идентификатор № 51500.502.447.4.30 са функционално обединени и не могат да се използват самостоятелно, тъй като делят общ вход. Няма представени надлежни документи за функционалното им обединение",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92792/436313/IMG_3156.JPG",
+      "https://sales.bcpea.org/upload/92792/436314/IMG_3129.JPG",
+      "https://sales.bcpea.org/upload/92792/436315/IMG_3140.JPG",
+      "https://sales.bcpea.org/upload/92792/436317/IMG_3165.JPG",
+      "https://sales.bcpea.org/upload/92792/436318/IMG_3128.JPG",
+      "https://sales.bcpea.org/upload/92792/436319/IMG_3129.JPG"
+    ],
+    "price_per_sqm": 342,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 167360
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92791",
+    "url": "https://sales.bcpea.org/properties/92791",
+    "photo": "https://sales.bcpea.org/upload/92791/436301/IMG_3179.JPG?w=270&h=270",
+    "price_eur": 88960,
+    "sqm": 260,
+    "area": "Несебър",
+    "title": "Заведение, Несебър",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:26:00+00:00",
+    "category": "commercial",
+    "_settlement": "Несебър",
+    "lat": 42.6607865,
+    "lng": 27.7167464,
+    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 51500.502.447.4.29 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири, точка, двадесети, девет/ по кадастрална карта и кадастралните регистри на гр. Несебър, общ Несебър, обл, Бургас, одобрени със заповед РД-18-46/18.08.2006 г. на Изп. директор на АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 26.10.2011г. , с адрес на имота: гр. Несебър 8230, общ. Несебър, обл. Бургас, ул. „Иван Вазов\" № 9 /девет/, бл.4 /четири/, ет. 0 /нула/, обект 29 /двадесет и девет/ , с предназначение: За спортна и развлекателна дейност , брой нива на обекта: 1 /едно/, площ по документ: 260.00 кв.м. /двеста и шестдесет/ квадратни метра , ведно със съответния процент идеални части от общите части на сградата и правото на строеж върху поземления имот, при съседни самостоятелни обекти е сградата, на същия етаж: 51500.502.447.4.27 , 51500.502.447.4.28 , 51500.502,447.4.30 , под обекта: няма , над обекта: 51500.502.447.4.503 , 51500.502.447.4.502 , 51500 502.447.4.501 , 51500.502.447.4.5 , 51500.502.444.6 и 51500.502.447.4.7 ,  който имот попада в СГРАДА № 4 с идентификатор 51500.502.447.4 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири / , построена в ПОЗЕМЛЕН ИМОТ идентификатор 51500.502.447 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем/. Забележка: Към момента на извършване на описа е установено, че СОС с идентификатор № 51500.502.447.4.29 и СОС с идентификатор № 51500.502.447.4.30 са функционално обединени и не могат да се използват самостоятелно, тъй като делят общ вход. Няма представени надлежни документи за функционалното им обединение, като част от имота e усвоен от имот с идентификатор № 51500.502.447.4.28, който не е обект на изпълнение и няма достъп до него.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92791/436301/IMG_3179.JPG",
+      "https://sales.bcpea.org/upload/92791/436300/IMG_3172.JPG",
+      "https://sales.bcpea.org/upload/92791/436304/IMG_3169.JPG",
+      "https://sales.bcpea.org/upload/92791/436305/IMG_3149.JPG",
+      "https://sales.bcpea.org/upload/92791/436307/IMG_3165.JPG",
+      "https://c.tile.openstreetmap.org/18/148400/96450.png",
+      "https://a.tile.openstreetmap.org/18/148401/96450.png",
+      "https://b.tile.openstreetmap.org/18/148400/96449.png",
+      "https://c.tile.openstreetmap.org/18/148401/96449.png",
+      "https://a.tile.openstreetmap.org/18/148400/96451.png",
+      "https://b.tile.openstreetmap.org/18/148401/96451.png",
+      "https://b.tile.openstreetmap.org/18/148399/96450.png",
+      "https://b.tile.openstreetmap.org/18/148402/96450.png",
+      "https://a.tile.openstreetmap.org/18/148399/96449.png",
+      "https://a.tile.openstreetmap.org/18/148402/96449.png",
+      "https://c.tile.openstreetmap.org/18/148399/96451.png",
+      "https://c.tile.openstreetmap.org/18/148402/96451.png"
+    ],
+    "price_per_sqm": 342,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 88960
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92790",
+    "url": "https://sales.bcpea.org/properties/92790",
+    "photo": "https://sales.bcpea.org/upload/92790/453597/IMG_1148.JPG?w=270&h=270",
+    "price_eur": 122256,
+    "sqm": 979,
+    "area": "Обзор",
+    "title": "Парцел, Обзор",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T09:18:00+00:00",
+    "category": "land",
+    "_settlement": "Обзор",
+    "lat": 42.8205748,
+    "lng": 27.8794434,
+    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 53045.226.112 / петдесет и три хиляди и четиридесет и пет, точка, двеста двадесет и шест, точка, сто и дванадесет/ по кадастралната карта и кадастралните регистри на гр.Обзор, общ.Несебър, обл.Бургас, одобрени със Заповед № РД-18-59/14.09.2006г. на Изпълнителен Директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: гр.Обзор, с площ: 2 979 кв.м. /две хиляди деветстотин седемдесет и девет квадратни метра/, трайно предназначение на територията: Урбанизирана , начин на трайно ползване: Незастроен имот за курортно-рекреационен обект , номер от предходен план: няма, предишен идентификатор: няма , при съседи: 53045.228.149, 53045.226.81, 53045.226.100, 53045.226.83, 53045.226.109, 53045.226.101.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92790/453597/IMG_1148.JPG",
+      "https://sales.bcpea.org/upload/92790/453601/IMG_1157.JPG",
+      "https://c.tile.openstreetmap.org/18/147978/96605.png",
+      "https://a.tile.openstreetmap.org/18/147979/96605.png",
+      "https://b.tile.openstreetmap.org/18/147978/96604.png",
+      "https://c.tile.openstreetmap.org/18/147979/96604.png",
+      "https://a.tile.openstreetmap.org/18/147978/96606.png",
+      "https://b.tile.openstreetmap.org/18/147979/96606.png",
+      "https://b.tile.openstreetmap.org/18/147977/96605.png",
+      "https://b.tile.openstreetmap.org/18/147980/96605.png",
+      "https://a.tile.openstreetmap.org/18/147977/96604.png",
+      "https://a.tile.openstreetmap.org/18/147980/96604.png",
+      "https://c.tile.openstreetmap.org/18/147977/96606.png",
+      "https://c.tile.openstreetmap.org/18/147980/96606.png"
+    ],
+    "price_per_sqm": 125,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 122256
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 4
+  },
+  {
+    "id": "bcpea_92789",
+    "url": "https://sales.bcpea.org/properties/92789",
+    "photo": null,
+    "price_eur": 12240,
+    "sqm": 629,
+    "area": "Косово",
+    "title": "Земеделска земя, Косово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-05T08:59:00+00:00",
+    "category": "land",
+    "_settlement": "Косово",
+    "lat": 41.9113833,
+    "lng": 24.7024844,
+    "description": "Поземлен имот с идентификатор № 38804.30.48 , находящ се в област Шумен, община Каспичан, с ело Косово, м естност БОАЗА, вид собст веност: Частна, вид територия: Земеделска, категория 3, НТП Нива, с площ от 14 629 кв адратни м етра , стар номер 03004 8, при граници и съседи: имоти с идентификатори: 38804.30.47, 38804.30.9, 38804.30.41 и 38804.30.45 Имотът представлява обработваема земеделска земя, предназначена за отглеждане на едногодишни селскостопански култури. Достъп до имота се осъществява по път без трайна настилка. Местоположение на поземления имот спрямо строителните граници на населеното място, в което се намира: от 3 до 6 км. Местоположение на поземления имот спрямо пътната мрежа с трайна настилка: до 1 км.",
+    "detail_checked": true,
+    "price_per_sqm": 19,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:57:34.019258+00:00",
+        "price_eur": 12240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81626,382 +82002,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92797",
-    "url": "https://sales.bcpea.org/properties/92797",
-    "photo": "https://sales.bcpea.org/upload/92797/430941/IMG_0382.JPG?w=270&h=270",
-    "price_eur": 36504,
-    "sqm": 46,
-    "area": "Равда",
-    "title": "Едностаен апартамент, Равда",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:41:00+00:00",
-    "category": "apartment",
-    "_settlement": "Равда",
-    "lat": 42.6445091,
-    "lng": 27.6783594,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.28 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, двадесет и осем/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.4, ап. 1 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 46.44кв.м. /четиридесет и шест цяло и четиридесет и четири стотни квадратни метра/, прилежащи части: 2.32% /5.11 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: няма , под обекта: 61056.502.490.1.26 , над обекта: няма , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92797/430941/IMG_0382.JPG",
-      "https://sales.bcpea.org/upload/92797/430942/IMG_0383.JPG",
-      "https://sales.bcpea.org/upload/92797/430943/IMG_0373.JPG",
-      "https://sales.bcpea.org/upload/92797/430944/IMG_0377.JPG",
-      "https://sales.bcpea.org/upload/92797/430945/IMG_0380.JPG",
-      "https://c.tile.openstreetmap.org/18/147860/96639.png",
-      "https://a.tile.openstreetmap.org/18/147861/96639.png",
-      "https://b.tile.openstreetmap.org/18/147860/96638.png",
-      "https://c.tile.openstreetmap.org/18/147861/96638.png",
-      "https://a.tile.openstreetmap.org/18/147860/96640.png",
-      "https://b.tile.openstreetmap.org/18/147861/96640.png",
-      "https://b.tile.openstreetmap.org/18/147859/96639.png",
-      "https://b.tile.openstreetmap.org/18/147862/96639.png",
-      "https://a.tile.openstreetmap.org/18/147859/96638.png",
-      "https://a.tile.openstreetmap.org/18/147862/96638.png",
-      "https://c.tile.openstreetmap.org/18/147859/96640.png",
-      "https://c.tile.openstreetmap.org/18/147862/96640.png"
-    ],
-    "price_per_sqm": 794,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 36504
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92796",
-    "url": "https://sales.bcpea.org/properties/92796",
-    "photo": "https://sales.bcpea.org/upload/92796/430927/IMG_0359.JPG?w=270&h=270",
-    "price_eur": 79776,
-    "sqm": 95,
-    "area": "Равда",
-    "title": "Тристаен апартамент, Равда",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:40:00+00:00",
-    "category": "apartment",
-    "_settlement": "Равда",
-    "lat": 42.6445091,
-    "lng": 27.6783594,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.27 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, двадесет и седем/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.3, ап. 3 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 94.73кв.м. /деветдесет и четири  цяло и седемдесет и три стотни квадратни метра/, прилежащи части: 4.74 % /10.42 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: няма , под обекта: 61056.502.490.1.24, 61056.502.490.1.23 , над обекта: 61056.502.490.1.29 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92796/430927/IMG_0359.JPG",
-      "https://sales.bcpea.org/upload/92796/430928/IMG_0346.JPG",
-      "https://sales.bcpea.org/upload/92796/430929/IMG_0347.JPG",
-      "https://sales.bcpea.org/upload/92796/430930/IMG_0349.JPG",
-      "https://sales.bcpea.org/upload/92796/430931/IMG_0352.JPG",
-      "https://sales.bcpea.org/upload/92796/430932/IMG_0355.JPG",
-      "https://b.tile.openstreetmap.org/18/148085/96674.png",
-      "https://c.tile.openstreetmap.org/18/148085/96675.png",
-      "https://a.tile.openstreetmap.org/18/148084/96674.png",
-      "https://c.tile.openstreetmap.org/18/148086/96674.png",
-      "https://b.tile.openstreetmap.org/18/148084/96675.png",
-      "https://a.tile.openstreetmap.org/18/148086/96675.png",
-      "https://c.tile.openstreetmap.org/18/148083/96674.png",
-      "https://a.tile.openstreetmap.org/18/148087/96674.png",
-      "https://a.tile.openstreetmap.org/18/148083/96675.png",
-      "https://b.tile.openstreetmap.org/18/148087/96675.png"
-    ],
-    "price_per_sqm": 840,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 79776
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92795",
-    "url": "https://sales.bcpea.org/properties/92795",
-    "photo": "https://sales.bcpea.org/upload/92795/430920/IMG_0332.JPG?w=270&h=270",
-    "price_eur": 42048,
-    "sqm": 47,
-    "area": "Равда",
-    "title": "Двустаен апартамент, Равда",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:31:00+00:00",
-    "category": "apartment",
-    "_settlement": "Равда",
-    "lat": 42.6445091,
-    "lng": 27.6783594,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.17 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, седемнадесет/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.1, ап. 7 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 46.90 кв.м. /четиридесет и шест цяло и деветдесет стотни квадратни метра/, прилежащи части: 2.35 % ид.ч. /5.16 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: 61056.502.490.1.18, 61056.502.490.1.16, под обекта: 61056.502.490.1.9 , над обекта: 61056.502.490.1.24 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92795/430920/IMG_0332.JPG",
-      "https://sales.bcpea.org/upload/92795/430922/IMG_0334.JPG",
-      "https://sales.bcpea.org/upload/92795/430923/IMG_0336.JPG",
-      "https://sales.bcpea.org/upload/92795/430924/IMG_0339.JPG",
-      "https://sales.bcpea.org/upload/92795/430925/IMG_0341.JPG",
-      "https://sales.bcpea.org/upload/92795/430926/IMG_0342.JPG",
-      "https://a.tile.openstreetmap.org/18/148205/96529.png",
-      "https://b.tile.openstreetmap.org/18/148206/96529.png",
-      "https://c.tile.openstreetmap.org/18/148205/96528.png",
-      "https://a.tile.openstreetmap.org/18/148206/96528.png",
-      "https://b.tile.openstreetmap.org/18/148205/96530.png",
-      "https://c.tile.openstreetmap.org/18/148206/96530.png",
-      "https://c.tile.openstreetmap.org/18/148204/96529.png",
-      "https://c.tile.openstreetmap.org/18/148207/96529.png",
-      "https://b.tile.openstreetmap.org/18/148204/96528.png",
-      "https://b.tile.openstreetmap.org/18/148207/96528.png",
-      "https://a.tile.openstreetmap.org/18/148204/96530.png",
-      "https://a.tile.openstreetmap.org/18/148207/96530.png"
-    ],
-    "price_per_sqm": 895,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 42048
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92794",
-    "url": "https://sales.bcpea.org/properties/92794",
-    "photo": "https://sales.bcpea.org/upload/92794/430909/IMG_0310.JPG?w=270&h=270",
-    "price_eur": 69624,
-    "sqm": 97,
-    "area": "Равда",
-    "title": "Тристаен апартамент, Равда",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:29:00+00:00",
-    "category": "apartment",
-    "_settlement": "Равда",
-    "lat": 42.6445091,
-    "lng": 27.6783594,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 61056.502.490.1.11 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно, точка, единадесет/ по кадастралната карта и кадастралните регистри на с.Равда, общ.Несебър, обл. Бургас, одобрени със Заповед № РД-18-58/16.04.2008г. на Изпълнителния директор на АК, с адрес на имота: с.Равда, ул. Хоризонт, ет.1, ап. 1 , с предназначение: Жилище, апартамент , брой нива на обекта : 1 , с площ : 97.18кв.м. /деветдесет и седем  цяло и осемнадесет стотни квадратни метра/, прилежащи части: 4.86 % /10.69 кв.м./ ид.ч. от общите части на сградата, при съседни самостоятелни обекти: на същия етаж: 61056.502.490.1.12 , под обекта: 61056.502.490.1.4, 61056.502.490.1.3 , над обекта: 61056.502.490.1.19 , който самостоятелен обект се намира в СГРАДА № 1 / едно / с идентификатор № 61056.502.490.1 /шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет, точка, едно /, разположена в ПОЗЕМЛЕН ИМОТ с идентификатор № 61056.502.490 / шестдесет и една хиляди и петдесет и шест, точка, петстотин и две, точка, четиристотин и деветдесет /.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92794/430909/IMG_0310.JPG",
-      "https://sales.bcpea.org/upload/92794/430910/IMG_0298.JPG",
-      "https://sales.bcpea.org/upload/92794/430912/IMG_0301.JPG",
-      "https://sales.bcpea.org/upload/92794/430913/IMG_0305.JPG",
-      "https://sales.bcpea.org/upload/92794/430914/IMG_0307.JPG",
-      "https://sales.bcpea.org/upload/92794/430915/IMG_0309.JPG",
-      "https://sales.bcpea.org/upload/92794/430916/IMG_0320.JPG",
-      "https://sales.bcpea.org/upload/92794/430918/IMG_0330.JPG",
-      "https://b.tile.openstreetmap.org/18/148106/96698.png",
-      "https://c.tile.openstreetmap.org/18/148106/96699.png",
-      "https://a.tile.openstreetmap.org/18/148105/96698.png",
-      "https://c.tile.openstreetmap.org/18/148107/96698.png",
-      "https://b.tile.openstreetmap.org/18/148105/96699.png",
-      "https://a.tile.openstreetmap.org/18/148107/96699.png",
-      "https://c.tile.openstreetmap.org/18/148104/96698.png",
-      "https://a.tile.openstreetmap.org/18/148108/96698.png",
-      "https://a.tile.openstreetmap.org/18/148104/96699.png",
-      "https://b.tile.openstreetmap.org/18/148108/96699.png"
-    ],
-    "price_per_sqm": 718,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 69624
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92792",
-    "url": "https://sales.bcpea.org/properties/92792",
-    "photo": "https://sales.bcpea.org/upload/92792/436313/IMG_3156.JPG?w=270&h=270",
-    "price_eur": 167360,
-    "sqm": 489,
-    "area": "Несебър",
-    "title": "Заведение, Несебър",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:27:00+00:00",
-    "category": "commercial",
-    "_settlement": "Несебър",
-    "lat": 42.6607865,
-    "lng": 27.7167464,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 51500.502.447.4.30 /петдесет и една хиляди и петстотин, точка, петстотин и две, точка, четиристотин четиридесет и седем, точка, четири, точка, тридесет/ по кадастрална карта и кадастралните регистри на гр. Несебър, общ Несебър, обл, Бургас, одобрени със Заповед РД-18-46/18.08.2006 г. на Изп. директор на АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 26.10.2011г. , с адрес на имота: гр. Несебър 8230, общ. Несебър, обл. Бургас, ул. „Иван Вазов\" № 9 /девет/, бл. 4 /четири/, ет. 0 /нула/, обект 3 0 /тридесет/ , с предназначение: За обществено хранене , брой нива на обекта: 1 /едно/, площ по документ: 489.00 кв.м. /четиристотин осемдесет и девет/ квадратни метра , ведно със съответния процент идеални части от общите части на сградата и правото на строеж върху поземления имот, при съседни самостоятелни обекти е сградата, на същия етаж: 51500.502.447.4.29 , под обекта: няма , над обекта: 51500.502.447.4.605 , 51500.502.447.4.604 , 51500.502.447.4.603 , 51500.502.447.4.602 , 51500.502.447.4.601 , 51500.502.447.4.8 , 51500.502.447.4.9 , 51500.502.447.4.10 , 51500.502.447.4.11 ,  който имот попада в СГРАДА № 4 с идентификатор 51500.502.447.4 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири / , построена в ПОЗЕМЛЕН ИМОТ идентификатор 51500.502.447 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем/. Забележка: Към момента на извършване на описа е установено, че СОС с идентификатор № 51500.502.447.4.29 и СОС с идентификатор № 51500.502.447.4.30 са функционално обединени и не могат да се използват самостоятелно, тъй като делят общ вход. Няма представени надлежни документи за функционалното им обединение",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92792/436313/IMG_3156.JPG",
-      "https://sales.bcpea.org/upload/92792/436314/IMG_3129.JPG",
-      "https://sales.bcpea.org/upload/92792/436315/IMG_3140.JPG",
-      "https://sales.bcpea.org/upload/92792/436317/IMG_3165.JPG",
-      "https://sales.bcpea.org/upload/92792/436318/IMG_3128.JPG",
-      "https://sales.bcpea.org/upload/92792/436319/IMG_3129.JPG"
-    ],
-    "price_per_sqm": 342,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 167360
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92791",
-    "url": "https://sales.bcpea.org/properties/92791",
-    "photo": "https://sales.bcpea.org/upload/92791/436301/IMG_3179.JPG?w=270&h=270",
-    "price_eur": 88960,
-    "sqm": 260,
-    "area": "Несебър",
-    "title": "Заведение, Несебър",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:26:00+00:00",
-    "category": "commercial",
-    "_settlement": "Несебър",
-    "lat": 42.6607865,
-    "lng": 27.7167464,
-    "description": "САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор № 51500.502.447.4.29 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири, точка, двадесети, девет/ по кадастрална карта и кадастралните регистри на гр. Несебър, общ Несебър, обл, Бургас, одобрени със заповед РД-18-46/18.08.2006 г. на Изп. директор на АК, последно изменение на кадастралната карта и кадастралните регистри, засягащо самостоятелния обект е от 26.10.2011г. , с адрес на имота: гр. Несебър 8230, общ. Несебър, обл. Бургас, ул. „Иван Вазов\" № 9 /девет/, бл.4 /четири/, ет. 0 /нула/, обект 29 /двадесет и девет/ , с предназначение: За спортна и развлекателна дейност , брой нива на обекта: 1 /едно/, площ по документ: 260.00 кв.м. /двеста и шестдесет/ квадратни метра , ведно със съответния процент идеални части от общите части на сградата и правото на строеж върху поземления имот, при съседни самостоятелни обекти е сградата, на същия етаж: 51500.502.447.4.27 , 51500.502.447.4.28 , 51500.502,447.4.30 , под обекта: няма , над обекта: 51500.502.447.4.503 , 51500.502.447.4.502 , 51500 502.447.4.501 , 51500.502.447.4.5 , 51500.502.444.6 и 51500.502.447.4.7 ,  който имот попада в СГРАДА № 4 с идентификатор 51500.502.447.4 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем точка, четири / , построена в ПОЗЕМЛЕН ИМОТ идентификатор 51500.502.447 /петдесет и една хиляди и петстотин точка, петстотин и две, точка, четиристотин четиридесет и седем/. Забележка: Към момента на извършване на описа е установено, че СОС с идентификатор № 51500.502.447.4.29 и СОС с идентификатор № 51500.502.447.4.30 са функционално обединени и не могат да се използват самостоятелно, тъй като делят общ вход. Няма представени надлежни документи за функционалното им обединение, като част от имота e усвоен от имот с идентификатор № 51500.502.447.4.28, който не е обект на изпълнение и няма достъп до него.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92791/436301/IMG_3179.JPG",
-      "https://sales.bcpea.org/upload/92791/436300/IMG_3172.JPG",
-      "https://sales.bcpea.org/upload/92791/436304/IMG_3169.JPG",
-      "https://sales.bcpea.org/upload/92791/436305/IMG_3149.JPG",
-      "https://sales.bcpea.org/upload/92791/436307/IMG_3165.JPG",
-      "https://c.tile.openstreetmap.org/18/148400/96450.png",
-      "https://a.tile.openstreetmap.org/18/148401/96450.png",
-      "https://b.tile.openstreetmap.org/18/148400/96449.png",
-      "https://c.tile.openstreetmap.org/18/148401/96449.png",
-      "https://a.tile.openstreetmap.org/18/148400/96451.png",
-      "https://b.tile.openstreetmap.org/18/148401/96451.png",
-      "https://b.tile.openstreetmap.org/18/148399/96450.png",
-      "https://b.tile.openstreetmap.org/18/148402/96450.png",
-      "https://a.tile.openstreetmap.org/18/148399/96449.png",
-      "https://a.tile.openstreetmap.org/18/148402/96449.png",
-      "https://c.tile.openstreetmap.org/18/148399/96451.png",
-      "https://c.tile.openstreetmap.org/18/148402/96451.png"
-    ],
-    "price_per_sqm": 342,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 88960
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92790",
-    "url": "https://sales.bcpea.org/properties/92790",
-    "photo": "https://sales.bcpea.org/upload/92790/453597/IMG_1148.JPG?w=270&h=270",
-    "price_eur": 122256,
-    "sqm": 979,
-    "area": "Обзор",
-    "title": "Парцел, Обзор",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T09:18:00+00:00",
-    "category": "land",
-    "_settlement": "Обзор",
-    "lat": 42.8205748,
-    "lng": 27.8794434,
-    "description": "ПОЗЕМЛЕН ИМОТ с идентификатор № 53045.226.112 / петдесет и три хиляди и четиридесет и пет, точка, двеста двадесет и шест, точка, сто и дванадесет/ по кадастралната карта и кадастралните регистри на гр.Обзор, общ.Несебър, обл.Бургас, одобрени със Заповед № РД-18-59/14.09.2006г. на Изпълнителен Директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: гр.Обзор, с площ: 2 979 кв.м. /две хиляди деветстотин седемдесет и девет квадратни метра/, трайно предназначение на територията: Урбанизирана , начин на трайно ползване: Незастроен имот за курортно-рекреационен обект , номер от предходен план: няма, предишен идентификатор: няма , при съседи: 53045.228.149, 53045.226.81, 53045.226.100, 53045.226.83, 53045.226.109, 53045.226.101.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92790/453597/IMG_1148.JPG",
-      "https://sales.bcpea.org/upload/92790/453601/IMG_1157.JPG",
-      "https://c.tile.openstreetmap.org/18/147978/96605.png",
-      "https://a.tile.openstreetmap.org/18/147979/96605.png",
-      "https://b.tile.openstreetmap.org/18/147978/96604.png",
-      "https://c.tile.openstreetmap.org/18/147979/96604.png",
-      "https://a.tile.openstreetmap.org/18/147978/96606.png",
-      "https://b.tile.openstreetmap.org/18/147979/96606.png",
-      "https://b.tile.openstreetmap.org/18/147977/96605.png",
-      "https://b.tile.openstreetmap.org/18/147980/96605.png",
-      "https://a.tile.openstreetmap.org/18/147977/96604.png",
-      "https://a.tile.openstreetmap.org/18/147980/96604.png",
-      "https://c.tile.openstreetmap.org/18/147977/96606.png",
-      "https://c.tile.openstreetmap.org/18/147980/96606.png"
-    ],
-    "price_per_sqm": 125,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 122256
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
-    "id": "bcpea_92789",
-    "url": "https://sales.bcpea.org/properties/92789",
-    "photo": null,
-    "price_eur": 12240,
-    "sqm": 629,
-    "area": "Косово",
-    "title": "Земеделска земя, Косово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-05T08:59:00+00:00",
-    "category": "land",
-    "_settlement": "Косово",
-    "lat": 41.9113833,
-    "lng": 24.7024844,
-    "description": "Поземлен имот с идентификатор № 38804.30.48 , находящ се в област Шумен, община Каспичан, с ело Косово, м естност БОАЗА, вид собст веност: Частна, вид територия: Земеделска, категория 3, НТП Нива, с площ от 14 629 кв адратни м етра , стар номер 03004 8, при граници и съседи: имоти с идентификатори: 38804.30.47, 38804.30.9, 38804.30.41 и 38804.30.45 Имотът представлява обработваема земеделска земя, предназначена за отглеждане на едногодишни селскостопански култури. Достъп до имота се осъществява по път без трайна настилка. Местоположение на поземления имот спрямо строителните граници на населеното място, в което се намира: от 3 до 6 км. Местоположение на поземления имот спрямо пътната мрежа с трайна настилка: до 1 км.",
-    "detail_checked": true,
-    "price_per_sqm": 19,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:57:34.019258+00:00",
-        "price_eur": 12240
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 3
-  },
-  {
     "id": "bcpea_92828",
     "url": "https://sales.bcpea.org/properties/92828",
     "photo": "https://sales.bcpea.org/upload/92828/363085/19.jpg?w=270&h=270",
@@ -82079,7 +82079,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82111,7 +82111,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -82143,7 +82143,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84004,7 +84004,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84801,7 +84801,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84842,7 +84842,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -84885,7 +84885,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 8.5,
     "score": 3
@@ -85089,7 +85089,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85141,7 +85141,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85177,7 +85177,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85209,7 +85209,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85250,7 +85250,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85282,7 +85282,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85314,7 +85314,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85351,7 +85351,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85383,7 +85383,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85425,7 +85425,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85466,7 +85466,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85507,7 +85507,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87205,7 +87205,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 996,
     "pct_vs_area_avg": 39.4,
     "score": 3
@@ -87240,7 +87240,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87276,7 +87276,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -87318,7 +87318,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -88932,7 +88932,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 431,
     "pct_vs_area_avg": -72.8,
     "score": 3
@@ -88970,7 +88970,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -89606,6 +89606,166 @@
     "source_status": "active",
     "removed_at": null,
     "days_on_market": 22,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_93093",
+    "url": "https://sales.bcpea.org/properties/93093",
+    "photo": null,
+    "price_eur": 54392,
+    "sqm": 140,
+    "area": "Сливо поле",
+    "title": "Парцел с къща, Сливо поле",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T09:18:00+00:00",
+    "category": "land",
+    "_settlement": "Сливо поле",
+    "lat": 43.9438354,
+    "lng": 26.2060525,
+    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 5914040 1196 , ще се проведе нова публична продан на следния недвижим имот, собственост на МИНА СИЛЯНОВА АТАНАСОВА , с начало на проданта от 26 . 10.2026 г. и край на проданта до 26.11.2026 г.: ДВОРНО МЯСТО, находящо се в гр. Сливо поле, общ. Сливо поле, обл. Русе, ул. Дружба № 46 (четиридесет и шест) по документ за собственост, а съгласно Удостоверение № 3/23.09.2014г. на общ. Сливо поле с адрес: гр. Сливо поле, общ. Сливо поле, обл. Русе, ул. „Дружба“ 46 (четиридесет и шест), съставляващо УПИ IX-740 (девет римско за седемстотин и четиридесет арабско), в кв. 111 (сто и единадесет) по плана на гр. Сливо поле, с площ от 1091 кв. м. (хиляда деветдесет и един квадратни метра), при граници: УПИ VII-740, УПИ Х-740 и от две страни улици, заедно с построените в него: ДВУЕТАЖНА ЖИЛИЩНА СГРАДА със застроена площ от 70.00 кв. м. (седемдесет квадратни метра), СТОПАНСКА СГРАДА с площ от 48.00 кв. м. (четиридесет и осем квадратни метра), СТОПАНСКА СГРАДА с площ от 9.00 кв. м. (девет квадратни метра) и НАВЕС с площ от 19.00 кв. м. (деветнадесет квадратни метра), заедно с всички подобрения и приращения в имота. Начална цена, от която ще започне публичната продан на недвижимия имот: 54 391.68 евро Тежести: Ипотека и възбрана, вписани в полза на първоначалния взискател. Оглед по настоящата продан: Всички желаещи да огледат на недвижимите имоти, могат да го сторят в периода на публичната продан, след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 27.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 12.10.2026 г .                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                     /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
+    "detail_checked": true,
+    "price_per_sqm": 389,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 54392
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_93092",
+    "url": "https://sales.bcpea.org/properties/93092",
+    "photo": "https://sales.bcpea.org/upload/93092/463888/IMG_2950.jpeg?w=270&h=270",
+    "price_eur": 100000,
+    "sqm": 260,
+    "area": "Борисово",
+    "title": "Парцел с къща, Борисово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T09:15:00+00:00",
+    "category": "land",
+    "_settlement": "Борисово",
+    "lat": 42.2944652,
+    "lng": 26.7304578,
+    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 2026914040 0 33 6 , ще се проведе публична продан на следния недвижим имот собственост на длъжниците ТЕОДОР СИМЕОНОВ ВАЛЕРИЕВ и ВАЛЕРИЯ СИМЕОНОВА ВАЛЕРИЕВА, с начало на проданта от 19.10.2026 г. и край на проданта до 19.11.2026 г. : 1.) УПИ I-107, в квартал 24 по регулационния план на с. Борисово, общ. Сливо поле, обл. Русе, находящ се на ул. „Георги Гьонски“ № 12, одобрен със Заповед № 962/1966 г. и Заповед № РД-09-134/2022 г., с площ по скица 1230 кв. м., с площ по нотариален акт от 1167 кв. м., при граници: улица, улица, УПИ II-107 и УПИ XXIV-108, заедно с построените в имота, съгласно Удостоверение № 2 от 22.02.2022г. за търпимост на строеж, издадено от главен архитект на Община – Сливо поле, а именно: ЖИЛИЩНА СГРАДА, ДВУЕТАЖНА, МАСИВНА , със застроена площ 130 кв. м., разгърната застроена площ 260 кв. м. , която в нотариален акт е описана като Двуетажна Жилищна сграда със застроена площ от 120 кв. м. ; ЖИЛИЩНА СГРАДА, НА ЕДИН ЕТАЖ, МАСИВНА , със застроена площ 28 кв. м. , която в нотариален акт е описана като Втора Жилищна сграда със застроена площ от 26 кв. м.; ГАРАЖ, НА ЕДИН ЕТАЖ , със застроена площ 53 кв. м. , който в нотариален акт е описан като Гараж от 15 кв. м. и Гараж от 40 кв. м., които са под един покрив; СТОПАНСКА СГРАДА, НА ЕДИН ЕТАЖ, МАСИВНА , със застроена площ 50 кв. м. , която в нотариален акт е описана като Второстепенна постройка от 22 кв. м. и Втора второстепенна постройка от 18 кв. м., които са със сключено застрояване; СТОПАНСКА СГРАДА, МАСИВНА, НА ЕДИН ЕТАЖ , със застроена площ 38 кв. м. , която в нотариален акт е описана като Трета Второстепенна постройка от 22 кв. м.; и заедно с цялата прилежаща и обслужваща имота техническа инфраструктура, осигуряваща нормалното му функциониране и заедно с всички подобрения, приращения и трайни насаждения. Начална цена, от която ще започне публичната продан на недвижимия имот: 100 000 евро Тежести: Договорна ипотека в полза на взискателя „Банка ДСК“. Възбрана от взискателят по изп. дело. Оглед по настоящата продан: Всички желаещи да огледат имотите, могат да го сторят в периода на публичната продан, всеки четвъртък от 10.00 ч. до 11.00 ч., след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 ч. на 20.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД – РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 07.10.2026 г.                                                      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                           /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93092/463888/IMG_2950.jpeg",
+      "https://sales.bcpea.org/upload/93092/463889/IMG_2951.jpeg",
+      "https://sales.bcpea.org/upload/93092/463891/IMG_2955.jpeg",
+      "https://sales.bcpea.org/upload/93092/463892/IMG_2958.jpeg",
+      "https://sales.bcpea.org/upload/93092/463893/IMG_2959.jpeg",
+      "https://sales.bcpea.org/upload/93092/463894/IMG_2960.jpeg",
+      "https://sales.bcpea.org/upload/93092/463895/IMG_2949.jpeg",
+      "https://sales.bcpea.org/upload/93092/463896/IMG_2952.jpeg",
+      "https://sales.bcpea.org/upload/93092/463897/IMG_2963.jpeg",
+      "https://sales.bcpea.org/upload/93092/463898/IMG_2970.jpeg",
+      "https://sales.bcpea.org/upload/93092/463899/IMG_2979.jpeg",
+      "https://sales.bcpea.org/upload/93092/463900/IMG_2971.jpeg",
+      "https://sales.bcpea.org/upload/93092/463901/IMG_2977.jpeg"
+    ],
+    "price_per_sqm": 385,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 100000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_93091",
+    "url": "https://sales.bcpea.org/properties/93091",
+    "photo": "https://sales.bcpea.org/upload/93091/463883/IMG_1482.jpg?w=270&h=270",
+    "price_eur": 54597,
+    "sqm": 949,
+    "area": "Кошов",
+    "title": "Земеделски имот, Кошов",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T09:09:00+00:00",
+    "category": "apartment",
+    "_settlement": "Кошов",
+    "lat": 43.6593843,
+    "lng": 25.9947567,
+    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 59140400622, ще се проведе нова публична продан на следните недвижими имоти, собственост на „КФС“ ЕООД, ЕИК 205124961 , с начало на проданта от 19 . 10.2026 г. и край на проданта до 19.11.2026 г.: I. ПОЗЕМЛЕН ИМОТ с идентификатор 39205.77.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно/, находящ се на адрес: с. Кошов. общ. Иваново, обл. Русе, местност : „ЛОМСКИ МЕСТА“ с площ: 21949 кв.м. /двадесет и една хиляди деветстотин четиридесет и девет квадратни метра/; трайно предназначение на територията : Урбанизирана ; начин на трайно ползване: За животновъден комплекс ; предишен идентификатор: няма, номер по предходен план: 077001 /нула седемдесет и седем хиляди и едно/, при съседи: 39205.77.3, 39205.77.256, 39205.77.247, 39205.71.24, 39205.71.16, 39205.77.277, 39205.77.276, 39205.77.253, 39205.71.23, 39205.77.252, 39205.77.2, 39205.77.246 , 39205.71.257, ведно със сградите, които попадат върху имота: Сграда с идентификатор 39205.77.1.3 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, три/, застроена площ 9 кв.м. / девет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, две/, застроена площ 1 9 кв.м. / деветнадесет квадратни метра/, брой етажи 1 /един/, предназначение: Промишлена сграда; Сграда с идентификатор 39205.77.1.8 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, осем/, застроена площ 258 кв.м. / двеста петдесет и осем квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.6 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, шест/, застроена площ 750 кв.м. / седемстотин и петдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.7 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, седем/, застроена площ 462 кв.м. / четиристотин шестдесет и два квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, едно/, застроена площ 12 кв.м. / дванадесет квадратни метра/, брой етажи 1 /един/, предназначение: Сграда за водоснабдяване и/или канализация; Сграда с идентификатор 39205.77.1.4 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, четири/, застроена площ 260 кв.м. / двеста и шестдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.5 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, пет/, застроена площ 380 кв.м. / триста и осемдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда. II . Сграда с идентификатор 77.2.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, едно/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 42 кв.м. / четиридесет и два квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; III . Сграда с идентификатор 39205.77.2.2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, две/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 605 кв.м. / шестстотин и пет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда ; I V . Сграда с идентификатор 77.2.3 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, три/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 725 кв.м. / седемстотин двадесет и пет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда, като сградите са построени в ПОЗЕМЛЕН ИМОТ – ДЪРЖАВНА СОБСТВЕНОСТ с идентификатор 39205.77. 2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две/, при граници и съседи на поземления имот: 39205.77.256, 39205.77.1, 39205.77.253. ОБЩА начална цена, от която ще започне публичната продан на недвижимите имоти: 54 596.88 евро, от която за терена , без прилежащия терен на сградите и за всички настоящи подобрения и приращения – 17 408 евро , върху която сума на осн. чл. 45, ал. 5, т. 1 от ЗДДС се дължи ДДС и – 37 188.88 евро, от която за сградите и прилежащият терен към нея, върху която на осн. чл. 45, ал. 3 от ЗДДС не се дължи ДДС. Тежести: Ипотека и възбрана, вписани в полза на първоначалния взискател. Вписани искови молби и възбрани в полза на присъединения по право взискател „ФЗ ВАСИЛ КОСТОВ“ ЕООД, ЕИК 103865626. Оглед по настоящата продан: Всички желаещи да огледат на недвижимите имоти, могат да го сторят в периода на публичната продан, след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 20.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 21.09.2026 г.                                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                                                       /ВАСИЛ НИКОЛОВ/",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93091/463883/IMG_1482.jpg",
+      "https://sales.bcpea.org/upload/93091/463884/IMG_1483.jpg",
+      "https://sales.bcpea.org/upload/93091/463885/IMG_1484.jpg",
+      "https://sales.bcpea.org/upload/93091/463886/IMG_1485.jpg"
+    ],
+    "price_per_sqm": 58,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 54597
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_93090",
+    "url": "https://sales.bcpea.org/properties/93090",
+    "photo": "https://sales.bcpea.org/upload/93090/463874/IMG_20260917_122158.jpg?w=270&h=270",
+    "price_eur": 546338,
+    "sqm": 575,
+    "area": "Браниполе",
+    "title": "Производствен имот, Браниполе",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-12T09:02:00+00:00",
+    "category": "apartment",
+    "_settlement": "Браниполе",
+    "lat": 42.0782466,
+    "lng": 24.7549767,
+    "description": "ид 2026/8250400811 - СГРАДА с идентификатор 06077.50.302.1 (нула , шест , нула, седем, седем, точка, пет, нула, точка, три, нула, две, точка, едно) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, с адрес на сградата: село Браниполе, със застроена площ: 575 кв. м. (петстотин седемдесет и пет квадратни метра), брой етажи: 1 (един), брой самостоятелни обекти в сградата: 0 (нула), предназначение: промишлена сграда, представляваща съгласно документи за собственост сграда за „СОТ и СОХ – Метално хале“ , построена в ПОЗЕМЛЕН ИМОТ с идентификатор 06077.50.302 (нула , шест , нула, седем, седем, точка, пет, нула, точка, три, нула, две) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: село Браниполе, местност „Анчов бунар“ , с площ: 668 кв. м. (шестстотин шестдесет и осем квадратни метра), с трайно предназначение на територията: урбанизирана, с начин на трайно ползване: за друг вид производствен, складов обект, предишен идентификатор: няма, номер по предходен план: няма, при съседи на имота по кадастрална карта: поземлен имот с идентификатор 06077.50.301, поземлен имот с идентификатор 06077.50.299 и поземлен имот с идентификатор 06077.50.298, ВЕДНО с прилежащите към сградата 9,13% (девет цяло и тринадесет стотни процента) идеални части от гореописания поземлен имот с идентификатор 06077.50.302, КАКТО и ВЕДНО с прилежащите към сградата 9,13% (девет цяло и тринадесет стотни процента) идеални части от ПОЗЕМЛЕН ИМОТ с идентификатор 06077.50.298 (нула , шест , нула, седем, седем, точка, пет, нула, точка, две, девет, осем) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: село Браниполе, местност „Анчов бунар“ , с площ: 4469 кв.м. (четири хиляди четиристотин шестдесет и девет квадратни метра), с трайно предназначение на територия: урбанизирана, с начин на трайно ползване: за второстепенна улица, предишен идентификатор – няма, номер по предходен план: няма, при съседи на имота по кадастрална карта: поземлен имот с идентификатор 06077.50.546, поземлен имот с идентификатор 06077.50.264, поземлен имот с идентификатор 06077.50.255, поземлен имот с идентификатор 06077.50.485, поземлен имот с идентификатор 06077.50.308, поземлен имот с идентификатор 06077.50.303, поземлен имот с идентификатор 06077.50.254, поземлен имот с идентификатор 06077.50.301, поземлен имот с идентификатор 06077.50.302, поземлен имот с идентификатор 06077.50.304, поземлен имот с идентификатор 06077.50.436, поземлен имот с идентификатор 06077.50.486, поземлен имот с идентификатор 06077.50.422, поземлен имот с идентификатор 06077.50.417, поземлен имот с идентификатор 06077.50.307, поземлен имот с идентификатор 06077.50.432, поземлен имот с идентификатор 06077.50.286, поземлен имот с идентификатор 06077.50.424, поземлен имот с идентификатор 06077.50.434, поземлен имот с идентификатор 06077.50.277, поземлен имот с идентификатор 06077.50.305, поземлен имот с идентификатор 06077.50.299 и поземлен имот с идентификатор 06077.50.306, ВЕДНО с всички пристроявания надстроявания към сградата, съгласно максимално допустимите строителни параметри на подробните устройствени планове. На основание чл. 485 от ГПК началната цена, от която да започне публичната продан на гореописания недвижим имот е в размер на 546 337,60 евро (петстотин четиридесет и шест хиляди триста тридесет и седем евро и шестдесет цента) с вкл. съответен ДДС, съставляваща 80 % от цената, съгласно чл. 485 от ГПК. Посочената цена 546 337,60 евро (петстотин четиридесет и шест хиляди триста тридесет и седем евро и шестдесет цента) с включен съответен ДДС върху данъчната основа, представляваща сбор a от началната цена без вкл. ДДС за процесния недвижим имот в размер на 543 952 евро (петстотин четиридесет и три хиляди деветстотин петдесет и две евро) и ДДС върху 408 кв. м. (четиристотин и осем квадратни метра) площ от ПИ с идентификатор 06077.50.298 в общ размер на 2385,60 евро (две хиляди триста осемдесет пет евро и шестдесет цента) ДДС при данъчна основа от 11 928 евро (единадесет хиляди деветстотин двадесет и осем евро). За 60,99 кв. м. (шестдесет цяло и деветдесет и девет стотни квадратни метра) площ от ПИ – терен под стари сгради и прилежаща им площ, както и стари сгради не се начислява ДДС, тъй като са свободни доставки по смисъла на чл. 45 ЗДДС.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93090/463874/IMG_20260917_122158.jpg",
+      "https://sales.bcpea.org/upload/93090/463875/IMG_20260917_122116.jpg",
+      "https://sales.bcpea.org/upload/93090/463876/IMG_20260917_120420.jpg",
+      "https://sales.bcpea.org/upload/93090/463877/IMG_20260917_114621.jpg",
+      "https://sales.bcpea.org/upload/93090/463878/IMG_20260917_114512.jpg",
+      "https://sales.bcpea.org/upload/93090/463879/IMG_20260917_112441.jpg",
+      "https://sales.bcpea.org/upload/93090/463880/IMG_20260917_111042.jpg",
+      "https://sales.bcpea.org/upload/93090/463881/IMG_20260917_111013.jpg",
+      "https://sales.bcpea.org/upload/93090/463882/IMG_20260917_101916.jpg"
+    ],
+    "price_per_sqm": 950,
+    "price_history": [
+      {
+        "date": "2026-10-12T16:37:18.673159+00:00",
+        "price_eur": 546338
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91548,166 +91708,6 @@
     "score": 2
   },
   {
-    "id": "bcpea_93093",
-    "url": "https://sales.bcpea.org/properties/93093",
-    "photo": null,
-    "price_eur": 54392,
-    "sqm": 140,
-    "area": "Сливо поле",
-    "title": "Парцел с къща, Сливо поле",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T09:18:00+00:00",
-    "category": "land",
-    "_settlement": "Сливо поле",
-    "lat": 43.9438354,
-    "lng": 26.2060525,
-    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 5914040 1196 , ще се проведе нова публична продан на следния недвижим имот, собственост на МИНА СИЛЯНОВА АТАНАСОВА , с начало на проданта от 26 . 10.2026 г. и край на проданта до 26.11.2026 г.: ДВОРНО МЯСТО, находящо се в гр. Сливо поле, общ. Сливо поле, обл. Русе, ул. Дружба № 46 (четиридесет и шест) по документ за собственост, а съгласно Удостоверение № 3/23.09.2014г. на общ. Сливо поле с адрес: гр. Сливо поле, общ. Сливо поле, обл. Русе, ул. „Дружба“ 46 (четиридесет и шест), съставляващо УПИ IX-740 (девет римско за седемстотин и четиридесет арабско), в кв. 111 (сто и единадесет) по плана на гр. Сливо поле, с площ от 1091 кв. м. (хиляда деветдесет и един квадратни метра), при граници: УПИ VII-740, УПИ Х-740 и от две страни улици, заедно с построените в него: ДВУЕТАЖНА ЖИЛИЩНА СГРАДА със застроена площ от 70.00 кв. м. (седемдесет квадратни метра), СТОПАНСКА СГРАДА с площ от 48.00 кв. м. (четиридесет и осем квадратни метра), СТОПАНСКА СГРАДА с площ от 9.00 кв. м. (девет квадратни метра) и НАВЕС с площ от 19.00 кв. м. (деветнадесет квадратни метра), заедно с всички подобрения и приращения в имота. Начална цена, от която ще започне публичната продан на недвижимия имот: 54 391.68 евро Тежести: Ипотека и възбрана, вписани в полза на първоначалния взискател. Оглед по настоящата продан: Всички желаещи да огледат на недвижимите имоти, могат да го сторят в периода на публичната продан, след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 27.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 12.10.2026 г .                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                     /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
-    "detail_checked": true,
-    "price_per_sqm": 389,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 54392
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_93092",
-    "url": "https://sales.bcpea.org/properties/93092",
-    "photo": "https://sales.bcpea.org/upload/93092/463888/IMG_2950.jpeg?w=270&h=270",
-    "price_eur": 100000,
-    "sqm": 260,
-    "area": "Борисово",
-    "title": "Парцел с къща, Борисово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T09:15:00+00:00",
-    "category": "land",
-    "_settlement": "Борисово",
-    "lat": 42.2944652,
-    "lng": 26.7304578,
-    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 2026914040 0 33 6 , ще се проведе публична продан на следния недвижим имот собственост на длъжниците ТЕОДОР СИМЕОНОВ ВАЛЕРИЕВ и ВАЛЕРИЯ СИМЕОНОВА ВАЛЕРИЕВА, с начало на проданта от 19.10.2026 г. и край на проданта до 19.11.2026 г. : 1.) УПИ I-107, в квартал 24 по регулационния план на с. Борисово, общ. Сливо поле, обл. Русе, находящ се на ул. „Георги Гьонски“ № 12, одобрен със Заповед № 962/1966 г. и Заповед № РД-09-134/2022 г., с площ по скица 1230 кв. м., с площ по нотариален акт от 1167 кв. м., при граници: улица, улица, УПИ II-107 и УПИ XXIV-108, заедно с построените в имота, съгласно Удостоверение № 2 от 22.02.2022г. за търпимост на строеж, издадено от главен архитект на Община – Сливо поле, а именно: ЖИЛИЩНА СГРАДА, ДВУЕТАЖНА, МАСИВНА , със застроена площ 130 кв. м., разгърната застроена площ 260 кв. м. , която в нотариален акт е описана като Двуетажна Жилищна сграда със застроена площ от 120 кв. м. ; ЖИЛИЩНА СГРАДА, НА ЕДИН ЕТАЖ, МАСИВНА , със застроена площ 28 кв. м. , която в нотариален акт е описана като Втора Жилищна сграда със застроена площ от 26 кв. м.; ГАРАЖ, НА ЕДИН ЕТАЖ , със застроена площ 53 кв. м. , който в нотариален акт е описан като Гараж от 15 кв. м. и Гараж от 40 кв. м., които са под един покрив; СТОПАНСКА СГРАДА, НА ЕДИН ЕТАЖ, МАСИВНА , със застроена площ 50 кв. м. , която в нотариален акт е описана като Второстепенна постройка от 22 кв. м. и Втора второстепенна постройка от 18 кв. м., които са със сключено застрояване; СТОПАНСКА СГРАДА, МАСИВНА, НА ЕДИН ЕТАЖ , със застроена площ 38 кв. м. , която в нотариален акт е описана като Трета Второстепенна постройка от 22 кв. м.; и заедно с цялата прилежаща и обслужваща имота техническа инфраструктура, осигуряваща нормалното му функциониране и заедно с всички подобрения, приращения и трайни насаждения. Начална цена, от която ще започне публичната продан на недвижимия имот: 100 000 евро Тежести: Договорна ипотека в полза на взискателя „Банка ДСК“. Възбрана от взискателят по изп. дело. Оглед по настоящата продан: Всички желаещи да огледат имотите, могат да го сторят в периода на публичната продан, всеки четвъртък от 10.00 ч. до 11.00 ч., след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 ч. на 20.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД – РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 07.10.2026 г.                                                      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                           /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93092/463888/IMG_2950.jpeg",
-      "https://sales.bcpea.org/upload/93092/463889/IMG_2951.jpeg",
-      "https://sales.bcpea.org/upload/93092/463891/IMG_2955.jpeg",
-      "https://sales.bcpea.org/upload/93092/463892/IMG_2958.jpeg",
-      "https://sales.bcpea.org/upload/93092/463893/IMG_2959.jpeg",
-      "https://sales.bcpea.org/upload/93092/463894/IMG_2960.jpeg",
-      "https://sales.bcpea.org/upload/93092/463895/IMG_2949.jpeg",
-      "https://sales.bcpea.org/upload/93092/463896/IMG_2952.jpeg",
-      "https://sales.bcpea.org/upload/93092/463897/IMG_2963.jpeg",
-      "https://sales.bcpea.org/upload/93092/463898/IMG_2970.jpeg",
-      "https://sales.bcpea.org/upload/93092/463899/IMG_2979.jpeg",
-      "https://sales.bcpea.org/upload/93092/463900/IMG_2971.jpeg",
-      "https://sales.bcpea.org/upload/93092/463901/IMG_2977.jpeg"
-    ],
-    "price_per_sqm": 385,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 100000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_93091",
-    "url": "https://sales.bcpea.org/properties/93091",
-    "photo": "https://sales.bcpea.org/upload/93091/463883/IMG_1482.jpg?w=270&h=270",
-    "price_eur": 54597,
-    "sqm": 949,
-    "area": "Кошов",
-    "title": "Земеделски имот, Кошов",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T09:09:00+00:00",
-    "category": "apartment",
-    "_settlement": "Кошов",
-    "lat": 43.6593843,
-    "lng": 25.9947567,
-    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 59140400622, ще се проведе нова публична продан на следните недвижими имоти, собственост на „КФС“ ЕООД, ЕИК 205124961 , с начало на проданта от 19 . 10.2026 г. и край на проданта до 19.11.2026 г.: I. ПОЗЕМЛЕН ИМОТ с идентификатор 39205.77.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно/, находящ се на адрес: с. Кошов. общ. Иваново, обл. Русе, местност : „ЛОМСКИ МЕСТА“ с площ: 21949 кв.м. /двадесет и една хиляди деветстотин четиридесет и девет квадратни метра/; трайно предназначение на територията : Урбанизирана ; начин на трайно ползване: За животновъден комплекс ; предишен идентификатор: няма, номер по предходен план: 077001 /нула седемдесет и седем хиляди и едно/, при съседи: 39205.77.3, 39205.77.256, 39205.77.247, 39205.71.24, 39205.71.16, 39205.77.277, 39205.77.276, 39205.77.253, 39205.71.23, 39205.77.252, 39205.77.2, 39205.77.246 , 39205.71.257, ведно със сградите, които попадат върху имота: Сграда с идентификатор 39205.77.1.3 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, три/, застроена площ 9 кв.м. / девет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, две/, застроена площ 1 9 кв.м. / деветнадесет квадратни метра/, брой етажи 1 /един/, предназначение: Промишлена сграда; Сграда с идентификатор 39205.77.1.8 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, осем/, застроена площ 258 кв.м. / двеста петдесет и осем квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.6 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, шест/, застроена площ 750 кв.м. / седемстотин и петдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.7 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, седем/, застроена площ 462 кв.м. / четиристотин шестдесет и два квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, едно/, застроена площ 12 кв.м. / дванадесет квадратни метра/, брой етажи 1 /един/, предназначение: Сграда за водоснабдяване и/или канализация; Сграда с идентификатор 39205.77.1.4 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, четири/, застроена площ 260 кв.м. / двеста и шестдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; Сграда с идентификатор 39205.77.1.5 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, едно, точка, пет/, застроена площ 380 кв.м. / триста и осемдесет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда. II . Сграда с идентификатор 77.2.1 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, едно/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 42 кв.м. / четиридесет и два квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда; III . Сграда с идентификатор 39205.77.2.2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, две/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 605 кв.м. / шестстотин и пет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда ; I V . Сграда с идентификатор 77.2.3 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две, точка, три/ в с. Кошов, общ. Иваново, обл. Русе, застроена площ 725 кв.м. / седемстотин двадесет и пет квадратни метра/, брой етажи 1 /един/, предназначение: Селскостопанска сграда, като сградите са построени в ПОЗЕМЛЕН ИМОТ – ДЪРЖАВНА СОБСТВЕНОСТ с идентификатор 39205.77. 2 /тридесет и девет хиляди двеста и пет, точка, седемдесет и седем, точка, две/, при граници и съседи на поземления имот: 39205.77.256, 39205.77.1, 39205.77.253. ОБЩА начална цена, от която ще започне публичната продан на недвижимите имоти: 54 596.88 евро, от която за терена , без прилежащия терен на сградите и за всички настоящи подобрения и приращения – 17 408 евро , върху която сума на осн. чл. 45, ал. 5, т. 1 от ЗДДС се дължи ДДС и – 37 188.88 евро, от която за сградите и прилежащият терен към нея, върху която на осн. чл. 45, ал. 3 от ЗДДС не се дължи ДДС. Тежести: Ипотека и възбрана, вписани в полза на първоначалния взискател. Вписани искови молби и възбрани в полза на присъединения по право взискател „ФЗ ВАСИЛ КОСТОВ“ ЕООД, ЕИК 103865626. Оглед по настоящата продан: Всички желаещи да огледат на недвижимите имоти, могат да го сторят в периода на публичната продан, след предварително съгласуване със съдебния изпълнител. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 20.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 21.09.2026 г.                                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                                                       /ВАСИЛ НИКОЛОВ/",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93091/463883/IMG_1482.jpg",
-      "https://sales.bcpea.org/upload/93091/463884/IMG_1483.jpg",
-      "https://sales.bcpea.org/upload/93091/463885/IMG_1484.jpg",
-      "https://sales.bcpea.org/upload/93091/463886/IMG_1485.jpg"
-    ],
-    "price_per_sqm": 58,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 54597
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_93090",
-    "url": "https://sales.bcpea.org/properties/93090",
-    "photo": "https://sales.bcpea.org/upload/93090/463874/IMG_20260917_122158.jpg?w=270&h=270",
-    "price_eur": 546338,
-    "sqm": 575,
-    "area": "Браниполе",
-    "title": "Производствен имот, Браниполе",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-12T09:02:00+00:00",
-    "category": "apartment",
-    "_settlement": "Браниполе",
-    "lat": 42.0782466,
-    "lng": 24.7549767,
-    "description": "ид 2026/8250400811 - СГРАДА с идентификатор 06077.50.302.1 (нула , шест , нула, седем, седем, точка, пет, нула, точка, три, нула, две, точка, едно) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, с адрес на сградата: село Браниполе, със застроена площ: 575 кв. м. (петстотин седемдесет и пет квадратни метра), брой етажи: 1 (един), брой самостоятелни обекти в сградата: 0 (нула), предназначение: промишлена сграда, представляваща съгласно документи за собственост сграда за „СОТ и СОХ – Метално хале“ , построена в ПОЗЕМЛЕН ИМОТ с идентификатор 06077.50.302 (нула , шест , нула, седем, седем, точка, пет, нула, точка, три, нула, две) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: село Браниполе, местност „Анчов бунар“ , с площ: 668 кв. м. (шестстотин шестдесет и осем квадратни метра), с трайно предназначение на територията: урбанизирана, с начин на трайно ползване: за друг вид производствен, складов обект, предишен идентификатор: няма, номер по предходен план: няма, при съседи на имота по кадастрална карта: поземлен имот с идентификатор 06077.50.301, поземлен имот с идентификатор 06077.50.299 и поземлен имот с идентификатор 06077.50.298, ВЕДНО с прилежащите към сградата 9,13% (девет цяло и тринадесет стотни процента) идеални части от гореописания поземлен имот с идентификатор 06077.50.302, КАКТО и ВЕДНО с прилежащите към сградата 9,13% (девет цяло и тринадесет стотни процента) идеални части от ПОЗЕМЛЕН ИМОТ с идентификатор 06077.50.298 (нула , шест , нула, седем, седем, точка, пет, нула, точка, две, девет, осем) по кадастралната карта и кадастралните регистри на село Браниполе, община „Родопи“, област Пловдив, одобрени със Заповед № РД-18-142/24.07.2017 г. на Изпълнителния директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед, с адрес на поземления имот: село Браниполе, местност „Анчов бунар“ , с площ: 4469 кв.м. (четири хиляди четиристотин шестдесет и девет квадратни метра), с трайно предназначение на територия: урбанизирана, с начин на трайно ползване: за второстепенна улица, предишен идентификатор – няма, номер по предходен план: няма, при съседи на имота по кадастрална карта: поземлен имот с идентификатор 06077.50.546, поземлен имот с идентификатор 06077.50.264, поземлен имот с идентификатор 06077.50.255, поземлен имот с идентификатор 06077.50.485, поземлен имот с идентификатор 06077.50.308, поземлен имот с идентификатор 06077.50.303, поземлен имот с идентификатор 06077.50.254, поземлен имот с идентификатор 06077.50.301, поземлен имот с идентификатор 06077.50.302, поземлен имот с идентификатор 06077.50.304, поземлен имот с идентификатор 06077.50.436, поземлен имот с идентификатор 06077.50.486, поземлен имот с идентификатор 06077.50.422, поземлен имот с идентификатор 06077.50.417, поземлен имот с идентификатор 06077.50.307, поземлен имот с идентификатор 06077.50.432, поземлен имот с идентификатор 06077.50.286, поземлен имот с идентификатор 06077.50.424, поземлен имот с идентификатор 06077.50.434, поземлен имот с идентификатор 06077.50.277, поземлен имот с идентификатор 06077.50.305, поземлен имот с идентификатор 06077.50.299 и поземлен имот с идентификатор 06077.50.306, ВЕДНО с всички пристроявания надстроявания към сградата, съгласно максимално допустимите строителни параметри на подробните устройствени планове. На основание чл. 485 от ГПК началната цена, от която да започне публичната продан на гореописания недвижим имот е в размер на 546 337,60 евро (петстотин четиридесет и шест хиляди триста тридесет и седем евро и шестдесет цента) с вкл. съответен ДДС, съставляваща 80 % от цената, съгласно чл. 485 от ГПК. Посочената цена 546 337,60 евро (петстотин четиридесет и шест хиляди триста тридесет и седем евро и шестдесет цента) с включен съответен ДДС върху данъчната основа, представляваща сбор a от началната цена без вкл. ДДС за процесния недвижим имот в размер на 543 952 евро (петстотин четиридесет и три хиляди деветстотин петдесет и две евро) и ДДС върху 408 кв. м. (четиристотин и осем квадратни метра) площ от ПИ с идентификатор 06077.50.298 в общ размер на 2385,60 евро (две хиляди триста осемдесет пет евро и шестдесет цента) ДДС при данъчна основа от 11 928 евро (единадесет хиляди деветстотин двадесет и осем евро). За 60,99 кв. м. (шестдесет цяло и деветдесет и девет стотни квадратни метра) площ от ПИ – терен под стари сгради и прилежаща им площ, както и стари сгради не се начислява ДДС, тъй като са свободни доставки по смисъла на чл. 45 ЗДДС.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93090/463874/IMG_20260917_122158.jpg",
-      "https://sales.bcpea.org/upload/93090/463875/IMG_20260917_122116.jpg",
-      "https://sales.bcpea.org/upload/93090/463876/IMG_20260917_120420.jpg",
-      "https://sales.bcpea.org/upload/93090/463877/IMG_20260917_114621.jpg",
-      "https://sales.bcpea.org/upload/93090/463878/IMG_20260917_114512.jpg",
-      "https://sales.bcpea.org/upload/93090/463879/IMG_20260917_112441.jpg",
-      "https://sales.bcpea.org/upload/93090/463880/IMG_20260917_111042.jpg",
-      "https://sales.bcpea.org/upload/93090/463881/IMG_20260917_111013.jpg",
-      "https://sales.bcpea.org/upload/93090/463882/IMG_20260917_101916.jpg"
-    ],
-    "price_per_sqm": 950,
-    "price_history": [
-      {
-        "date": "2026-10-12T16:37:18.673159+00:00",
-        "price_eur": 546338
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
     "id": "bcpea_93136",
     "url": "https://sales.bcpea.org/properties/93136",
     "photo": "https://sales.bcpea.org/upload/93136/464041/1705909314838.jpg?w=270&h=270",
@@ -91962,7 +91962,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93946,7 +93946,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -93983,7 +93983,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": 363,
     "pct_vs_area_avg": 27.8,
     "score": 2
@@ -94025,7 +94025,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95331,7 +95331,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95363,7 +95363,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95395,7 +95395,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95427,7 +95427,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95469,7 +95469,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -95501,7 +95501,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -96977,6 +96977,47 @@
     "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93350",
+    "url": "https://sales.bcpea.org/properties/93350",
+    "photo": "https://sales.bcpea.org/upload/93350/464862/IMG_4946.JPG?w=270&h=270",
+    "price_eur": 49440,
+    "sqm": 42,
+    "area": "Русе",
+    "title": "Едностаен апартамент, Русе",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-20T09:13:00+00:00",
+    "category": "apartment",
+    "_settlement": "Русе",
+    "lat": 43.8480413,
+    "lng": 25.9542057,
+    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 69140400845, ще се проведе публична продан на следния недвижим имот собственост на длъжника „ ТРУД“ АД C ЕИК 117000591 , с начало на проданта от 26 .1 0.2026 г. и край на проданта до 26. 11 .2026 г. : САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 63427.1.125.2.3 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет, точка, две, точка, три/, по кадастралната карта и кадастралните регистри на гр. Русе, общ. Русе, обл. Русе, с адрес на самостоятелния обект: гр. Русе, общ. Русе, обл. Русе, ул. „Доростол\" № 147 /сто четиридесет и седем/, бл. ОГОСТА, ет. 1 /едно/, самостоятелният обект се намира на етаж 1 /едно/ в сграда с идентификатор 63427.1.125.2 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет, точка, две/, с предназначение: Жилищна сграда – многофамилна, брой етажи 15 /петнадесет/, Сградата е разположена в поземлен имот с идентификатор 63427.1.125 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет/, с предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта 1 /едно/, с площ на самостоятелния обект 42.00 кв.м. /четиридесет и два квадратни метра/, прилежащи части – няма данни; ниво: 1 /едно/, предишен идентификатор: няма, съседи на самостоятелния обект: на същия етаж – 63427.1.125.2.2, под обекта – няма, над обекта – 63427.1.125.2.8. Начална цена, от която ще започне публичната продан на недвижимия имот: 49 440 евро Тежести: Вписана възбрана върху недвижимия имот в полза на взискателя по изп. дело и присъединените по право взискатели. Оглед по настоящата продан: Всички желаещи да огледат на имота, могат да го сторят в периода на публичната продан, всеки четвъртък от 10 ч. до 11 ч. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 27.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 20.10.2026 г.                                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                                                       /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93350/464862/IMG_4946.JPG",
+      "https://sales.bcpea.org/upload/93350/464863/IMG_4947.JPG",
+      "https://sales.bcpea.org/upload/93350/464864/IMG_4948.JPG",
+      "https://sales.bcpea.org/upload/93350/464865/IMG_4949.JPG",
+      "https://sales.bcpea.org/upload/93350/464866/IMG_4950.JPG",
+      "https://sales.bcpea.org/upload/93350/464867/IMG_4951.JPG",
+      "https://sales.bcpea.org/upload/93350/464868/IMG_4952.JPG"
+    ],
+    "price_per_sqm": 1177,
+    "price_history": [
+      {
+        "date": "2026-10-22T20:54:11.759656+00:00",
+        "price_eur": 49440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": 541,
+    "pct_vs_area_avg": 117.4,
     "score": 2
   },
   {
@@ -99826,7 +99867,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99865,7 +99906,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99903,7 +99944,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99943,7 +99984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -99983,7 +100024,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100015,7 +100056,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -100047,7 +100088,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102567,7 +102608,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102609,7 +102650,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -102657,7 +102698,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 6258,
     "pct_vs_area_avg": 205.5,
     "score": 1
@@ -104148,47 +104189,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93350",
-    "url": "https://sales.bcpea.org/properties/93350",
-    "photo": "https://sales.bcpea.org/upload/93350/464862/IMG_4946.JPG?w=270&h=270",
-    "price_eur": 49440,
-    "sqm": 42,
-    "area": "Русе",
-    "title": "Едностаен апартамент, Русе",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-20T09:13:00+00:00",
-    "category": "apartment",
-    "_settlement": "Русе",
-    "lat": 43.8480413,
-    "lng": 25.9542057,
-    "description": "Р Е П У Б Л И К А  Б Ъ Л Г А Р И Я КАМАРА НА ЧАСТНИТЕ СЪДЕБНИ ИЗПЪЛНИТЕЛИ Частен съдебен изпълнител ВАСИЛ НИКОЛОВ рег. № 914 РУСЕНСКИ ОКРЪЖЕН СЪД О Б Я В Л Е Н И Е Подписаният ВАСИЛ НИКОЛОВ – ЧСИ, рег.  № 914, с район на действие Окръжен съд гр. Русе, обявявам на интересуващите се, по изпълнително дело № 20 2 69140400845, ще се проведе публична продан на следния недвижим имот собственост на длъжника „ ТРУД“ АД C ЕИК 117000591 , с начало на проданта от 26 .1 0.2026 г. и край на проданта до 26. 11 .2026 г. : САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 63427.1.125.2.3 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет, точка, две, точка, три/, по кадастралната карта и кадастралните регистри на гр. Русе, общ. Русе, обл. Русе, с адрес на самостоятелния обект: гр. Русе, общ. Русе, обл. Русе, ул. „Доростол\" № 147 /сто четиридесет и седем/, бл. ОГОСТА, ет. 1 /едно/, самостоятелният обект се намира на етаж 1 /едно/ в сграда с идентификатор 63427.1.125.2 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет, точка, две/, с предназначение: Жилищна сграда – многофамилна, брой етажи 15 /петнадесет/, Сградата е разположена в поземлен имот с идентификатор 63427.1.125 /шестдесет и три хиляди четиристотин двадесет и седем, точка, едно, точка, сто двадесет и пет/, с предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта 1 /едно/, с площ на самостоятелния обект 42.00 кв.м. /четиридесет и два квадратни метра/, прилежащи части – няма данни; ниво: 1 /едно/, предишен идентификатор: няма, съседи на самостоятелния обект: на същия етаж – 63427.1.125.2.2, под обекта – няма, над обекта – 63427.1.125.2.8. Начална цена, от която ще започне публичната продан на недвижимия имот: 49 440 евро Тежести: Вписана възбрана върху недвижимия имот в полза на взискателя по изп. дело и присъединените по право взискатели. Оглед по настоящата продан: Всички желаещи да огледат на имота, могат да го сторят в периода на публичната продан, всеки четвъртък от 10 ч. до 11 ч. Желаещите да купят имота могат да се явят в канцеларията на Частния съдебен изпълнител, гр. Русе, ул. \"Любомир Пипков\" № 2, всеки присъствен ден и час, за да прегледат книжата и участват в наддаването, като всеки наддавач посочва предложената от него цена с цифри и думи, и подават предложението си с квитанция за внесен задатък в запечатан плик. Предложенията се подават в РЕГИСТРАТУРАТА НА РАЙОНЕН СЪД ГР. РУСЕ. Задатъкът в размер на 10% върху обявената начална цена, се внася по сметката на Частния Съдебен изпълнител. Наддавачът може да направи само едно наддавателно предложение. Всяко наддавателно предложение се прави отделно. Банкова сметка за внасяне на задатък - \"ЦЕНТРАЛНА КООПЕРАТИВНА БАНКА\"-АД: IBAN: BG91 CECB 9790 50C6 4372 00 . Проданта приключва в края на работното време в последния ден. Наддавателните предложения могат да се оттеглят най-късно в този срок. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни.Участвалите в публичната продан в началото на работния ден: в 09.00 часа на 27.11.2026 г. , след изтичане на срока за подаване на наддавателните предложения, могат да се явят в СГРАДАТА НА РАЙОНЕН СЪД - РУСЕ, зала в зависимост от съдебното разписание, за обявяване на купувача, предложил най-висока цена. При обявяването на купувача, всеки от явилите се и допуснати наддавачи може да предложи устно по-висока цена, като стъпката е в размер на един задатък, до изчерпване на предложенията. Купувачът е длъжен в двуседмичен срок от обявяването му за купувач да внесе предложената от него цена, като приспадне внесения задатък. На осн. чл. 493, ал. 3 от ГПК след плащане на цената от наддавач, обявен за купувач, внесеният задатък се връща на наддавачите, които не са били обявени за купувачи. 20.10.2026 г.                                                                    ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ: гр. РУСЕ                                                                                                                                                       /ВАСИЛ НИКОЛОВ/ Гр. Русе, ул. Любомир Пипков № 2, тел. 082/592-096, 0894/650-625 contact@vasnikolov.com",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93350/464862/IMG_4946.JPG",
-      "https://sales.bcpea.org/upload/93350/464863/IMG_4947.JPG",
-      "https://sales.bcpea.org/upload/93350/464864/IMG_4948.JPG",
-      "https://sales.bcpea.org/upload/93350/464865/IMG_4949.JPG",
-      "https://sales.bcpea.org/upload/93350/464866/IMG_4950.JPG",
-      "https://sales.bcpea.org/upload/93350/464867/IMG_4951.JPG",
-      "https://sales.bcpea.org/upload/93350/464868/IMG_4952.JPG"
-    ],
-    "price_per_sqm": 1177,
-    "price_history": [
-      {
-        "date": "2026-10-22T20:54:11.759656+00:00",
-        "price_eur": 49440
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": 541,
-    "pct_vs_area_avg": 117.4,
-    "score": 1
-  },
-  {
     "id": "bcpea_93532",
     "url": "https://sales.bcpea.org/properties/93532",
     "photo": "https://sales.bcpea.org/upload/93532/465529/67547.10.13.png?w=270&h=270",
@@ -104708,7 +104708,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1902,
     "pct_vs_area_avg": 5.6,
     "score": 1
@@ -106079,7 +106079,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": 99.7,
     "score": 1
@@ -107089,6 +107089,43 @@
     "days_on_market": 4,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93603",
+    "url": "https://sales.bcpea.org/properties/93603",
+    "photo": "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg?w=270&h=270",
+    "price_eur": 1169480,
+    "sqm": 483,
+    "area": "София",
+    "title": "Къща, София",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T09:19:00+00:00",
+    "category": "house",
+    "_settlement": "София",
+    "lat": 42.6977028,
+    "lng": 23.3217359,
+    "description": "ВИЛНА СГРАДА- вила „Астра С“ от вилно селище „Магдалена“, находящо се в град София, Столична община, вилна зона „Симеоново- север“, местността „Капанджийска“, състояща се от: сутерен, включващ: гараж, перално /мокро/ помещение, антре, котелно, фитнес- басейн, склад, сауна, душ, тоалетна и баня; първи етаж, включващ: дневна, кътове за закуска и хранене, кухня, антре, кабинет, зимна градина и тоалетна и втори етаж, включващ: входно антре, галерия, тераса, три спални, две бани и дрешник, цялата сграда със застроена площ от 165 /сто шестдесет и пет/ квадратни метра и разгърната застроена площ от 483.40 /четиристотин осемдесет и три цяло и четиридесет стотни/ квадратни метра, заедно с ПОЗЕМЛЕНИЯ ИМОТ , в който е построена сградата, целият с площ от 2 160 /две хиляди сто и шестдесет/ квадратни метра, заснет през 1994 г. с планоснимачен номер 559 /петстотин петдесет и девет/ и нанесен в кадастрален лист № 738 /седемстотин тридесет и осем/, по неодобрения кадастрален план на град София, вилна зона „Симеоново- север“, местността „Капанджийска“, при съседи: братя Ранкови, Янко Коцев, Никола Китов и дерен и при граници по скица: имот с планоснимачен номер 558 /петстотин петдесет и осем/, имот с планоснимачен номер 562 /петстотин шестдесет и две/ и имот с планоснимачен номер 493 /четиристотин деветдесет и три/, а съгласно скица на сграда с идентификатор 68134.2043.559.1 /шест осем едно три четири точка две нула четири три точка пет пет девет точка едно/ по кадастралната карта и кадастралните регистри на гр. София общ. Столична, обл. София (столица), одобрени със Заповед № РД-18-3/11.01.2011 г. на Изпълнителен директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, с адрес на сградата: гр. София, район Витоша, с.о. „Мария Магдалена“ № 2, бл. 22, със застроена площ от 160 /сто и шестдесет/ кв.м., брой етаж: 3 /три/, брой самостоятелни обекти в сградата: 0 /нула/, с предназначение: Жилищна сграда – еднофамилна, предишен идентификатор: няма, разположена в поземлен имот с идентификатор 68134.2043.559 / шест осем едно три четири точка две нула четири три точка пет пет девет/ по кадастралната карта и кадастралните регистри на гр. София общ. Столична, обл. София (столица), одобрени със Заповед № РД-18-3/11.01.2011 г. на Изпълнителен директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед, с адрес на поземления имот: гр. София, район Витоша, с.о. „Мария Магдалена“ № 2, със застроена площ от 2 301 /две хиляди триста и един/ кв.м., трайно предназначение на територията: Урбанизирана, начин на трайно ползване: ниско застрояване (до 10 м.), предишен идентификатор: няма, номер по предходен план: 559, при съседи: 68134.2043.1795, 68134.2043.562, 68134.2043.558, 68134.2043.1794, 68134.2043.681, 68134.2043.4379.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg",
+      "https://sales.bcpea.org/upload/93603/465891/20260409_102014.jpg",
+      "https://sales.bcpea.org/upload/93603/465892/20260409_102218.jpg"
+    ],
+    "price_per_sqm": 2421,
+    "price_history": [
+      {
+        "date": "2026-10-27T09:17:23.793990+00:00",
+        "price_eur": 1169480
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 5,
+    "area_avg_price_per_sqm": 1902,
+    "pct_vs_area_avg": 27.3,
     "score": 1
   },
   {
@@ -109249,6 +109286,37 @@
     "score": 1
   },
   {
+    "id": "bcpea_93670",
+    "url": "https://sales.bcpea.org/properties/93670",
+    "photo": null,
+    "price_eur": 2504,
+    "sqm": 748,
+    "area": "Червен бряг",
+    "title": "Парцел, Червен бряг",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-28T09:45:00+00:00",
+    "category": "land",
+    "_settlement": "Червен бряг",
+    "lat": 43.2789455,
+    "lng": 24.0824325,
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-28T09:07:10.617533+00:00",
+        "price_eur": 2504
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
     "id": "bcpea_93668",
     "url": "https://sales.bcpea.org/properties/93668",
     "photo": "https://sales.bcpea.org/upload/93668/466126/20260408_100647-.jpg?w=270&h=270",
@@ -109300,7 +109368,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -2.6,
     "score": 1
@@ -109577,43 +109645,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_93603",
-    "url": "https://sales.bcpea.org/properties/93603",
-    "photo": "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg?w=270&h=270",
-    "price_eur": 1169480,
-    "sqm": 483,
-    "area": "София",
-    "title": "Къща, София",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T09:19:00+00:00",
-    "category": "house",
-    "_settlement": "София",
-    "lat": 42.6977028,
-    "lng": 23.3217359,
-    "description": "ВИЛНА СГРАДА- вила „Астра С“ от вилно селище „Магдалена“, находящо се в град София, Столична община, вилна зона „Симеоново- север“, местността „Капанджийска“, състояща се от: сутерен, включващ: гараж, перално /мокро/ помещение, антре, котелно, фитнес- басейн, склад, сауна, душ, тоалетна и баня; първи етаж, включващ: дневна, кътове за закуска и хранене, кухня, антре, кабинет, зимна градина и тоалетна и втори етаж, включващ: входно антре, галерия, тераса, три спални, две бани и дрешник, цялата сграда със застроена площ от 165 /сто шестдесет и пет/ квадратни метра и разгърната застроена площ от 483.40 /четиристотин осемдесет и три цяло и четиридесет стотни/ квадратни метра, заедно с ПОЗЕМЛЕНИЯ ИМОТ , в който е построена сградата, целият с площ от 2 160 /две хиляди сто и шестдесет/ квадратни метра, заснет през 1994 г. с планоснимачен номер 559 /петстотин петдесет и девет/ и нанесен в кадастрален лист № 738 /седемстотин тридесет и осем/, по неодобрения кадастрален план на град София, вилна зона „Симеоново- север“, местността „Капанджийска“, при съседи: братя Ранкови, Янко Коцев, Никола Китов и дерен и при граници по скица: имот с планоснимачен номер 558 /петстотин петдесет и осем/, имот с планоснимачен номер 562 /петстотин шестдесет и две/ и имот с планоснимачен номер 493 /четиристотин деветдесет и три/, а съгласно скица на сграда с идентификатор 68134.2043.559.1 /шест осем едно три четири точка две нула четири три точка пет пет девет точка едно/ по кадастралната карта и кадастралните регистри на гр. София общ. Столична, обл. София (столица), одобрени със Заповед № РД-18-3/11.01.2011 г. на Изпълнителен директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо сградата: няма извършено изменение на КККР със заповед, с адрес на сградата: гр. София, район Витоша, с.о. „Мария Магдалена“ № 2, бл. 22, със застроена площ от 160 /сто и шестдесет/ кв.м., брой етаж: 3 /три/, брой самостоятелни обекти в сградата: 0 /нула/, с предназначение: Жилищна сграда – еднофамилна, предишен идентификатор: няма, разположена в поземлен имот с идентификатор 68134.2043.559 / шест осем едно три четири точка две нула четири три точка пет пет девет/ по кадастралната карта и кадастралните регистри на гр. София общ. Столична, обл. София (столица), одобрени със Заповед № РД-18-3/11.01.2011 г. на Изпълнителен директор на АГКК, с последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот : няма извършено изменение на КККР със заповед, с адрес на поземления имот: гр. София, район Витоша, с.о. „Мария Магдалена“ № 2, със застроена площ от 2 301 /две хиляди триста и един/ кв.м., трайно предназначение на територията: Урбанизирана, начин на трайно ползване: ниско застрояване (до 10 м.), предишен идентификатор: няма, номер по предходен план: 559, при съседи: 68134.2043.1795, 68134.2043.562, 68134.2043.558, 68134.2043.1794, 68134.2043.681, 68134.2043.4379.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93603/465890/20260409_101829.jpg",
-      "https://sales.bcpea.org/upload/93603/465891/20260409_102014.jpg",
-      "https://sales.bcpea.org/upload/93603/465892/20260409_102218.jpg"
-    ],
-    "price_per_sqm": 2421,
-    "price_history": [
-      {
-        "date": "2026-10-27T09:17:23.793990+00:00",
-        "price_eur": 1169480
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 4,
-    "area_avg_price_per_sqm": 1902,
-    "pct_vs_area_avg": 27.3,
-    "score": 0
-  },
-  {
     "id": "bcpea_93672",
     "url": "https://sales.bcpea.org/properties/93672",
     "photo": "https://sales.bcpea.org/upload/93672/466177/viber_изображение_2025-08-15_13-06-20-319.jpg?w=270&h=270",
@@ -109641,37 +109672,6 @@
       {
         "date": "2026-10-28T09:07:10.617533+00:00",
         "price_eur": 5475
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93670",
-    "url": "https://sales.bcpea.org/properties/93670",
-    "photo": null,
-    "price_eur": 2504,
-    "sqm": 748,
-    "area": "Червен бряг",
-    "title": "Парцел, Червен бряг",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-28T09:45:00+00:00",
-    "category": "land",
-    "_settlement": "Червен бряг",
-    "lat": 43.2789455,
-    "lng": 24.0824325,
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-28T09:07:10.617533+00:00",
-        "price_eur": 2504
       }
     ],
     "price_drop_count": 0,
@@ -109722,7 +109722,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 3,
+    "days_on_market": 4,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": 9.7,
     "score": 0
@@ -110583,7 +110583,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -110621,7 +110621,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112356,7 +112356,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -112395,7 +112395,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 363,
     "pct_vs_area_avg": 71.1,
     "score": 0
