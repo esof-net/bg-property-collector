@@ -107611,9 +107611,12 @@
       "portal": "sales.bcpea.org",
       "site_updated_at": "2026-11-02T17:01:00+00:00",
       "category": "commercial",
-      "_settlement": "Гълъбово",
-      "lat": null,
-      "lng": null
+      "lat": 42.1390164,
+      "lng": 25.867346,
+      "detail_checked": true,
+      "photos": [
+        "https://sales.bcpea.org/upload/93815/414018/20250709_112335.jpg"
+      ]
     }
   }
 }
