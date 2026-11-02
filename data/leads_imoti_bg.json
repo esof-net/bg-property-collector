@@ -6392,6 +6392,38 @@
     "score": 9
   },
   {
+    "id": "imotibg_514449",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/бургас-област/сравда-514449.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_69af1be37f385_69af1ea19e326.jpeg",
+    "price_eur": 125000,
+    "sqm": 90,
+    "area": "с.Равда",
+    "city": "Бургас област",
+    "title": "Четиристаен апартамент, с.Равда",
+    "portal": "imoti.bg",
+    "lat": 42.6383529,
+    "lng": 27.6757833,
+    "description": "Комплекс Аполлон 6, Равда\r\n\r\nДополнительная информация\r\n◼️ - Кухня-гостиная и две отдельные комфортные спальни\r\n◼️ - Общая площадь: 90 м²\r\n◼️ - Этаж 1, западная сторона\r\n◼️  - Полностью готовы к заезду\r\n◼️ - Пригодны для аренды\r\n\r\nПреимущества комплекса:\r\n◼️ - Современная архитектура\r\n◼️ - Бассейн, видеонаблюдение\r\n◼️ - Уличная парковка\r\n◼️ - Чистая, ухоженная зона, рестораны, фитнес, маркеты, бассейн\r\n◼️ - Комплекс круглый  год \r\n◼️ - пляж, 5-7 минут пешком\r\n◼️ - Плата за поддержку: 10 €/м² в год",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1389,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 125000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 69,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1424,
+    "pct_vs_area_avg": -2.5,
+    "score": 9
+  },
+  {
     "id": "imotibg_514951",
     "url": "https://imoti.bg/продажби/нива/враца-област/гркнежа-514951.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -6453,6 +6485,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 502,
     "pct_vs_area_avg": -69.3,
+    "score": 9
+  },
+  {
+    "id": "imotibg_515509",
+    "url": "https://imoti.bg/продажби/парцел/софия-област/сгорна-малина-515509.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a636818d2bd2_6a8829bf71ed7.jpg",
+    "price_eur": 179968,
+    "sqm": 9472,
+    "area": "с.Горна Малина",
+    "city": "София област",
+    "title": "Парцел, с.Горна Малина",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Инвестиционен имот в м. Локвите, Горна Малина – три съседни парцела с обща площ 9 472 кв.м., включени в Общия устройствен план за жилищно строителство. Имотите се продават заедно на цена 19 €/кв.м. (общо 179 968 €) или поотделно на цена 24 €/кв.м. Цените при индивидуална продажба са: Имот 1 – 114 216 €, Имот 2 – 51 960 €, Имот 3 – 61 152 €. Районът предлага отличен достъп до София, спокойна среда и висок инвестиционен потенциал, подходящ както за жилищно строителство, така и за производствена, логистична или складова дейност.",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 19,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 179968
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 69,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 9
   },
   {
@@ -8289,6 +8353,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 510,
     "pct_vs_area_avg": -76.1,
+    "score": 9
+  },
+  {
+    "id": "imotibg_515880",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас-област/сравда-515880.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aa6ace74e9b6_6aa6ad7295a8a.jpg",
+    "price_eur": 50000,
+    "sqm": 39,
+    "area": "с.Равда",
+    "city": "Бургас област",
+    "title": "Едностаен апартамент, с.Равда",
+    "portal": "imoti.bg",
+    "lat": 42.6383529,
+    "lng": 27.6757833,
+    "description": null,
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1282,
+    "price_history": [
+      {
+        "date": "2026-09-13T20:26:24.946171+00:00",
+        "price_eur": 50000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 49,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1424,
+    "pct_vs_area_avg": -10.0,
     "score": 9
   },
   {
@@ -12140,38 +12236,6 @@
     "score": 8
   },
   {
-    "id": "imotibg_514449",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/бургас-област/сравда-514449.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69af1be37f385_69af1ea19e326.jpeg",
-    "price_eur": 125000,
-    "sqm": 90,
-    "area": "с.Равда",
-    "city": "Бургас област",
-    "title": "Четиристаен апартамент, с.Равда",
-    "portal": "imoti.bg",
-    "lat": 42.6383529,
-    "lng": 27.6757833,
-    "description": "Комплекс Аполлон 6, Равда\r\n\r\nДополнительная информация\r\n◼️ - Кухня-гостиная и две отдельные комфортные спальни\r\n◼️ - Общая площадь: 90 м²\r\n◼️ - Этаж 1, западная сторона\r\n◼️  - Полностью готовы к заезду\r\n◼️ - Пригодны для аренды\r\n\r\nПреимущества комплекса:\r\n◼️ - Современная архитектура\r\n◼️ - Бассейн, видеонаблюдение\r\n◼️ - Уличная парковка\r\n◼️ - Чистая, ухоженная зона, рестораны, фитнес, маркеты, бассейн\r\n◼️ - Комплекс круглый  год \r\n◼️ - пляж, 5-7 минут пешком\r\n◼️ - Плата за поддержку: 10 €/м² в год",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1389,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 125000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 69,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1336,
-    "pct_vs_area_avg": 4.0,
-    "score": 8
-  },
-  {
     "id": "imotibg_513813",
     "url": "https://imoti.bg/продажби/къща/русе-област/сдряновец-513813.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/img/no_pic.jpg",
@@ -12201,38 +12265,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 5,
     "pct_vs_area_avg": 0.0,
-    "score": 8
-  },
-  {
-    "id": "imotibg_515509",
-    "url": "https://imoti.bg/продажби/парцел/софия-област/сгорна-малина-515509.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a636818d2bd2_6a8829bf71ed7.jpg",
-    "price_eur": 179968,
-    "sqm": 9472,
-    "area": "с.Горна Малина",
-    "city": "София област",
-    "title": "Парцел, с.Горна Малина",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Инвестиционен имот в м. Локвите, Горна Малина – три съседни парцела с обща площ 9 472 кв.м., включени в Общия устройствен план за жилищно строителство. Имотите се продават заедно на цена 19 €/кв.м. (общо 179 968 €) или поотделно на цена 24 €/кв.м. Цените при индивидуална продажба са: Имот 1 – 114 216 €, Имот 2 – 51 960 €, Имот 3 – 61 152 €. Районът предлага отличен достъп до София, спокойна среда и висок инвестиционен потенциал, подходящ както за жилищно строителство, така и за производствена, логистична или складова дейност.",
-    "site_posted_at": null,
-    "category": "land",
-    "category_confidence": "high",
-    "price_per_sqm": 19,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 179968
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 58,
-    "source_status": "removed",
-    "removed_at": "2026-10-22T20:52:03.967681+00:00",
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 8
   },
   {
@@ -17186,7 +17218,7 @@
   {
     "id": "imotibg_514419",
     "url": "https://imoti.bg/продажби/къща/пловдив/беломорски-остромила-514419.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_69a98982c5ced_6aa00b47128af.jpg",
+    "photo": "https://imoti.bg/assets/offers/small/r_69a98982c5ced_6ae88b0440748.jpg",
     "price_eur": 205000,
     "sqm": 120,
     "area": "Беломорски- Остромила",
@@ -21969,38 +22001,6 @@
     "removed_at": "2026-10-16T18:35:15.382710+00:00",
     "area_avg_price_per_sqm": 2182,
     "pct_vs_area_avg": -3.7,
-    "score": 7
-  },
-  {
-    "id": "imotibg_515880",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/бургас-област/сравда-515880.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6aa6ace74e9b6_6aa6ad7295a8a.jpg",
-    "price_eur": 50000,
-    "sqm": 39,
-    "area": "с.Равда",
-    "city": "Бургас област",
-    "title": "Едностаен апартамент, с.Равда",
-    "portal": "imoti.bg",
-    "lat": 42.6383529,
-    "lng": 27.6757833,
-    "description": null,
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1282,
-    "price_history": [
-      {
-        "date": "2026-09-13T20:26:24.946171+00:00",
-        "price_eur": 50000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 49,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1336,
-    "pct_vs_area_avg": -4.0,
     "score": 7
   },
   {
@@ -35598,6 +35598,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 240,
     "pct_vs_area_avg": 0.0,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516207",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/бургас-област/сравда-516207.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ae8680e3b1ad_6ae86de6f02de.png",
+    "price_eur": 96100,
+    "sqm": 60,
+    "area": "с.Равда",
+    "city": "Бургас област",
+    "title": "Двустаен апартамент, с.Равда",
+    "portal": "imoti.bg",
+    "lat": 42.6383529,
+    "lng": 27.6757833,
+    "description": "Двустаен Апартамент в комплекс Аура Резиденс, Равда — директно от строителя, без комисионна!\r\nПредлагаме за продажба апартамент Б 501 на пети жилищен етаж, с обща площ 60,01 кв.м с включени общи части и застроена площ 53,79 кв.м — с функционално разпределение, подходящ за ваканционен дом или целогодишно живеене.\r\nРазпределение:\r\n• Дневна с кухненски бокс — 22,79 кв.м чиста площ\r\n• Спалня — 12,31 кв.м. чиста площ\r\n• Коридор — 2,60 кв.м. чиста площ  \r\n• Баня с тоалетна - 3,44 кв.м. чиста площ\r\n• Тераса — 4,00 кв.м, с достъп от дневната и спалнята чиста площ\r\n???? Апартаментите се издават със:\r\n• Положен ламинат\r\n• Боядисани стени и тавани\r\n• Положени плочки в банята и тоалетната\r\n• Монтирани интериорни врати\r\n???? Удобства в Аура Резиденс:\r\n• Комплекс от затворен тип\r\n• Басейн\r\n• Закрити и открити паркоместа\r\n• Богато озеленяване\r\n????400 м от плажа\r\n????900 м от lidl,DM,Sinsay,Pepko,Kik,Jusk,Masterhaus,Helios мебелен магазин\r\n????500 м Аквапарк Парадайс \r\n????800 м от центъра на Равда.\r\n???? В близост до плажа, автобусни спирки, магазини и ресторанти.\r\n???? В близост до международно летище\r\n????Акт 16 - до 15.01.2028\r\n✅ Директно от строителя — без комисионна!\r\nСвържете се с нас за още информация,в тази сграда има още свободни апартаменти.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1602,
+    "price_history": [
+      {
+        "date": "2026-11-02T14:54:50.440768+00:00",
+        "price_eur": 96100
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1424,
+    "pct_vs_area_avg": 12.5,
     "score": 0
   }
 ]
