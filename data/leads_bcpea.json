@@ -28221,7 +28221,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 47,
+    "days_on_market": 48,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -76529,7 +76529,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 33,
+    "days_on_market": 34,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80602,7 +80602,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80634,7 +80634,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80666,7 +80666,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82469,6 +82469,38 @@
     "score": 4
   },
   {
+    "id": "bcpea_92887",
+    "url": "https://sales.bcpea.org/properties/92887",
+    "photo": null,
+    "price_eur": 5191,
+    "sqm": 77,
+    "area": "Силистра",
+    "title": "Парцел с къща, Силистра",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-07T08:50:00+00:00",
+    "category": "land",
+    "_settlement": "Силистра",
+    "lat": 43.9057061,
+    "lng": 27.0705496,
+    "description": "- ¼ ид. части от п оземлен имот с идентификатор 66425.501.172 / шест, шест, четири, две, пет, точка, пет, нула, едно, точка, едно, седем, две /, находящ се в гр . Силистра , общ. Силистра , обл. Силистра, ул. „Македония“ №118 . По кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18- 66 /0 2 .06.20 0 8г. н а ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Площ: 309 кв.м. / триста и девет квадратни метра/. Трайно предназначение на територията: Урбанизирана . Начин на трайно ползване: Ниско застрояване до (10 m ) . Предишен идентификатор: няма. Номер на предходен план: квартал: 25, парцел: 17. Съседи: 66425.501.8937; 66425.501.173; 66425.501.171; 66425.501.174, ведно със сгради, които попадат върху имота: 1. Сграда 66425.501.172.1 , застроена площ 113 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 2. Сграда 66425.501.172.2 , застроена площ 21 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 3. Сграда 66425.501.172.3 , застроена площ 27 кв.м., брой етажи 1, предназначение: Селскостопанска сграда; 4. Сграда 66425.501.172.4 , застроена площ 6 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 5. Сграда 66425.501.172.5 , застроена площ 5 кв.м., брой етажи 1, предназначение: Селскостопанска сграда.",
+    "detail_checked": true,
+    "price_per_sqm": 67,
+    "price_history": [
+      {
+        "date": "2026-10-07T06:05:09.764047+00:00",
+        "price_eur": 5191
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": 258,
+    "pct_vs_area_avg": -74.0,
+    "score": 4
+  },
+  {
     "id": "bcpea_92993",
     "url": "https://sales.bcpea.org/properties/92993",
     "photo": "https://sales.bcpea.org/upload/92993/463522/IMG_20231115_111817619_HDR_AE - Copy.jpg?w=270&h=270",
@@ -84050,38 +84082,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_92887",
-    "url": "https://sales.bcpea.org/properties/92887",
-    "photo": null,
-    "price_eur": 5191,
-    "sqm": 77,
-    "area": "Силистра",
-    "title": "Парцел с къща, Силистра",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-07T08:50:00+00:00",
-    "category": "land",
-    "_settlement": "Силистра",
-    "lat": 43.9057061,
-    "lng": 27.0705496,
-    "description": "- ¼ ид. части от п оземлен имот с идентификатор 66425.501.172 / шест, шест, четири, две, пет, точка, пет, нула, едно, точка, едно, седем, две /, находящ се в гр . Силистра , общ. Силистра , обл. Силистра, ул. „Македония“ №118 . По кадастралната карта и кадастралните регистри, одобрени със Заповед №РД-18- 66 /0 2 .06.20 0 8г. н а ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма извършено изменение на КККР със заповед. Площ: 309 кв.м. / триста и девет квадратни метра/. Трайно предназначение на територията: Урбанизирана . Начин на трайно ползване: Ниско застрояване до (10 m ) . Предишен идентификатор: няма. Номер на предходен план: квартал: 25, парцел: 17. Съседи: 66425.501.8937; 66425.501.173; 66425.501.171; 66425.501.174, ведно със сгради, които попадат върху имота: 1. Сграда 66425.501.172.1 , застроена площ 113 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 2. Сграда 66425.501.172.2 , застроена площ 21 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 3. Сграда 66425.501.172.3 , застроена площ 27 кв.м., брой етажи 1, предназначение: Селскостопанска сграда; 4. Сграда 66425.501.172.4 , застроена площ 6 кв.м., брой етажи 1, предназначение: Жилищна сграда-еднофамилна; 5. Сграда 66425.501.172.5 , застроена площ 5 кв.м., брой етажи 1, предназначение: Селскостопанска сграда.",
-    "detail_checked": true,
-    "price_per_sqm": 67,
-    "price_history": [
-      {
-        "date": "2026-10-07T06:05:09.764047+00:00",
-        "price_eur": 5191
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": 258,
-    "pct_vs_area_avg": -74.0,
-    "score": 3
-  },
-  {
     "id": "bcpea_92916",
     "url": "https://sales.bcpea.org/properties/92916",
     "photo": "https://sales.bcpea.org/upload/92916/463010/IMG_1577.jpeg?w=270&h=270",
@@ -85547,7 +85547,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85582,7 +85582,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85620,7 +85620,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -85672,7 +85672,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": 541,
     "pct_vs_area_avg": 42.4,
     "score": 3
@@ -104805,7 +104805,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1893,
     "pct_vs_area_avg": 6.1,
     "score": 1
@@ -107273,7 +107273,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109526,7 +109526,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -110386,7 +110386,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114561,6 +114561,276 @@
       {
         "date": "2026-11-02T21:03:04.541712+00:00",
         "price_eur": 187200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93824",
+    "url": "https://sales.bcpea.org/properties/93824",
+    "photo": "https://sales.bcpea.org/upload/93824/467067/viber_image_2026-09-12_10-40-54-455.jpg?w=270&h=270",
+    "price_eur": 16240,
+    "sqm": 630,
+    "area": "Чернево",
+    "title": "Земеделски имот, Чернево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T10:48:00+00:00",
+    "category": "apartment",
+    "_settlement": "Чернево",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 26,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 16240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93823",
+    "url": "https://sales.bcpea.org/properties/93823",
+    "photo": "https://sales.bcpea.org/upload/93823/467065/Screenshot 2026-11-03 101230.png?w=270&h=270",
+    "price_eur": 48880,
+    "sqm": 33,
+    "area": "Чернево",
+    "title": "Парцел с къща, Чернево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T10:21:00+00:00",
+    "category": "land",
+    "_settlement": "Чернево",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1481,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 48880
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93822",
+    "url": "https://sales.bcpea.org/properties/93822",
+    "photo": "https://sales.bcpea.org/upload/93822/467064/9748_2025_1.jpg?w=270&h=270",
+    "price_eur": 5760,
+    "sqm": 2,
+    "area": "Косара",
+    "title": "Земеделска земя, Косара",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T10:07:00+00:00",
+    "category": "land",
+    "_settlement": "Косара",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 2880,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 5760
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93821",
+    "url": "https://sales.bcpea.org/properties/93821",
+    "photo": null,
+    "price_eur": 1472,
+    "sqm": 530,
+    "area": "Алеково",
+    "title": "Парцел, Алеково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T10:04:00+00:00",
+    "category": "land",
+    "_settlement": "Алеково",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 1472
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93820",
+    "url": "https://sales.bcpea.org/properties/93820",
+    "photo": null,
+    "price_eur": 6560,
+    "sqm": 638,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:10:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 6560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93819",
+    "url": "https://sales.bcpea.org/properties/93819",
+    "photo": null,
+    "price_eur": 3360,
+    "sqm": 376,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:09:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 3360
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93818",
+    "url": "https://sales.bcpea.org/properties/93818",
+    "photo": null,
+    "price_eur": 6240,
+    "sqm": 149,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:08:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 42,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 6240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93817",
+    "url": "https://sales.bcpea.org/properties/93817",
+    "photo": "https://sales.bcpea.org/upload/93817/455221/67270.73.7.jpg?w=270&h=270",
+    "price_eur": 959,
+    "sqm": 35,
+    "area": "Слащен",
+    "title": "Земеделска земя, Слащен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:02:00+00:00",
+    "category": "land",
+    "_settlement": "Слащен",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 27,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 959
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93816",
+    "url": "https://sales.bcpea.org/properties/93816",
+    "photo": "https://sales.bcpea.org/upload/93816/455215/67270.73.6.jpg?w=270&h=270",
+    "price_eur": 933,
+    "sqm": 7,
+    "area": "Слащен",
+    "title": "Земеделска земя, Слащен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:01:00+00:00",
+    "category": "land",
+    "_settlement": "Слащен",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 133,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 933
       }
     ],
     "price_drop_count": 0,
