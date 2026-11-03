@@ -1,0 +1,30 @@
+name: Deploy on gh-pages push
+
+# THIS FILE LIVES ON THE gh-pages BRANCH (at .github/workflows/deploy-on-push.yml), not on main. The copy under
+# site/ on main is only its reviewed source; the owner puts it on gh-pages once, when bootstrapping that branch
+# (see docs/public-site-deploy.md in the private repo). NOT a scraper.
+#
+# Why it exists: a `push` trigger only runs workflow files that exist in the pushed commit, so a workflow on main
+# never sees pushes to gh-pages. The private repo pushes the built site to gh-pages with a deploy key (which does
+# start workflows); this stub then calls the real logic, kept once on main in deploy-site.yml.
+# The private deploy never touches /.github on gh-pages, so this file survives frontend deploys.
+#
+# Until the owner sets the repository variable PUBLIC_SITE_LIVE to 'true' the job is skipped, not failed.
+# Needs the github-pages environment to allow the gh-pages branch (the caller's ref is gh-pages).
+on:
+  push:
+    branches: [gh-pages]
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    if: ${{ vars.PUBLIC_SITE_LIVE == 'true' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: esof-net/bg-property-collector/.github/workflows/deploy-site.yml@main
+    with:
+      verify_only: false
