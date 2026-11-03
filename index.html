@@ -1,0 +1,1266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Imoten Radar</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.css" />
+<script src="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.js"></script>
+<!-- Leaflet.markercluster (discovery & engagement batch, backlog item -
+     national map marker clustering): loaded the same way as Leaflet/
+     Leaflet.draw above (a plain CDN script tag, no bundler/npm), the
+     existing pattern this codebase already uses for every third-party
+     client library. Only the base MarkerCluster.css is pulled in, NOT
+     MarkerCluster.Default.css - that stylesheet's default green/yellow/
+     orange cluster-size color scale would violate design-guidelines.md's
+     one-accent-color rule, so cluster icons are rendered entirely via a
+     custom iconCreateFunction (see brassClusterIcon()) styled in brass
+     instead, and the base stylesheet is only needed for spiderfy/
+     positioning behavior, not any of its color classes. -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<!-- Playfair Display (serif, headline/price accent) + Inter (sans, body/UI) -
+     see docs/design-guidelines.md section 3. Both ship full Cyrillic glyph
+     sets, a hard requirement for a Bulgarian-primary-language site. Loaded
+     site-wide (harmless if unused elsewhere yet) but only actually applied
+     within the listing detail view for now - see the scoping note on the
+     "Listing detail page" CSS block below. -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<!-- App styles are imported by the modules that own them (src/main.ts imports the global base/layout first). -->
+  <script type="module" crossorigin src="/_vite/index-uZiyPRd0.js"></script>
+  <link rel="stylesheet" crossorigin href="/_vite/index-DxqQucXn.css">
+</head>
+<body>
+
+<div class="app">
+
+  <aside class="sidebar" id="appSidebar">
+    <div class="sidebar-brand">🏠 Imoten Radar</div>
+    <button class="nav-item active" data-section="home"><span class="icon">🏡</span> Home</button>
+    <button class="nav-item" data-section="leadgen"><span class="icon">🎯</span> Lead Generators</button>
+    <button class="nav-item" data-section="pipeline"><span class="icon">🗂️</span> Pipeline</button>
+    <button class="nav-item" data-section="comparables"><span class="icon">📐</span> Comparables</button>
+    <button class="nav-item" data-section="dealcalc"><span class="icon">🧮</span> Deal Calculator</button>
+    <button class="nav-item" data-section="dashboard"><span class="icon">📊</span> Dashboard</button>
+    <button class="nav-item" data-section="market"><span class="icon">📈</span> Market Data</button>
+    <button class="nav-item" data-section="preferences"><span class="icon">⚙️</span> Preferences</button>
+    <button class="nav-item" data-section="account"><span class="icon">👤</span> Account</button>
+    <button class="nav-item" data-section="help"><span class="icon">❓</span> Help</button>
+  </aside>
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+  <div class="main">
+    <header id="siteHeader" class="home-compact">
+      <button class="sidebar-toggle" id="sidebarToggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="appSidebar">
+        <span class="sidebar-toggle-bars">
+          <span class="sidebar-toggle-bar"></span>
+          <span class="sidebar-toggle-bar"></span>
+          <span class="sidebar-toggle-bar"></span>
+        </span>
+      </button>
+      <div class="header-titles">
+        <h1 id="greeting">🏠 Imoten Radar</h1>
+        <p class="subtitle" id="subtitle">Loading live listings…</p>
+      </div>
+    </header>
+
+    <div class="container">
+
+      <!-- Home -->
+      <section class="page active" id="section-home">
+        <!-- "Split & Interlock" hero (docs/backlog.md item 67) - see the
+             .home-hero CSS rules above for the full rationale. -->
+        <div class="home-hero-top-row">
+          <span class="home-hero-eyebrow">Bulgaria &middot; Property Aggregator</span>
+          <span class="home-hero-eyebrow home-hero-greeting" id="homeHeroGreeting">Good day</span>
+        </div>
+        <div class="home-hero">
+          <p class="home-hero-line1">Imoten</p>
+          <div class="home-hero-sweep-rule"></div>
+          <div class="home-hero-line2-row">
+            <span class="home-hero-logo">
+              <!-- Radar-sweep-plus-roofline logo mark, unchanged from the
+                   concept: two concentric sweep rings, a brass sweep-arc
+                   wedge, and an ink property-roof notch at center. Literal
+                   hex (not var()) since SVG presentation attributes don't
+                   reliably resolve CSS custom properties across browsers;
+                   #5B6472/#B08A2E/#1B2434 match --taupe/--brass/--ink
+                   exactly. -->
+              <svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                <circle cx="36" cy="36" r="30" stroke="#5B6472" stroke-width="1.5" opacity="0.5" />
+                <circle cx="36" cy="36" r="19" stroke="#5B6472" stroke-width="1.5" opacity="0.5" />
+                <path d="M36 36 L36 10 A26 26 0 0 1 58 23 Z" fill="#B08A2E" opacity="0.85" />
+                <path d="M24 40 L36 30 L48 40 L48 48 L24 48 Z" fill="none" stroke="#1B2434" stroke-width="2.5" stroke-linejoin="round" />
+                <circle cx="36" cy="36" r="2.5" fill="#1B2434" />
+              </svg>
+            </span>
+            <p class="home-hero-line2">Radar</p>
+          </div>
+        </div>
+        <div class="card home-hero-search-card">
+          <h2>Search listings</h2>
+          <p class="card-sub">Search imotenradar's own tracked listings by city, quarter (кв.), or keyword.</p>
+          <div class="home-search-row">
+            <input type="text" id="homeSearchQuery" placeholder="Search by address, area, or keyword…" />
+            <button class="cta-btn" id="homeSearchBtn">Search →</button>
+          </div>
+        </div>
+        <div class="stat-row" id="homeStats"></div>
+        <p class="home-hero-subtitle" id="homeHeroSubtitle">Loading live listings…</p>
+        <div class="card" id="recentlyViewedCard" style="display:none;">
+          <h2>Recently viewed</h2>
+          <p class="card-sub">Jump back into a listing you already looked at, without re-searching.</p>
+          <div class="recently-viewed-strip" id="recentlyViewedStrip"></div>
+        </div>
+        <div class="card">
+          <h2>Browse by city</h2>
+          <p class="card-sub">The 30 largest cities and towns in Bulgaria, plus "Others" for every listing that isn't specifically one of them. 7 of 8 portals only cover Sofia, so Sofia's count will dominate until more sources expand nationwide - sales.bcpea.org is the one already-nationwide source.</p>
+          <div class="city-photo-grid" id="cityTabRow"></div>
+        </div>
+        <div class="card">
+          <h2>Browse by Council</h2>
+          <p class="card-sub">All 28 provinces (oblasts) of Bulgaria, plus "Others" for any listing that couldn't be matched to one. Every listing is allocated by mapping its city to that city's own province, or by matching a province name directly in its listing text when no city matched.</p>
+          <div class="city-photo-grid" id="oblastTabRow"></div>
+        </div>
+        <div class="card">
+          <h2>Browse by property type</h2>
+          <p class="card-sub">Filter listings across all 8 portals by property type, or jump straight to public court-ordered auctions from sales.bcpea.org (Chamber of Private Enforcement Agents) - their prices are a legal minimum starting bid, not a negotiable asking price. "Uncategorized" is listings some portals couldn't be classified for right now, not a real property type.</p>
+          <div class="type-filter-grid" id="typeFilterGrid"></div>
+        </div>
+        <div class="card">
+          <h2>Listings by source</h2>
+          <p class="card-sub">All 8 portals are scraped automatically and de-duplicated into one list.</p>
+          <div id="homeChartWrap"><canvas id="homeChart"></canvas></div>
+          <div class="portal-chip-row" id="portalList"></div>
+        </div>
+        <div class="card">
+          <h2>Ready to browse?</h2>
+          <p class="card-sub">Filter by price, size and area, and sort by motivation score to find the best leads.</p>
+          <button class="cta-btn-secondary" id="goToLeadsBtn">Browse listings →</button>
+        </div>
+      </section>
+
+      <!-- Lead Generators gallery -->
+      <section class="page" id="section-leadgen">
+        <div class="leadgen-toolbar">
+          <p class="leadgen-count" id="leadgenCount"></p>
+          <div class="leadgen-toolbar-controls">
+            <div class="leadgen-saletype-tabs" id="leadgenSaleTypeTabs">
+              <button type="button" class="leadgen-saletype-tab-btn active" data-saletype="all">All</button>
+              <button type="button" class="leadgen-saletype-tab-btn" data-saletype="sale">For Sale</button>
+              <button type="button" class="leadgen-saletype-tab-btn" data-saletype="rent">To Rent</button>
+              <button type="button" class="leadgen-saletype-tab-btn" data-saletype="both">For Sale &amp; To Rent</button>
+            </div>
+            <select id="leadgenSortBy">
+              <option value="matches-desc">Sort: Most matches</option>
+              <option value="new-desc">Sort: Most new leads</option>
+              <option value="created-desc">Sort: Recently created</option>
+              <option value="name-asc">Sort: Name A-Z</option>
+            </select>
+          </div>
+        </div>
+        <div class="leadgen-grid" id="leadgenGrid"></div>
+      </section>
+
+      <!-- Lead Generator results (browse-all or a specific generator's leads) -->
+      <section class="page" id="section-leads">
+        <div class="leadgen-banner" id="leadgenBanner" style="display:none;">
+          <span>Showing leads for <strong id="leadgenBannerName"></strong></span>
+          <button id="leadgenBannerClearBtn">✕ Clear, show all listings</button>
+        </div>
+        <div class="leadgen-banner" id="typeFilterBanner" style="display:none;">
+          <span>Showing <strong id="typeFilterBannerName"></strong></span>
+          <button id="typeFilterBannerClearBtn">✕ Clear, show all listings</button>
+        </div>
+        <div class="leadgen-banner" id="cityFilterBanner" style="display:none;">
+          <span>Showing <strong id="cityFilterBannerName"></strong></span>
+          <button id="cityFilterBannerClearBtn">✕ Clear, show all listings</button>
+        </div>
+        <div class="leadgen-banner" id="oblastFilterBanner" style="display:none;">
+          <span>Showing <strong id="oblastFilterBannerName"></strong></span>
+          <button id="oblastFilterBannerClearBtn">✕ Clear, show all listings</button>
+        </div>
+        <!-- Sentinel for initLeadsFilterToggle()'s IntersectionObserver -
+             see that function's own comment for why this replaced a plain
+             getBoundingClientRect().top<=0 scroll check. Zero-height, purely
+             a scroll-position marker, not a layout element. -->
+        <div id="leadsFilterStickySentinel" style="height:1px;"></div>
+        <div class="card leads-filter-card" id="leadsFilterCard">
+          <a href="#" id="backToLeadgenLink" style="display:block; margin-bottom:12px; font-size:13px; color:var(--brass-deep); text-decoration:none;">← Back to Lead Generators</a>
+          <div class="leads-filter-header">
+            <div class="search-row">
+              <input type="text" id="searchQuery" placeholder="Search by address, area, or keyword…" />
+            </div>
+            <!-- Sticky filter bar (docs/backlog.md item 49) - once this card
+                 pins to the top of the viewport on scroll (see the
+                 position:sticky rule below), the full 10-field grid would
+                 otherwise dominate the screen, especially at phone widths.
+                 This toggle collapses it to just the search box + this
+                 button - a "condensed version" of the same panel, not a
+                 second copy of it, so every field keeps its live value
+                 either way (collapsing only hides #leadsFiltersPanel, never
+                 clears or duplicates its inputs). Always starts fully
+                 expanded on load, regardless of viewport width - it only
+                 condenses once scroll makes the card stick to the top of
+                 the viewport (and re-expands once it un-sticks); see the
+                 initLeadsFilterToggle() call near the other init code. -->
+            <button type="button" class="leads-filter-toggle" id="leadsFilterToggle" aria-expanded="true" aria-controls="leadsFiltersPanel">
+              <span>Filters</span>
+              <span class="leads-filter-toggle-count" id="leadsFilterActiveCount" style="display:none;"></span>
+              <span class="leads-filter-toggle-chevron">▾</span>
+            </button>
+          </div>
+          <div class="filters" id="leadsFiltersPanel">
+            <div>
+              <label>Min price (€)</label>
+              <input type="number" id="minPrice" placeholder="0" />
+            </div>
+            <div>
+              <label>Max price (€)</label>
+              <input type="number" id="maxPrice" placeholder="No limit" />
+            </div>
+            <div>
+              <label>Min size (m²)</label>
+              <input type="number" id="minSqm" placeholder="0" />
+            </div>
+            <div>
+              <label>Area</label>
+              <select id="areaFilter"><option value="">All areas</option></select>
+            </div>
+            <div>
+              <label>Rooms</label>
+              <select id="roomsFilter">
+                <option value="">Any</option>
+                <option value="1">1 (studio)</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5+</option>
+              </select>
+            </div>
+            <div>
+              <label>Min days on market</label>
+              <input type="number" id="minDaysOnMarket" placeholder="0" />
+            </div>
+            <div>
+              <label>Min times reduced</label>
+              <input type="number" id="minTimesReduced" placeholder="0" />
+            </div>
+            <div>
+              <label>Status</label>
+              <label class="filter-checkbox-row">
+                <input type="checkbox" id="excludeSold" checked style="width:auto;" />
+                Exclude sold
+              </label>
+            </div>
+            <div>
+              <label>Sort by</label>
+              <select id="sortBy">
+                <option value="price-asc">Price (low to high)</option>
+                <option value="price-desc">Price (high to low)</option>
+                <option value="size-desc">Size (large to small)</option>
+                <option value="size-asc">Size (small to large)</option>
+                <option value="persqm-asc">Price/m² (low to high)</option>
+                <option value="reduction-desc">Biggest price cut</option>
+                <option value="recent-drop-desc">Most recently reduced</option>
+                <option value="drops-desc">Most price drops</option>
+                <option value="vsavg-asc">Most below area average</option>
+                <option value="score-desc">Motivation score</option>
+                <!-- Formerly a standalone "Only with photos" checkbox cell -
+                     per explicit user request (asked twice), folded into
+                     Sort By instead of living as a separate filter. Chosen
+                     value is appended last, not inserted earlier in the
+                     list, so the <select>'s implicit default (the first
+                     option, "price-asc") is unchanged for everyone who
+                     never touches this field. -->
+                <option value="photos-first">Only listings with photos</option>
+              </select>
+            </div>
+          </div>
+          <!-- Saved filter presets (discovery & engagement batch) - a
+               lighter-weight sibling to Lead Generators: no alert/tracking
+               config, just "save this exact filter combination under a
+               name, reload it with one click." Deliberately its own row,
+               its own localStorage key (filterPresets), and no shared UI
+               with the Lead Generator gallery/modal above, so the two
+               features stay clearly distinct rather than looking like two
+               entry points into the same thing. -->
+          <div class="filter-presets" id="filterPresetsBar">
+            <div class="filter-presets-row">
+              <span class="filter-presets-label">Saved filters</span>
+              <div class="filter-presets-list" id="filterPresetsList"></div>
+              <button type="button" class="filter-presets-save-btn" id="savePresetBtn">＋ Save current filters</button>
+            </div>
+            <div class="filter-presets-form" id="filterPresetsForm" style="display:none;">
+              <input type="text" id="filterPresetNameInput" placeholder="Name this filter combination…" maxlength="60" />
+              <button type="button" class="filter-presets-confirm-btn" id="filterPresetConfirmBtn">Save</button>
+              <button type="button" class="filter-presets-cancel-btn" id="filterPresetCancelBtn">Cancel</button>
+            </div>
+          </div>
+          <div class="leads-toolbar">
+            <span class="leads-toolbar-note" id="exportCsvNote"></span>
+            <button class="detail-secondary-btn" id="exportCsvBtn" type="button" title="Downloads the currently filtered and sorted listings as a CSV file">⬇ Export CSV</button>
+          </div>
+        </div>
+
+        <p class="count" id="count"></p>
+        <p class="count-caveat" id="countCaveat" style="display:none;"></p>
+        <div class="pagination" id="paginationTop" style="display:none;"></div>
+        <div class="grid" id="grid"></div>
+        <div class="empty" id="empty" style="display:none;"></div>
+        <div class="pagination" id="paginationBottom" style="display:none;"></div>
+      </section>
+
+      <!-- Deal Pipeline (kanban) -->
+      <section class="page" id="section-pipeline">
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Deal Pipeline</h2>
+              <p class="pl-sub">Track promising leads from first look to closed deal. Add a listing here from its detail page, or the <span class="pl-icon-inline">＋</span> button on any listing card.</p>
+            </div>
+            <button type="button" class="pl-secondary-btn" id="plConfigBtn">⚙ Manage stages &amp; tags</button>
+          </div>
+
+          <div class="pl-stage-tabs" id="plStageTabs"></div>
+
+          <div class="pl-toolbar">
+            <input type="text" id="plSearch" class="pl-search" placeholder="Search by address or title…" />
+            <select id="plTagFilter"><option value="">All tags</option></select>
+            <select id="plGenFilter"><option value="">All lead generators</option></select>
+            <div class="pl-view-toggle" id="plViewToggle">
+              <button type="button" class="pl-view-btn active" data-view="card">Card</button>
+              <button type="button" class="pl-view-btn" data-view="table">Table</button>
+              <button type="button" class="pl-view-btn" data-view="map">Map</button>
+              <button type="button" class="pl-view-btn" id="plExportBtn">⬇ Export</button>
+            </div>
+          </div>
+          <p class="pl-hint">Filtering by agent isn't available yet - no scraped listing includes an agent/agency name or contact field today (same gap flagged for the listing detail page's Agent panel).</p>
+
+          <div id="plCardView" class="pl-card-grid"></div>
+          <div id="plTableView" class="pl-table-wrap" style="display:none;"></div>
+          <div id="plMapView" class="pl-map" style="display:none;"></div>
+          <div class="empty" id="plEmpty" style="display:none;">
+            <div class="empty-state">
+              <div class="empty-state-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6.5"></circle><line x1="15.3" y1="15.3" x2="20.5" y2="20.5"></line></svg></div>
+              <p class="empty-state-title">No deals in the pipeline yet</p>
+              <p class="empty-state-message">Open any listing and click "+ Add to Pipeline", or use the ＋ button on a listing card.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Comparables (standalone, top-level nav - docs/property-filter-spec.md
+           section 4). City/quarter + radius-in-km search, the direct
+           substitute for Property Filter's UK-postcode-radius search (no
+           BG equivalent to a postcode's precise sector/district hierarchy -
+           see docs/backlog.md item 11). Independent of any single listing -
+           the per-listing pre-scoped version lives on the listing detail
+           page's own Comparables tab (spec section 5), which reuses the
+           same findComparables() logic this page's search also calls. -->
+      <section class="page" id="section-comparables">
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Comparables</h2>
+              <p class="pl-sub">Search imotenradar's own tracked listings by city and quarter (кв.), with an optional radius to widen the search to nearby areas too - the Bulgarian substitute for a UK postcode-radius search.</p>
+            </div>
+          </div>
+
+          <div class="cmp-filter-rows">
+            <div class="cmp-filter-row">
+              <div class="cmp-field">
+                <label>City</label>
+                <select id="cmpCity"><option value="">All cities</option></select>
+              </div>
+              <div class="cmp-field">
+                <label>Quarter / area (кв.)</label>
+                <select id="cmpArea"><option value="">Any area</option></select>
+              </div>
+              <div class="cmp-field">
+                <label title="Radius beyond that area (km)">Radius (km)</label>
+                <input type="number" id="cmpRadiusKm" min="0" max="15" step="0.5" value="0" />
+              </div>
+              <div class="cmp-field">
+                <label>Sort by</label>
+                <select id="cmpSort"><option value="distance">Distance (nearest first)</option></select>
+              </div>
+            </div>
+            <div class="cmp-filter-row">
+              <div class="cmp-field">
+                <label>Property type</label>
+                <select id="cmpType"><option value="">Any type</option></select>
+              </div>
+              <div class="cmp-field">
+                <label>Bedrooms</label>
+                <select id="cmpRooms">
+                  <option value="">Any</option>
+                  <option value="1">1 (studio)</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5+</option>
+                </select>
+              </div>
+              <div class="cmp-field">
+                <label>Min price (€)</label>
+                <input type="number" id="cmpMinPrice" placeholder="0" />
+              </div>
+              <div class="cmp-field">
+                <label>Max price (€)</label>
+                <input type="number" id="cmpMaxPrice" placeholder="No limit" />
+              </div>
+              <div class="cmp-field">
+                <label>Min size (m²)</label>
+                <input type="number" id="cmpMinSqm" placeholder="0" />
+              </div>
+              <div class="cmp-field">
+                <label>Max size (m²)</label>
+                <input type="number" id="cmpMaxSqm" placeholder="No limit" />
+              </div>
+            </div>
+            <div class="cmp-filter-row">
+              <div class="cmp-field">
+                <label>Status</label>
+                <select id="cmpStatus">
+                  <option value="available">Available</option>
+                  <option value="removed">Removed</option>
+                  <option value="any">Available + removed</option>
+                </select>
+              </div>
+              <div class="cmp-field">
+                <label>Min days on market</label>
+                <input type="number" id="cmpMinDays" min="0" placeholder="0" />
+              </div>
+              <div class="cmp-field">
+                <label>Min price reductions</label>
+                <input type="number" id="cmpMinReduced" min="0" placeholder="0" />
+              </div>
+              <div class="cmp-field">
+                <label>Build type</label>
+                <select id="cmpBuildType">
+                  <option value="any">Any</option>
+                  <option value="new">New build</option>
+                  <option value="existing">Existing</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <p class="cmp-note">Bedroom count isn't a scraped field on any portal - it's read from each listing's own title text (e.g. "2-стаен"), so a listing whose title doesn't state it won't match a specific bedroom filter. Leave it on "Any" to include those too. "Removed" means no longer listed on any portal; there is no STC or last-sold data for Bulgaria. "New build" is read from the title too (e.g. "ново строителство", "акт 16"), so a listing that only says so in its description counts as existing.</p>
+          <div class="cmp-search-row">
+            <button type="button" class="brass-btn" id="cmpSearchBtn">Search →</button>
+          </div>
+
+          <div id="cmpResultsWrap" style="display:none;">
+            <div class="cmp-summary-bar" id="cmpSummaryBar"></div>
+            <div class="pl-toolbar">
+              <p class="pl-sub" id="cmpCountLine" style="margin:0;"></p>
+              <div class="pl-view-toggle" id="cmpViewToggle">
+                <button type="button" class="pl-view-btn active" data-cmp-view="card">Card</button>
+                <button type="button" class="pl-view-btn" data-cmp-view="table">Table</button>
+                <button type="button" class="pl-view-btn" data-cmp-view="map">Map</button>
+                <button type="button" class="pl-view-btn" id="cmpExportBtn">⬇ Export</button>
+              </div>
+            </div>
+            <div id="cmpCardView" class="pl-card-grid"></div>
+            <div id="cmpTableView" class="pl-table-wrap" style="display:none;"></div>
+            <div id="cmpMapView" class="pl-map" style="display:none;"></div>
+          </div>
+          <div class="cmp-empty-state" id="cmpEmptyState">
+            <div class="empty-state">
+              <div class="empty-state-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6.5"></circle><line x1="15.3" y1="15.3" x2="20.5" y2="20.5"></line></svg></div>
+              <p class="empty-state-title">Search for comparables</p>
+              <p class="empty-state-message">Pick a city (and, optionally, a quarter), then run a search to see comparable listings.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Deal Calculator (docs/backlog.md item 18; docs/property-filter-
+           spec.md section 8; docs/deal-calculator-formulas.md). MVP scope:
+           the overall mechanism (pick a strategy -> strategy-specific form ->
+           save as a reusable template or link to a listing) proven with two
+           fully-computed strategies, BTL (extends the shipped Stress Test -
+           see computeBtlStressTest()/BTL_DEFAULTS above) and FLIP. The other
+           7 non-dropped strategies (BRRR, BTSA, BRSAR, R2R, R2SA,
+           COM2RESI-TOSELL, Assisted Sale) show as "Coming soon" in the
+           strategy picker rather than half-built - see docs/backlog.md for
+           the deferred follow-up. PLO and Title Split are absent entirely,
+           not even as placeholders (PLO needs BG legal confirmation no
+           formula exists for yet; Title Split is a confirmed drop - BG's
+           condominium ownership regime has no equivalent problem to solve). -->
+      <section class="page" id="section-dealcalc">
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Deal Calculator</h2>
+              <p class="pl-sub">Model an investment strategy — save it as a reusable template, or link it to a specific listing from that listing's own "Deal Calculator" tab.</p>
+            </div>
+            <button type="button" class="brass-btn" id="dcNewTemplateBtn">+ New Calculation</button>
+          </div>
+          <p class="dc-disclaimer">Figures are guidance only, not financial or legal advice. Bulgarian tax, fee, and mortgage-rate defaults below are best-available research estimates (see <code>docs/deal-calculator-formulas.md</code>), not a live feed — a lawyer, accountant, or mortgage broker should confirm the real figures before you act on a saved calculation.</p>
+
+          <p class="dc-section-subhead">My Templates</p>
+          <div class="dc-template-grid" id="dcMyTemplatesGrid"></div>
+          <p class="dc-empty-state" id="dcMyTemplatesEmpty">No reusable templates yet — click "+ New Calculation" to build one.</p>
+
+          <p class="dc-section-subhead">Linked to Properties</p>
+          <div class="dc-template-grid" id="dcLinkedTemplatesGrid"></div>
+          <p class="dc-empty-state" id="dcLinkedTemplatesEmpty">No calculations linked to a specific listing yet — open a listing and use its "Deal Calculator" tab.</p>
+        </div>
+      </section>
+
+      <!-- Dashboard -->
+      <section class="page" id="section-dashboard">
+        <div class="pl-card" id="startHereCard">
+          <div class="pl-header-row">
+            <h2 class="pl-h2">Start Here</h2>
+            <button type="button" class="pl-text-link" id="startHereDismissBtn">Hide this checklist</button>
+          </div>
+          <ul class="start-here-list" id="startHereList"></ul>
+        </div>
+        <!-- "What's changed" digest (discovery & engagement batch) - diffs
+             the current state of every saved/pipelined listing plus each
+             Lead Generator's own fresh-match count against a snapshot taken
+             the last time this Dashboard was actually visited (see
+             markDashboardVisited()/computeDashboardDigest() in JS), so a
+             returning user sees what moved while they were away without
+             having to re-check each listing/generator individually. -->
+        <div class="card" id="dashboardDigestCard">
+          <h2>What's changed</h2>
+          <p class="card-sub" id="dashboardDigestSub">Since your last visit to this Dashboard.</p>
+          <div id="dashboardDigestBody"></div>
+        </div>
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <h2 class="pl-h2">Lead Generators</h2>
+            <button type="button" class="pl-text-link" id="dashLeadgenViewAllBtn">View all →</button>
+          </div>
+          <p class="pl-sub">New motivated sellers to look at.</p>
+          <div id="dashLeadgenInbox"></div>
+        </div>
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <h2 class="pl-h2">Pipeline Actions</h2>
+            <button type="button" class="pl-text-link" id="dashPipelineViewAllBtn">Open Pipeline →</button>
+          </div>
+          <p class="pl-sub" id="dashPipelineSummary"></p>
+          <div id="dashPipelineActions"></div>
+        </div>
+        <div class="card">
+          <h2>🔔 Reminders</h2>
+          <p class="card-sub">Dates and notes you've set on listings — set one from any listing's detail page. Stored only in this browser, so they won't follow you to a different device.</p>
+          <div id="dashboardRemindersList"></div>
+          <p class="reminders-empty" id="dashboardRemindersEmpty" style="display:none;">No reminders set yet.</p>
+        </div>
+        <div class="card">
+          <h2>🔖 Saved listings</h2>
+          <p class="card-sub">Listings you've saved — click ☆ on any listing to add it. Stored only in this browser.</p>
+          <div class="filters" style="margin-bottom:12px; max-width:260px;">
+            <div>
+              <label>Sort by</label>
+              <select id="savedSortBy">
+                <option value="price-asc">Price (low to high)</option>
+                <option value="price-desc">Price (high to low)</option>
+                <option value="size-desc">Size (large to small)</option>
+                <option value="size-asc">Size (small to large)</option>
+                <option value="persqm-asc">Price/m² (low to high)</option>
+                <option value="reduction-desc">Biggest price cut</option>
+                <option value="recent-drop-desc">Most recently reduced</option>
+                <option value="drops-desc">Most price drops</option>
+                <option value="vsavg-asc">Most below area average</option>
+                <option value="score-desc">Motivation score</option>
+              </select>
+            </div>
+          </div>
+          <div class="grid" id="savedGrid"></div>
+          <div class="empty" id="savedEmpty" style="display:none;">
+            <div class="empty-state">
+              <div class="empty-state-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6.5"></circle><line x1="15.3" y1="15.3" x2="20.5" y2="20.5"></line></svg></div>
+              <p class="empty-state-title">No saved listings yet</p>
+              <p class="empty-state-message">Click the ☆ on any listing to save it here for quick access later.</p>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <h2>🔥 Hottest deals right now</h2>
+          <p class="card-sub">Top 6 listings by motivation score (price drops + days on market).</p>
+          <div class="grid" id="hotGrid"></div>
+        </div>
+        <div class="card">
+          <h2>Ready for more?</h2>
+          <button class="cta-btn" id="goToLeadsBtn2">View all leads →</button>
+        </div>
+      </section>
+
+      <!-- Market Data -->
+      <section class="page" id="section-market">
+        <div class="card market-card">
+          <div class="market-stat">
+            <p class="label">Bulgaria HPI, year-on-year</p>
+            <p class="value up">+12.6%</p>
+          </div>
+          <div class="market-stat">
+            <p class="label">Sofia avg. asking price</p>
+            <p class="value">~€2,500/m²</p>
+          </div>
+          <div class="market-stat">
+            <p class="label">Sofia, year-on-year</p>
+            <p class="value up">+18%</p>
+          </div>
+          <p class="market-source">
+            Official Bulgaria-wide figure: National Statistical Institute, Q4 2025 House Price Index (registered sale prices).
+            Sofia asking-price figures: Bulgarian Properties market report, Feb 2026.
+            This card is updated manually, not live — verify current figures at
+            <a href="https://www.nsi.bg/en/statistical-data/98" target="_blank" rel="noreferrer">nsi.bg</a>.
+          </p>
+        </div>
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Market Data</h2>
+              <p class="pl-sub">Portfolio-level aggregates across every area imotenradar tracks - the same per-area aggregation the listing detail page's Area Data tab already computes, applied here across every area at once rather than one listing's own area. Built entirely from imotenradar's own scraped listing history (price, status, days on market) - no new data source.</p>
+            </div>
+          </div>
+
+          <div class="cmp-filters" style="margin-bottom:0;">
+            <div class="cmp-field">
+              <label>City</label>
+              <select id="marketCity"><option value="">All cities (nationwide, by city)</option></select>
+            </div>
+            <div class="cmp-field">
+              <label>Property type</label>
+              <select id="marketType"><option value="">Any type</option></select>
+            </div>
+          </div>
+
+          <div class="market-tabs" id="marketTabs">
+            <button type="button" class="market-tab-btn active" data-market-tab="performance">Area Performance</button>
+            <button type="button" class="market-tab-btn" data-market-tab="heatmap">Strategy Heat Map</button>
+            <button type="button" class="market-tab-btn" data-market-tab="livemap">Market Live Map</button>
+            <button type="button" class="market-tab-btn" data-market-tab="evolution">Adverts Evolution</button>
+          </div>
+
+          <div class="market-tab-content active" data-market-tab-content="performance" id="marketPerformanceTab"></div>
+          <div class="market-tab-content" data-market-tab-content="heatmap" id="marketHeatmapTab"></div>
+          <div class="market-tab-content" data-market-tab-content="livemap" id="marketLivemapTab"></div>
+          <div class="market-tab-content" data-market-tab-content="evolution" id="marketEvolutionTab"></div>
+        </div>
+
+        <div class="market-gap-note">
+          <strong>Not built here: Agent Properties tile.</strong> This would list every property tracked from a given real-estate agent/agency, but no agent/agency name, phone, or contact field is scraped anywhere in imotenradar's data today (checked the full field union across all 8 <code>data/leads_*.json</code> files - confirmed absent, same gap backlog item 9's listing-detail Agent panel already flagged and left unbuilt). Needs new scraper work before this tile can show anything real.
+        </div>
+      </section>
+
+      <!-- Preferences (docs/property-filter-spec.md section 9; docs/backlog.md
+           item 19) - small settings screens backing already-shipped features.
+           Only the sub-tabs whose parent feature is actually shipped and not
+           parked are built here (Letters and Deal Calculator Templates are
+           explicitly excluded - see docs/backlog.md item 19's own scoping
+           note). Same no-login, this-browser-only localStorage pattern as
+           Saved listings/Lead Generators/Pipeline - see PREFERENCES_KEY. -->
+      <section class="page" id="section-preferences">
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Preferences</h2>
+              <p class="pl-sub">Settings that configure how the features above behave. Stored only in this browser (no login, no account) - the same local-only pattern as Saved listings, Lead Generators, and the Pipeline. Clearing your browser data resets everything here back to its default.</p>
+            </div>
+          </div>
+
+          <div class="pref-tabs" id="prefTabs">
+            <button type="button" class="pref-tab-btn active" data-pref-tab="display">Display</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="results">Search Results</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="leadgen">Lead Generator</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="pipeline">Pipeline</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="notifications">Notifications</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="dealstacker">Deal Stacker</button>
+            <button type="button" class="pref-tab-btn" data-pref-tab="calendar">Calendar</button>
+          </div>
+
+          <div class="pref-tab-content active" data-pref-tab-content="display">
+            <p class="pl-sub" style="margin-top:16px;">Bulgaria already uses metric units natively (m², km) for surface area and distance, so imotenradar doesn't need the mile/km or ft²/m² unit toggle Property Filter's UK build has to support - one less setting to carry.</p>
+            <div class="modal-field">
+              <label>Listing card density</label>
+              <div class="pref-density-options">
+                <label class="pref-density-option"><input type="radio" name="prefDensity" value="comfortable" /> Comfortable <span class="pref-density-hint">Fewer, larger cards per row</span></label>
+                <label class="pref-density-option"><input type="radio" name="prefDensity" value="standard" /> Standard <span class="pref-density-hint">The default layout</span></label>
+                <label class="pref-density-option"><input type="radio" name="prefDensity" value="compact" /> Compact <span class="pref-density-hint">More cards per row, less whitespace</span></label>
+              </div>
+              <p class="modal-hint">Applies to the main results grid, Saved listings, and Hottest deals. Card content is unchanged - only how many fit per row.</p>
+            </div>
+            <!-- Price currency (docs/backlog.md item 51) - Bulgaria adopted
+                 the euro on 2026-01-01 (the lev stopped being legal tender a
+                 month later), and every price in this app is already stored
+                 as price_eur - see BGN_PER_EUR/formatMoney() above. This is
+                 a display-only conversion at the fixed peg rate, not a data
+                 model change: nothing is re-stored, re-fetched, or sent
+                 anywhere differently depending on this setting. -->
+            <div class="modal-field" style="margin-top:20px;">
+              <label>Price currency</label>
+              <div class="pref-density-options">
+                <label class="pref-density-option"><input type="radio" name="prefCurrency" value="eur" /> EUR only <span class="pref-density-hint">The default - matches every price as tracked</span></label>
+                <label class="pref-density-option"><input type="radio" name="prefCurrency" value="bgn" /> BGN only <span class="pref-density-hint">Converted at the fixed euro-adoption peg</span></label>
+                <label class="pref-density-option"><input type="radio" name="prefCurrency" value="both" /> Both <span class="pref-density-hint">e.g. €150,000 (293,375 лв.)</span></label>
+              </div>
+              <p class="modal-hint">Purely cosmetic - a fixed 1.95583 BGN = 1 EUR conversion applied for display only, everywhere a price is shown (results grid, listing detail, Pipeline, Comparables, Market Data). imotenradar's own data is unaffected either way.</p>
+            </div>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="results">
+            <p class="pl-sub" style="margin-top:16px;">Tune the 🔥 Hot / Warm motivation-score cutoffs used on badges across the site (results grid, Home, Dashboard, listing detail). See Help &gt; Motivation score for how the underlying 0–100 score is computed - these two fields only move the badge thresholds, not the formula itself.</p>
+            <div class="modal-field-row">
+              <div class="modal-field">
+                <label>🔥 Hot deal threshold (score ≥)</label>
+                <input type="number" id="prefHotThreshold" min="0" max="100" />
+              </div>
+              <div class="modal-field">
+                <label>Warm threshold (score ≥)</label>
+                <input type="number" id="prefWarmThreshold" min="0" max="100" />
+              </div>
+            </div>
+            <p class="modal-hint">Warm is always kept below Hot - raising Warm above (or to) your Hot value will pull it back down automatically. Default: Hot ≥40, Warm ≥15, recalibrated against imotenradar's real score distribution (see Help).</p>
+            <button type="button" class="pl-secondary-btn" id="prefResetThresholds" style="margin-top:8px;">Reset to defaults</button>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="leadgen">
+            <p class="pl-sub" style="margin-top:16px;">Defaults applied every time you open "Add New Lead Generator" - nothing here affects generators you've already saved.</p>
+            <div class="modal-field">
+              <label>Default sort for the Lead Generators list</label>
+              <select id="prefLgSort">
+                <option value="matches-desc">Sort: Most matches</option>
+                <option value="new-desc">Sort: Most new leads</option>
+                <option value="created-desc">Sort: Recently created</option>
+                <option value="name-asc">Sort: Name A-Z</option>
+              </select>
+            </div>
+            <div class="modal-field-row">
+              <div class="modal-field">
+                <label>Default city</label>
+                <input type="text" id="prefLgCity" placeholder="e.g. Sofia" />
+              </div>
+              <div class="modal-field">
+                <label>Default radius (Point + radius mode, meters)</label>
+                <input type="number" id="prefLgRadius" min="50" step="50" />
+              </div>
+            </div>
+            <div class="modal-field">
+              <label>Default sale type</label>
+              <div class="pill-toggle-row">
+                <button type="button" class="pref-saletype-btn" data-saletype="sale">For Sale</button>
+                <button type="button" class="pref-saletype-btn" data-saletype="rent">To Rent</button>
+                <button type="button" class="pref-saletype-btn" data-saletype="both">Both</button>
+              </div>
+              <p class="modal-hint">imotenradar doesn't scrape rental listings yet, so "To Rent"/"Both" generators won't have real matches until that changes (see Help) - kept here so the default is ready when it does.</p>
+            </div>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="pipeline">
+            <p class="pl-sub" style="margin-top:16px;">Pipeline stages and tags are already fully user-configurable (arbitrary length, your own names/icons/colors) directly from the Pipeline board - this is the same "Manage stages &amp; tags" screen, surfaced here too since it's a genuine Preferences-level setting.</p>
+            <button type="button" class="brass-btn" id="prefOpenPipelineConfig">Manage stages &amp; tags</button>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="notifications">
+            <p class="pl-sub" style="margin-top:16px;">imotenradar has no login and no backend notification service (no email, no push, no server-side scheduled jobs reading your data) - everything here is an in-app-only signal computed live in your browser each time a page renders. The one such mechanism today is the orange "N new" badge on Lead Generator cards, driven by <code>lastCheckedAt</code> (set whenever you click "Check Leads") against each match's first-seen date.</p>
+            <div class="modal-field">
+              <label class="checkbox-item" style="font-size:14px;">
+                <input type="checkbox" id="prefShowNewBadges" />
+                Show "N new" badges on Lead Generator cards and the Home dashboard inbox
+              </label>
+              <p class="modal-hint">Turning this off still tracks new matches internally (nothing is lost) - it just hides the badge if you'd rather check manually. The green "N matches" total badge always stays visible either way.</p>
+            </div>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="dealstacker">
+            <p class="pl-sub" style="margin-top:16px;">Default assumptions pre-filled into the BTL Stress Test tab on every listing's detail page - all editable per-listing at calculation time, these just set the starting point. Illustrative Bulgarian-market figures, not live rates - confirm actual terms with a bank or mortgage broker.</p>
+            <div class="modal-field-row">
+              <div class="modal-field">
+                <label>Loan-to-value (%)</label>
+                <input type="number" id="prefBtlLtv" min="0" max="100" />
+              </div>
+              <div class="modal-field">
+                <label>Interest rate (% / year)</label>
+                <input type="number" id="prefBtlInterest" min="0" step="0.1" />
+              </div>
+              <div class="modal-field">
+                <label>Interest Cover Ratio (%)</label>
+                <input type="number" id="prefBtlIcr" min="0" step="5" />
+              </div>
+            </div>
+          </div>
+
+          <div class="pref-tab-content" data-pref-tab-content="calendar">
+            <p class="pl-sub" style="margin-top:16px;">Not applicable yet - flagged plainly rather than built. imotenradar has no calendar view, no Google Calendar connection, and no iCal feed anywhere in the app today, so there's nothing here to configure. The closest existing feature is per-listing <strong>Reminders</strong> (a date + note, shown on the Home dashboard) - see Dashboard &gt; Reminders. A real Calendar settings screen only makes sense once (or if) a calendar view or external calendar sync is actually built.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Account (docs/backlog.md "Account/Subscription page preview" -
+           login + subscription/payment UI, deliberately INERT. Do not wire
+           this up to Supabase Auth or a real payment processor - see the
+           comment on #acctLoginForm/#acctPaymentForm below and
+           docs/decisions.md's 2026-09-22 "Login removed entirely" entry for
+           why: the user explicitly ordered login removed and does not want
+           the site to ever prompt/require it again. This page previews what
+           account/billing will look like once (if) that changes, without
+           reactivating any of it. No login gate exists anywhere else in the
+           app because of this page - Saved listings, Lead Generators,
+           Reminders, and Pipeline all remain fully usable with no account,
+           exactly as before. -->
+      <section class="page" id="section-account">
+        <div class="pl-card">
+          <div class="pl-header-row">
+            <div>
+              <h2 class="pl-h2">Account</h2>
+              <p class="pl-sub">A preview of upcoming account and subscription features. <strong>Nothing on this page is active yet</strong> — imotenradar has no login and no billing today. Saved listings, Lead Generators, Reminders, and the Pipeline already work fully in this browser with no account required, and will keep working exactly as they do now no matter what you do on this page.</p>
+            </div>
+          </div>
+
+          <div class="acct-tabs" id="acctTabs">
+            <button type="button" class="acct-tab-btn active" data-acct-tab="login">Login</button>
+            <button type="button" class="acct-tab-btn" data-acct-tab="subscription">Subscription</button>
+          </div>
+
+          <div class="acct-tab-content active" data-acct-tab-content="login">
+            <div class="pill-toggle-row" style="margin:16px 0;">
+              <button type="button" class="acct-mode-btn active" data-acct-mode="login">Log in</button>
+              <button type="button" class="acct-mode-btn" data-acct-mode="signup">Sign up</button>
+            </div>
+
+            <!-- Deliberately INERT - no sb.auth call, no CURRENT_USER, no
+                 session, no gate on any other page. Submitting this form
+                 only shows a local "preview only" status message (see
+                 acctLoginForm's submit listener near the bottom of the
+                 script). Do not wire this to Supabase Auth without a fresh,
+                 explicit go-ahead - see the section comment above. -->
+            <form id="acctLoginForm" novalidate>
+              <div class="modal-field">
+                <label>Email</label>
+                <input type="email" id="acctEmail" placeholder="you@example.com" autocomplete="username" />
+              </div>
+              <div class="modal-field">
+                <label>Password</label>
+                <input type="password" id="acctPassword" placeholder="••••••••" autocomplete="current-password" />
+              </div>
+              <div class="modal-field" id="acctConfirmField" style="display:none;">
+                <label>Confirm password</label>
+                <input type="password" id="acctConfirmPassword" placeholder="••••••••" autocomplete="new-password" />
+              </div>
+
+              <p class="modal-hint" style="margin-bottom:16px;">Logging in is optional and not required to use imotenradar — everything above already works in this browser with no account. This form is a preview of what's coming; submitting it won't create an account or sign you in to anything.</p>
+
+              <button type="submit" class="brass-btn" id="acctLoginSubmitBtn">Log in</button>
+              <span class="acct-inert-status" id="acctLoginStatus"></span>
+            </form>
+          </div>
+
+          <div class="acct-tab-content" data-acct-tab-content="subscription">
+            <p class="pl-sub" style="margin-top:16px;">Preview only — pricing and payment aren't live yet. This is what subscribing will look like once billing is turned on.</p>
+
+            <div class="pricing-card">
+              <div class="pricing-card-header">
+                <div class="pricing-tier-name">Imoten Radar Pro</div>
+                <div class="pricing-price"><span class="pricing-amount">€19</span><span class="pricing-period">/ month</span></div>
+                <div class="pricing-sub">or €190 / year (2 months free) — cancel anytime</div>
+              </div>
+              <ul class="pricing-features">
+                <li>Hourly data refresh across all 8 portals, instead of every 6 hours</li>
+                <li>Unlimited Lead Generators &amp; saved searches</li>
+                <li>Full price-history, Comparables &amp; Area Data analytics</li>
+                <li>BTL Stress Test &amp; Deal Calculator on every listing</li>
+                <li>Deal Pipeline with unlimited saved deals</li>
+                <li>Email alerts for new Lead Generator matches, once accounts are live</li>
+              </ul>
+            </div>
+
+            <!-- Deliberately INERT - no Stripe/payment-processor call of any
+                 kind, no charge, no network request. Submitting this form
+                 only shows a local "preview only" status message. Do not
+                 wire this to a real payment processor without the user's
+                 explicit go-ahead on pricing/processor first - see the
+                 section comment above. -->
+            <form id="acctPaymentForm" novalidate>
+              <p class="acct-form-subhead">Payment details</p>
+              <div class="modal-field">
+                <label>Name on card</label>
+                <input type="text" id="acctCardName" placeholder="Full name" autocomplete="cc-name" />
+              </div>
+              <div class="modal-field">
+                <label>Card number</label>
+                <input type="text" id="acctCardNumber" placeholder="4242 4242 4242 4242" inputmode="numeric" autocomplete="cc-number" />
+              </div>
+              <div class="modal-field-row">
+                <div class="modal-field">
+                  <label>Expiry (MM/YY)</label>
+                  <input type="text" id="acctCardExpiry" placeholder="MM/YY" autocomplete="cc-exp" />
+                </div>
+                <div class="modal-field">
+                  <label>CVC</label>
+                  <input type="text" id="acctCardCvc" placeholder="123" inputmode="numeric" autocomplete="cc-csc" />
+                </div>
+              </div>
+              <div class="modal-field">
+                <label>Billing email</label>
+                <input type="email" id="acctBillingEmail" placeholder="you@example.com" autocomplete="email" />
+              </div>
+
+              <p class="modal-hint" style="margin-bottom:16px;">Payments aren't connected yet — no card will be charged and no subscription will be created. This form previews the flow ahead of launch.</p>
+
+              <button type="submit" class="brass-btn" id="acctSubscribeBtn">Subscribe — coming soon</button>
+              <span class="acct-inert-status" id="acctSubscribeStatus"></span>
+            </form>
+          </div>
+        </div>
+      </section>
+
+      <!-- Help -->
+      <section class="page" id="section-help">
+        <div class="card">
+          <div class="help-section">
+            <h3>What is this?</h3>
+            <p>Imoten Radar scrapes apartment-for-sale listings across Sofia from 7 portals plus nationwide court-ordered property auctions, tracks each listing's price history over time, and surfaces the ones most likely to be a motivated-seller deal.</p>
+          </div>
+          <div class="help-section">
+            <h3>Sources</h3>
+            <p>imoti.net, alo.bg, homes.bg, imot.bg, olx.bg, bazar.bg, imoti.bg, sales.bcpea.org. imoti.net and alo.bg refresh every 24 hours (they're large sites with 300+ pages each); the other 6 refresh every 6 hours. sales.bcpea.org lists public property auctions ("публични продани") run by court-appointed enforcement agents nationwide - its price is a legal minimum starting bid, not a negotiable asking price.</p>
+          </div>
+          <div class="help-section">
+            <h3>Motivation score</h3>
+            <p>A 0–100 score across five signals, each capped from real distributions measured against the live tracked dataset, not guessed:</p>
+            <ul>
+              <li><strong>Relisted (up to 25 pts)</strong> — 10 points for having been delisted and relisted at all, plus up to 15 more if it came back cheaper (capped at a 15% price cut).</li>
+              <li><strong>Distinct price reductions (up to 20 pts)</strong> — capped at 3 separate cuts, not just whether it was ever reduced.</li>
+              <li><strong>Size of the price drop (up to 20 pts)</strong> — capped at a 20% total drop.</li>
+              <li><strong>Days on market (up to 20 pts)</strong> — capped at 180 days. Most listings score low here right now simply because nationwide tracking is still young (most inventory has only been tracked a few weeks) - not because they're not stale.</li>
+              <li><strong>Below the area average price/m² (up to 15 pts)</strong> — capped at 40% below average, and only counted when that figure isn't already flagged ⚠️ Unverified (a likely data error, not a real bargain).</li>
+            </ul>
+            <p>When a listing has no usable area-average figure (roughly 4 in 10 listings today, mostly on portals with sparser size data), the other four signals are rescaled to still reach 100 rather than capping that listing's ceiling for a data gap outside its control. We still can't tell a listing that sold and was relisted by a new owner apart from one that simply failed to sell and came back unchanged - relisting is a real, now-scored signal, but an ambiguous one, not a confirmed "failed sale" flag. Multi-portal listing (the same property posted on more than one site at once) isn't factored in yet. Treat the score as a strong first filter, not a verdict.</p>
+          </div>
+          <div class="help-section">
+            <h3>Badges</h3>
+            <ul>
+              <li><strong>🔥 Hot deal (≥<span id="helpHotThreshold">40</span>) / Warm (≥<span id="helpWarmThreshold">15</span>)</strong> — motivation score thresholds, recalibrated against the real achievable range now that days-on-market is still compressed (see above); editable in Preferences &gt; Search Results if you want to tune them for your own strategy - these will likely need revisiting again as tracking history matures too.</li>
+              <li><strong>X% below/above area avg</strong> — this listing's €/m² vs. the average for its area, across all sources.</li>
+              <li><strong>⚠️ Unverified price</strong> — the €/m² is far enough from the area average that it might be a data error (e.g. a misparsed price) rather than a real deal. Worth double-checking against the original listing.</li>
+              <li><strong>↓ X% since first seen</strong> — price has dropped since this listing was first scraped.</li>
+            </ul>
+          </div>
+          <div class="help-section">
+            <h3>Land registry</h3>
+            <p>The "Check land registry" link opens Bulgaria's official land registry portal. You'll need the exact address from the listing page, a free account, and pay a small fee per search — this app doesn't automate that lookup.</p>
+          </div>
+          <div class="help-section">
+            <h3>Duplicate listings</h3>
+            <p>The same apartment is often cross-posted to several portals. Listings that match closely enough on price, size, and area are automatically combined into one card — the "+ portal" badges show where else it's listed, and its detail page has a small button per source to switch between each portal's own photos, price, and description. This is a best-effort match (no photo comparison, just price/size/area), so it can occasionally miss a real duplicate or, rarely, combine two coincidentally similar listings.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Listing detail -->
+      <section class="page" id="section-listing">
+        <button class="back-btn" id="backBtn">← Back to listings</button>
+        <div class="card" id="listingDetailBody"></div>
+      </section>
+
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="leadgenModalOverlay">
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="leadgenModalTitle">
+    <div class="modal-header">
+      <h2 id="leadgenModalTitle">Add New Lead Generator</h2>
+      <button class="modal-close-btn" id="leadgenModalCloseBtn" aria-label="Close">✕</button>
+    </div>
+    <p class="modal-error" id="leadgenModalError"></p>
+
+    <div class="modal-field">
+      <label>Name</label>
+      <input type="text" id="lgName" placeholder="e.g. Lyulin flips" />
+    </div>
+
+    <details class="lg-templates" id="lgTemplates">
+      <summary>Start from a template</summary>
+      <p class="modal-hint">Pick one to fill in the details below, then adjust anything before saving.</p>
+      <div class="lg-template-grid" id="lgTemplateGrid"></div>
+    </details>
+
+    <div class="modal-section-title first">Listing type</div>
+
+    <div class="modal-field">
+      <label>Sale type</label>
+      <div class="pill-toggle-row">
+        <button type="button" class="lg-saletype-btn active" data-saletype="sale">For Sale</button>
+        <button type="button" class="lg-saletype-btn" data-saletype="rent">To Rent</button>
+        <button type="button" class="lg-saletype-btn" data-saletype="both">Both</button>
+      </div>
+      <p class="modal-hint">imotenradar doesn't scrape rental listings yet (nationwide rental inventory is currently too thin to track reliably), so a "To Rent" or "Both" generator won't have real matches until that changes - tag it now so it's ready when it does.</p>
+    </div>
+
+    <div class="modal-section-title">Property details</div>
+
+    <div class="modal-field">
+      <label>Property type</label>
+      <div class="pill-toggle-row" id="lgPropertyTypeRow">
+        <button type="button" class="lg-proptype-btn active" data-type="flat">Flat</button>
+        <button type="button" class="lg-proptype-btn active" data-type="house">House</button>
+        <button type="button" class="lg-proptype-btn active" data-type="land">Land</button>
+        <button type="button" class="lg-proptype-btn active" data-type="garage">Garage</button>
+        <button type="button" class="lg-proptype-btn active" data-type="shop">Shop</button>
+        <button type="button" class="lg-proptype-btn active" data-type="business">Commercial</button>
+      </div>
+      <p class="modal-hint">Leave all selected (or clear all) to include every type.</p>
+    </div>
+
+    <div class="modal-field">
+      <label>Rooms</label>
+      <select id="lgRooms">
+        <option value="">Any</option>
+        <option value="1">1 (studio)</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5+</option>
+        <option value="2+">2 or more</option>
+        <option value="3+">3 or more</option>
+        <option value="4+">4 or more</option>
+      </select>
+      <p class="modal-hint">Room count is read from each listing's title text, not a scraped field, so a listing whose title doesn't state it won't match a specific pick - leave on "Any" to include those too.</p>
+    </div>
+
+    <div class="modal-field-row">
+      <div class="modal-field">
+        <label>Min price (€)</label>
+        <input type="number" id="lgMinPrice" placeholder="No min" />
+      </div>
+      <div class="modal-field">
+        <label>Max price (€)</label>
+        <input type="number" id="lgMaxPrice" placeholder="No max" />
+      </div>
+    </div>
+
+    <div class="modal-field-row">
+      <div class="modal-field">
+        <label>Min size (m²)</label>
+        <input type="number" id="lgMinSqm" placeholder="No min" />
+      </div>
+      <div class="modal-field">
+        <label>Max size (m²)</label>
+        <input type="number" id="lgMaxSqm" placeholder="No max" />
+      </div>
+    </div>
+
+    <div class="modal-field">
+      <label>Auctions</label>
+      <div class="pill-toggle-row">
+        <button type="button" class="lg-auction-btn active" data-auction="any">Any</button>
+        <button type="button" class="lg-auction-btn" data-auction="exclude">Exclude auctions</button>
+        <button type="button" class="lg-auction-btn" data-auction="only">Only auctions</button>
+      </div>
+      <p class="modal-hint">"Only auctions" matches listings from the National Auction Chamber (sales.bcpea.org) - enforcement-agent and private property auctions.</p>
+    </div>
+
+    <div class="modal-section-title">Keyword &amp; price history</div>
+
+    <div class="modal-field">
+      <label>Keyword</label>
+      <input type="text" id="lgKeyword" placeholder="e.g. sea" />
+      <p class="modal-hint">Matched against each listing's title, area and description, like the Leads search box.</p>
+    </div>
+
+    <div class="modal-field-row">
+      <div class="modal-field">
+        <label>Min times reduced</label>
+        <input type="number" id="lgMinReduced" min="0" placeholder="Any" />
+      </div>
+      <div class="modal-field">
+        <label>Min price cut (%)</label>
+        <input type="number" id="lgMinDropPct" min="0" placeholder="Any" />
+      </div>
+    </div>
+
+    <div class="modal-field">
+      <label>Sort results by</label>
+      <select id="lgSortBy"></select>
+      <p class="modal-hint">Applied to the Leads list when you press Check Leads.</p>
+    </div>
+
+    <div class="modal-section-title">Location</div>
+
+    <div class="modal-field">
+      <label>City</label>
+      <select id="lgCity"></select>
+      <p class="modal-hint">The platform covers all of Bulgaria. Picking a city narrows the neighborhoods below to that city. For a smaller town, choose "Others" or "All cities" and pick its neighborhood by name.</p>
+    </div>
+
+    <div class="modal-field">
+      <label>Area</label>
+      <div class="area-mode-tabs">
+        <button type="button" class="area-mode-tab-btn active" data-mode="neighborhood">Neighborhoods</button>
+        <button type="button" class="area-mode-tab-btn" data-mode="radius">Point + radius</button>
+        <button type="button" class="area-mode-tab-btn" data-mode="polygon">Draw an area</button>
+      </div>
+
+      <div class="area-mode-content active" data-mode-content="neighborhood">
+        <div class="checkbox-grid" id="lgNeighborhoods"></div>
+        <p class="modal-hint">Leave all unchecked to include every neighborhood.</p>
+      </div>
+
+      <div class="area-mode-content" data-mode-content="radius">
+        <div id="lgRadiusMap" class="leadgen-map"></div>
+        <p class="modal-hint">Click the map to place a point, then choose a radius.</p>
+        <div class="radius-btn-row" id="lgRadiusButtons" style="margin-top:10px;">
+          <button type="button" class="radius-btn" data-radius="250">250m</button>
+          <button type="button" class="radius-btn" data-radius="500">500m</button>
+          <button type="button" class="radius-btn" data-radius="1000">1000m</button>
+          <button type="button" class="radius-btn" data-radius="1500">1500m</button>
+          <button type="button" class="radius-btn" data-radius="custom">Custom</button>
+        </div>
+        <input type="number" id="lgRadiusCustom" placeholder="Radius in meters" style="display:none; margin-top:8px; max-width:200px;" />
+      </div>
+
+      <div class="area-mode-content" data-mode-content="polygon">
+        <div id="lgPolygonMap" class="leadgen-map"></div>
+        <p class="modal-hint">Use the drawing tool (top-left of the map) to draw a boundary, then Save.</p>
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="modal-btn-secondary" id="leadgenModalCancelBtn">Cancel</button>
+      <button type="button" class="modal-btn-primary" id="leadgenModalSaveBtn">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- Pipeline stages + tags configuration (property-filter-spec.md section 9:
+     both are arbitrary-length and fully user-editable, not a fixed set). -->
+<div class="modal-overlay compare-modal" id="plConfigModalOverlay">
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="plConfigModalTitle">
+    <div class="modal-header">
+      <h2 id="plConfigModalTitle">Manage stages &amp; tags</h2>
+      <button class="modal-close-btn" id="plConfigModalCloseBtn" aria-label="Close">✕</button>
+    </div>
+
+    <div class="modal-field">
+      <label>Pipeline stages</label>
+      <p class="modal-hint">Shown as the tabs above the Pipeline board, in this order. Every deal in a removed stage moves to "To Review" (or the first remaining stage) rather than being deleted.</p>
+      <div id="plStagesConfigList" class="pl-config-list"></div>
+      <button type="button" class="pl-secondary-btn" id="plAddStageBtn" style="margin-top:10px;">+ Add a stage</button>
+    </div>
+
+    <div class="modal-field">
+      <label>Tags</label>
+      <p class="modal-hint">Usable across both the Pipeline and (in future) Lead Generators. Each tag has a name, an icon (any emoji), and a color for its chip.</p>
+      <div id="plTagsConfigList" class="pl-config-list"></div>
+      <button type="button" class="pl-secondary-btn" id="plAddTagBtn" style="margin-top:10px;">+ Add a tag</button>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="modal-btn-primary" id="plConfigDoneBtn">Done</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="reminderModalOverlay">
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="reminderModalTitle">
+    <div class="modal-header">
+      <h2 id="reminderModalTitle">Set a reminder</h2>
+      <button class="modal-close-btn" id="reminderModalCloseBtn" aria-label="Close">✕</button>
+    </div>
+    <p class="modal-error" id="reminderModalError"></p>
+    <div class="modal-field">
+      <label>Remind me on</label>
+      <input type="date" id="reminderDate" />
+    </div>
+    <div class="modal-field">
+      <label>At (optional)</label>
+      <input type="time" id="reminderTime" value="09:00" />
+    </div>
+    <div class="modal-field">
+      <label>Note</label>
+      <input type="text" id="reminderNote" placeholder="e.g. Follow up with the agent" />
+    </div>
+    <p class="modal-hint" id="reminderNotifyHint" style="margin:0 0 12px;">
+      You'll get an alert here when a reminder is due, as long as the site is open in a browser tab.
+      <a href="#" id="reminderNotifyEnableLink" style="display:none;">Also show a browser notification</a>
+    </p>
+    <div class="modal-footer">
+      <button type="button" class="modal-btn-secondary" id="reminderModalCancelBtn">Cancel</button>
+      <button type="button" class="modal-btn-primary" id="reminderModalSaveBtn">Save reminder</button>
+    </div>
+  </div>
+</div>
+
+<!-- Deal Calculator wizard (docs/backlog.md item 18): step 1 picks a
+     strategy, step 2 shows that strategy's own form + live-computed outputs.
+     Footer is only shown on step 2 (nothing to save from the strategy
+     picker) - toggled by renderDealCalcModal(). Wide (.compare-modal) to fit
+     the strategy grid and the two-column input/output layout comfortably. -->
+<div class="modal-overlay compare-modal" id="dealCalcModalOverlay">
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="dealCalcModalTitle">
+    <div class="modal-header">
+      <h2 id="dealCalcModalTitle">New Deal Calculation</h2>
+      <button class="modal-close-btn" id="dealCalcModalCloseBtn" aria-label="Close">✕</button>
+    </div>
+    <div id="dealCalcModalBody"></div>
+    <div class="modal-footer" id="dealCalcModalFooter" style="display:none;">
+      <button type="button" class="modal-btn-secondary" id="dealCalcModalCancelBtn">Cancel</button>
+      <button type="button" class="modal-btn-primary" id="dealCalcModalSaveBtn">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- User-curated listing comparison (up to 3) - docs/backlog.md investor-
+     facing dispatch, item 1. Distinct from the existing radius-based
+     Comparables tab/page. Floating bar (always in the DOM, shown/hidden via
+     renderCompareBar()) + a wide modal table, following the same
+     modal-overlay/compare-modal pattern as plConfigModalOverlay/
+     dealCalcModalOverlay above. -->
+<div class="compare-bar" id="compareBar"></div>
+
+<div class="modal-overlay compare-modal" id="compareModalOverlay">
+  <div class="modal-panel">
+    <div class="modal-header">
+      <h2>Compare listings</h2>
+      <button class="modal-close-btn" id="compareModalCloseBtn">✕</button>
+    </div>
+    <div id="compareModalBody"></div>
+    <div class="modal-footer">
+      <button type="button" class="modal-btn-secondary" id="compareModalClearBtn">Clear all</button>
+      <button type="button" class="modal-btn-secondary" id="compareModalPrintBtn" title="Opens the print dialog - choose 'Save as PDF' there to export a PDF">🖨 Print comparison</button>
+      <button type="button" class="modal-btn-primary" id="compareModalDoneBtn">Done</button>
+    </div>
+  </div>
+</div>
+
+<!-- Print/PDF export target (item 2) - hidden on screen, the only thing
+     shown under the body.print-active @media print rule. Filled by
+     buildPrintListingHtml()/buildPrintDealCalcHtml() right before
+     window.print() is called. -->
+<div id="printRoot"></div>
+
+<!-- Toast/snackbar container - see showToast() in JS. Empty by default;
+     populated/cleared entirely from JS, never server-rendered. -->
+<div id="toastContainer" aria-live="polite"></div>
+<div id="bulkStatus" class="bulk-status" role="status" aria-live="polite" hidden></div>
+
+<!-- Photo gallery lightbox (listing detail page) - see openLightbox() and
+     friends in JS. One shared overlay reused for every listing rather than
+     rebuilt per open, since only one can ever be open at a time. -->
+<div id="lightboxOverlay">
+  <button type="button" class="lightbox-close" id="lightboxCloseBtn" aria-label="Close">✕</button>
+  <button type="button" class="lightbox-nav prev" id="lightboxPrevBtn" aria-label="Previous photo">‹</button>
+  <img class="lightbox-img" id="lightboxImg" src="" alt="" />
+  <button type="button" class="lightbox-nav next" id="lightboxNextBtn" aria-label="Next photo">›</button>
+  <span class="lightbox-count" id="lightboxCount"></span>
+</div>
+
+
+</body>
+</html>
