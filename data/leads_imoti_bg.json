@@ -828,6 +828,50 @@
     "score": 27
   },
   {
+    "id": "imotibg_515956",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-515956.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab6ba884778b_6ab6bb771a897.jpg",
+    "price_eur": 212000,
+    "sqm": 97,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Тристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Тристаен напълно обзаведен [97.03 кв.м. с общи части] до ключ с луксозни мебели, чисто нов монолотен апартамент с 2 спални,хол,трапезария,баня и 2 тоалетни в една от най-привлекателните части на града с включена изба[3.15 кв.м.]и паркомясто[11.25 кв.м.]се продава директно ОТ СОБСТВЕНИК!Изложение изток-запад.Цената включва и паркомясто!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2186,
+    "price_history": [
+      {
+        "date": "2026-09-25T21:07:05.094716+00:00",
+        "price_eur": 235000
+      },
+      {
+        "date": "2026-09-26T23:11:05.733632+00:00",
+        "price_eur": 240000
+      },
+      {
+        "date": "2026-10-14T19:12:11.780111+00:00",
+        "price_eur": 230000
+      },
+      {
+        "date": "2026-11-04T02:55:18.882839+00:00",
+        "price_eur": 212000
+      }
+    ],
+    "price_drop_count": 2,
+    "drop_pct": 9.8,
+    "days_on_market": 39,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": 36.2,
+    "score": 27
+  },
+  {
     "id": "imotibg_514541",
     "url": "https://imoti.bg/продажби/двустаен-апартамент/пловдив/кючук-париж-514541.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69c14132631a4_6ae32c5e1cf57.jpg",
@@ -859,9 +903,9 @@
     "days_on_market": 71,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -20.8,
-    "score": 26
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": -19.8,
+    "score": 25
   },
   {
     "id": "imotibg_515658",
@@ -1107,8 +1151,8 @@
     "days_on_market": 49,
     "source_status": "removed",
     "removed_at": "2026-10-13T16:01:53.859248+00:00",
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -27.9,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": -27.0,
     "score": 23
   },
   {
@@ -1907,8 +1951,8 @@
     "days_on_market": 71,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -34.9,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": -34.1,
     "score": 21
   },
   {
@@ -3220,38 +3264,6 @@
     "score": 17
   },
   {
-    "id": "imotibg_515223",
-    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/кючук-париж-515223.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a3933c0616e7_6ad0874fe50e1.jpg",
-    "price_eur": 170000,
-    "sqm": 136,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Четиристаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Оферта 54964: Предлагаме ви просторен многостаен апартамент с големи панорамни тераси и ЮГОИЗТОЧНО изложение в малка сграда в близост до парк и училище Димитър Талев. Жилището се състои от просторна и светла южна дневна с трапезария и кухненски бокс, две големи спални с площ от 16 и 18 кв.м., коридор, баня с тоалетна и четвърта малка стая, която може да се обособи като отделна кухня или трета спалня. В близост има разкошен парк, детска градина, училище, болница, супермаркет и удобен транспорт. Свободни паркоместа в двора на цени от 16 000 евро. Възможност за покупка чрез банков кредит. Агенцията разполага с ключ за имота!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 1250,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 170000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 71,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -23.1,
-    "score": 17
-  },
-  {
     "id": "imotibg_515410",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/широк-център-515410.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6a55e0f6c32df_6ab383288ce3f.jpg",
@@ -3801,6 +3813,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1674,
     "pct_vs_area_avg": 30.2,
+    "score": 16
+  },
+  {
+    "id": "imotibg_515223",
+    "url": "https://imoti.bg/продажби/четиристаен-апартамент/пловдив/кючук-париж-515223.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a3933c0616e7_6ad0874fe50e1.jpg",
+    "price_eur": 170000,
+    "sqm": 136,
+    "area": "Кючук Париж",
+    "city": "Пловдив",
+    "title": "Четиристаен апартамент, Кючук Париж",
+    "portal": "imoti.bg",
+    "lat": 42.1266712,
+    "lng": 24.7476431,
+    "description": "Оферта 54964: Предлагаме ви просторен многостаен апартамент с големи панорамни тераси и ЮГОИЗТОЧНО изложение в малка сграда в близост до парк и училище Димитър Талев. Жилището се състои от просторна и светла южна дневна с трапезария и кухненски бокс, две големи спални с площ от 16 и 18 кв.м., коридор, баня с тоалетна и четвърта малка стая, която може да се обособи като отделна кухня или трета спалня. В близост има разкошен парк, детска градина, училище, болница, супермаркет и удобен транспорт. Свободни паркоместа в двора на цени от 16 000 евро. Възможност за покупка чрез банков кредит. Агенцията разполага с ключ за имота!ВИЖТЕ ОЩЕ ИЗГОДНИ ОФЕРТИ НА https://www.kondorimoti.com/ С ЕЖЕДНЕВНА АКТУАЛИЗАЦИЯ!",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1250,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 170000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 71,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": -22.1,
     "score": 16
   },
   {
@@ -5069,46 +5113,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 44,
     "pct_vs_area_avg": -13.6,
-    "score": 13
-  },
-  {
-    "id": "imotibg_515956",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-515956.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab6ba884778b_6ab6bb771a897.jpg",
-    "price_eur": 230000,
-    "sqm": 97,
-    "area": "Кючук Париж",
-    "city": "Пловдив",
-    "title": "Тристаен апартамент, Кючук Париж",
-    "portal": "imoti.bg",
-    "lat": 42.1266712,
-    "lng": 24.7476431,
-    "description": "Тристаен напълно обзаведен [97.03 кв.м. с общи части] до ключ с луксозни мебели, чисто нов монолотен апартамент с 2 спални,хол,трапезария,баня и 2 тоалетни в една от най-привлекателните части на града с включена изба[3.15 кв.м.]и паркомясто[11.25 кв.м.]се продава директно ОТ СОБСТВЕНИК!Изложение изток-запад.Цената включва и паркомясто!",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2371,
-    "price_history": [
-      {
-        "date": "2026-09-25T21:07:05.094716+00:00",
-        "price_eur": 235000
-      },
-      {
-        "date": "2026-09-26T23:11:05.733632+00:00",
-        "price_eur": 240000
-      },
-      {
-        "date": "2026-10-14T19:12:11.780111+00:00",
-        "price_eur": 230000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 2.1,
-    "days_on_market": 39,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": 45.8,
     "score": 13
   },
   {
@@ -24283,8 +24287,8 @@
     "days_on_market": 51,
     "source_status": "removed",
     "removed_at": "2026-10-15T18:41:08.183236+00:00",
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": 19.9,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": 21.5,
     "score": 6
   },
   {
@@ -32271,8 +32275,8 @@
     "days_on_market": 19,
     "source_status": "removed",
     "removed_at": "2026-09-13T20:26:24.946171+00:00",
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": 18.9,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": 20.4,
     "score": 2
   },
   {
@@ -33551,8 +33555,8 @@
     "days_on_market": 7,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": -3.4,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": -2.1,
     "score": 2
   },
   {
@@ -34419,8 +34423,8 @@
     "days_on_market": 7,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 1626,
-    "pct_vs_area_avg": 25.5,
+    "area_avg_price_per_sqm": 1605,
+    "pct_vs_area_avg": 27.1,
     "score": 1
   },
   {
