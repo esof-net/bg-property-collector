@@ -33,7 +33,7 @@
      "Listing detail page" CSS block below. -->
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
 <!-- App styles are imported by the modules that own them (src/main.ts imports the global base/layout first). -->
-  <script type="module" crossorigin src="/_vite/index-uZiyPRd0.js"></script>
+  <script type="module" crossorigin src="/_vite/index-79wKsJiP.js"></script>
   <link rel="stylesheet" crossorigin href="/_vite/index-DxqQucXn.css">
 </head>
 <body>
@@ -171,7 +171,7 @@
       <!-- Lead Generator results (browse-all or a specific generator's leads) -->
       <section class="page" id="section-leads">
         <div class="leadgen-banner" id="leadgenBanner" style="display:none;">
-          <span>Showing leads for <strong id="leadgenBannerName"></strong></span>
+          <span>Showing leads for <strong id="leadgenBannerName"></strong><span id="leadgenBannerExtra"></span></span>
           <button id="leadgenBannerClearBtn">✕ Clear, show all listings</button>
         </div>
         <div class="leadgen-banner" id="typeFilterBanner" style="display:none;">
@@ -230,6 +230,14 @@
               <input type="number" id="minSqm" placeholder="0" />
             </div>
             <div>
+              <label>Max size (m²)</label>
+              <input type="number" id="maxSqm" placeholder="No limit" />
+            </div>
+            <div>
+              <label>City</label>
+              <select id="cityFilter"><option value="">All cities</option></select>
+            </div>
+            <div>
               <label>Area</label>
               <select id="areaFilter"><option value="">All areas</option></select>
             </div>
@@ -242,6 +250,9 @@
                 <option value="3">3</option>
                 <option value="4">4</option>
                 <option value="5">5+</option>
+                <option value="2+">2 or more</option>
+                <option value="3+">3 or more</option>
+                <option value="4+">4 or more</option>
               </select>
             </div>
             <div>
