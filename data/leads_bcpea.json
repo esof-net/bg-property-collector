@@ -2222,7 +2222,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -56.6,
     "score": 18
@@ -2862,7 +2862,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -50.8,
     "score": 17
@@ -3748,7 +3748,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 555,
     "pct_vs_area_avg": -57.5,
     "score": 16
@@ -12265,7 +12265,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -13.4,
     "score": 8
@@ -53818,7 +53818,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -53854,7 +53854,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -54094,7 +54094,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -10.7,
     "score": 5
@@ -80007,7 +80007,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81823,7 +81823,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83161,7 +83161,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84959,7 +84959,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -94.1,
     "score": 4
@@ -84991,7 +84991,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -85565,6 +85565,45 @@
     "score": 4
   },
   {
+    "id": "bcpea_93027",
+    "url": "https://sales.bcpea.org/properties/93027",
+    "photo": "https://sales.bcpea.org/upload/93027/463747/DSC05684.JPG?w=270&h=270",
+    "price_eur": 42858,
+    "sqm": 598,
+    "area": "Бургас",
+    "title": "Парцел с къща, Бургас",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-09T12:16:00+00:00",
+    "category": "land",
+    "_settlement": "Бургас",
+    "lat": 42.4936616,
+    "lng": 27.4721276,
+    "description": "Поземлен имот с идентификатор 07079.711.100 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто) по К адастралната карта и кадастралните регистри на гр.Бургас, одобрени със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, последно изменение на кадастралната карта и регистри, засягащо поземления имот – от 27.09.2022 г., адм. адрес: гр. Бургас, кв. „Рудник“ , с площ от 1 598 (хиляда петстотин деветдесет и осем) кв.м , вид собственост - частна, трайно предназначение на територията – урбанизирана, начин на трайно ползване – ниско застрояване до 10 м, предишен идентификатор: няма, номер по предходен план: 99,100, квартал 6, парцел VII , при съседи: 07079.711.90, 07079.711.94, 07079.711.95, 07079.711.97, 07079.711.98, 07079.711.102, 07079.711.103, 07079.711.104, 07079.711.3195, 07079.711.3655, ведно с построените в поземления имот две сгради , а именно: СГРАДА с идентификатор 07079.711.100.1 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто точка едно), одобрена със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, със застроена площ от 57 (петдесет и седем) кв. м , брой етажи: 1, предназначение: Жилищна сграда – еднофамилна, при съседи: 07079.711.100.2, както и СГРАДА с идентификатор 07079.711.100.2 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто точка две), одобрена със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, със застроена на площ от 39 (тридесет и девет) кв.м , брой етажи: 1, предназначение – Постройка на допълващото застрояване, при съседи: 07079.711.100.1; имотът се намира на адрес: гр. Бургас, кв. „Рудник“, ул. „Тунджа“, между № 1 и № 3.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93027/463747/DSC05684.JPG",
+      "https://sales.bcpea.org/upload/93027/463748/DSC05685.JPG",
+      "https://sales.bcpea.org/upload/93027/463749/DSC05687.JPG",
+      "https://sales.bcpea.org/upload/93027/463750/DSC05696.JPG",
+      "https://sales.bcpea.org/upload/93027/463751/Screenshot (9).png"
+    ],
+    "price_per_sqm": 72,
+    "price_history": [
+      {
+        "date": "2026-10-09T15:13:33.707820+00:00",
+        "price_eur": 42858
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 27,
+    "area_avg_price_per_sqm": 2469,
+    "pct_vs_area_avg": -97.1,
+    "score": 4
+  },
+  {
     "id": "bcpea_93026",
     "url": "https://sales.bcpea.org/properties/93026",
     "photo": "https://sales.bcpea.org/upload/93026/463733/IMG_20260904_113334-фасада.jpg?w=270&h=270",
@@ -85607,7 +85646,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 26,
+    "days_on_market": 27,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -1.8,
     "score": 4
@@ -89089,45 +89128,6 @@
     "score": 3
   },
   {
-    "id": "bcpea_93027",
-    "url": "https://sales.bcpea.org/properties/93027",
-    "photo": "https://sales.bcpea.org/upload/93027/463747/DSC05684.JPG?w=270&h=270",
-    "price_eur": 42858,
-    "sqm": 598,
-    "area": "Бургас",
-    "title": "Парцел с къща, Бургас",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-09T12:16:00+00:00",
-    "category": "land",
-    "_settlement": "Бургас",
-    "lat": 42.4936616,
-    "lng": 27.4721276,
-    "description": "Поземлен имот с идентификатор 07079.711.100 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто) по К адастралната карта и кадастралните регистри на гр.Бургас, одобрени със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, последно изменение на кадастралната карта и регистри, засягащо поземления имот – от 27.09.2022 г., адм. адрес: гр. Бургас, кв. „Рудник“ , с площ от 1 598 (хиляда петстотин деветдесет и осем) кв.м , вид собственост - частна, трайно предназначение на територията – урбанизирана, начин на трайно ползване – ниско застрояване до 10 м, предишен идентификатор: няма, номер по предходен план: 99,100, квартал 6, парцел VII , при съседи: 07079.711.90, 07079.711.94, 07079.711.95, 07079.711.97, 07079.711.98, 07079.711.102, 07079.711.103, 07079.711.104, 07079.711.3195, 07079.711.3655, ведно с построените в поземления имот две сгради , а именно: СГРАДА с идентификатор 07079.711.100.1 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто точка едно), одобрена със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, със застроена площ от 57 (петдесет и седем) кв. м , брой етажи: 1, предназначение: Жилищна сграда – еднофамилна, при съседи: 07079.711.100.2, както и СГРАДА с идентификатор 07079.711.100.2 (нула седем хиляди седемдесет и девет точка седемстотин и единадесет точка сто точка две), одобрена със Заповед № РД-18-875/13.12.2019 г., издадена от Изпълнителен директор на АГКК, със застроена на площ от 39 (тридесет и девет) кв.м , брой етажи: 1, предназначение – Постройка на допълващото застрояване, при съседи: 07079.711.100.1; имотът се намира на адрес: гр. Бургас, кв. „Рудник“, ул. „Тунджа“, между № 1 и № 3.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93027/463747/DSC05684.JPG",
-      "https://sales.bcpea.org/upload/93027/463748/DSC05685.JPG",
-      "https://sales.bcpea.org/upload/93027/463749/DSC05687.JPG",
-      "https://sales.bcpea.org/upload/93027/463750/DSC05696.JPG",
-      "https://sales.bcpea.org/upload/93027/463751/Screenshot (9).png"
-    ],
-    "price_per_sqm": 72,
-    "price_history": [
-      {
-        "date": "2026-10-09T15:13:33.707820+00:00",
-        "price_eur": 42858
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 26,
-    "area_avg_price_per_sqm": 2469,
-    "pct_vs_area_avg": -97.1,
-    "score": 3
-  },
-  {
     "id": "bcpea_93025",
     "url": "https://sales.bcpea.org/properties/93025",
     "photo": "https://sales.bcpea.org/upload/93025/463730/DSCN1736.JPG?w=270&h=270",
@@ -91982,7 +91982,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -92017,7 +92017,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -92056,7 +92056,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": 74.4,
     "score": 3
@@ -92096,7 +92096,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -92385,7 +92385,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -92421,7 +92421,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -87.4,
     "score": 3
@@ -92456,7 +92456,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -92500,7 +92500,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": 2119,
     "pct_vs_area_avg": -60.9,
     "score": 3
@@ -93755,7 +93755,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93787,7 +93787,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93819,7 +93819,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93851,7 +93851,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93883,7 +93883,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93915,7 +93915,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93947,7 +93947,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 20,
+    "days_on_market": 21,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94791,6 +94791,82 @@
     "score": 3
   },
   {
+    "id": "bcpea_93268",
+    "url": "https://sales.bcpea.org/properties/93268",
+    "photo": "https://sales.bcpea.org/upload/93268/464600/viber_изображение_2026-09-15_12-45-51-310.jpg?w=270&h=270",
+    "price_eur": 63920,
+    "sqm": 596,
+    "area": "Дъбовик",
+    "title": "Производствен имот, Дъбовик",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-16T11:54:00+00:00",
+    "category": "apartment",
+    "_settlement": "Дъбовик",
+    "lat": 43.6887396,
+    "lng": 27.9581794,
+    "description": "недвижим имот, находящ се в с. Дъбовик, община Генерал Тошево, област Добрич, ул. Пета № 1, представляващ съгласно скица поземлен имот с площ 1596 (хиляда петстотин деветдесет и шест) квадратни метра с идентификатор 24339.501.90 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула) по кадастралната карта и кадастралните регистри на с. Дъбовик, одобрени със Заповед № РД-18-101/05.09.2025г. на Изпълнителния директор на АГКК, номер по предходен план – 90, парцел V, квартал 5, с предназначение – урбанизирана територия, начин на трайно ползване – ниско застрояване (до 10м), при граници и съседи – поземлени имоти с идентификатори: 24339.501.92, 24339.501.300, 24339.501.334, 24339.501.267, ведно с построените в имота: селскостопанска сграда със застроена площ 66 (шестдесет и шест) квадратни метра с идентификатор 24339.501.90.1 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, едно), селскостопанска сграда със застроена площ 383 (триста осемдесет и три) квадратни метра с идентификатор 24339.501.90.2 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, две), селскостопанска сграда със застроена площ 183 (сто осемдесет и три) квадратни метра с идентификатор 24339.501.90.3 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, три), селскостопанска сграда със застроена площ 107 (сто и седем) квадратни метра с идентификатор 24339.501.90.4 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, четири), който съгласно акт за собственост представлява поземлен имот с площ 1485 (хиляда четиристотин осемдесет и пет)квадратни метра, част от имот с пл. № 90 (деветдесети), за който е отреден УПИ V – 90 (пети за имот с планоснимачен номер деветдесети), в квартал 5 (пети) по подробния устройствен план на селото, ведно с построените в имота: МАСИВНА НЕЖИЛИЩНА СГРАДА – СТОПАНСКА ПОСТРОЙКА, МЛЕКОПУНКТ И БИТОВКА със застроена площ 280,80 (двеста и осемдесет цяло и осемдесет стотни) квадратни метра и МАСИВНА НЕЖИЛИЩНА СГРАДА – ПРИСТРОЙКА НА СТОПАНСКА СГРАДА – СКЛАД със застроена площ 36 (тридесет и шест) квадратни метра, при граници и съседи на поземления имот – улица, УПИ VI – парк, УПИ I – 90 и улица. Описание: Имотът е с правилна правоъгълна форма и е разположен на равен терен. Оограден е от  три страни, като на юг и запад, оградата е масивна-зид от бетонови блокчета  с  височина 2,20 м., а на север за ограда служат стените на стопанските сгради. Снабден е с ток и вода. Сградите са с масивна монолитна конструкция, под-ж.б. основи, стени-тухлен зид, покрив–двускатен с дървена конструкция, покрит с плоскости етернит. Не са в експлоатация. Сграда с идентифокатор 24339.501.90.2 се състои  от млекопункт, битовка, сервизно помещение и стопанска част.  Североизточният край на сградата представлява стопанска постройка  за отглеждане на 50 бр. дойни крави. Подът е бетон с оформени в средата на помещението хранителна и торова пътеки. В западния край се помещават млекопункт, офис, битова стая, сервизно помещение, състоящо се от умивалня, баня и тоалетна. Сградата е строена в периода 2006-2007г. и е ползвана по предназначение до 2014г. Има общ покрив със стопанската сграда със ЗП-36,00 кв.м., която е с предназначение за склад. Стопанска сграда със ЗП-183,00 кв.м. и идентификатор 24339.501.90.3 е строена в периода 2009-2010г., включва няколко помещения, като едното е пригодено за подрастващи животни. Стопанска сграда със ЗП- 66,00 кв.м. и идентификатор 24339.501.90.1 е монтирано надземно съоръжение торохранилище, произведено от PERMASINTES TANK с вместимост 264 куб.м по измерване, изработено от специална стомана-корозоустойчива и киселинно устойчива. Торохранилището е с цилиндрична форма, монтирано в югозападния край на дворното място, южно на стопанската сграда. Общо добро физическо състояние. Върху имота са вписани следните тежести в Служба по вписванията Ген. Тошево: възбрана № 57, том 1, дв. вх. рег. № 1339/30.05.2018г.; възбрана № 148, том 1, дв. вх. рег. № 2482/24.11.2020г.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93268/464600/viber_изображение_2026-09-15_12-45-51-310.jpg",
+      "https://sales.bcpea.org/upload/93268/464601/viber_изображение_2026-09-15_12-46-20-774.jpg",
+      "https://sales.bcpea.org/upload/93268/464602/viber_изображение_2026-09-15_12-46-21-131.jpg",
+      "https://sales.bcpea.org/upload/93268/464603/viber_изображение_2026-09-15_12-46-21-337.jpg",
+      "https://sales.bcpea.org/upload/93268/464604/viber_изображение_2026-09-15_12-46-22-100.jpg",
+      "https://sales.bcpea.org/upload/93268/464605/viber_изображение_2026-09-15_12-46-22-657.jpg",
+      "https://sales.bcpea.org/upload/93268/464606/viber_изображение_2026-09-15_12-46-23-645.jpg",
+      "https://sales.bcpea.org/upload/93268/464607/viber_изображение_2026-09-15_12-46-24-600.jpg",
+      "https://sales.bcpea.org/upload/93268/464608/viber_изображение_2026-09-15_12-46-26-629.jpg",
+      "https://sales.bcpea.org/upload/93268/464609/viber_изображение_2026-09-15_12-46-16-635.jpg"
+    ],
+    "price_per_sqm": 107,
+    "price_history": [
+      {
+        "date": "2026-10-16T13:13:29.624469+00:00",
+        "price_eur": 63920
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
+    "id": "bcpea_93267",
+    "url": "https://sales.bcpea.org/properties/93267",
+    "photo": null,
+    "price_eur": 14160,
+    "sqm": 93,
+    "area": "Чирен",
+    "title": "Други, Чирен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-16T11:51:00+00:00",
+    "category": "apartment",
+    "_settlement": "Чирен",
+    "lat": 43.330707,
+    "lng": 23.5795599,
+    "description": "Поземлен имот с идентификатор 81400.127.1 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно/ по КККР на с. Чирен, общ. Враца, обл. Враца, одобрени със Заповед РД-18-1902/28.11.2018г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение. Адрес на поземления имот: местност МРАМОРЕНСКОТО, с площ от 6093.000 кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: За животновъдна ферма. Категория на земята: 10 /десета/. Предишен идентификатор: няма. Номер по предходен план: 127001, ВЕДНО с построените в него сгради: 1. Сграда с идентификатор 81400.127.1.1 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка едно/, със застроена площ от 1071.000 кв.м. /хиляда седемдесет и един кв.м./, брой етажи 1 /един/, предназначение: Селскостопанска сграда; 2. Сграда с идентификатор 81400.127.1.2 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка две/, със застроена площ от 1067.000 кв.м. /хиляда шестдесет и седем кв.м./, брой етажи 1 /един/, предназначение: Селскостопанска сграда; 3. Сграда с идентификатор 81400.127.1.4 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка четири/, със застроена площ от 10.000 кв.м. /десет кв.м./ , брой етажи 1 /един/, предназначение: Промишлена сграда, ВЕДНО с всички подобрения и приращения в имота, при съседи: 81400.1.85, 81400.127.3, 81400.86.118. Имотът е със сравнително добро местоположение и изложение. Реализирани са подобрения като част от ведомствен път с асфалтобетонова настилка. Изпълнена е частично масивна ограда. В имота две от сградите представляват  халета и са застороени успоредно.",
+    "detail_checked": true,
+    "price_per_sqm": 152,
+    "price_history": [
+      {
+        "date": "2026-10-16T13:13:29.624469+00:00",
+        "price_eur": 14160
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 20,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 3
+  },
+  {
     "id": "bcpea_93266",
     "url": "https://sales.bcpea.org/properties/93266",
     "photo": null,
@@ -95255,7 +95331,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -3.8,
     "score": 3
@@ -96919,82 +96995,6 @@
       {
         "date": "2026-10-16T13:13:29.624469+00:00",
         "price_eur": 17597
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_93268",
-    "url": "https://sales.bcpea.org/properties/93268",
-    "photo": "https://sales.bcpea.org/upload/93268/464600/viber_изображение_2026-09-15_12-45-51-310.jpg?w=270&h=270",
-    "price_eur": 63920,
-    "sqm": 596,
-    "area": "Дъбовик",
-    "title": "Производствен имот, Дъбовик",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-16T11:54:00+00:00",
-    "category": "apartment",
-    "_settlement": "Дъбовик",
-    "lat": 43.6887396,
-    "lng": 27.9581794,
-    "description": "недвижим имот, находящ се в с. Дъбовик, община Генерал Тошево, област Добрич, ул. Пета № 1, представляващ съгласно скица поземлен имот с площ 1596 (хиляда петстотин деветдесет и шест) квадратни метра с идентификатор 24339.501.90 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула) по кадастралната карта и кадастралните регистри на с. Дъбовик, одобрени със Заповед № РД-18-101/05.09.2025г. на Изпълнителния директор на АГКК, номер по предходен план – 90, парцел V, квартал 5, с предназначение – урбанизирана територия, начин на трайно ползване – ниско застрояване (до 10м), при граници и съседи – поземлени имоти с идентификатори: 24339.501.92, 24339.501.300, 24339.501.334, 24339.501.267, ведно с построените в имота: селскостопанска сграда със застроена площ 66 (шестдесет и шест) квадратни метра с идентификатор 24339.501.90.1 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, едно), селскостопанска сграда със застроена площ 383 (триста осемдесет и три) квадратни метра с идентификатор 24339.501.90.2 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, две), селскостопанска сграда със застроена площ 183 (сто осемдесет и три) квадратни метра с идентификатор 24339.501.90.3 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, три), селскостопанска сграда със застроена площ 107 (сто и седем) квадратни метра с идентификатор 24339.501.90.4 (две, четири, три, три, девет, точка, пет, нула, едно, точка, девет, нула, точка, четири), който съгласно акт за собственост представлява поземлен имот с площ 1485 (хиляда четиристотин осемдесет и пет)квадратни метра, част от имот с пл. № 90 (деветдесети), за който е отреден УПИ V – 90 (пети за имот с планоснимачен номер деветдесети), в квартал 5 (пети) по подробния устройствен план на селото, ведно с построените в имота: МАСИВНА НЕЖИЛИЩНА СГРАДА – СТОПАНСКА ПОСТРОЙКА, МЛЕКОПУНКТ И БИТОВКА със застроена площ 280,80 (двеста и осемдесет цяло и осемдесет стотни) квадратни метра и МАСИВНА НЕЖИЛИЩНА СГРАДА – ПРИСТРОЙКА НА СТОПАНСКА СГРАДА – СКЛАД със застроена площ 36 (тридесет и шест) квадратни метра, при граници и съседи на поземления имот – улица, УПИ VI – парк, УПИ I – 90 и улица. Описание: Имотът е с правилна правоъгълна форма и е разположен на равен терен. Оограден е от  три страни, като на юг и запад, оградата е масивна-зид от бетонови блокчета  с  височина 2,20 м., а на север за ограда служат стените на стопанските сгради. Снабден е с ток и вода. Сградите са с масивна монолитна конструкция, под-ж.б. основи, стени-тухлен зид, покрив–двускатен с дървена конструкция, покрит с плоскости етернит. Не са в експлоатация. Сграда с идентифокатор 24339.501.90.2 се състои  от млекопункт, битовка, сервизно помещение и стопанска част.  Североизточният край на сградата представлява стопанска постройка  за отглеждане на 50 бр. дойни крави. Подът е бетон с оформени в средата на помещението хранителна и торова пътеки. В западния край се помещават млекопункт, офис, битова стая, сервизно помещение, състоящо се от умивалня, баня и тоалетна. Сградата е строена в периода 2006-2007г. и е ползвана по предназначение до 2014г. Има общ покрив със стопанската сграда със ЗП-36,00 кв.м., която е с предназначение за склад. Стопанска сграда със ЗП-183,00 кв.м. и идентификатор 24339.501.90.3 е строена в периода 2009-2010г., включва няколко помещения, като едното е пригодено за подрастващи животни. Стопанска сграда със ЗП- 66,00 кв.м. и идентификатор 24339.501.90.1 е монтирано надземно съоръжение торохранилище, произведено от PERMASINTES TANK с вместимост 264 куб.м по измерване, изработено от специална стомана-корозоустойчива и киселинно устойчива. Торохранилището е с цилиндрична форма, монтирано в югозападния край на дворното място, южно на стопанската сграда. Общо добро физическо състояние. Върху имота са вписани следните тежести в Служба по вписванията Ген. Тошево: възбрана № 57, том 1, дв. вх. рег. № 1339/30.05.2018г.; възбрана № 148, том 1, дв. вх. рег. № 2482/24.11.2020г.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93268/464600/viber_изображение_2026-09-15_12-45-51-310.jpg",
-      "https://sales.bcpea.org/upload/93268/464601/viber_изображение_2026-09-15_12-46-20-774.jpg",
-      "https://sales.bcpea.org/upload/93268/464602/viber_изображение_2026-09-15_12-46-21-131.jpg",
-      "https://sales.bcpea.org/upload/93268/464603/viber_изображение_2026-09-15_12-46-21-337.jpg",
-      "https://sales.bcpea.org/upload/93268/464604/viber_изображение_2026-09-15_12-46-22-100.jpg",
-      "https://sales.bcpea.org/upload/93268/464605/viber_изображение_2026-09-15_12-46-22-657.jpg",
-      "https://sales.bcpea.org/upload/93268/464606/viber_изображение_2026-09-15_12-46-23-645.jpg",
-      "https://sales.bcpea.org/upload/93268/464607/viber_изображение_2026-09-15_12-46-24-600.jpg",
-      "https://sales.bcpea.org/upload/93268/464608/viber_изображение_2026-09-15_12-46-26-629.jpg",
-      "https://sales.bcpea.org/upload/93268/464609/viber_изображение_2026-09-15_12-46-16-635.jpg"
-    ],
-    "price_per_sqm": 107,
-    "price_history": [
-      {
-        "date": "2026-10-16T13:13:29.624469+00:00",
-        "price_eur": 63920
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 19,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 2
-  },
-  {
-    "id": "bcpea_93267",
-    "url": "https://sales.bcpea.org/properties/93267",
-    "photo": null,
-    "price_eur": 14160,
-    "sqm": 93,
-    "area": "Чирен",
-    "title": "Други, Чирен",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-16T11:51:00+00:00",
-    "category": "apartment",
-    "_settlement": "Чирен",
-    "lat": 43.330707,
-    "lng": 23.5795599,
-    "description": "Поземлен имот с идентификатор 81400.127.1 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно/ по КККР на с. Чирен, общ. Враца, обл. Враца, одобрени със Заповед РД-18-1902/28.11.2018г. на ИЗПЪЛНИТЕЛЕН ДИРЕКТОР НА АГКК. Последно изменение на кадастралната карта и кадастралните регистри, засягащо поземления имот: няма данни за изменение. Адрес на поземления имот: местност МРАМОРЕНСКОТО, с площ от 6093.000 кв.м. Трайно предназначение на територията: Земеделска. Начин на трайно ползване: За животновъдна ферма. Категория на земята: 10 /десета/. Предишен идентификатор: няма. Номер по предходен план: 127001, ВЕДНО с построените в него сгради: 1. Сграда с идентификатор 81400.127.1.1 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка едно/, със застроена площ от 1071.000 кв.м. /хиляда седемдесет и един кв.м./, брой етажи 1 /един/, предназначение: Селскостопанска сграда; 2. Сграда с идентификатор 81400.127.1.2 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка две/, със застроена площ от 1067.000 кв.м. /хиляда шестдесет и седем кв.м./, брой етажи 1 /един/, предназначение: Селскостопанска сграда; 3. Сграда с идентификатор 81400.127.1.4 /осемдесет и една хиляди и четиристотин точка сто двадесет и седем точка едно точка четири/, със застроена площ от 10.000 кв.м. /десет кв.м./ , брой етажи 1 /един/, предназначение: Промишлена сграда, ВЕДНО с всички подобрения и приращения в имота, при съседи: 81400.1.85, 81400.127.3, 81400.86.118. Имотът е със сравнително добро местоположение и изложение. Реализирани са подобрения като част от ведомствен път с асфалтобетонова настилка. Изпълнена е частично масивна ограда. В имота две от сградите представляват  халета и са застороени успоредно.",
-    "detail_checked": true,
-    "price_per_sqm": 152,
-    "price_history": [
-      {
-        "date": "2026-10-16T13:13:29.624469+00:00",
-        "price_eur": 14160
       }
     ],
     "price_drop_count": 0,
@@ -99364,7 +99364,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99396,7 +99396,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99428,7 +99428,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99460,7 +99460,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99492,7 +99492,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99524,7 +99524,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -99556,7 +99556,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -101875,7 +101875,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -101907,7 +101907,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -101942,7 +101942,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103094,7 +103094,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103126,7 +103126,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103158,7 +103158,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103190,7 +103190,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103231,7 +103231,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103263,7 +103263,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103295,7 +103295,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103327,7 +103327,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103371,7 +103371,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103403,7 +103403,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103435,7 +103435,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103475,7 +103475,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103507,7 +103507,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103539,7 +103539,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103571,7 +103571,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103603,7 +103603,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103635,7 +103635,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103667,7 +103667,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103851,7 +103851,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -103886,7 +103886,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -105245,7 +105245,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -106997,7 +106997,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -107029,7 +107029,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 765,
     "pct_vs_area_avg": 48.9,
     "score": 1
@@ -108965,7 +108965,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1794,
     "pct_vs_area_avg": -72.7,
     "score": 1
@@ -108997,7 +108997,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109033,7 +109033,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109069,7 +109069,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109101,7 +109101,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109137,7 +109137,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109913,7 +109913,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109945,7 +109945,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -111846,7 +111846,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -111881,7 +111881,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 6,
+    "days_on_market": 7,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -98.6,
     "score": 1
@@ -113251,7 +113251,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 5,
+    "days_on_market": 6,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": 20.1,
     "score": 1
@@ -114581,7 +114581,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": 26.2,
     "score": 0
@@ -114613,7 +114613,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": 1900,
     "pct_vs_area_avg": -89.0,
     "score": 0
