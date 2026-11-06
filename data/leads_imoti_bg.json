@@ -25672,7 +25672,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 409,
@@ -26344,7 +26344,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 42,
@@ -27112,7 +27112,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 42,
@@ -27176,7 +27176,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 45,
+    "days_on_market": 46,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2134,
@@ -32228,6 +32228,38 @@
     "score": 3
   },
   {
+    "id": "imotibg_516083",
+    "url": "https://imoti.bg/продажби/етаж-от-къща/пловдив-област/грасеновград-516083.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6acfb031b9ccc_6acfb07853fc3.jpg",
+    "price_eur": 70000,
+    "sqm": 80,
+    "area": "гр.Асеновград",
+    "city": "Пловдив област",
+    "title": "Етаж от къща, гр.Асеновград",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Оферта 66255 Продавам етаж от къща,\r\n\r\nВ идеален център на града на 200 метра от общината, в близост има училище, зъболекарски кабинет, църква. На 100 метра от главна улица с достъп до спирка на автобус (тихо и спокойно ).\r\n\r\n80 квадрата чиста жилищна площ + 1/2 от избата + 1/2 от дворно място (което е много компактно и подходящо за отдих). Има прокарани тръби за газифициране на 10 м. от къщата. Коментар на цената само при сериозни купувачи.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 875,
+    "price_history": [
+      {
+        "date": "2026-10-14T19:12:11.780111+00:00",
+        "price_eur": 70000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 23,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 641,
+    "pct_vs_area_avg": 36.5,
+    "score": 3
+  },
+  {
     "id": "imotibg_157121",
     "url": "https://imoti.bg/продажби/парцел/варна/галата-157121.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_626049b087b7a_626049b088f34.jpg",
@@ -33217,38 +33249,6 @@
     "removed_at": "2026-10-24T08:51:58.611662+00:00",
     "area_avg_price_per_sqm": 2389,
     "pct_vs_area_avg": 2.1,
-    "score": 2
-  },
-  {
-    "id": "imotibg_516083",
-    "url": "https://imoti.bg/продажби/етаж-от-къща/пловдив-област/грасеновград-516083.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6acfb031b9ccc_6acfb07853fc3.jpg",
-    "price_eur": 70000,
-    "sqm": 80,
-    "area": "гр.Асеновград",
-    "city": "Пловдив област",
-    "title": "Етаж от къща, гр.Асеновград",
-    "portal": "imoti.bg",
-    "lat": null,
-    "lng": null,
-    "description": "Оферта 66255 Продавам етаж от къща,\r\n\r\nВ идеален център на града на 200 метра от общината, в близост има училище, зъболекарски кабинет, църква. На 100 метра от главна улица с достъп до спирка на автобус (тихо и спокойно ).\r\n\r\n80 квадрата чиста жилищна площ + 1/2 от избата + 1/2 от дворно място (което е много компактно и подходящо за отдих). Има прокарани тръби за газифициране на 10 м. от къщата. Коментар на цената само при сериозни купувачи.",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 875,
-    "price_history": [
-      {
-        "date": "2026-10-14T19:12:11.780111+00:00",
-        "price_eur": 70000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 22,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 641,
-    "pct_vs_area_avg": 36.5,
     "score": 2
   },
   {
