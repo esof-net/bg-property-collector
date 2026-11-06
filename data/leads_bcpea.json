@@ -1091,7 +1091,7 @@
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 38,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -54.7,
+    "pct_vs_area_avg": -54.8,
     "score": 19
   },
   {
@@ -3034,7 +3034,7 @@
     "removed_at": null,
     "days_on_market": 16,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -50.4,
+    "pct_vs_area_avg": -50.5,
     "score": 17
   },
   {
@@ -5185,7 +5185,7 @@
     "removed_at": "2026-09-25T10:01:57.552701+00:00",
     "days_on_market": 57,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -20.3,
+    "pct_vs_area_avg": -20.4,
     "score": 14
   },
   {
@@ -5274,7 +5274,7 @@
     "removed_at": null,
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -31.4,
+    "pct_vs_area_avg": -31.5,
     "score": 14
   },
   {
@@ -6818,7 +6818,7 @@
     "removed_at": "2026-10-12T16:37:18.673159+00:00",
     "days_on_market": 38,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -14.6,
+    "pct_vs_area_avg": -14.7,
     "score": 10
   },
   {
@@ -7973,7 +7973,7 @@
     "removed_at": "2026-10-06T15:17:13.586567+00:00",
     "days_on_market": 48,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -9.4,
+    "pct_vs_area_avg": -9.5,
     "score": 9
   },
   {
@@ -8195,7 +8195,7 @@
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 8,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -21.3,
+    "pct_vs_area_avg": -21.4,
     "score": 9
   },
   {
@@ -8235,7 +8235,7 @@
     "removed_at": null,
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -18.5,
+    "pct_vs_area_avg": -18.6,
     "score": 9
   },
   {
@@ -8275,7 +8275,7 @@
     "removed_at": null,
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -18.5,
+    "pct_vs_area_avg": -18.6,
     "score": 9
   },
   {
@@ -12270,7 +12270,7 @@
     "removed_at": null,
     "days_on_market": 28,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -12.6,
+    "pct_vs_area_avg": -12.7,
     "score": 8
   },
   {
@@ -12345,7 +12345,7 @@
     "removed_at": null,
     "days_on_market": 15,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -16.9,
+    "pct_vs_area_avg": -17.0,
     "score": 8
   },
   {
@@ -17701,7 +17701,7 @@
     "removed_at": "2026-09-28T15:10:33.888929+00:00",
     "days_on_market": 61,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -0.2,
+    "pct_vs_area_avg": -0.3,
     "score": 7
   },
   {
@@ -19890,7 +19890,7 @@
     "removed_at": null,
     "days_on_market": 28,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -11.3,
+    "pct_vs_area_avg": -11.4,
     "score": 7
   },
   {
@@ -19994,7 +19994,7 @@
     "removed_at": null,
     "days_on_market": 8,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -17.0,
+    "pct_vs_area_avg": -17.1,
     "score": 7
   },
   {
@@ -20025,7 +20025,7 @@
     "removed_at": null,
     "days_on_market": 1,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -17.7,
+    "pct_vs_area_avg": -17.8,
     "score": 7
   },
   {
@@ -29852,7 +29852,7 @@
     "removed_at": "2026-10-27T20:56:39.415868+00:00",
     "days_on_market": 43,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 155.6,
+    "pct_vs_area_avg": 155.5,
     "score": 6
   },
   {
@@ -30195,7 +30195,7 @@
     "removed_at": "2026-10-27T20:56:39.415868+00:00",
     "days_on_market": 43,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 155.6,
+    "pct_vs_area_avg": 155.5,
     "score": 6
   },
   {
@@ -38155,7 +38155,7 @@
     "removed_at": "2026-09-17T20:23:38.178797+00:00",
     "days_on_market": 42,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 99.8,
+    "pct_vs_area_avg": 99.7,
     "score": 5
   },
   {
@@ -38815,7 +38815,7 @@
     "removed_at": "2026-10-29T20:55:59.752617+00:00",
     "days_on_market": 45,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 0.8,
+    "pct_vs_area_avg": 0.7,
     "score": 5
   },
   {
@@ -39902,7 +39902,7 @@
     "removed_at": "2026-10-01T14:53:21.331908+00:00",
     "days_on_market": 37,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -3.4,
+    "pct_vs_area_avg": -3.5,
     "score": 5
   },
   {
@@ -43435,7 +43435,7 @@
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 36,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -3.4,
+    "pct_vs_area_avg": -3.5,
     "score": 5
   },
   {
@@ -49049,7 +49049,7 @@
     "removed_at": "2026-09-17T20:23:38.178797+00:00",
     "days_on_market": 44,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 31.3,
+    "pct_vs_area_avg": 31.2,
     "score": 5
   },
   {
@@ -54579,7 +54579,7 @@
     "removed_at": null,
     "days_on_market": 35,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 99.6,
+    "pct_vs_area_avg": 99.5,
     "score": 5
   },
   {
@@ -55755,7 +55755,7 @@
     "removed_at": "2026-10-29T20:55:59.752617+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 106.0,
+    "pct_vs_area_avg": 105.9,
     "score": 4
   },
   {
@@ -59695,7 +59695,7 @@
     "removed_at": "2026-10-15T18:43:20.171502+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -61.4,
+    "pct_vs_area_avg": -61.5,
     "score": 4
   },
   {
@@ -61368,7 +61368,7 @@
     "removed_at": "2026-09-10T20:20:51.552614+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 101.4,
+    "pct_vs_area_avg": 101.3,
     "score": 4
   },
   {
@@ -61776,7 +61776,7 @@
     "removed_at": "2026-10-16T18:37:23.780364+00:00",
     "days_on_market": 32,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 73.4,
+    "pct_vs_area_avg": 73.3,
     "score": 4
   },
   {
@@ -65102,7 +65102,7 @@
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 73.1,
+    "pct_vs_area_avg": 73.0,
     "score": 4
   },
   {
@@ -66659,7 +66659,7 @@
     "removed_at": "2026-09-14T20:26:44.521956+00:00",
     "days_on_market": 33,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 157.5,
+    "pct_vs_area_avg": 157.4,
     "score": 4
   },
   {
@@ -67654,7 +67654,7 @@
     "removed_at": "2026-10-11T19:55:16.116602+00:00",
     "days_on_market": 33,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 58.4,
+    "pct_vs_area_avg": 58.3,
     "score": 4
   },
   {
@@ -68372,7 +68372,7 @@
     "removed_at": "2026-10-14T19:14:24.143630+00:00",
     "days_on_market": 33,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 154.2,
+    "pct_vs_area_avg": 154.1,
     "score": 4
   },
   {
@@ -73230,7 +73230,7 @@
     "removed_at": "2026-10-08T15:15:01.338238+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 119.5,
+    "pct_vs_area_avg": 119.4,
     "score": 4
   },
   {
@@ -73701,7 +73701,7 @@
     "removed_at": "2026-10-26T16:16:19.037986+00:00",
     "days_on_market": 33,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 97.0,
+    "pct_vs_area_avg": 96.9,
     "score": 4
   },
   {
@@ -74399,7 +74399,7 @@
     "removed_at": "2026-08-24T21:39:00.972816+00:00",
     "days_on_market": 32,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 9.6,
+    "pct_vs_area_avg": 9.5,
     "score": 4
   },
   {
@@ -76183,7 +76183,7 @@
     "removed_at": "2026-10-15T18:43:20.171502+00:00",
     "days_on_market": 34,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 194.7,
+    "pct_vs_area_avg": 194.6,
     "score": 4
   },
   {
@@ -76992,7 +76992,7 @@
     "removed_at": null,
     "days_on_market": 36,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 5.4,
+    "pct_vs_area_avg": 5.3,
     "score": 4
   },
   {
@@ -82091,7 +82091,7 @@
     "removed_at": null,
     "days_on_market": 30,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 65.5,
+    "pct_vs_area_avg": 65.4,
     "score": 4
   },
   {
@@ -88485,7 +88485,7 @@
     "removed_at": "2026-10-06T06:28:50.390838+00:00",
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 596.7,
+    "pct_vs_area_avg": 596.4,
     "score": 3
   },
   {
@@ -89425,7 +89425,7 @@
     "removed_at": null,
     "days_on_market": 30,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 21.8,
+    "pct_vs_area_avg": 21.7,
     "score": 3
   },
   {
@@ -93472,7 +93472,7 @@
     "removed_at": null,
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 594.9,
+    "pct_vs_area_avg": 594.7,
     "score": 3
   },
   {
@@ -94953,7 +94953,7 @@
     "removed_at": null,
     "days_on_market": 21,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 79.8,
+    "pct_vs_area_avg": 79.7,
     "score": 3
   },
   {
@@ -96407,7 +96407,7 @@
     "removed_at": "2026-09-23T04:46:28.214217+00:00",
     "days_on_market": 18,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 97.9,
+    "pct_vs_area_avg": 97.8,
     "score": 2
   },
   {
@@ -97534,7 +97534,7 @@
     "removed_at": null,
     "days_on_market": 14,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 192.0,
+    "pct_vs_area_avg": 191.9,
     "score": 2
   },
   {
@@ -105750,6 +105750,53 @@
     "score": 1
   },
   {
+    "id": "bcpea_92994",
+    "url": "https://sales.bcpea.org/properties/92994",
+    "photo": "https://sales.bcpea.org/upload/92994/463532/IMG_8173.jpeg?w=270&h=270",
+    "price_eur": 223680,
+    "sqm": 119,
+    "area": "София",
+    "title": "Тристаен апартамент, София",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-08T17:22:00+00:00",
+    "category": "apartment",
+    "_settlement": "София",
+    "lat": 42.6774732,
+    "lng": 23.2052117,
+    "description": "ЖИЛИЩЕ, АПАРТАМЕНТ - САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 68134.4333.1170.1.28 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, двадесет и осем) по кадастралната карта и кадастралните регистри на гр. София, одобрени със Заповед РД-18-51/15.07.2010 г. на Изпълнителния директор на АГКК, с адрес на имота: гр. София, район „Овча купел“, ж.к. „Овча купел 2“, бл. 14 (четиринадесет), етаж 2 (втори), ап. 1.2 (едно точка две). Самостоятелният обект се намира на етаж 2 (две) в Жилищна сграда - многофамилна с идентификатор 68134.4333.1170.1 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно), сградата е разположена в поземлен имот с идентификатор 68134.4333.1170 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет), с предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 (едно), посочена в документа площ 118.63 кв. м. (сто и осемнадесет цяло и шестдесет и три стотни квадратни метра), при съседни самостоятелни обекти в сградата: на същия етаж – самостоятелен обект 68134.4333.1170.1.27; под обекта – самостоятелни обекти 68134.4333.1170.1.17 и 68134.4333.1170.1. 31 ; над обекта – самостоятелен обект 68134.4333.1170.1.26, с предишен идентификатор 68134.4333.1170.1.1 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, едно), а съгласно одобрен проект, представлява: АПАРТАМЕНТ № 1.2 (едно точка две), находящ се в град София, на втори жилищен етаж, кота + 6.20 (плюс шест цяло и двадесет стотни) метра, с административен адрес: град София, СО, район „Овча Купел“, ж.к. „Овча Купел“ 2 (две), блок № 14 (четиринадесет), с площ от 118.63 кв. м (сто и осемнадесет цяло и шестдесет и три стотни квадратни метра), състоящ се от преддверие, дневна с кухня и трапезария, две спални, баня, тоалетна, килер и две тераси, при съседи: апартамент 1.1, коридор, улица „Президент Линкълн“, калкан и двор, с прилежащите му 1.775% (едно цяло седемстотин седемдесет и пет хилядни върху сто) идеални части от общите части на сградата, заедно със съответните идеални части от правото на строеж върху поземления имот, в който е построена сградата.",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/92994/463532/IMG_8173.jpeg",
+      "https://sales.bcpea.org/upload/92994/463526/IMG_8167.jpeg",
+      "https://sales.bcpea.org/upload/92994/463527/IMG_8168.jpeg",
+      "https://sales.bcpea.org/upload/92994/463528/IMG_8169.jpeg",
+      "https://sales.bcpea.org/upload/92994/463529/IMG_8170.jpeg",
+      "https://sales.bcpea.org/upload/92994/463530/IMG_8171.jpeg",
+      "https://sales.bcpea.org/upload/92994/463531/IMG_8172.jpeg",
+      "https://sales.bcpea.org/upload/92994/463533/IMG_8174.jpeg",
+      "https://sales.bcpea.org/upload/92994/463534/IMG_8175.jpeg",
+      "https://sales.bcpea.org/upload/92994/463535/IMG_8176.jpeg",
+      "https://sales.bcpea.org/upload/92994/463536/IMG_8177.jpeg",
+      "https://sales.bcpea.org/upload/92994/463537/IMG_8178.jpeg",
+      "https://sales.bcpea.org/upload/92994/463538/IMG_8180.jpeg"
+    ],
+    "price_per_sqm": 1880,
+    "price_history": [
+      {
+        "date": "2026-10-08T15:15:01.338238+00:00",
+        "price_eur": 223680
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "removed",
+    "removed_at": "2026-10-13T07:27:15.631632+00:00",
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": 1883,
+    "pct_vs_area_avg": -0.2,
+    "score": 1
+  },
+  {
     "id": "bcpea_93003",
     "url": "https://sales.bcpea.org/properties/93003",
     "photo": null,
@@ -107389,7 +107436,7 @@
     "removed_at": null,
     "days_on_market": 9,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 28.6,
+    "pct_vs_area_avg": 28.5,
     "score": 1
   },
   {
@@ -110801,7 +110848,7 @@
     "removed_at": null,
     "days_on_market": 7,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 80.9,
+    "pct_vs_area_avg": 80.8,
     "score": 1
   },
   {
@@ -110845,7 +110892,7 @@
     "removed_at": null,
     "days_on_market": 7,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 82.5,
+    "pct_vs_area_avg": 82.4,
     "score": 1
   },
   {
@@ -113809,53 +113856,6 @@
     "score": 0
   },
   {
-    "id": "bcpea_92994",
-    "url": "https://sales.bcpea.org/properties/92994",
-    "photo": "https://sales.bcpea.org/upload/92994/463532/IMG_8173.jpeg?w=270&h=270",
-    "price_eur": 223680,
-    "sqm": 119,
-    "area": "София",
-    "title": "Тристаен апартамент, София",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-08T17:22:00+00:00",
-    "category": "apartment",
-    "_settlement": "София",
-    "lat": 42.6774732,
-    "lng": 23.2052117,
-    "description": "ЖИЛИЩЕ, АПАРТАМЕНТ - САМОСТОЯТЕЛЕН ОБЕКТ В СГРАДА с идентификатор 68134.4333.1170.1.28 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, двадесет и осем) по кадастралната карта и кадастралните регистри на гр. София, одобрени със Заповед РД-18-51/15.07.2010 г. на Изпълнителния директор на АГКК, с адрес на имота: гр. София, район „Овча купел“, ж.к. „Овча купел 2“, бл. 14 (четиринадесет), етаж 2 (втори), ап. 1.2 (едно точка две). Самостоятелният обект се намира на етаж 2 (две) в Жилищна сграда - многофамилна с идентификатор 68134.4333.1170.1 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно), сградата е разположена в поземлен имот с идентификатор 68134.4333.1170 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет), с предназначение на самостоятелния обект: Жилище, апартамент – в жилищна или вилна сграда, или в сграда със смесено предназначение, брой нива на обекта: 1 (едно), посочена в документа площ 118.63 кв. м. (сто и осемнадесет цяло и шестдесет и три стотни квадратни метра), при съседни самостоятелни обекти в сградата: на същия етаж – самостоятелен обект 68134.4333.1170.1.27; под обекта – самостоятелни обекти 68134.4333.1170.1.17 и 68134.4333.1170.1. 31 ; над обекта – самостоятелен обект 68134.4333.1170.1.26, с предишен идентификатор 68134.4333.1170.1.1 (шестдесет и осем хиляди сто тридесет и четири, точка, четири хиляди триста тридесет и три, точка, хиляда сто и седемдесет, точка, едно, точка, едно), а съгласно одобрен проект, представлява: АПАРТАМЕНТ № 1.2 (едно точка две), находящ се в град София, на втори жилищен етаж, кота + 6.20 (плюс шест цяло и двадесет стотни) метра, с административен адрес: град София, СО, район „Овча Купел“, ж.к. „Овча Купел“ 2 (две), блок № 14 (четиринадесет), с площ от 118.63 кв. м (сто и осемнадесет цяло и шестдесет и три стотни квадратни метра), състоящ се от преддверие, дневна с кухня и трапезария, две спални, баня, тоалетна, килер и две тераси, при съседи: апартамент 1.1, коридор, улица „Президент Линкълн“, калкан и двор, с прилежащите му 1.775% (едно цяло седемстотин седемдесет и пет хилядни върху сто) идеални части от общите части на сградата, заедно със съответните идеални части от правото на строеж върху поземления имот, в който е построена сградата.",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/92994/463532/IMG_8173.jpeg",
-      "https://sales.bcpea.org/upload/92994/463526/IMG_8167.jpeg",
-      "https://sales.bcpea.org/upload/92994/463527/IMG_8168.jpeg",
-      "https://sales.bcpea.org/upload/92994/463528/IMG_8169.jpeg",
-      "https://sales.bcpea.org/upload/92994/463529/IMG_8170.jpeg",
-      "https://sales.bcpea.org/upload/92994/463530/IMG_8171.jpeg",
-      "https://sales.bcpea.org/upload/92994/463531/IMG_8172.jpeg",
-      "https://sales.bcpea.org/upload/92994/463533/IMG_8174.jpeg",
-      "https://sales.bcpea.org/upload/92994/463534/IMG_8175.jpeg",
-      "https://sales.bcpea.org/upload/92994/463535/IMG_8176.jpeg",
-      "https://sales.bcpea.org/upload/92994/463536/IMG_8177.jpeg",
-      "https://sales.bcpea.org/upload/92994/463537/IMG_8178.jpeg",
-      "https://sales.bcpea.org/upload/92994/463538/IMG_8180.jpeg"
-    ],
-    "price_per_sqm": 1880,
-    "price_history": [
-      {
-        "date": "2026-10-08T15:15:01.338238+00:00",
-        "price_eur": 223680
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "removed",
-    "removed_at": "2026-10-13T07:27:15.631632+00:00",
-    "days_on_market": 4,
-    "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": -0.1,
-    "score": 0
-  },
-  {
     "id": "bcpea_93017",
     "url": "https://sales.bcpea.org/properties/93017",
     "photo": "https://sales.bcpea.org/upload/93017/463702/20251001_112557.jpg?w=270&h=270",
@@ -116490,7 +116490,7 @@
     "removed_at": null,
     "days_on_market": 1,
     "area_avg_price_per_sqm": 1883,
-    "pct_vs_area_avg": 112.5,
+    "pct_vs_area_avg": 112.4,
     "score": 0
   },
   {
@@ -118726,6 +118726,786 @@
       {
         "date": "2026-11-05T14:54:04.890442+00:00",
         "price_eur": 1616
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93958",
+    "url": "https://sales.bcpea.org/properties/93958",
+    "photo": "https://sales.bcpea.org/upload/93958/467822/01Инфраструктура.jpeg?w=270&h=270",
+    "price_eur": 3440,
+    "sqm": 210,
+    "area": "Стрелци",
+    "title": "Земеделски имот, Стрелци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T10:37:00+00:00",
+    "category": "apartment",
+    "_settlement": "Стрелци",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 16,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 3440
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93957",
+    "url": "https://sales.bcpea.org/properties/93957",
+    "photo": "https://sales.bcpea.org/upload/93957/467812/01 Инфраструктура.jpeg?w=270&h=270",
+    "price_eur": 50800,
+    "sqm": 737,
+    "area": "Стрелци",
+    "title": "Производствен имот, Стрелци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T10:27:00+00:00",
+    "category": "apartment",
+    "_settlement": "Стрелци",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 69,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 50800
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93956",
+    "url": "https://sales.bcpea.org/properties/93956",
+    "photo": "https://sales.bcpea.org/upload/93956/467807/IMG_20261016_110911.jpg?w=270&h=270",
+    "price_eur": 9600,
+    "sqm": 0,
+    "area": "Дойранци",
+    "title": "Парцел с къща, Дойранци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T10:04:00+00:00",
+    "category": "land",
+    "_settlement": "Дойранци",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 9600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93955",
+    "url": "https://sales.bcpea.org/properties/93955",
+    "photo": "https://sales.bcpea.org/upload/93955/467804/IMG_20261016_103557.jpg?w=270&h=270",
+    "price_eur": 2000,
+    "sqm": 638,
+    "area": "Долина",
+    "title": "Парцел, Долина",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T09:26:00+00:00",
+    "category": "land",
+    "_settlement": "Долина",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 2000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93954",
+    "url": "https://sales.bcpea.org/properties/93954",
+    "photo": "https://sales.bcpea.org/upload/93954/467790/20260520_112605.jpg?w=270&h=270",
+    "price_eur": 258240,
+    "sqm": 130,
+    "area": "София",
+    "title": "Офис, София",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T09:05:00+00:00",
+    "category": "commercial",
+    "_settlement": "София",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1986,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 258240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": 1883,
+    "pct_vs_area_avg": 5.4,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93953",
+    "url": "https://sales.bcpea.org/properties/93953",
+    "photo": null,
+    "price_eur": 2000,
+    "sqm": 500,
+    "area": "Добротич",
+    "title": "Земеделска земя, Добротич",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:52:00+00:00",
+    "category": "land",
+    "_settlement": "Добротич",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 2000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93952",
+    "url": "https://sales.bcpea.org/properties/93952",
+    "photo": null,
+    "price_eur": 4356,
+    "sqm": 390,
+    "area": "Радан войвода",
+    "title": "Парцел, Радан войвода",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:50:00+00:00",
+    "category": "land",
+    "_settlement": "Радан войвода",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 11,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 4356
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93951",
+    "url": "https://sales.bcpea.org/properties/93951",
+    "photo": null,
+    "price_eur": 5040,
+    "sqm": 400,
+    "area": "Червенци",
+    "title": "Парцел, Червенци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:47:00+00:00",
+    "category": "land",
+    "_settlement": "Червенци",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 13,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 5040
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93950",
+    "url": "https://sales.bcpea.org/properties/93950",
+    "photo": "https://sales.bcpea.org/upload/93950/438795/0-02-05-0c3f9e3638f0766f8d72d9e1ea977046ca27949289c58864cb2b1cbb0823e623_511c5f2e9e45acd9.jpg?w=270&h=270",
+    "price_eur": 1812960,
+    "sqm": 61,
+    "area": "Оборище",
+    "title": "Производствен имот, Оборище",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:46:00+00:00",
+    "category": "apartment",
+    "_settlement": "Оборище",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 29721,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 1812960
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93949",
+    "url": "https://sales.bcpea.org/properties/93949",
+    "photo": "https://sales.bcpea.org/upload/93949/427883/0-02-05-c9cb8e4eef6cc65e814443c83c7da5d25a6d2f7115a84ca3eeb322a1ccedcff1_819935fdb696cff1.jpg?w=270&h=270",
+    "price_eur": 5760,
+    "sqm": 112,
+    "area": "Радан войвода",
+    "title": "Парцел, Радан войвода",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:45:00+00:00",
+    "category": "land",
+    "_settlement": "Радан войвода",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 51,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 5760
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93948",
+    "url": "https://sales.bcpea.org/properties/93948",
+    "photo": "https://sales.bcpea.org/upload/93948/427879/0-02-05-2e487116d74e86785211aa809115454aacb47337ed49350c458f6462f1f6cd4e_ab340fd050aaee37.jpg?w=270&h=270",
+    "price_eur": 12880,
+    "sqm": 920,
+    "area": "Червенци",
+    "title": "Парцел с къща, Червенци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:44:00+00:00",
+    "category": "land",
+    "_settlement": "Червенци",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 14,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 12880
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93947",
+    "url": "https://sales.bcpea.org/properties/93947",
+    "photo": "https://sales.bcpea.org/upload/93947/418697/0-02-05-08f216550dbfa786c1e13ee4ff15690dfbf0332d200da9ddb697c9c500fd3696_e57b46bca1e9a60a.jpg?w=270&h=270",
+    "price_eur": 35784,
+    "sqm": 540,
+    "area": "Щипско",
+    "title": "Склад, Щипско",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:42:00+00:00",
+    "category": "commercial",
+    "_settlement": "Щипско",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 66,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 35784
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93946",
+    "url": "https://sales.bcpea.org/properties/93946",
+    "photo": "https://sales.bcpea.org/upload/93946/347565/436444244_787740716413089_7926594371783445247_n.jpg?w=270&h=270",
+    "price_eur": 5920,
+    "sqm": 134,
+    "area": "Генерал Киселово",
+    "title": "Парцел с къща, Генерал Киселово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:42:00+00:00",
+    "category": "land",
+    "_settlement": "Генерал Киселово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 44,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 5920
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93945",
+    "url": "https://sales.bcpea.org/properties/93945",
+    "photo": "https://sales.bcpea.org/upload/93945/344354/436444221_1069738147461358_49922017558475634_n.jpg?w=270&h=270",
+    "price_eur": 2080,
+    "sqm": 250,
+    "area": "Генерал Киселово",
+    "title": "Парцел, Генерал Киселово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:29:00+00:00",
+    "category": "land",
+    "_settlement": "Генерал Киселово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 8,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 2080
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93944",
+    "url": "https://sales.bcpea.org/properties/93944",
+    "photo": "https://sales.bcpea.org/upload/93944/384507/474973950_1169676157847967_1080444321790608112_n.jpg?w=270&h=270",
+    "price_eur": 1200,
+    "sqm": 200,
+    "area": "Бояна",
+    "title": "Парцел, Бояна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:28:00+00:00",
+    "category": "land",
+    "_settlement": "Бояна",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 6,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 1200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93943",
+    "url": "https://sales.bcpea.org/properties/93943",
+    "photo": null,
+    "price_eur": 3680,
+    "sqm": 605,
+    "area": "Девня",
+    "title": "Парцел, Девня",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:27:00+00:00",
+    "category": "land",
+    "_settlement": "Девня",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 6,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 3680
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93942",
+    "url": "https://sales.bcpea.org/properties/93942",
+    "photo": "https://sales.bcpea.org/upload/93942/467774/0-02-05-1a4e02164c677599fb6483dfddee2b2b3f51fc0bff2845755d9f1a1139832b05_59eb9e6e7ce8c808.jpg?w=270&h=270",
+    "price_eur": 10320,
+    "sqm": 340,
+    "area": "Камен дял",
+    "title": "Парцел, Камен дял",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:25:00+00:00",
+    "category": "land",
+    "_settlement": "Камен дял",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 30,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 10320
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93941",
+    "url": "https://sales.bcpea.org/properties/93941",
+    "photo": "https://sales.bcpea.org/upload/93941/388406/475848588_929075229285875_3032353138928913223_n.jpg?w=270&h=270",
+    "price_eur": 13200,
+    "sqm": 600,
+    "area": "Сава",
+    "title": "Парцел, Сава",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:22:00+00:00",
+    "category": "land",
+    "_settlement": "Сава",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 22,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 13200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93940",
+    "url": "https://sales.bcpea.org/properties/93940",
+    "photo": "https://sales.bcpea.org/upload/93940/365513/455014521_314569381678580_7182400241567153456_n.jpg?w=270&h=270",
+    "price_eur": 5688,
+    "sqm": 70,
+    "area": "Петров дол",
+    "title": "Парцел, Петров дол",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:21:00+00:00",
+    "category": "land",
+    "_settlement": "Петров дол",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 81,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 5688
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93939",
+    "url": "https://sales.bcpea.org/properties/93939",
+    "photo": "https://sales.bcpea.org/upload/93939/457833/0-02-05-7bc6b19f95089453dddbfd97e214f8ea83ce2411c9b67c128fdf670e8a32fa3b_b666b3b5e49555ba.jpg?w=270&h=270",
+    "price_eur": 85248,
+    "sqm": 600,
+    "area": "Арковна",
+    "title": "Склад, Арковна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:20:00+00:00",
+    "category": "commercial",
+    "_settlement": "Арковна",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 142,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 85248
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93938",
+    "url": "https://sales.bcpea.org/properties/93938",
+    "photo": "https://sales.bcpea.org/upload/93938/457830/0-02-05-a5c294d34e64dc86c463d8ab715f99b2ee2155454081b9a38cf7065125c51214_e680d1ccb7cf0679.jpg?w=270&h=270",
+    "price_eur": 92016,
+    "sqm": 600,
+    "area": "Арковна",
+    "title": "Склад, Арковна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:20:00+00:00",
+    "category": "commercial",
+    "_settlement": "Арковна",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 153,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 92016
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93937",
+    "url": "https://sales.bcpea.org/properties/93937",
+    "photo": "https://sales.bcpea.org/upload/93937/457828/0-02-05-9e16c9236ae9c5caa840ff50267879e585199d530302aaa5b52f65e1f02c5fba_1183c92911517502.jpg?w=270&h=270",
+    "price_eur": 77904,
+    "sqm": 277,
+    "area": "Арковна",
+    "title": "Други, Арковна",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:19:00+00:00",
+    "category": "apartment",
+    "_settlement": "Арковна",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 281,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 77904
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93936",
+    "url": "https://sales.bcpea.org/properties/93936",
+    "photo": "https://sales.bcpea.org/upload/93936/457824/0-02-05-d49aae17317f2a201146d3644a6f489135592841442290927e619573f16af475_ba339f7cc41a8646.jpg?w=270&h=270",
+    "price_eur": 15048,
+    "sqm": 51,
+    "area": "Провадия",
+    "title": "Жилищна сграда, Провадия",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:18:00+00:00",
+    "category": "apartment",
+    "_settlement": "Провадия",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 295,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 15048
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93935",
+    "url": "https://sales.bcpea.org/properties/93935",
+    "photo": "https://sales.bcpea.org/upload/93935/457820/0-02-05-c99900641eb397a2f25e9cbbf45dacb49647bd3405a685288b081ed10d79ba92_ef67a6926fa1e4ea.jpg?w=270&h=270",
+    "price_eur": 51048,
+    "sqm": 276,
+    "area": "Цонево",
+    "title": "Парцел, Цонево",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:17:00+00:00",
+    "category": "land",
+    "_settlement": "Цонево",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 185,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 51048
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93934",
+    "url": "https://sales.bcpea.org/properties/93934",
+    "photo": "https://sales.bcpea.org/upload/93934/388413/477483083_956453066631746_4421279725045410898_n.jpg?w=270&h=270",
+    "price_eur": 10829,
+    "sqm": 480,
+    "area": "Величково",
+    "title": "Парцел, Величково",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T08:16:00+00:00",
+    "category": "land",
+    "_settlement": "Величково",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 23,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 10829
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93933",
+    "url": "https://sales.bcpea.org/properties/93933",
+    "photo": null,
+    "price_eur": 1162656,
+    "sqm": 255,
+    "area": "Опицвет",
+    "title": "Производствен имот, Опицвет",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T07:48:00+00:00",
+    "category": "apartment",
+    "_settlement": "Опицвет",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 4559,
+    "price_history": [
+      {
+        "date": "2026-11-06T08:45:24.470065+00:00",
+        "price_eur": 1162656
       }
     ],
     "price_drop_count": 0,
