@@ -1756,42 +1756,6 @@
     "score": 22
   },
   {
-    "id": "imotibg_515653",
-    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/лагера-515653.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a79d3c87201b_6a79d40da8f08.png",
-    "price_eur": 248000,
-    "sqm": 88,
-    "area": "Лагера",
-    "city": "София",
-    "title": "Тристаен апартамент, Лагера",
-    "portal": "imoti.bg",
-    "lat": 42.5116283,
-    "lng": 23.3646251,
-    "description": "Тристаен апартамент за продажба на тихо място. Поддържана сграда. Жилището се състои от коридор, кухня, хол с преход към една стая, втора самостоятелна стая, баня с тоалетна, тоалетна и три тераси. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1853392",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2818,
-    "price_history": [
-      {
-        "date": "2026-08-22T12:42:14.065002+00:00",
-        "price_eur": 254000
-      },
-      {
-        "date": "2026-10-05T15:55:28.262208+00:00",
-        "price_eur": 248000
-      }
-    ],
-    "price_drop_count": 1,
-    "drop_pct": 2.4,
-    "days_on_market": 76,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3205,
-    "pct_vs_area_avg": -12.1,
-    "score": 22
-  },
-  {
     "id": "imotibg_514385",
     "url": "https://imoti.bg/продажби/парцел/пазарджик-област/сцигов-чарк-514385.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69a1852d01185_69a1856f88a18.jpg",
@@ -2285,6 +2249,42 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 86,
     "pct_vs_area_avg": -39.2,
+    "score": 20
+  },
+  {
+    "id": "imotibg_515653",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/софия/лагера-515653.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a79d3c87201b_6a79d40da8f08.png",
+    "price_eur": 248000,
+    "sqm": 88,
+    "area": "Лагера",
+    "city": "София",
+    "title": "Тристаен апартамент, Лагера",
+    "portal": "imoti.bg",
+    "lat": 42.5116283,
+    "lng": 23.3646251,
+    "description": "Тристаен апартамент за продажба на тихо място. Поддържана сграда. Жилището се състои от коридор, кухня, хол с преход към една стая, втора самостоятелна стая, баня с тоалетна, тоалетна и три тераси. Прилежащо мазе. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 1853392",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2818,
+    "price_history": [
+      {
+        "date": "2026-08-22T12:42:14.065002+00:00",
+        "price_eur": 254000
+      },
+      {
+        "date": "2026-10-05T15:55:28.262208+00:00",
+        "price_eur": 248000
+      }
+    ],
+    "price_drop_count": 1,
+    "drop_pct": 2.4,
+    "days_on_market": 76,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2987,
+    "pct_vs_area_avg": -5.7,
     "score": 20
   },
   {
@@ -2788,7 +2788,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 26,
@@ -13239,8 +13239,8 @@
     "days_on_market": 76,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 3205,
-    "pct_vs_area_avg": 20.5,
+    "area_avg_price_per_sqm": 2987,
+    "pct_vs_area_avg": 29.3,
     "score": 8
   },
   {
@@ -14757,38 +14757,6 @@
     "removed_at": "2026-11-04T20:38:18.932241+00:00",
     "area_avg_price_per_sqm": 2694,
     "pct_vs_area_avg": 4.4,
-    "score": 8
-  },
-  {
-    "id": "imotibg_515936",
-    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/лагера-515936.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6ab3986c36742_6ab39aaa881ac.jpg",
-    "price_eur": 179000,
-    "sqm": 61,
-    "area": "Лагера",
-    "city": "София",
-    "title": "Двустаен апартамент, Лагера",
-    "portal": "imoti.bg",
-    "lat": 42.5116283,
-    "lng": 23.3646251,
-    "description": "Двустаен апартамент в тухл. кооперацоя от 2000г., находящ се на бул.Цар Борис III на изключително комуникативно място до трмв. и автоб. спирка и на 4 мин. пешеходно разстояние от МЕТРО.Апартамента е в отлично състояние и се състои от входно антре,всекидневна с кух.бокс,самостоятелна спалня,баня с тоал. и една тераса към всекидневната.Настилката в спалнята и всекидневната е естествено дърво,антрето е на теракот,баня и тоал. на тер. и фаянс, апартамента е с вътрешна и външна топлоизолация.Апартамента е среден с изложение изток/запад на 7-ми жил. етаж с асансьор в отличен вход с контролиран достъп.Към апартамента има прилежащо мазе. Тел. за връзка:0899995942.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2934,
-    "price_history": [
-      {
-        "date": "2026-09-23T12:41:09.321440+00:00",
-        "price_eur": 179000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 44,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 3205,
-    "pct_vs_area_avg": -8.5,
     "score": 8
   },
   {
@@ -21884,7 +21852,7 @@
     ],
     "price_drop_count": 1,
     "drop_pct": -6.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 589,
@@ -21921,6 +21889,38 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2876,
     "pct_vs_area_avg": -18.2,
+    "score": 8
+  },
+  {
+    "id": "imotibg_516234",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/лагера-516234.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aedc0c525e76_6aedc11c0bbfa.jpg",
+    "price_eur": 175000,
+    "sqm": 75,
+    "area": "Лагера",
+    "city": "София",
+    "title": "Двустаен апартамент, Лагера",
+    "portal": "imoti.bg",
+    "lat": 42.5116283,
+    "lng": 23.3646251,
+    "description": "Лагера ет.1 , тухла 1980 г.,75 кв. цена 175000 Е.До сградата на Балкантон .Голям 2ст. с възможност да се преустрои в 3ст.Налично обзавеждане.ПВС дограма.Състои се от 2 преходни стаи-спалня и хол и отделна кухня с трапезария.Към кухнята има килер.Към жилището има таван 10 кв и мазе 8 кв. Обезопасен.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2333,
+    "price_history": [
+      {
+        "date": "2026-11-06T14:53:28.276742+00:00",
+        "price_eur": 175000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2987,
+    "pct_vs_area_avg": -21.9,
     "score": 8
   },
   {
@@ -24048,6 +24048,38 @@
     "score": 6
   },
   {
+    "id": "imotibg_515936",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/лагера-515936.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6ab3986c36742_6ab39aaa881ac.jpg",
+    "price_eur": 179000,
+    "sqm": 61,
+    "area": "Лагера",
+    "city": "София",
+    "title": "Двустаен апартамент, Лагера",
+    "portal": "imoti.bg",
+    "lat": 42.5116283,
+    "lng": 23.3646251,
+    "description": "Двустаен апартамент в тухл. кооперацоя от 2000г., находящ се на бул.Цар Борис III на изключително комуникативно място до трмв. и автоб. спирка и на 4 мин. пешеходно разстояние от МЕТРО.Апартамента е в отлично състояние и се състои от входно антре,всекидневна с кух.бокс,самостоятелна спалня,баня с тоал. и една тераса към всекидневната.Настилката в спалнята и всекидневната е естествено дърво,антрето е на теракот,баня и тоал. на тер. и фаянс, апартамента е с вътрешна и външна топлоизолация.Апартамента е среден с изложение изток/запад на 7-ми жил. етаж с асансьор в отличен вход с контролиран достъп.Към апартамента има прилежащо мазе. Тел. за връзка:0899995942.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2934,
+    "price_history": [
+      {
+        "date": "2026-09-23T12:41:09.321440+00:00",
+        "price_eur": 179000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 44,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2987,
+    "pct_vs_area_avg": -1.8,
+    "score": 6
+  },
+  {
     "id": "imotibg_502158",
     "url": "https://imoti.bg/продажби/къща/благоевград-област/с-ковачевица-502158.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_632c3f96d2ef8_632c403ebfc68.jpg",
@@ -25896,7 +25928,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 40,
@@ -29468,7 +29500,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 122,
@@ -29860,6 +29892,38 @@
     "score": 4
   },
   {
+    "id": "imotibg_508027",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/княжево-508027.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_65c63bd11cea4_65c63bf6e78a5.jpg",
+    "price_eur": 149299,
+    "sqm": 58,
+    "area": "Княжево",
+    "city": "София",
+    "title": "Едностаен апартамент, Княжево",
+    "portal": "imoti.bg",
+    "lat": 42.6586899,
+    "lng": 23.2404891,
+    "description": "Предлагаме за покупка едностаен апартамент в новострояща се сграда на място, където природата и урбанизмът се срещат. Сградата е газифицирана, седемкамерна дограма с троен стъклопакет, стъкло четири сезона. Интересен имот за тези, които търсят удобно и оригинално решение за жилище. В допълнение може да се закупи гараж или паркомясто. Цената е с ДДС. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 196205.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2574,
+    "price_history": [
+      {
+        "date": "2026-10-05T15:55:28.262208+00:00",
+        "price_eur": 149299
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 32,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2200,
+    "pct_vs_area_avg": 17.0,
+    "score": 4
+  },
+  {
     "id": "imotibg_516035",
     "url": "https://imoti.bg/продажби/парцел/софия-област/сизвор-516035.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ac63ed6e0ed5_6ac63f2a4f955.jpg",
@@ -29916,7 +29980,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 807,
@@ -29948,7 +30012,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": null,
@@ -29980,7 +30044,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1267,
@@ -30012,7 +30076,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 3384,
@@ -30076,7 +30140,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 651,
@@ -30108,7 +30172,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1732,
@@ -30820,38 +30884,6 @@
     "score": 3
   },
   {
-    "id": "imotibg_508027",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/княжево-508027.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_65c63bd11cea4_65c63bf6e78a5.jpg",
-    "price_eur": 149299,
-    "sqm": 58,
-    "area": "Княжево",
-    "city": "София",
-    "title": "Едностаен апартамент, Княжево",
-    "portal": "imoti.bg",
-    "lat": 42.6586899,
-    "lng": 23.2404891,
-    "description": "Предлагаме за покупка едностаен апартамент в новострояща се сграда на място, където природата и урбанизмът се срещат. Сградата е газифицирана, седемкамерна дограма с троен стъклопакет, стъкло четири сезона. Интересен имот за тези, които търсят удобно и оригинално решение за жилище. В допълнение може да се закупи гараж или паркомясто. Цената е с ДДС. Работим с комисиона, невключена в цената, при осъществяване на сделка за обекта. Преди оглед се подписва посреднически договор. Референтен номер 196205.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2574,
-    "price_history": [
-      {
-        "date": "2026-10-05T15:55:28.262208+00:00",
-        "price_eur": 149299
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 31,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2200,
-    "pct_vs_area_avg": 17.0,
-    "score": 3
-  },
-  {
     "id": "imotibg_516021",
     "url": "https://imoti.bg/продажби/офис/велико-търново/варуша-516021.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ac3d4f9beb27_6ac3d66e34cdb.jpg",
@@ -31164,7 +31196,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 27,
+    "days_on_market": 28,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1708,
@@ -33924,6 +33956,38 @@
     "score": 2
   },
   {
+    "id": "imotibg_516152",
+    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/левски-г-516152.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 103600,
+    "sqm": 37,
+    "area": "Левски Г",
+    "city": "София",
+    "title": "Едностаен апартамент, Левски Г",
+    "portal": "imoti.bg",
+    "lat": 42.7131528,
+    "lng": 23.3824364,
+    "description": "Продава се едностаен в Левски Г, 3 етаж, 37 кв.м., цена - 2800 евро на кв.м.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2800,
+    "price_history": [
+      {
+        "date": "2026-10-23T15:07:51.438533+00:00",
+        "price_eur": 103600
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 14,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2558,
+    "pct_vs_area_avg": 9.4,
+    "score": 2
+  },
+  {
     "id": "imotibg_516172",
     "url": "https://imoti.bg/продажби/тристаен-апартамент/пловдив/кючук-париж-516172.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6ae0904dd72db_6ae0911d6cdef.jpg",
@@ -33948,7 +34012,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 1605,
@@ -34276,38 +34340,6 @@
     "score": 1
   },
   {
-    "id": "imotibg_516152",
-    "url": "https://imoti.bg/продажби/едностаен-апартамент/софия/левски-г-516152.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
-    "price_eur": 103600,
-    "sqm": 37,
-    "area": "Левски Г",
-    "city": "София",
-    "title": "Едностаен апартамент, Левски Г",
-    "portal": "imoti.bg",
-    "lat": 42.7131528,
-    "lng": 23.3824364,
-    "description": "Продава се едностаен в Левски Г, 3 етаж, 37 кв.м., цена - 2800 евро на кв.м.",
-    "site_posted_at": null,
-    "category": "flat",
-    "category_confidence": "high",
-    "price_per_sqm": 2800,
-    "price_history": [
-      {
-        "date": "2026-10-23T15:07:51.438533+00:00",
-        "price_eur": 103600
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 13,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 2558,
-    "pct_vs_area_avg": 9.4,
-    "score": 1
-  },
-  {
     "id": "imotibg_516153",
     "url": "https://imoti.bg/продажби/нива/пазарджик-област/спамидово-516153.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_6adbc2647be21_6adbc27965df5.jpg",
@@ -34368,7 +34400,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 12,
+    "days_on_market": 13,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 2182,
@@ -34496,7 +34528,7 @@
     ],
     "price_drop_count": 0,
     "drop_pct": 0.0,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 96,
@@ -35841,6 +35873,70 @@
     "source_status": "active",
     "removed_at": null,
     "area_avg_price_per_sqm": 75,
+    "pct_vs_area_avg": 0.0,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516231",
+    "url": "https://imoti.bg/продажби/тристаен-апартамент/видин/гео-милев-516231.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aedb1df24522_6aedb22c8584a.jpg",
+    "price_eur": 80000,
+    "sqm": 78,
+    "area": "Гео Милев",
+    "city": "Видин",
+    "title": "Тристаен апартамент, Гео Милев",
+    "portal": "imoti.bg",
+    "lat": 42.1451138,
+    "lng": 24.7573906,
+    "description": "БДИН ИМОТИ продава ТРИСТАЕН панелен апартамент в кв.",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 1026,
+    "price_history": [
+      {
+        "date": "2026-11-06T14:53:28.276742+00:00",
+        "price_eur": 80000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 1026,
+    "pct_vs_area_avg": 0.0,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516232",
+    "url": "https://imoti.bg/продажби/двустаен-апартамент/софия/люлин-2-516232.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/img/no_pic.jpg",
+    "price_eur": 120000,
+    "sqm": 60,
+    "area": "Люлин 2",
+    "city": "София",
+    "title": "Двустаен апартамент, Люлин 2",
+    "portal": "imoti.bg",
+    "lat": 42.7208568,
+    "lng": 23.5295461,
+    "description": "2ст.Люлин 2, 60 кв.,тухла 80г.,цена 120000 Е\r\nСъстои се от хол,спалня, кухня, тераса, подготвен за ремонт",
+    "site_posted_at": null,
+    "category": "flat",
+    "category_confidence": "high",
+    "price_per_sqm": 2000,
+    "price_history": [
+      {
+        "date": "2026-11-06T14:53:28.276742+00:00",
+        "price_eur": 120000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 2000,
     "pct_vs_area_avg": 0.0,
     "score": 0
   }
