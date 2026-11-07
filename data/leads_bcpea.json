@@ -1795,7 +1795,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": 1225,
     "pct_vs_area_avg": -52.6,
     "score": 19
@@ -3830,7 +3830,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 1427,
     "pct_vs_area_avg": -47.4,
     "score": 16
@@ -3993,7 +3993,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -41.3,
     "score": 16
@@ -4972,7 +4972,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 2103,
     "pct_vs_area_avg": -33.8,
     "score": 15
@@ -5342,7 +5342,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": 2103,
     "pct_vs_area_avg": -31.1,
     "score": 14
@@ -5815,7 +5815,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": -34.7,
     "score": 13
@@ -6215,7 +6215,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2103,
     "pct_vs_area_avg": -29.1,
     "score": 12
@@ -19608,7 +19608,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 52,
+    "days_on_market": 53,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 7
@@ -27148,7 +27148,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 43,
+    "days_on_market": 44,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -28785,7 +28785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 44,
+    "days_on_market": 45,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 6
@@ -53442,7 +53442,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -54221,7 +54221,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -55239,7 +55239,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 35,
+    "days_on_market": 36,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -77518,7 +77518,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": 838,
     "pct_vs_area_avg": 6.0,
     "score": 4
@@ -80460,7 +80460,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80510,7 +80510,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80562,7 +80562,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80614,7 +80614,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80654,7 +80654,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80705,7 +80705,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80753,7 +80753,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80785,7 +80785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80868,7 +80868,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80900,7 +80900,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80932,7 +80932,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -80964,7 +80964,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82761,7 +82761,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82793,7 +82793,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": 258,
     "pct_vs_area_avg": -74.0,
     "score": 4
@@ -83567,7 +83567,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83771,7 +83771,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83823,7 +83823,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83859,7 +83859,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83891,7 +83891,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83932,7 +83932,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83964,7 +83964,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -83996,7 +83996,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84033,7 +84033,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84065,7 +84065,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84107,7 +84107,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84148,7 +84148,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84189,7 +84189,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84224,7 +84224,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84262,7 +84262,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -85660,7 +85660,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -85696,7 +85696,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -85738,7 +85738,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -87342,7 +87342,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -89609,7 +89609,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": 534,
     "pct_vs_area_avg": 8.5,
     "score": 3
@@ -89661,7 +89661,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 547,
     "pct_vs_area_avg": 41.0,
     "score": 3
@@ -91179,7 +91179,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91226,7 +91226,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91264,7 +91264,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91307,7 +91307,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -91567,7 +91567,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93551,7 +93551,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -93588,7 +93588,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": 383,
     "pct_vs_area_avg": 21.2,
     "score": 3
@@ -93630,7 +93630,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 23,
+    "days_on_market": 24,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94846,7 +94846,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94878,7 +94878,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94910,7 +94910,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94942,7 +94942,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -94984,7 +94984,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -95016,7 +95016,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 22,
+    "days_on_market": 23,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -98168,7 +98168,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98207,7 +98207,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98245,7 +98245,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98285,7 +98285,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98325,7 +98325,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98357,7 +98357,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98389,7 +98389,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -100919,7 +100919,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -100967,7 +100967,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": 5522,
     "pct_vs_area_avg": 246.2,
     "score": 2
@@ -102493,7 +102493,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 17,
+    "days_on_market": 18,
     "area_avg_price_per_sqm": 547,
     "pct_vs_area_avg": 115.3,
     "score": 2
@@ -104513,7 +104513,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": 7.6,
     "score": 2
@@ -105505,6 +105505,38 @@
     "score": 2
   },
   {
+    "id": "bcpea_93564",
+    "url": "https://sales.bcpea.org/properties/93564",
+    "photo": null,
+    "price_eur": 72000,
+    "sqm": 65,
+    "area": "Казанлък",
+    "title": "Многостаен апартамент, Казанлък",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T09:14:00+00:00",
+    "category": "apartment",
+    "_settlement": "Казанлък",
+    "lat": 42.6191296,
+    "lng": 25.3933333,
+    "description": "Самостоятелен обект в сграда или в съоръжение на техническата инфраструктура с идентификатор 35167.502.3499.2.32 по кадастралната карта и кадастралните регистри на гр. Казанлък, одобрени със Заповед №  РД ‑ 18‑88/26.11.2015г. на Изпълнителния директор на АГКК, с адрес на самостоятелния обект: гр. Казанлък 6100, ул. Никола Петков № 39, ет.9, ап.32, Самостоятелния обект се намира на етаж 9 в сграда с идентификатор 35167.502.3499.2, с предназначение: Жилищна сграда ‑ многофамилна, брой етажи: 10, сградата е разположена в поземлен имот с идентификатор 35167.502.3499,с предназначение на самостоятелния  обект: Жилище, апартамент ‑ в жилищна сграда или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1, с площ на самостоятелния обект: 64.56 кв.м., прилежащи части: избено  помещение № 32 с полезна площ от 5.28 кв.м, при съседни самостоятелни обекти в сградата: на същия етаж: 35167.502.34992.31, под обекта: 35167.502.3499.2.28, над обекта: 35167.502.3499.2.36, ведно с припадащите се към обекта 2.26% идеални части от правото на строеж върху терена и от общите части на сградата",
+    "detail_checked": true,
+    "price_per_sqm": 1108,
+    "price_history": [
+      {
+        "date": "2026-10-26T09:01:17.401696+00:00",
+        "price_eur": 72000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": 512,
+    "pct_vs_area_avg": 116.4,
+    "score": 2
+  },
+  {
     "id": "bcpea_93668",
     "url": "https://sales.bcpea.org/properties/93668",
     "photo": "https://sales.bcpea.org/upload/93668/466126/20260408_100647-.jpg?w=270&h=270",
@@ -105556,7 +105588,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2469,
     "pct_vs_area_avg": -2.6,
     "score": 2
@@ -106425,38 +106457,6 @@
     "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93564",
-    "url": "https://sales.bcpea.org/properties/93564",
-    "photo": null,
-    "price_eur": 72000,
-    "sqm": 65,
-    "area": "Казанлък",
-    "title": "Многостаен апартамент, Казанлък",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T09:14:00+00:00",
-    "category": "apartment",
-    "_settlement": "Казанлък",
-    "lat": 42.6191296,
-    "lng": 25.3933333,
-    "description": "Самостоятелен обект в сграда или в съоръжение на техническата инфраструктура с идентификатор 35167.502.3499.2.32 по кадастралната карта и кадастралните регистри на гр. Казанлък, одобрени със Заповед №  РД ‑ 18‑88/26.11.2015г. на Изпълнителния директор на АГКК, с адрес на самостоятелния обект: гр. Казанлък 6100, ул. Никола Петков № 39, ет.9, ап.32, Самостоятелния обект се намира на етаж 9 в сграда с идентификатор 35167.502.3499.2, с предназначение: Жилищна сграда ‑ многофамилна, брой етажи: 10, сградата е разположена в поземлен имот с идентификатор 35167.502.3499,с предназначение на самостоятелния  обект: Жилище, апартамент ‑ в жилищна сграда или вилна сграда, или сграда със смесено предназначение, брой нива на обекта: 1, с площ на самостоятелния обект: 64.56 кв.м., прилежащи части: избено  помещение № 32 с полезна площ от 5.28 кв.м, при съседни самостоятелни обекти в сградата: на същия етаж: 35167.502.34992.31, под обекта: 35167.502.3499.2.28, над обекта: 35167.502.3499.2.36, ведно с припадащите се към обекта 2.26% идеални части от правото на строеж върху терена и от общите части на сградата",
-    "detail_checked": true,
-    "price_per_sqm": 1108,
-    "price_history": [
-      {
-        "date": "2026-10-26T09:01:17.401696+00:00",
-        "price_eur": 72000
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": 512,
-    "pct_vs_area_avg": 116.4,
     "score": 1
   },
   {
@@ -107498,7 +107498,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": 29.7,
     "score": 1
@@ -107551,7 +107551,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109694,7 +109694,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109738,7 +109738,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": 2103,
     "pct_vs_area_avg": 10.5,
     "score": 1
@@ -109773,7 +109773,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -110595,7 +110595,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -110633,7 +110633,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -112368,7 +112368,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -112407,7 +112407,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 7,
+    "days_on_market": 8,
     "area_avg_price_per_sqm": 383,
     "pct_vs_area_avg": 62.2,
     "score": 1
@@ -113957,7 +113957,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -113989,7 +113989,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114021,7 +114021,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114053,7 +114053,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114085,7 +114085,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114418,6 +114418,244 @@
       {
         "date": "2026-11-02T21:03:04.541712+00:00",
         "price_eur": 187200
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93820",
+    "url": "https://sales.bcpea.org/properties/93820",
+    "photo": "https://b.tile.openstreetmap.org/18/148229/96626.png",
+    "price_eur": 6560,
+    "sqm": 638,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:10:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": 42.7375704,
+    "lng": 27.4984151,
+    "description": "ПОЗЕМЛЕН ИМОТ № 023003 /нула двадесет и три хиляди и три/, представляващ ИЗОСТАВЕНА НИВА, с площ 6.639 дка. /шест декара шестстотин тридесет и девет квадратни метра/, пета категория на земята, находящ се в местността “ГЕРЕНА” в землището на с.Бата, общ.Поморие, при граници: имот № 000004-пасище с храсти-на общ.Поморие, имот № 000595-полски път на общ.Поморие, имот № 000021-пасище с храсти на общ.Поморие, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.23.3 /нула две хиляди осемстотин и десет, точка, двадесет и три, точка, три/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 6 638 кв.м ./шест хиляди шестстотин тридесет и осем квадратни метра/, с адрес на поземления имот: местност ГЕРЕНА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Изоставена орна земя, категория на земята: 5 ,  номер по предходен план: 023003 , съседи: 02810.23.236, 02810.23.238, 02810.23.90, 02810.23.237, 02810.23.168;",
+    "detail_checked": true,
+    "photos": [
+      "https://b.tile.openstreetmap.org/18/148229/96626.png",
+      "https://c.tile.openstreetmap.org/18/148230/96626.png",
+      "https://a.tile.openstreetmap.org/18/148229/96625.png",
+      "https://b.tile.openstreetmap.org/18/148230/96625.png",
+      "https://c.tile.openstreetmap.org/18/148229/96627.png",
+      "https://a.tile.openstreetmap.org/18/148230/96627.png",
+      "https://a.tile.openstreetmap.org/18/148228/96626.png",
+      "https://a.tile.openstreetmap.org/18/148231/96626.png",
+      "https://c.tile.openstreetmap.org/18/148228/96625.png",
+      "https://c.tile.openstreetmap.org/18/148231/96625.png",
+      "https://b.tile.openstreetmap.org/18/148228/96627.png",
+      "https://b.tile.openstreetmap.org/18/148231/96627.png"
+    ],
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 6560
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93819",
+    "url": "https://sales.bcpea.org/properties/93819",
+    "photo": "https://c.tile.openstreetmap.org/18/147908/96585.png",
+    "price_eur": 3360,
+    "sqm": 376,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:09:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": 42.7375704,
+    "lng": 27.4984151,
+    "description": "ПОЗЕМЛЕН ИМОТ № 018092 /нула осемнадесет хиляди деветдесет и две/, образуван от имот № 018058, представляващ НИВА, с площ 3.377 дка /три декара триста седемдесет и седем квадратни метра/, четвърта категория на земята, находящ се в местността “ЧЕРНОЗЕМА” в землището на с.Бата, общ.Поморие, при граници: имот № 018036-нива на насл. на Димитър Митрев, имот № 000429-дере на общ.Поморие, имот № 018093-нива на Йовчо Йовчев, имот № 018091-нива на Марийка Димитрова. За имота е учредено право на преминаване през имот № 018093 на площ 0.216 дка /нула цяло двеста и шестнадесет декара / и широчина 4.00 м. /четири метра/, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.18.92 /нула две хиляди осемстотин и десет, точка, осемнадесет, точка, деветдесет и две/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 3 376 кв.м ./три хиляди триста седемдесет и шест квадратни метра/, с адрес на поземления имот: местност ЧЕРНОЗЕМА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива , категория на земята: 4 ,  номер по предходен план: 018092 , съседи: 02810.18.91, 02810.14.92, 02810.18.93, 02810.18.36;",
+    "detail_checked": true,
+    "photos": [
+      "https://c.tile.openstreetmap.org/18/147908/96585.png",
+      "https://a.tile.openstreetmap.org/18/147909/96585.png",
+      "https://b.tile.openstreetmap.org/18/147908/96584.png",
+      "https://c.tile.openstreetmap.org/18/147909/96584.png",
+      "https://a.tile.openstreetmap.org/18/147908/96586.png",
+      "https://b.tile.openstreetmap.org/18/147909/96586.png",
+      "https://b.tile.openstreetmap.org/18/147907/96585.png",
+      "https://b.tile.openstreetmap.org/18/147910/96585.png",
+      "https://a.tile.openstreetmap.org/18/147907/96584.png",
+      "https://a.tile.openstreetmap.org/18/147910/96584.png",
+      "https://c.tile.openstreetmap.org/18/147907/96586.png",
+      "https://c.tile.openstreetmap.org/18/147910/96586.png"
+    ],
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 3360
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93818",
+    "url": "https://sales.bcpea.org/properties/93818",
+    "photo": "https://c.tile.openstreetmap.org/18/148264/96616.png",
+    "price_eur": 6240,
+    "sqm": 149,
+    "area": "Бата",
+    "title": "Земеделска земя, Бата",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:08:00+00:00",
+    "category": "land",
+    "_settlement": "Бата",
+    "lat": 42.7375704,
+    "lng": 27.4984151,
+    "description": "ПОЗЕМЛЕН ИМОТ № 020083 /нула двадесет хиляди и осемдесет и три/, образуван от имот № 020080,  представляващ НИВА, с площ 7.150 дка. /седем декара сто и петдесет квадратни метра/, четвърта категория на земята, находящ се в местността “СКАЛАТА” в землището на с.Бата, общ.Поморие, при граници: имот № 000082-нива на Йовчо Йовчев, имот № 020079-нива на общ.Поморие, имот № 000512-дървопроизводствена площ на общ.Поморие-кметство с.Бата, имот № 000507-дере на общ.Поморие. За имота е учредено право на преминаване през имот № 020082 на площ 0.140 дка /нула цяло сто и четиридесет квадратни метра/ и широчина 4.00 м. /четири метра/, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.20.83 /нула две хиляди осемстотин и десет, точка, двадесет, точка, осемдесет и три/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 7 149 кв.м . /седем хиляди сто четиридесет и девет квадратни метра/, с адрес на поземления имот: местност СКАЛАТА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива, категория на земята: 4 ,  номер по предходен план: 020083 , съседи: 02810.19.190, 02810.19.191, 02810.20.79, 02810.20.82.",
+    "detail_checked": true,
+    "photos": [
+      "https://c.tile.openstreetmap.org/18/148264/96616.png",
+      "https://a.tile.openstreetmap.org/18/148265/96616.png",
+      "https://b.tile.openstreetmap.org/18/148264/96615.png",
+      "https://c.tile.openstreetmap.org/18/148265/96615.png",
+      "https://a.tile.openstreetmap.org/18/148264/96617.png",
+      "https://b.tile.openstreetmap.org/18/148265/96617.png",
+      "https://b.tile.openstreetmap.org/18/148263/96616.png",
+      "https://b.tile.openstreetmap.org/18/148266/96616.png",
+      "https://a.tile.openstreetmap.org/18/148263/96615.png",
+      "https://a.tile.openstreetmap.org/18/148266/96615.png",
+      "https://c.tile.openstreetmap.org/18/148263/96617.png",
+      "https://c.tile.openstreetmap.org/18/148266/96617.png"
+    ],
+    "price_per_sqm": 42,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 6240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93817",
+    "url": "https://sales.bcpea.org/properties/93817",
+    "photo": "https://sales.bcpea.org/upload/93817/455221/67270.73.7.jpg?w=270&h=270",
+    "price_eur": 959,
+    "sqm": 35,
+    "area": "Слащен",
+    "title": "Земеделска земя, Слащен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:02:00+00:00",
+    "category": "land",
+    "_settlement": "Слащен",
+    "lat": 41.4972348,
+    "lng": 24.0199307,
+    "description": "2). ПОЗЕМЛЕН ИМОТ с идентификатор: 67270.73.7 (шест, седем, две, седем, нула, точка, седем, три, то чка, седем), Трайно предназначение натериторията: Земеделска, Начин на трайно ползване: Нива, категория на земята при неполивни условия: 6, с площ от 1035 кв.м., ЕКАТТЕ: 67270, в кадастрален район: 73, по кадастралната карта на с. Слащен, общ. Сатовча, местност „Боровяк“. Предишен идентификатор: няма. Номер па предходен план: 073007 . Съседи: 67270.153.366 Аадрес на поземления имот: с. Слащен, общ. Сатовча, местност „Боровяк“ Описание по стар идентификатор: ИЗОСТАВЕНА НИВА с площ от 1035 кв.м. (един декар и тридесет и пет квадратни метра), шеста категория, местност „Боровяк“, съставляващ имот №073007 (нула седемдесет и три хиляди и шест) в землището на с. Слащен, община Сатовча, област Благоевград, при граници, съседи: имот №000366 – пасище, мера на Община Сатовча. НАЧАЛНА ЦЕНА 959,04 евро /деветстотин петдесет и девет евро и четири евроцента/",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93817/455221/67270.73.7.jpg",
+      "https://sales.bcpea.org/upload/93817/455222/DSCN0747.jpg",
+      "https://sales.bcpea.org/upload/93817/455223/DSCN0744.jpg",
+      "https://sales.bcpea.org/upload/93817/455225/DSCN0745.jpg",
+      "https://sales.bcpea.org/upload/93817/455226/DSCN0746.jpg",
+      "https://a.tile.openstreetmap.org/18/148543/97814.png",
+      "https://b.tile.openstreetmap.org/18/148544/97814.png",
+      "https://c.tile.openstreetmap.org/18/148543/97813.png",
+      "https://a.tile.openstreetmap.org/18/148544/97813.png",
+      "https://b.tile.openstreetmap.org/18/148543/97815.png",
+      "https://c.tile.openstreetmap.org/18/148544/97815.png",
+      "https://c.tile.openstreetmap.org/18/148542/97814.png",
+      "https://c.tile.openstreetmap.org/18/148545/97814.png",
+      "https://b.tile.openstreetmap.org/18/148542/97813.png",
+      "https://b.tile.openstreetmap.org/18/148545/97813.png",
+      "https://a.tile.openstreetmap.org/18/148542/97815.png",
+      "https://a.tile.openstreetmap.org/18/148545/97815.png"
+    ],
+    "price_per_sqm": 27,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 959
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 4,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 1
+  },
+  {
+    "id": "bcpea_93816",
+    "url": "https://sales.bcpea.org/properties/93816",
+    "photo": "https://sales.bcpea.org/upload/93816/455215/67270.73.6.jpg?w=270&h=270",
+    "price_eur": 933,
+    "sqm": 7,
+    "area": "Слащен",
+    "title": "Земеделска земя, Слащен",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-03T09:01:00+00:00",
+    "category": "land",
+    "_settlement": "Слащен",
+    "lat": 41.4972348,
+    "lng": 24.0199307,
+    "description": "1). ПОЗЕМЛЕН ИМОТ с идентификатор: 67270.73.6 (шест, седем, две, седем, нула, точка, седем, три, точка, шест), Трайно предназначение натериторията: Земеделска, Начин на трайно ползване: Изостанала нива, категория на земята при неполивни условия: 6, с площ от 1007 кв.м., ЕКАТТЕ: 67270, в кадастрален район: 73, по кадастралната карта на с. Слащен, общ. Сатовча, местност „Боровяк“. Предишен идентификатор: няма. Номер па предходен план: 073006. Съседи: 67270.153.366 Адрес на поземления имот: с. Слащен, общ. Сатовча, местност „Боровяк“ Описание по стар идентификатор: ИЗОСТАВЕНА НИВА с площ от 1007 кв.м. (един декар и седем квадратни метра), шеста категория, местност „Боровяк“, съставляващ имот №073006 (нула седемдесет и три хиляди и шест) в землището на с. Слащен, община Сатовча, област Благоевград, при граници, съседи: имот №000366 – пасище, мера на Община Сатовча. НАЧАЛНА ЦЕНА 933,12 евро /деветстотин тридесет и три евро и дванадесет евроцента/",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93816/455215/67270.73.6.jpg",
+      "https://sales.bcpea.org/upload/93816/455216/DSCN0747.jpg",
+      "https://sales.bcpea.org/upload/93816/455217/DSCN0744.jpg",
+      "https://sales.bcpea.org/upload/93816/455218/DSCN0745.jpg",
+      "https://sales.bcpea.org/upload/93816/455219/DSCN0746.jpg",
+      "https://c.tile.openstreetmap.org/18/148542/97817.png",
+      "https://a.tile.openstreetmap.org/18/148542/97818.png",
+      "https://b.tile.openstreetmap.org/18/148541/97817.png",
+      "https://a.tile.openstreetmap.org/18/148543/97817.png",
+      "https://c.tile.openstreetmap.org/18/148541/97818.png",
+      "https://b.tile.openstreetmap.org/18/148543/97818.png",
+      "https://a.tile.openstreetmap.org/18/148540/97817.png",
+      "https://b.tile.openstreetmap.org/18/148544/97817.png",
+      "https://b.tile.openstreetmap.org/18/148540/97818.png",
+      "https://c.tile.openstreetmap.org/18/148544/97818.png"
+    ],
+    "price_per_sqm": 133,
+    "price_history": [
+      {
+        "date": "2026-11-03T08:58:24.846972+00:00",
+        "price_eur": 933
       }
     ],
     "price_drop_count": 0,
@@ -114999,244 +115237,6 @@
       {
         "date": "2026-11-03T08:58:24.846972+00:00",
         "price_eur": 1472
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93820",
-    "url": "https://sales.bcpea.org/properties/93820",
-    "photo": "https://b.tile.openstreetmap.org/18/148229/96626.png",
-    "price_eur": 6560,
-    "sqm": 638,
-    "area": "Бата",
-    "title": "Земеделска земя, Бата",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-11-03T09:10:00+00:00",
-    "category": "land",
-    "_settlement": "Бата",
-    "lat": 42.7375704,
-    "lng": 27.4984151,
-    "description": "ПОЗЕМЛЕН ИМОТ № 023003 /нула двадесет и три хиляди и три/, представляващ ИЗОСТАВЕНА НИВА, с площ 6.639 дка. /шест декара шестстотин тридесет и девет квадратни метра/, пета категория на земята, находящ се в местността “ГЕРЕНА” в землището на с.Бата, общ.Поморие, при граници: имот № 000004-пасище с храсти-на общ.Поморие, имот № 000595-полски път на общ.Поморие, имот № 000021-пасище с храсти на общ.Поморие, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.23.3 /нула две хиляди осемстотин и десет, точка, двадесет и три, точка, три/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 6 638 кв.м ./шест хиляди шестстотин тридесет и осем квадратни метра/, с адрес на поземления имот: местност ГЕРЕНА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Изоставена орна земя, категория на земята: 5 ,  номер по предходен план: 023003 , съседи: 02810.23.236, 02810.23.238, 02810.23.90, 02810.23.237, 02810.23.168;",
-    "detail_checked": true,
-    "photos": [
-      "https://b.tile.openstreetmap.org/18/148229/96626.png",
-      "https://c.tile.openstreetmap.org/18/148230/96626.png",
-      "https://a.tile.openstreetmap.org/18/148229/96625.png",
-      "https://b.tile.openstreetmap.org/18/148230/96625.png",
-      "https://c.tile.openstreetmap.org/18/148229/96627.png",
-      "https://a.tile.openstreetmap.org/18/148230/96627.png",
-      "https://a.tile.openstreetmap.org/18/148228/96626.png",
-      "https://a.tile.openstreetmap.org/18/148231/96626.png",
-      "https://c.tile.openstreetmap.org/18/148228/96625.png",
-      "https://c.tile.openstreetmap.org/18/148231/96625.png",
-      "https://b.tile.openstreetmap.org/18/148228/96627.png",
-      "https://b.tile.openstreetmap.org/18/148231/96627.png"
-    ],
-    "price_per_sqm": 10,
-    "price_history": [
-      {
-        "date": "2026-11-03T08:58:24.846972+00:00",
-        "price_eur": 6560
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93819",
-    "url": "https://sales.bcpea.org/properties/93819",
-    "photo": "https://c.tile.openstreetmap.org/18/147908/96585.png",
-    "price_eur": 3360,
-    "sqm": 376,
-    "area": "Бата",
-    "title": "Земеделска земя, Бата",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-11-03T09:09:00+00:00",
-    "category": "land",
-    "_settlement": "Бата",
-    "lat": 42.7375704,
-    "lng": 27.4984151,
-    "description": "ПОЗЕМЛЕН ИМОТ № 018092 /нула осемнадесет хиляди деветдесет и две/, образуван от имот № 018058, представляващ НИВА, с площ 3.377 дка /три декара триста седемдесет и седем квадратни метра/, четвърта категория на земята, находящ се в местността “ЧЕРНОЗЕМА” в землището на с.Бата, общ.Поморие, при граници: имот № 018036-нива на насл. на Димитър Митрев, имот № 000429-дере на общ.Поморие, имот № 018093-нива на Йовчо Йовчев, имот № 018091-нива на Марийка Димитрова. За имота е учредено право на преминаване през имот № 018093 на площ 0.216 дка /нула цяло двеста и шестнадесет декара / и широчина 4.00 м. /четири метра/, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.18.92 /нула две хиляди осемстотин и десет, точка, осемнадесет, точка, деветдесет и две/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 3 376 кв.м ./три хиляди триста седемдесет и шест квадратни метра/, с адрес на поземления имот: местност ЧЕРНОЗЕМА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива , категория на земята: 4 ,  номер по предходен план: 018092 , съседи: 02810.18.91, 02810.14.92, 02810.18.93, 02810.18.36;",
-    "detail_checked": true,
-    "photos": [
-      "https://c.tile.openstreetmap.org/18/147908/96585.png",
-      "https://a.tile.openstreetmap.org/18/147909/96585.png",
-      "https://b.tile.openstreetmap.org/18/147908/96584.png",
-      "https://c.tile.openstreetmap.org/18/147909/96584.png",
-      "https://a.tile.openstreetmap.org/18/147908/96586.png",
-      "https://b.tile.openstreetmap.org/18/147909/96586.png",
-      "https://b.tile.openstreetmap.org/18/147907/96585.png",
-      "https://b.tile.openstreetmap.org/18/147910/96585.png",
-      "https://a.tile.openstreetmap.org/18/147907/96584.png",
-      "https://a.tile.openstreetmap.org/18/147910/96584.png",
-      "https://c.tile.openstreetmap.org/18/147907/96586.png",
-      "https://c.tile.openstreetmap.org/18/147910/96586.png"
-    ],
-    "price_per_sqm": 9,
-    "price_history": [
-      {
-        "date": "2026-11-03T08:58:24.846972+00:00",
-        "price_eur": 3360
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93818",
-    "url": "https://sales.bcpea.org/properties/93818",
-    "photo": "https://c.tile.openstreetmap.org/18/148264/96616.png",
-    "price_eur": 6240,
-    "sqm": 149,
-    "area": "Бата",
-    "title": "Земеделска земя, Бата",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-11-03T09:08:00+00:00",
-    "category": "land",
-    "_settlement": "Бата",
-    "lat": 42.7375704,
-    "lng": 27.4984151,
-    "description": "ПОЗЕМЛЕН ИМОТ № 020083 /нула двадесет хиляди и осемдесет и три/, образуван от имот № 020080,  представляващ НИВА, с площ 7.150 дка. /седем декара сто и петдесет квадратни метра/, четвърта категория на земята, находящ се в местността “СКАЛАТА” в землището на с.Бата, общ.Поморие, при граници: имот № 000082-нива на Йовчо Йовчев, имот № 020079-нива на общ.Поморие, имот № 000512-дървопроизводствена площ на общ.Поморие-кметство с.Бата, имот № 000507-дере на общ.Поморие. За имота е учредено право на преминаване през имот № 020082 на площ 0.140 дка /нула цяло сто и четиридесет квадратни метра/ и широчина 4.00 м. /четири метра/, а съгласно скица на Агенция по кадастъра - Служба по Геодезия, Картография и Кадастър – гр. Бургас, представляващ: ПОЗЕМЛЕН ИМОТ с идентификатор № 02810.20.83 /нула две хиляди осемстотин и десет, точка, двадесет, точка, осемдесет и три/, по кадастралната карта и кадастралните регистри на с.Бата, общ.Поморие, обл.Бургас, одобрени със Заповед РД – 18-1471/09.08.2018г.на Изпълнителния Директор на АГКК, с площ от 7 149 кв.м . /седем хиляди сто четиридесет и девет квадратни метра/, с адрес на поземления имот: местност СКАЛАТА, с трайно предназначение на територията: Земеделска , начин на трайно ползване: Нива, категория на земята: 4 ,  номер по предходен план: 020083 , съседи: 02810.19.190, 02810.19.191, 02810.20.79, 02810.20.82.",
-    "detail_checked": true,
-    "photos": [
-      "https://c.tile.openstreetmap.org/18/148264/96616.png",
-      "https://a.tile.openstreetmap.org/18/148265/96616.png",
-      "https://b.tile.openstreetmap.org/18/148264/96615.png",
-      "https://c.tile.openstreetmap.org/18/148265/96615.png",
-      "https://a.tile.openstreetmap.org/18/148264/96617.png",
-      "https://b.tile.openstreetmap.org/18/148265/96617.png",
-      "https://b.tile.openstreetmap.org/18/148263/96616.png",
-      "https://b.tile.openstreetmap.org/18/148266/96616.png",
-      "https://a.tile.openstreetmap.org/18/148263/96615.png",
-      "https://a.tile.openstreetmap.org/18/148266/96615.png",
-      "https://c.tile.openstreetmap.org/18/148263/96617.png",
-      "https://c.tile.openstreetmap.org/18/148266/96617.png"
-    ],
-    "price_per_sqm": 42,
-    "price_history": [
-      {
-        "date": "2026-11-03T08:58:24.846972+00:00",
-        "price_eur": 6240
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93817",
-    "url": "https://sales.bcpea.org/properties/93817",
-    "photo": "https://sales.bcpea.org/upload/93817/455221/67270.73.7.jpg?w=270&h=270",
-    "price_eur": 959,
-    "sqm": 35,
-    "area": "Слащен",
-    "title": "Земеделска земя, Слащен",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-11-03T09:02:00+00:00",
-    "category": "land",
-    "_settlement": "Слащен",
-    "lat": 41.4972348,
-    "lng": 24.0199307,
-    "description": "2). ПОЗЕМЛЕН ИМОТ с идентификатор: 67270.73.7 (шест, седем, две, седем, нула, точка, седем, три, то чка, седем), Трайно предназначение натериторията: Земеделска, Начин на трайно ползване: Нива, категория на земята при неполивни условия: 6, с площ от 1035 кв.м., ЕКАТТЕ: 67270, в кадастрален район: 73, по кадастралната карта на с. Слащен, общ. Сатовча, местност „Боровяк“. Предишен идентификатор: няма. Номер па предходен план: 073007 . Съседи: 67270.153.366 Аадрес на поземления имот: с. Слащен, общ. Сатовча, местност „Боровяк“ Описание по стар идентификатор: ИЗОСТАВЕНА НИВА с площ от 1035 кв.м. (един декар и тридесет и пет квадратни метра), шеста категория, местност „Боровяк“, съставляващ имот №073007 (нула седемдесет и три хиляди и шест) в землището на с. Слащен, община Сатовча, област Благоевград, при граници, съседи: имот №000366 – пасище, мера на Община Сатовча. НАЧАЛНА ЦЕНА 959,04 евро /деветстотин петдесет и девет евро и четири евроцента/",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93817/455221/67270.73.7.jpg",
-      "https://sales.bcpea.org/upload/93817/455222/DSCN0747.jpg",
-      "https://sales.bcpea.org/upload/93817/455223/DSCN0744.jpg",
-      "https://sales.bcpea.org/upload/93817/455225/DSCN0745.jpg",
-      "https://sales.bcpea.org/upload/93817/455226/DSCN0746.jpg",
-      "https://a.tile.openstreetmap.org/18/148543/97814.png",
-      "https://b.tile.openstreetmap.org/18/148544/97814.png",
-      "https://c.tile.openstreetmap.org/18/148543/97813.png",
-      "https://a.tile.openstreetmap.org/18/148544/97813.png",
-      "https://b.tile.openstreetmap.org/18/148543/97815.png",
-      "https://c.tile.openstreetmap.org/18/148544/97815.png",
-      "https://c.tile.openstreetmap.org/18/148542/97814.png",
-      "https://c.tile.openstreetmap.org/18/148545/97814.png",
-      "https://b.tile.openstreetmap.org/18/148542/97813.png",
-      "https://b.tile.openstreetmap.org/18/148545/97813.png",
-      "https://a.tile.openstreetmap.org/18/148542/97815.png",
-      "https://a.tile.openstreetmap.org/18/148545/97815.png"
-    ],
-    "price_per_sqm": 27,
-    "price_history": [
-      {
-        "date": "2026-11-03T08:58:24.846972+00:00",
-        "price_eur": 959
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 3,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 0
-  },
-  {
-    "id": "bcpea_93816",
-    "url": "https://sales.bcpea.org/properties/93816",
-    "photo": "https://sales.bcpea.org/upload/93816/455215/67270.73.6.jpg?w=270&h=270",
-    "price_eur": 933,
-    "sqm": 7,
-    "area": "Слащен",
-    "title": "Земеделска земя, Слащен",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-11-03T09:01:00+00:00",
-    "category": "land",
-    "_settlement": "Слащен",
-    "lat": 41.4972348,
-    "lng": 24.0199307,
-    "description": "1). ПОЗЕМЛЕН ИМОТ с идентификатор: 67270.73.6 (шест, седем, две, седем, нула, точка, седем, три, точка, шест), Трайно предназначение натериторията: Земеделска, Начин на трайно ползване: Изостанала нива, категория на земята при неполивни условия: 6, с площ от 1007 кв.м., ЕКАТТЕ: 67270, в кадастрален район: 73, по кадастралната карта на с. Слащен, общ. Сатовча, местност „Боровяк“. Предишен идентификатор: няма. Номер па предходен план: 073006. Съседи: 67270.153.366 Адрес на поземления имот: с. Слащен, общ. Сатовча, местност „Боровяк“ Описание по стар идентификатор: ИЗОСТАВЕНА НИВА с площ от 1007 кв.м. (един декар и седем квадратни метра), шеста категория, местност „Боровяк“, съставляващ имот №073006 (нула седемдесет и три хиляди и шест) в землището на с. Слащен, община Сатовча, област Благоевград, при граници, съседи: имот №000366 – пасище, мера на Община Сатовча. НАЧАЛНА ЦЕНА 933,12 евро /деветстотин тридесет и три евро и дванадесет евроцента/",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93816/455215/67270.73.6.jpg",
-      "https://sales.bcpea.org/upload/93816/455216/DSCN0747.jpg",
-      "https://sales.bcpea.org/upload/93816/455217/DSCN0744.jpg",
-      "https://sales.bcpea.org/upload/93816/455218/DSCN0745.jpg",
-      "https://sales.bcpea.org/upload/93816/455219/DSCN0746.jpg",
-      "https://c.tile.openstreetmap.org/18/148542/97817.png",
-      "https://a.tile.openstreetmap.org/18/148542/97818.png",
-      "https://b.tile.openstreetmap.org/18/148541/97817.png",
-      "https://a.tile.openstreetmap.org/18/148543/97817.png",
-      "https://c.tile.openstreetmap.org/18/148541/97818.png",
-      "https://b.tile.openstreetmap.org/18/148543/97818.png",
-      "https://a.tile.openstreetmap.org/18/148540/97817.png",
-      "https://b.tile.openstreetmap.org/18/148544/97817.png",
-      "https://b.tile.openstreetmap.org/18/148540/97818.png",
-      "https://c.tile.openstreetmap.org/18/148544/97818.png"
-    ],
-    "price_per_sqm": 133,
-    "price_history": [
-      {
-        "date": "2026-11-03T08:58:24.846972+00:00",
-        "price_eur": 933
       }
     ],
     "price_drop_count": 0,
@@ -116081,7 +116081,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117520,7 +117520,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117568,7 +117568,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117600,7 +117600,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117632,7 +117632,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117667,7 +117667,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117699,7 +117699,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117738,7 +117738,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -117785,7 +117785,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 547,
     "pct_vs_area_avg": 83.3,
     "score": 0
@@ -117817,7 +117817,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -75.9,
     "score": 0
@@ -117849,7 +117849,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 872,
     "pct_vs_area_avg": -79.8,
     "score": 0
@@ -117889,7 +117889,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": 547,
     "pct_vs_area_avg": 10.3,
     "score": 0
@@ -119000,7 +119000,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -119048,7 +119048,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": 6.4,
     "score": 0
@@ -119080,7 +119080,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -119112,7 +119112,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 0,
+    "days_on_market": 1,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
