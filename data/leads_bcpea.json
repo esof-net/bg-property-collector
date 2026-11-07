@@ -120599,5 +120599,875 @@
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
+  },
+  {
+    "id": "bcpea_94013",
+    "url": "https://sales.bcpea.org/properties/94013",
+    "photo": null,
+    "price_eur": 2288,
+    "sqm": 0,
+    "area": "Салманово",
+    "title": "Земеделска земя, Салманово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T01:11:00+00:00",
+    "category": "land",
+    "_settlement": "Салманово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2288
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94012",
+    "url": "https://sales.bcpea.org/properties/94012",
+    "photo": null,
+    "price_eur": 4461,
+    "sqm": 799,
+    "area": "Салманово",
+    "title": "Земеделска земя, Салманово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T01:09:00+00:00",
+    "category": "land",
+    "_settlement": "Салманово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 6,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 4461
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94011",
+    "url": "https://sales.bcpea.org/properties/94011",
+    "photo": null,
+    "price_eur": 1920,
+    "sqm": 0,
+    "area": "Салманово",
+    "title": "Земеделска земя, Салманово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T01:06:00+00:00",
+    "category": "land",
+    "_settlement": "Салманово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1920
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94010",
+    "url": "https://sales.bcpea.org/properties/94010",
+    "photo": null,
+    "price_eur": 1920,
+    "sqm": 999,
+    "area": "Салманово",
+    "title": "Земеделска земя, Салманово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T01:03:00+00:00",
+    "category": "land",
+    "_settlement": "Салманово",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 2,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1920
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94009",
+    "url": "https://sales.bcpea.org/properties/94009",
+    "photo": null,
+    "price_eur": 2709,
+    "sqm": 551,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T01:00:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2709
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94008",
+    "url": "https://sales.bcpea.org/properties/94008",
+    "photo": null,
+    "price_eur": 2709,
+    "sqm": 551,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:58:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2709
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94007",
+    "url": "https://sales.bcpea.org/properties/94007",
+    "photo": null,
+    "price_eur": 380,
+    "sqm": 949,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:54:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 0,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 380
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94006",
+    "url": "https://sales.bcpea.org/properties/94006",
+    "photo": null,
+    "price_eur": 9702,
+    "sqm": 303,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:52:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 32,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 9702
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94005",
+    "url": "https://sales.bcpea.org/properties/94005",
+    "photo": null,
+    "price_eur": 1244,
+    "sqm": 73,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:50:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 17,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1244
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94004",
+    "url": "https://sales.bcpea.org/properties/94004",
+    "photo": null,
+    "price_eur": 3652,
+    "sqm": 760,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:45:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3652
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94003",
+    "url": "https://sales.bcpea.org/properties/94003",
+    "photo": null,
+    "price_eur": 2522,
+    "sqm": 169,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:43:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 15,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2522
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94002",
+    "url": "https://sales.bcpea.org/properties/94002",
+    "photo": null,
+    "price_eur": 1430,
+    "sqm": 500,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:40:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1430
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94001",
+    "url": "https://sales.bcpea.org/properties/94001",
+    "photo": null,
+    "price_eur": 2134,
+    "sqm": 334,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:38:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 6,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2134
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_94000",
+    "url": "https://sales.bcpea.org/properties/94000",
+    "photo": null,
+    "price_eur": 1104,
+    "sqm": 970,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:36:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1104
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93999",
+    "url": "https://sales.bcpea.org/properties/93999",
+    "photo": null,
+    "price_eur": 3170,
+    "sqm": 999,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:34:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3170
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93998",
+    "url": "https://sales.bcpea.org/properties/93998",
+    "photo": null,
+    "price_eur": 1240,
+    "sqm": 999,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:31:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1240
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93997",
+    "url": "https://sales.bcpea.org/properties/93997",
+    "photo": null,
+    "price_eur": 2272,
+    "sqm": 550,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:29:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2272
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93996",
+    "url": "https://sales.bcpea.org/properties/93996",
+    "photo": null,
+    "price_eur": 4763,
+    "sqm": 513,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:27:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 9,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 4763
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93995",
+    "url": "https://sales.bcpea.org/properties/93995",
+    "photo": null,
+    "price_eur": 4878,
+    "sqm": 995,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:25:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 5,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 4878
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93994",
+    "url": "https://sales.bcpea.org/properties/93994",
+    "photo": null,
+    "price_eur": 3953,
+    "sqm": 100,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:22:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 40,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3953
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93993",
+    "url": "https://sales.bcpea.org/properties/93993",
+    "photo": null,
+    "price_eur": 2353,
+    "sqm": 711,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:19:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 2353
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93992",
+    "url": "https://sales.bcpea.org/properties/93992",
+    "photo": null,
+    "price_eur": 1716,
+    "sqm": 0,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:16:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1716
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93991",
+    "url": "https://sales.bcpea.org/properties/93991",
+    "photo": null,
+    "price_eur": 3171,
+    "sqm": 2,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:14:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1586,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3171
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93990",
+    "url": "https://sales.bcpea.org/properties/93990",
+    "photo": null,
+    "price_eur": 3368,
+    "sqm": 902,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:11:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3368
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93989",
+    "url": "https://sales.bcpea.org/properties/93989",
+    "photo": null,
+    "price_eur": 9758,
+    "sqm": 997,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:09:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 9758
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93988",
+    "url": "https://sales.bcpea.org/properties/93988",
+    "photo": null,
+    "price_eur": 1903,
+    "sqm": 1,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:06:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 1903,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 1903
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93987",
+    "url": "https://sales.bcpea.org/properties/93987",
+    "photo": null,
+    "price_eur": 3098,
+    "sqm": 887,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:02:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3098
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93986",
+    "url": "https://sales.bcpea.org/properties/93986",
+    "photo": null,
+    "price_eur": 4753,
+    "sqm": 497,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-07T00:00:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 10,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 4753
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
+  },
+  {
+    "id": "bcpea_93985",
+    "url": "https://sales.bcpea.org/properties/93985",
+    "photo": null,
+    "price_eur": 3042,
+    "sqm": 799,
+    "area": "Мараш",
+    "title": "Земеделска земя, Мараш",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-11-06T23:56:00+00:00",
+    "category": "land",
+    "_settlement": "Мараш",
+    "lat": null,
+    "lng": null,
+    "price_per_sqm": 4,
+    "price_history": [
+      {
+        "date": "2026-11-07T02:55:34.309806+00:00",
+        "price_eur": 3042
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 0,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 0
   }
 ]
