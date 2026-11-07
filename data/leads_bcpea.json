@@ -4073,7 +4073,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 8,
+    "days_on_market": 9,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": -51.9,
     "score": 16
@@ -5265,7 +5265,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": -28.5,
     "score": 14
@@ -8528,7 +8528,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 24,
+    "days_on_market": 25,
     "area_avg_price_per_sqm": 765,
     "pct_vs_area_avg": -15.7,
     "score": 9
@@ -8859,7 +8859,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9231,7 +9231,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9515,7 +9515,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9578,7 +9578,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -9672,7 +9672,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11485,7 +11485,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11549,7 +11549,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11675,7 +11675,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -11864,7 +11864,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -12302,7 +12302,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -12334,7 +12334,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -12931,7 +12931,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 58,
+    "days_on_market": 59,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 8
@@ -20287,7 +20287,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": -10.6,
     "score": 7
@@ -51577,7 +51577,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 40,
+    "days_on_market": 41,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -52638,7 +52638,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -52670,7 +52670,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -53474,7 +53474,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -53506,7 +53506,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -53538,7 +53538,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -53570,7 +53570,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 37,
+    "days_on_market": 38,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -79475,7 +79475,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79507,7 +79507,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79539,7 +79539,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79571,7 +79571,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79603,7 +79603,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79635,7 +79635,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -79667,7 +79667,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81067,7 +81067,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81109,7 +81109,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81141,7 +81141,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81173,7 +81173,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81205,7 +81205,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81237,7 +81237,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81269,7 +81269,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81301,7 +81301,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81349,7 +81349,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81381,7 +81381,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81413,7 +81413,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82899,7 +82899,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82931,7 +82931,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82963,7 +82963,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84416,7 +84416,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 29,
+    "days_on_market": 30,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": -3.1,
     "score": 4
@@ -85946,7 +85946,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -85978,7 +85978,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -86010,7 +86010,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -86042,7 +86042,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -86074,7 +86074,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -86106,7 +86106,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 28,
+    "days_on_market": 29,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -90041,7 +90041,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -90077,7 +90077,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 25,
+    "days_on_market": 26,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -96385,7 +96385,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 21,
+    "days_on_market": 22,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 3
@@ -97464,7 +97464,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 15,
+    "days_on_market": 16,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98429,7 +98429,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98468,7 +98468,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -98506,7 +98506,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 16,
+    "days_on_market": 17,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -102557,7 +102557,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -102589,7 +102589,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -102621,7 +102621,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -102653,7 +102653,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 18,
+    "days_on_market": 19,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -104628,7 +104628,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -104660,7 +104660,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 14,
+    "days_on_market": 15,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 2
@@ -105855,6 +105855,70 @@
     "days_on_market": 12,
     "area_avg_price_per_sqm": 512,
     "pct_vs_area_avg": 116.4,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93601",
+    "url": "https://sales.bcpea.org/properties/93601",
+    "photo": null,
+    "price_eur": 2080,
+    "sqm": 13,
+    "area": "Ситово",
+    "title": "Земеделска земя, Ситово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T17:05:00+00:00",
+    "category": "land",
+    "_settlement": "Ситово",
+    "lat": 44.020612,
+    "lng": 26.9850227,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд , обявявам на заинтересованите, че съгл.чл.487 и сл.  ГПК от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело 20 24 878040 1671 в сградата на РС-Елхово, като на 08.01.2027г .  в 14.00 ч. в зала на съда ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел удовлетворяване вземането на ПЪРВА ИНВЕСТИЦИОННА БАНКА АД , а  именно: НИВА с  площ от 5976 кв.м., шеста категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „ОЛУДЖИК”, с идентификатор № 66679.18.430 , при граници: им. № 66679.18.107, 66679.19.48, 66679.18.431, 66679.18.104; - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на  3096 евро. (три хиляди и деветдесет и шест евро). НИВА с  площ от 4013 кв.м., седма категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „САРЪ ГЬОЛ”, с идентификатор № 66679.23.434 , при граници: им. № 66679.23.11, 66679.23.436, 66679.23.435, 66679.23.433 - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на 2080 евро. (две хиляди и осемдесет евро). Идеалните части са собственост на ДИМИТЪР АТАНАСОВ СТОЯНОВ . Тежести за имота : възбрана в полза на „ПЪРВА ИНВЕСТИЦИОННА БАНКА” АД,, вписана на 22.01.2025 г. в Сл Вп Елхово. За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . -17,00ч. Гр.Ямбол 26.10.2026 г .      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 160,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 2080
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
+    "id": "bcpea_93600",
+    "url": "https://sales.bcpea.org/properties/93600",
+    "photo": null,
+    "price_eur": 3096,
+    "sqm": 976,
+    "area": "Ситово",
+    "title": "Земеделска земя, Ситово",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-26T16:58:00+00:00",
+    "category": "land",
+    "_settlement": "Ситово",
+    "lat": 44.020612,
+    "lng": 26.9850227,
+    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд , обявявам на заинтересованите, че съгл.чл.487 и сл.  ГПК от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело 20 24 878040 1671 в сградата на РС-Елхово, като на 08.01.2027г .  в 14.00 ч. в зала на съда ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел удовлетворяване вземането на ПЪРВА ИНВЕСТИЦИОННА БАНКА АД , а  именно: НИВА с  площ от 5976 кв.м., шеста категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „ОЛУДЖИК”, с идентификатор № 66679.18.430 , при граници: им. № 66679.18.107, 66679.19.48, 66679.18.431, 66679.18.104; - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на  3096 евро. (три хиляди и деветдесет и шест евро). НИВА с  площ от 4013 кв.м., седма категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „САРЪ ГЬОЛ”, с идентификатор № 66679.23.434 , при граници: им. № 66679.23.11, 66679.23.436, 66679.23.435, 66679.23.433 - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на 2080 евро. (две хиляди и осемдесет евро). Идеалните части са собственост на ДИМИТЪР АТАНАСОВ СТОЯНОВ . Тежести за имота : възбрана в полза на „ПЪРВА ИНВЕСТИЦИОННА БАНКА” АД,, вписана на 22.01.2025 г. в Сл Вп Елхово. За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . -17,00ч. Гр.Ямбол 26.10.2026 г .      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
+    "detail_checked": true,
+    "price_per_sqm": 3,
+    "price_history": [
+      {
+        "date": "2026-10-26T16:16:19.037986+00:00",
+        "price_eur": 3096
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
     "score": 2
   },
   {
@@ -107078,70 +107142,6 @@
     "score": 1
   },
   {
-    "id": "bcpea_93601",
-    "url": "https://sales.bcpea.org/properties/93601",
-    "photo": null,
-    "price_eur": 2080,
-    "sqm": 13,
-    "area": "Ситово",
-    "title": "Земеделска земя, Ситово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T17:05:00+00:00",
-    "category": "land",
-    "_settlement": "Ситово",
-    "lat": 44.020612,
-    "lng": 26.9850227,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд , обявявам на заинтересованите, че съгл.чл.487 и сл.  ГПК от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело 20 24 878040 1671 в сградата на РС-Елхово, като на 08.01.2027г .  в 14.00 ч. в зала на съда ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел удовлетворяване вземането на ПЪРВА ИНВЕСТИЦИОННА БАНКА АД , а  именно: НИВА с  площ от 5976 кв.м., шеста категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „ОЛУДЖИК”, с идентификатор № 66679.18.430 , при граници: им. № 66679.18.107, 66679.19.48, 66679.18.431, 66679.18.104; - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на  3096 евро. (три хиляди и деветдесет и шест евро). НИВА с  площ от 4013 кв.м., седма категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „САРЪ ГЬОЛ”, с идентификатор № 66679.23.434 , при граници: им. № 66679.23.11, 66679.23.436, 66679.23.435, 66679.23.433 - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на 2080 евро. (две хиляди и осемдесет евро). Идеалните части са собственост на ДИМИТЪР АТАНАСОВ СТОЯНОВ . Тежести за имота : възбрана в полза на „ПЪРВА ИНВЕСТИЦИОННА БАНКА” АД,, вписана на 22.01.2025 г. в Сл Вп Елхово. За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . -17,00ч. Гр.Ямбол 26.10.2026 г .      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 160,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 2080
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93600",
-    "url": "https://sales.bcpea.org/properties/93600",
-    "photo": null,
-    "price_eur": 3096,
-    "sqm": 976,
-    "area": "Ситово",
-    "title": "Земеделска земя, Ситово",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-26T16:58:00+00:00",
-    "category": "land",
-    "_settlement": "Ситово",
-    "lat": 44.020612,
-    "lng": 26.9850227,
-    "description": "ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ №878  И.ХРИСТОВА О  Б  Я  В  Л  Е  Н  И  Е Подписаната Ирина С. Христова Частен съдебен изпълнител рег.№878 с район на действие-Ямболски окръжен съд , обявявам на заинтересованите, че съгл.чл.487 и сл.  ГПК от 07.12.2026 г. до 07.01.2027 г .  ще се проведе ПЪРВА публична продан след определяне на начална цена по изп. дело 20 24 878040 1671 в сградата на РС-Елхово, като на 08.01.2027г .  в 14.00 ч. в зала на съда ще бъдат отворени наддавателните предложения за закупуването на недвижим имот с цел удовлетворяване вземането на ПЪРВА ИНВЕСТИЦИОННА БАНКА АД , а  именно: НИВА с  площ от 5976 кв.м., шеста категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „ОЛУДЖИК”, с идентификатор № 66679.18.430 , при граници: им. № 66679.18.107, 66679.19.48, 66679.18.431, 66679.18.104; - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на  3096 евро. (три хиляди и деветдесет и шест евро). НИВА с  площ от 4013 кв.м., седма категория, в землището на с. СИТОВО, общ. Болярово, обл. Ямбол, в местността „САРЪ ГЬОЛ”, с идентификатор № 66679.23.434 , при граници: им. № 66679.23.11, 66679.23.436, 66679.23.435, 66679.23.433 - Цената, от която ще започне проданта общо за недвижимия имот, съгл. чл. 485 ГПК е в размер на 2080 евро. (две хиляди и осемдесет евро). Идеалните части са собственост на ДИМИТЪР АТАНАСОВ СТОЯНОВ . Тежести за имота : възбрана в полза на „ПЪРВА ИНВЕСТИЦИОННА БАНКА” АД,, вписана на 22.01.2025 г. в Сл Вп Елхово. За участие в наддаването се внася задатък 10% от началната цена в „Интернешънъл Асет Банк” Ямбол с BIC:IABGBGSF,IBAN:BG74IABG70945000664000. Всеки наддавач посочва предложената от него цена с цифри и думи и подава предложението си с квитанцията за внесения задатък в запечатан плик. Наддавачът може да направи само едно наддавателно предложение. Предложенията се подават в канцеларията на ДСИ при РС-Елхово, което се отразява във входящия регистър. Наддавателни предложения от лица, които нямат право да вземат участие в публичната продан, предложения за цена под началната, както и предложения, надхвърлящи началната с повече от 30 на сто, са недействителни . Не могат да участват в публичната продан:лицата по чл.185 ЗЗД,ЧСИ и работещите при ЧСИ. При придобиване на имота се дължат:местен данък, такса за издаване на постановление за възлагане в размер на 1.8% от достигнатата цена/не по-малко от 30,68 евро и не повече от 1840,65 евро/, такса за вписване на постановлението за възлагане 0.1% от стойността и за въвод в придобития имот 1.2% от стойността му, но не по-малко от 122,71 евро с ДДС. За всички преводи на суми над 15338,76 евро, съобразно Закона за мерките срещу изпирането на пари, следва да се подаде декларация: за физически лица-Декларация по чл.4 ал.7 и чл.6, ал.5,т.3 ЗМИТ за произход на средствата, а за юридически лица-Декларация по чл.6 ал.2 ЗМИТ за действителния собственик. Проданта приключва в края на работния ден- 07.01.2027 г . -17,00ч. Гр.Ямбол 26.10.2026 г .      ЧАСТЕН СЪДЕБЕН ИЗПЪЛНИТЕЛ………..И.Христова",
-    "detail_checked": true,
-    "price_per_sqm": 3,
-    "price_history": [
-      {
-        "date": "2026-10-26T16:16:19.037986+00:00",
-        "price_eur": 3096
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
-    "score": 1
-  },
-  {
     "id": "bcpea_93599",
     "url": "https://sales.bcpea.org/properties/93599",
     "photo": "https://sales.bcpea.org/upload/93599/465821/WhatsApp Image 2026-09-29 at 14.56.54 (1).jpeg?w=270&h=270",
@@ -107586,7 +107586,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109445,7 +109445,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109482,7 +109482,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109520,7 +109520,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109552,7 +109552,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109588,7 +109588,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -109624,7 +109624,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -114501,7 +114501,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 4,
+    "days_on_market": 5,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -117256,7 +117256,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 2,
+    "days_on_market": 3,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
