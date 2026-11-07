@@ -2791,7 +2791,7 @@
     "portal": "imoti.bg",
     "lat": null,
     "lng": null,
-    "description": "Продавам три УПИ с обща площ 2597 кв.м. с директна връзка към главния път.Всяко УПИ е около 900 кв.м. Цената по отделно е по договяряне.",
+    "description": "Продавам 3 съседни парцела УПИ на главен път с обща квадратypa 2597 kв.м. Намират се на 35 км. от София в село Василовци, община Драгоман. По отделно имотите са със следните квадратури:\r\n\r\nИмот 1 - 813 кв.м\r\n\r\nИмот II - 885 кв.м\r\n\r\nИмот III - 899 кв.м\r\n\r\nЦената е 90 000 евро за всички имоти. По отделно цената е по договаряне",
     "site_posted_at": null,
     "category": "land",
     "category_confidence": "high",
@@ -4784,6 +4784,38 @@
     "score": 14
   },
   {
+    "id": "imotibg_515748",
+    "url": "https://imoti.bg/продажби/къща/кюстендил-област/сконяво-515748.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6a887368baa79_6a8873cb58741.jpg",
+    "price_eur": 79500,
+    "sqm": 121,
+    "area": "с.Коняво",
+    "city": "Кюстендил област",
+    "title": "Къща, с.Коняво",
+    "portal": "imoti.bg",
+    "lat": 42.3216505,
+    "lng": 22.7741307,
+    "description": "Продаваме къща в много добро състояние,на два етажа с баня и тоалетна плюс таванско помещение с отделен вход.Има вода, ток , регулация, възможност за интернет и телевизия.Къщата се продава с обзавеждането.Двора е слънчев, облагороден, има орехи, череши, круши , ябълки и други плодни дървета. Гаражът е самостоятелен.Имота се намира на комуникативно място,в близост до магазини ,поща,лекар,детска градина ,транспорт.Селото е голямо,оживено и се намира на 10 км от гр Кюстендил и 78 км от гр София като през селото минава през почти два часа автобус за София.Има страхотна панорама към Конявската планина.  ..0878648872",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 657,
+    "price_history": [
+      {
+        "date": "2026-08-24T23:43:33.818106+00:00",
+        "price_eur": 79500
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 74,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 778,
+    "pct_vs_area_avg": -15.6,
+    "score": 14
+  },
+  {
     "id": "imotibg_514772",
     "url": "https://imoti.bg/продажби/гараж/ловеч-област/гртетевен-514772.htm/cu:BGN",
     "photo": "https://imoti.bg/assets/offers/small/r_69e72252bb9b0_69e723a61ccf4.jpg",
@@ -6511,8 +6543,8 @@
     "days_on_market": 74,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 907,
-    "pct_vs_area_avg": -88.2,
+    "area_avg_price_per_sqm": 465,
+    "pct_vs_area_avg": -77.0,
     "score": 10
   },
   {
@@ -8343,8 +8375,8 @@
     "days_on_market": 74,
     "source_status": "active",
     "removed_at": null,
-    "area_avg_price_per_sqm": 907,
-    "pct_vs_area_avg": 88.2,
+    "area_avg_price_per_sqm": 465,
+    "pct_vs_area_avg": 267.1,
     "score": 10
   },
   {
@@ -17433,38 +17465,6 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 1732,
     "pct_vs_area_avg": 11.2,
-    "score": 8
-  },
-  {
-    "id": "imotibg_515748",
-    "url": "https://imoti.bg/продажби/къща/кюстендил-област/сконяво-515748.htm/cu:BGN",
-    "photo": "https://imoti.bg/assets/offers/small/r_6a887368baa79_6a8873cb58741.jpg",
-    "price_eur": 79500,
-    "sqm": 121,
-    "area": "с.Коняво",
-    "city": "Кюстендил област",
-    "title": "Къща, с.Коняво",
-    "portal": "imoti.bg",
-    "lat": 42.3216505,
-    "lng": 22.7741307,
-    "description": "Продаваме къща в много добро състояние,на два етажа с баня и тоалетна плюс таванско помещение с отделен вход.Има вода, ток , регулация, възможност за интернет и телевизия.Къщата се продава с обзавеждането.Двора е слънчев, облагороден, има орехи, череши, круши , ябълки и други плодни дървета. Гаражът е самостоятелен.Имота се намира на комуникативно място,в близост до магазини ,поща,лекар,детска градина ,транспорт.Селото е голямо,оживено и се намира на 10 км от гр Кюстендил и 78 км от гр София като през селото минава през почти два часа автобус за София.Има страхотна панорама към Конявската планина.  ..0878648872",
-    "site_posted_at": null,
-    "category": "house",
-    "category_confidence": "high",
-    "price_per_sqm": 657,
-    "price_history": [
-      {
-        "date": "2026-08-24T23:43:33.818106+00:00",
-        "price_eur": 79500
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "days_on_market": 74,
-    "source_status": "active",
-    "removed_at": null,
-    "area_avg_price_per_sqm": 657,
-    "pct_vs_area_avg": 0.0,
     "score": 8
   },
   {
@@ -35986,6 +35986,134 @@
     "removed_at": null,
     "area_avg_price_per_sqm": 2542,
     "pct_vs_area_avg": -99.4,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516237",
+    "url": "https://imoti.bg/продажби/къща/кюстендил-област/сконяво-516237.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aef35d3e35e1_6aef3afd98201.jpg",
+    "price_eur": 180000,
+    "sqm": 200,
+    "area": "с.Коняво",
+    "city": "Кюстендил област",
+    "title": "Къща, с.Коняво",
+    "portal": "imoti.bg",
+    "lat": 42.3216505,
+    "lng": 22.7741307,
+    "description": "Здрава селска къща с потенциал за къща за гости,творческа дейности и релакс. Изградена е в старинен стил с дървени тавани и ламперия.Има голяма зала - ателие,отделно стаи за гости ,малко басейнче ,три камини /две вътрешни ,едната в двора/голям гараж,три тоалетни,две бани ,широк и просторен навес с колони,оградена с дувари.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 900,
+    "price_history": [
+      {
+        "date": "2026-11-07T20:52:37.134981+00:00",
+        "price_eur": 180000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 778,
+    "pct_vs_area_avg": 15.6,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516238",
+    "url": "https://imoti.bg/продажби/къща/враца-област/гркозлодуй-516238.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aef45b552cb6_6aef48de1b57e.jpg",
+    "price_eur": 110000,
+    "sqm": 235,
+    "area": "гр.Козлодуй",
+    "city": "Враца област",
+    "title": "Къща, гр.Козлодуй",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Двуетажна къща с терасиран двор и прекрасна панорамна гледка\r\n\r\nКъщата е на груб строеж, със завършен покрив и Акт 14.\r\n\r\n???? РЗП: 235 кв.м\r\n???? Площ на двора: 1 222 кв.м (1,222 дка)\r\n\r\nРазпределение:\r\n\r\nПърви етаж:\r\n\r\n- Просторна дневна, обединяваща хол, трапезария и кухня, с камина\r\n- Спалня\r\n- Баня с тоалетна\r\n- Складово помещение\r\n\r\nВтори етаж:\r\n\r\n- 4 стаи\r\n- Баня с мокро помещение\r\n\r\nKъщата се продава със собствен двор от 1 222 кв.м.\r\n\r\nПродават се и още 2 празни двора в съседство на къщата.\r\n\r\nИмотите предлагат отлична възможност за създаване на уютен семеен дом с просторен двор, озеленяване и зони за отдих.",
+    "site_posted_at": null,
+    "category": "house",
+    "category_confidence": "high",
+    "price_per_sqm": 468,
+    "price_history": [
+      {
+        "date": "2026-11-07T20:52:37.134981+00:00",
+        "price_eur": 110000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 465,
+    "pct_vs_area_avg": 0.6,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516239",
+    "url": "https://imoti.bg/продажби/парцел/враца-област/гркозлодуй-516239.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aef4af931db0_6aef4c07c7f4b.jpg",
+    "price_eur": 28000,
+    "sqm": 1222,
+    "area": "гр.Козлодуй",
+    "city": "Враца област",
+    "title": "Парцел, гр.Козлодуй",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Панорамен парцел в регулация – гр. Козлодуй\r\n\r\nПредлага се атрактивен парцел в регулация с красива панорамна гледка и отличен потенциал за изграждане на мечтания дом.\r\n\r\nИмотът е разположен на три терасовидни нива, които позволяват интересно архитектурно решение с панорамни тераси, озеленени пространства, басейн и обособени зони за отдих.\r\n\r\nНалице е възможност за прокарване на канализация.\r\n\r\nПрилагам примерен ландшафен проект!\r\n\r\nИмот с характер, простор и възможности за създаване на впечатляващ дом с индивидуален облик!",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 23,
+    "price_history": [
+      {
+        "date": "2026-11-07T20:52:37.134981+00:00",
+        "price_eur": 28000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 465,
+    "pct_vs_area_avg": -95.1,
+    "score": 0
+  },
+  {
+    "id": "imotibg_516240",
+    "url": "https://imoti.bg/продажби/парцел/враца-област/гркозлодуй-516240.htm/cu:BGN",
+    "photo": "https://imoti.bg/assets/offers/small/r_6aef4c33d3fb5_6aef4c862a211.jpg",
+    "price_eur": 25000,
+    "sqm": 1222,
+    "area": "гр.Козлодуй",
+    "city": "Враца област",
+    "title": "Парцел, гр.Козлодуй",
+    "portal": "imoti.bg",
+    "lat": null,
+    "lng": null,
+    "description": "Панорамен парцел в регулация – гр. Козлодуй\r\n\r\nПредлага се атрактивен парцел в регулация с красива панорамна гледка и отличен потенциал за изграждане на мечтания дом.\r\n\r\nИмотът е разположен на три терасовидни нива, които позволяват интересно архитектурно решение с панорамни тераси, озеленени пространства, басейн и обособени зони за отдих.\r\n\r\nНалице е възможност за прокарване на канализация.\r\n\r\nИмот с характер, простор и възможности за създаване на впечатляващ дом с индивидуален облик!",
+    "site_posted_at": null,
+    "category": "land",
+    "category_confidence": "high",
+    "price_per_sqm": 20,
+    "price_history": [
+      {
+        "date": "2026-11-07T20:52:37.134981+00:00",
+        "price_eur": 25000
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "days_on_market": 0,
+    "source_status": "active",
+    "removed_at": null,
+    "area_avg_price_per_sqm": 465,
+    "pct_vs_area_avg": -95.7,
     "score": 0
   }
 ]
