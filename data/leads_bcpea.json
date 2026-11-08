@@ -54221,7 +54221,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 38,
+    "days_on_market": 39,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 5
@@ -80971,7 +80971,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -81003,7 +81003,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 32,
+    "days_on_market": 33,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -82864,7 +82864,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 31,
+    "days_on_market": 32,
     "area_avg_price_per_sqm": 258,
     "pct_vs_area_avg": -74.0,
     "score": 4
@@ -84295,7 +84295,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -84333,7 +84333,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 4
@@ -89661,7 +89661,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 30,
+    "days_on_market": 31,
     "area_avg_price_per_sqm": 547,
     "pct_vs_area_avg": 41.0,
     "score": 3
@@ -106540,6 +106540,59 @@
     "score": 2
   },
   {
+    "id": "bcpea_93602",
+    "url": "https://sales.bcpea.org/properties/93602",
+    "photo": "https://sales.bcpea.org/upload/93602/465870/195-25-1.jpg?w=270&h=270",
+    "price_eur": 98168,
+    "sqm": 0,
+    "area": "Дядовци",
+    "title": "Производствен имот, Дядовци",
+    "portal": "sales.bcpea.org",
+    "site_updated_at": "2026-10-27T08:49:00+00:00",
+    "category": "apartment",
+    "_settlement": "Дядовци",
+    "lat": 41.61426,
+    "lng": 25.12052,
+    "description": "ПОЗЕМЛЕН ИМОТ с №012592 с площ от 6000 кв.м., представляващ производствена площадка, находящ се в землището с. Дядовци, с ЕКАТТЕ 24788, община Ардино, ведно с построените сгради и съоръжения в имота, както следва: Административна сграда със складове, масивна едноетажна сграда с монолитна стоманобетонова конструкция, състояща се от коридор, канцелария, битов стая и складови помещения със застроена площ от 151.00 кв.м.; Помпена станция, представляваща масивна едноетажна сграда с монолитна стоманобетонова конструкция, със застроена площ от 28 кв.м. и пристроеният към нея Контролно - пропускателен пункт/КПП/ представляващ едноетажна масивна монолитна сграда със застроена площ от 12.25 кв.м., състоящ се от едно помещение; Смесителна кула, представляващо масивно съоръжение с монолитна стоманобетонова и стоманена конструкция със застроен площ от 42 кв.м. и прилежащите към нея сгради и съоръжения, представляващи: Варово стопанство с варови вани с обща площ 228 кв.м. и застроеният във варовото стопанство Масивен склад, едноетажна масивна сграда със застроена площ от 52 кв.м.; Бетонов център, състоящ се от бетонова площадка с площ от 1200 кв.м. с изградени върху нея бетонов бункер и два открити бетонови силози за пясък и чакъл и Водоем, бетоново съоръжение с площ от 30 кв.м.; Трафопост - масивна едноетажна сграда представляваща стоманобетонова конструкция със застроена площ от 9 кв.м., при граници на имота: Имот №012591 - друга селищна територия на Община Ардино: Имот №012363 - пасище, мера на Община Ардино; Имот № 012349 Жилищна територия на с. Дядовци; Имот №012363- Пасище, мера на Община Ардино, ведно с всички подобрения  и приращения в имота. Поземлен имот с кадастрален №24788.12.592. НАЧАЛНАТА ЦЕНА, ОТ КОЯТО ЩЕ ЗАПОЧНЕ НАДДАВАНЕТО, Е В РАЗМЕР НА: 98 168,04 /ДЕВЕТДЕСЕТ И ОСЕМ ХИЛЯДИ СТО ШЕСТДЕСЕТ И ОСЕМ ЕВРО И ЧЕТИРИ ЦЕНТА/ ЕВРО /80 % ОТ ПАЗАРНАТА СТОЙНОСТ НА НЕДВИЖИМИЯ ИМОТ, ОПРЕДЕЛЕНА ОТ ВЕЩО ЛИЦЕ СЛЕД РАЗПОРЕЖДАНЕ НА ЧСИ И ОТРАЗЕНА В ЗАКЛЮЧЕНИ ЕТО НА ЕКСПЕРТИЗАТА ЗА СТОЙНОСТТА НА НЕДВИЖИМИЯ ИМОТ /. ОБЯВЕНАТА НАЧАЛНА ЦЕНА Е С ДДС",
+    "detail_checked": true,
+    "photos": [
+      "https://sales.bcpea.org/upload/93602/465870/195-25-1.jpg",
+      "https://sales.bcpea.org/upload/93602/465871/195-25-2.jpg",
+      "https://sales.bcpea.org/upload/93602/465872/195-25-3.jpg",
+      "https://sales.bcpea.org/upload/93602/465873/195-25-4.jpg",
+      "https://sales.bcpea.org/upload/93602/465874/195-25-5.jpg",
+      "https://sales.bcpea.org/upload/93602/465875/195-25-6.jpg",
+      "https://sales.bcpea.org/upload/93602/465876/195-25-7.jpg",
+      "https://sales.bcpea.org/upload/93602/465877/195-25-8.jpg",
+      "https://sales.bcpea.org/upload/93602/465878/195-25-9.jpg",
+      "https://sales.bcpea.org/upload/93602/465879/195-25-10.jpg",
+      "https://sales.bcpea.org/upload/93602/465880/195-25-11.jpg",
+      "https://sales.bcpea.org/upload/93602/465881/195-25-12.jpg",
+      "https://sales.bcpea.org/upload/93602/465882/195-25-13.jpg",
+      "https://sales.bcpea.org/upload/93602/465883/195-25-14.jpg",
+      "https://sales.bcpea.org/upload/93602/465884/195-25-15.jpg",
+      "https://sales.bcpea.org/upload/93602/465885/195-25-16.jpg",
+      "https://sales.bcpea.org/upload/93602/465886/195-25-17.jpg",
+      "https://sales.bcpea.org/upload/93602/465887/195-25-18  .jpg",
+      "https://sales.bcpea.org/upload/93602/465888/195-25-19.jpg"
+    ],
+    "price_per_sqm": null,
+    "price_history": [
+      {
+        "date": "2026-10-27T09:17:23.793990+00:00",
+        "price_eur": 98168
+      }
+    ],
+    "price_drop_count": 0,
+    "drop_pct": 0.0,
+    "source_status": "active",
+    "removed_at": null,
+    "days_on_market": 12,
+    "area_avg_price_per_sqm": null,
+    "pct_vs_area_avg": null,
+    "score": 2
+  },
+  {
     "id": "bcpea_93668",
     "url": "https://sales.bcpea.org/properties/93668",
     "photo": "https://sales.bcpea.org/upload/93668/466126/20260408_100647-.jpg?w=270&h=270",
@@ -107501,59 +107554,6 @@
     "days_on_market": 11,
     "area_avg_price_per_sqm": 1867,
     "pct_vs_area_avg": 29.7,
-    "score": 1
-  },
-  {
-    "id": "bcpea_93602",
-    "url": "https://sales.bcpea.org/properties/93602",
-    "photo": "https://sales.bcpea.org/upload/93602/465870/195-25-1.jpg?w=270&h=270",
-    "price_eur": 98168,
-    "sqm": 0,
-    "area": "Дядовци",
-    "title": "Производствен имот, Дядовци",
-    "portal": "sales.bcpea.org",
-    "site_updated_at": "2026-10-27T08:49:00+00:00",
-    "category": "apartment",
-    "_settlement": "Дядовци",
-    "lat": 41.61426,
-    "lng": 25.12052,
-    "description": "ПОЗЕМЛЕН ИМОТ с №012592 с площ от 6000 кв.м., представляващ производствена площадка, находящ се в землището с. Дядовци, с ЕКАТТЕ 24788, община Ардино, ведно с построените сгради и съоръжения в имота, както следва: Административна сграда със складове, масивна едноетажна сграда с монолитна стоманобетонова конструкция, състояща се от коридор, канцелария, битов стая и складови помещения със застроена площ от 151.00 кв.м.; Помпена станция, представляваща масивна едноетажна сграда с монолитна стоманобетонова конструкция, със застроена площ от 28 кв.м. и пристроеният към нея Контролно - пропускателен пункт/КПП/ представляващ едноетажна масивна монолитна сграда със застроена площ от 12.25 кв.м., състоящ се от едно помещение; Смесителна кула, представляващо масивно съоръжение с монолитна стоманобетонова и стоманена конструкция със застроен площ от 42 кв.м. и прилежащите към нея сгради и съоръжения, представляващи: Варово стопанство с варови вани с обща площ 228 кв.м. и застроеният във варовото стопанство Масивен склад, едноетажна масивна сграда със застроена площ от 52 кв.м.; Бетонов център, състоящ се от бетонова площадка с площ от 1200 кв.м. с изградени върху нея бетонов бункер и два открити бетонови силози за пясък и чакъл и Водоем, бетоново съоръжение с площ от 30 кв.м.; Трафопост - масивна едноетажна сграда представляваща стоманобетонова конструкция със застроена площ от 9 кв.м., при граници на имота: Имот №012591 - друга селищна територия на Община Ардино: Имот №012363 - пасище, мера на Община Ардино; Имот № 012349 Жилищна територия на с. Дядовци; Имот №012363- Пасище, мера на Община Ардино, ведно с всички подобрения  и приращения в имота. Поземлен имот с кадастрален №24788.12.592. НАЧАЛНАТА ЦЕНА, ОТ КОЯТО ЩЕ ЗАПОЧНЕ НАДДАВАНЕТО, Е В РАЗМЕР НА: 98 168,04 /ДЕВЕТДЕСЕТ И ОСЕМ ХИЛЯДИ СТО ШЕСТДЕСЕТ И ОСЕМ ЕВРО И ЧЕТИРИ ЦЕНТА/ ЕВРО /80 % ОТ ПАЗАРНАТА СТОЙНОСТ НА НЕДВИЖИМИЯ ИМОТ, ОПРЕДЕЛЕНА ОТ ВЕЩО ЛИЦЕ СЛЕД РАЗПОРЕЖДАНЕ НА ЧСИ И ОТРАЗЕНА В ЗАКЛЮЧЕНИ ЕТО НА ЕКСПЕРТИЗАТА ЗА СТОЙНОСТТА НА НЕДВИЖИМИЯ ИМОТ /. ОБЯВЕНАТА НАЧАЛНА ЦЕНА Е С ДДС",
-    "detail_checked": true,
-    "photos": [
-      "https://sales.bcpea.org/upload/93602/465870/195-25-1.jpg",
-      "https://sales.bcpea.org/upload/93602/465871/195-25-2.jpg",
-      "https://sales.bcpea.org/upload/93602/465872/195-25-3.jpg",
-      "https://sales.bcpea.org/upload/93602/465873/195-25-4.jpg",
-      "https://sales.bcpea.org/upload/93602/465874/195-25-5.jpg",
-      "https://sales.bcpea.org/upload/93602/465875/195-25-6.jpg",
-      "https://sales.bcpea.org/upload/93602/465876/195-25-7.jpg",
-      "https://sales.bcpea.org/upload/93602/465877/195-25-8.jpg",
-      "https://sales.bcpea.org/upload/93602/465878/195-25-9.jpg",
-      "https://sales.bcpea.org/upload/93602/465879/195-25-10.jpg",
-      "https://sales.bcpea.org/upload/93602/465880/195-25-11.jpg",
-      "https://sales.bcpea.org/upload/93602/465881/195-25-12.jpg",
-      "https://sales.bcpea.org/upload/93602/465882/195-25-13.jpg",
-      "https://sales.bcpea.org/upload/93602/465883/195-25-14.jpg",
-      "https://sales.bcpea.org/upload/93602/465884/195-25-15.jpg",
-      "https://sales.bcpea.org/upload/93602/465885/195-25-16.jpg",
-      "https://sales.bcpea.org/upload/93602/465886/195-25-17.jpg",
-      "https://sales.bcpea.org/upload/93602/465887/195-25-18  .jpg",
-      "https://sales.bcpea.org/upload/93602/465888/195-25-19.jpg"
-    ],
-    "price_per_sqm": null,
-    "price_history": [
-      {
-        "date": "2026-10-27T09:17:23.793990+00:00",
-        "price_eur": 98168
-      }
-    ],
-    "price_drop_count": 0,
-    "drop_pct": 0.0,
-    "source_status": "active",
-    "removed_at": null,
-    "days_on_market": 11,
-    "area_avg_price_per_sqm": null,
-    "pct_vs_area_avg": null,
     "score": 1
   },
   {
@@ -109773,7 +109773,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 10,
+    "days_on_market": 11,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -110633,7 +110633,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 9,
+    "days_on_market": 10,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 1
@@ -119080,7 +119080,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
@@ -119112,7 +119112,7 @@
     "drop_pct": 0.0,
     "source_status": "active",
     "removed_at": null,
-    "days_on_market": 1,
+    "days_on_market": 2,
     "area_avg_price_per_sqm": null,
     "pct_vs_area_avg": null,
     "score": 0
