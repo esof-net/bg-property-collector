@@ -1,0 +1,102 @@
+name: Deploy site (GitHub Pages)
+
+# Publishes the LATEST tip of the gh-pages branch to imotenradar.com through GitHub Pages (Source: GitHub Actions).
+# NOT a scraper. gh-pages is written by the private repo's "Publish site to public repo" workflow (the compiled SPA)
+# and by publish-site-data.yml (data/home_stats.json + data/area_index.json); this workflow only deploys it.
+#
+# HOW IT GETS STARTED
+#   - deploy-on-push.yml (a small stub that lives ON gh-pages) calls it after every push to gh-pages. A push with the
+#     private repo's deploy key does start that stub. A push with GITHUB_TOKEN would not, so publish-site-data.yml
+#     calls this workflow itself after it pushes.
+#   - by hand (workflow_dispatch), e.g. to re-publish the current gh-pages or after a rollback.
+#
+# SAFETY
+#   - The deploy job runs only when the public repository variable PUBLIC_SITE_LIVE is 'true'. Until the owner has
+#     bootstrapped gh-pages, checked a preview and switched Pages to "GitHub Actions", every call is skipped (not
+#     failed), so nothing incomplete can be published and no failure email is sent.
+#   - verify_only: true validates the gh-pages tip and uploads the result as a downloadable artifact (site-preview)
+#     without touching Pages. It works before cutover.
+#   - The whole check -> upload -> deploy sequence is one job in the shared `pages-deploy` concurrency group
+#     (cancel-in-progress: false) and always checks out the CURRENT gh-pages tip after the lock is held, never the
+#     SHA of the event that triggered it, so an older run cannot overwrite newer content. Callers hold no lock.
+#   - Scripts come from main (never from gh-pages).
+# Full procedure: docs in the private repo, docs/public-site-deploy.md.
+on:
+  workflow_call:
+    inputs:
+      verify_only:
+        description: Validate and build a downloadable preview; do not deploy to Pages
+        type: boolean
+        default: false
+  workflow_dispatch:
+    inputs:
+      verify_only:
+        description: Validate and build a downloadable preview; do not deploy to Pages
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    if: ${{ inputs.verify_only }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: tools
+          sparse-checkout: scripts
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+      - name: Validate and stage the gh-pages tip
+        run: bash tools/scripts/stage_site.sh site _site
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: _site
+          if-no-files-found: error
+
+  deploy:
+    if: ${{ !inputs.verify_only && vars.PUBLIC_SITE_LIVE == 'true' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: tools
+          sparse-checkout: scripts
+      # Taken only now, after the concurrency lock is held: the newest gh-pages tip, not the triggering event's SHA.
+      - uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+      - name: Validate and stage the gh-pages tip
+        run: bash tools/scripts/stage_site.sh site _site
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Summary
+        run: |
+          {
+            echo "Deployed gh-pages @ $(git -C site rev-parse HEAD)"
+            echo
+            echo "Release: \`$(python3 -c 'import json;print(json.load(open("_site/release.json"))["commit"])')\`"
+            echo "Stats generatedAt: \`$(python3 -c 'import json;print(json.load(open("_site/data/home_stats.json"))["generatedAt"])')\`"
+          } >> "$GITHUB_STEP_SUMMARY"
